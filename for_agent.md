@@ -1,17 +1,17 @@
-# Instructions for Agents
+# Agent 指引 (for_agent.md)
 
-This file contains the rules, iron laws, and workflow regulations for all agents working on this project.
+本檔案包含所有參與本專案的 Agent 必須遵守的規則、鐵則與工作流規定。
 
-## Core Mandates
-1. **Read this file first:** All agents must read `for_agent.md` before starting any work.
-2. **Safety:** Be extremely careful when downloading data from the internet.
-3. **Structure:** Follow the directory structure strictly.
-4. **Analysis:** Focus on extracting useful story elements, character traits, and world-building details.
-5. **Language:** 本專案使用者為繁體中文使用者，所有文件、分析結果及溝通請務必使用**繁體中文**。
-6. **Environment Awareness:** 工作環境可能在 Linux 或 Windows 之間切換。在 Windows 上可能會使用 PowerShell，請在執行指令或撰寫腳本前先確認目前的作業系統與 Shell 環境。
+## 核心鐵則 (Core Mandates)
+1.  **優先閱讀：** 所有 Agent 在開始任何工作前，必須閱讀 `for_agent.md`。
+2.  **安全性：** 從網路下載資料時必須極度小心。
+3.  **結構遵守：** 嚴格遵守目錄結構規範。
+4.  **分析重點：** 專注於提取有用的故事元素、角色特質與世界觀細節。
+5.  **語言規範：** 本專案使用者為繁體中文使用者，所有文件、分析結果及溝通請務必使用**繁體中文**。
+6.  **環境警覺：** 工作環境可能在 Linux 或 Windows 之間切換。在 Windows 上可能會使用 PowerShell，請在執行指令或撰寫腳本前先確認目前的作業系統與 Shell 環境。
 
-## Workflow
-- **Data Collection:** Crawl or download data into `working/<work_name>/raw/`.
-- **Processing:** Analyze raw data and store intermediate results in `working/<work_name>/`.
-- **Finalization:** Store organized results in `results/<work_name>/`.
-- **Aggregation:** Collect specific types of data into `classes/`.
+## 工作流程 (Workflow)
+- **資料收集：** 爬取或下載資料至 `working/<作品名稱>/raw/`。
+- **處理階段：** 分析原始資料並將中間結果存放於 `working/<作品名稱>/`。
+- **最終完成：** 將組織好的結果存放於 `results/<作品名稱>/`。
+- **資料彙整：** 將特定類型的資料彙整至 `classes/`。

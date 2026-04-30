@@ -1,38 +1,38 @@
-# GEMINI.md - GamePlots Project Instructions
+# GEMINI.md - GamePlots 專案指南
 
-This project, **GamePlots**, is a collaborative research and analysis environment designed to collect, process, and synthesize narrative data from games, comics, novels, movies, and animations. The goal is to provide a rich repository of story elements to inspire and inform original game design.
+本專案 **GamePlots** 是一個協作研究與分析環境，旨在收集、處理並綜合來自遊戲、漫畫、小說、電影及動畫的敘事資料。目標是建立一個豐富的故事元素庫，為原創遊戲設計提供靈感與參考。
 
-## Project Overview
+## 專案概述
 
-*   **Purpose:** Systematic extraction and analysis of backgrounds, character arcs, and plots for creative reference.
-*   **Workflow:**
-    1.  **Ingestion:** Raw data (wikis, walkthroughs, reviews) is gathered into `working/<title>/raw/`.
-    2.  **Analysis:** Agents process raw data in `working/<title>/`, producing intermediate analysis.
-    3.  **Synthesization:** Finalized, well-structured summaries are moved to `results/<title>/`.
-    4.  **Categorization:** Cross-project themes (e.g., "Epic High Fantasy", "Tsundere Archetypes") are compiled into collections within `classes/`.
+*   **目的：** 系統性地提取並分析故事背景、角色成長曲線及劇情，作為創作參考。
+*   **工作流程：**
+    1.  **攝入 (Ingestion)：** 將原始資料（維基、攻略、評論）收集至 `working/<作品名稱>/raw/`。
+    2.  **分析 (Analysis)：** Agent 在 `working/<作品名稱>/` 處理原始資料，產生初步分析結果。
+    3.  **綜合 (Synthesization)：** 將最終整理好、結構清晰的報告移至 `results/<作品名稱>/`。
+    4.  **分類 (Categorization)：** 將跨專案的主題（例如：「史詩高奇幻」、「傲嬌角色原型」）從 `results/` 彙整至 `classes/` 中的專題集合。
 
-## Directory Structure
+## 目錄結構
 
-*   `working/`: Active workspace for individual titles. Each title has its own subfolder.
-    *   `<title>/raw/`: Storage for unmodified source materials.
-*   `scripts/`: Automation tools, scrapers, and parsers.
-*   `skills/`: Reusable prompt snippets and specialized agent behaviors.
-*   `skills_index.md`: A central registry for discovering available skills.
-*   `results/`: The definitive library of analyzed and organized narrative data.
-*   `classes/`: Curated collections of tropes, archetypes, and settings aggregated from `results/`.
-*   `for_agent.md`: **MANDATORY READING.** Contains the core rules and iron laws for all agents.
+*   `working/`：個別作品的活動工作區。每個作品有其專屬資料夾。
+    *   `<作品名稱>/raw/`：存放未經修改的原始素材。
+*   `scripts/`：自動化工具、爬蟲與解析器。
+*   `skills/`：可重複使用的提示詞片段與特定 agent 行為。
+*   `skills_index.md`：發現可用技能的中央索引。
+*   `results/`：已分析且組織化的敘事資料最終庫。
+*   `classes/`：從 `results/` 彙整出的屬性、原型與設定精選集。
+*   `for_agent.md`：**必讀文件。** 包含所有 agent 必須遵守的核心規則與鐵則。
 
-## Development & Operation
+## 開發與執行規範
 
-*   **Agent Initialization:** Every agent MUST read `for_agent.md` before performing any task.
-*   **Data Integrity:** Maintain clear separation between raw data and analysis.
-*   **Security:** Exercise extreme caution when fetching external content.
-*   **Tools:** Utilize scripts in `scripts/` whenever possible to ensure consistency.
+*   **Agent 初始化：** 執行任何任務前，Agent 必須先閱讀 `for_agent.md`。
+*   **資料完整性：** 保持原始資料與分析結果之間的明確區隔。
+*   **安全性：** 在獲取外部內容時須保持高度警戒。
+*   **工具使用：** 盡可能利用 `scripts/` 中的腳本，以確保執行的一致性。
 
-## Usage Guidelines
+## 使用指引
 
-When tasked with analyzing a new title:
-1.  Create `working/<title>/raw/`.
-2.  Populate `raw/` with relevant source materials.
-3.  Perform analysis within `working/<title>/`.
-4.  Export the final report to `results/<title>/`.
+當受命分析新作品時：
+1.  建立 `working/<作品名稱>/raw/`。
+2.  將相關素材置入 `raw/`。
+3.  在 `working/<作品名稱>/` 進行分析。
+4.  將最終報告匯出至 `results/<作品名稱>/`。
