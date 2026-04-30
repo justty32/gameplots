@@ -1,0 +1,650 @@
+奇幻異世界遊戲種族文明設計
+新的對話
+我的內容
+筆記本
+
+RPG Maker Core Architecture and Data Schemas
+
+Hacker News: Who Wants to Be Hired (April 2026)
+新增筆記本
+Gem
+
+rpgmakerV1
+
+characterspritesheetcreaterv3
+對話
+RO 私服原始碼開發指南
+GitHub 遊戲逆向工程專案推薦
+Good Night And How Can I Help?
+Gemini, I want to sleep. But before sleep, I want to talking to you something. To record my the days and some things. Yes, just about I am gonna
+사랑을 주면 돼.
+手勢控制機械手臂系統開發
+Linux Pipe 指令教學
+MCP Server：AI 的外部插件
+AI Agent 開發技術與設計模式
+Git 切換分支教學
+SKSE 插件載入錯誤疑難排解
+如何下載github action的產物
+Minecraft 雪原生態系尋找指南
+Minecraft NPC 模組推薦
+Minecraft 自動蓋房 Mod 推薦
+Minecraft 夥伴 Mod 推薦
+Neovim Tree-sitter Lisp 解析器缺失
+Neovim Mason 插件配置疑難排解
+Quicklisp Installation and Setup Guide
+C++ Lua FFI 框架推薦
+免費商用遊戲素材推薦
+網遊素材版權與合法替代方案
+Godot 3D 遊戲模板資源
+3D體素+2D Sprite 遊戲開發建議
+Low Poly 人體模板資源推薦
+自我演化系統架構拆解
+策略遊戲機制拆解計畫
+三國志遊戲機制拆解
+Rust 宏入门与进阶
+Rust 所有權、移動與借用
+冷氣黴菌引發呼吸道不適
+Arduino ESP32 專案建置教學
+ESP32：物聯網開發神器
+歌詞翻譯與賞析
+LM Studio 本地模型 Gemini CLI 指南
+LM Studio API Context Length 設定
+Git Commit 鏈條整理指南
+Golang CI/CD Bash 腳本流程
+Lisp 遊戲開發：Godot 或 SDL
+Clojure vs Common Lisp Macro 差異
+Linux 系統卡死安全重啟指南
+RimWorld Mod 開發指南 (Linux)
+LazyVim 客製化設定指南
+我正在用manjaro，我的顯卡是5060ti，我該怎麼安裝nvidia驅動
+Rimworld CE Mod 開發指南
+筆電變身檔案伺服器教學
+SKSE 插件工作原理詳解
+Gemini CLI 記憶與上下文管理
+C++ 強化學習馬力歐範例
+本地10B模型AI Agent開發指南
+AI Agent 的組成與開發
+Claude vs Gemini: 用量差異解析
+xmake 入门指南：快速上手
+Nexus Mods 下載問題排除指南
+職場壓力與人生困境的吶喊
+Claude CLI 專案開發技能設定
+Python 類似 Goroutine 的 Asyncio
+Kokoro TTS 本地部署教學
+Git 誤加檔案的撤銷與預防
+AI 系統架構與客戶端擴展
+手機變電腦無線喇叭
+AI 助手三層架構構思
+本地 Ollama Agentic 開發工具
+SSH 遠端音樂播放指南
+AI 變聲技術的限制與應用
+Porcupine 多喚醒詞實作指南
+Ollama 模型性能評估
+2B 以下 LLM 推薦與優化
+Nvidia Driver Mismatch Troubleshooting
+程式語言的非同步設計比較
+Python LLM 串流中斷實作
+口語化指令轉譯 AI 解決方案
+軟體工程師的移民與職涯規劃
+本地AI語音助手核心程式碼
+網文風格單機異能卡牌規劃
+奇幻機甲遊戲概念整合
+Claude API 方案選擇指南
+AI 翻唱伴奏分離教學
+搜尋最新最好的AI text to speech模型，可以本地佈署，我的顯卡是16gb vram，希望這個模型占用的vram少一些。我是使用windows 11。最好能有docker image一鍵搞定，沒有也沒關係
+FFmpeg GPU 加速設定與應用
+系統設計與 API 開發精華
+Qwen3-TTS 模型運行指南
+QwenTTS 本地部署與使用教學
+Qwen TTS 套件安裝問題
+Open WebUI 語音對話設定教學
+AI 助手 GitHub 專案研究計畫
+Gemini API 使用量限制與提醒
+Gemini Pro 付費方案功能介紹
+遊戲與TTS顯存與算力優化
+幫我換成中式風格
+Cloudflare Tunnel 設定 SSH 連線
+創世史詩：虛空與萬物之始
+製作 Cheat Engine Table 指南
+像素地圖生態系擴充計畫
+LazyVim 透明背景設定教學
+LLM 遊戲角色對話生成建議
+27歲男性存款平均與中位數
+幫我提取出其中的城鎮，畫在一張圖片上，用純色當背景，分離到足夠距離。
+奇幻世界命運觀的深度探討
+C++ 讀取 Tscn 並加入場景
+Godot 原始碼結構講解
+江湖門派興盛的四大條件
+Godot 2D 回合制策略遊戲開發
+大家閨秀的江南煙雨絕句
+Godot 像素遊戲設定指南
+像素遊戲開發：解析度、角色、調色盤
+2D 橫向捲軸遊戲開發指南
+SQL 資料庫管理五大支柱
+奇幻道途分類與擴充
+奇幻世界觀創世神話設計
+人類演化階段修正與對比
+地理環境建構教學與應用
+遊戲系統拆解與解析
+戰略遊戲地圖生成複合手段
+2D 紙娃娃系統架構規劃
+史詩奇幻小說咒語創作
+戰力等級劃分與整理
+中世紀早期宗教對底層影響
+中世紀早期宗教影響詳解
+王國與帝國的區別
+奇幻遊戲體制介紹與設計
+奇幻遊戲體制設計介紹
+奇幻沙盒遊戲企劃構思
+奇幻紀年命名靈感列表
+2D 格鬥遊戲紙娃娃系統參考
+奇幻遊戲大地圖事件設計模組
+奇幻遊戲事件設計元素
+奇幻勢力關係設計元素
+奇幻勢力行為設計元素
+奇幻勢力組織架構元素列表
+奇幻異世界角色設計元素
+奇幻異世界組織元素組合
+奇幻遊戲物品設計指南
+奇幻遊戲生物設計元素庫
+奇幻遊戲素材組合建議
+奇幻異世界遊戲設計元素
+奇幻異世界軍隊兵種設計
+奇幻異世界遊戲種族文明設計
+
+設定與說明
+和 Gemini 的對話
+我正在製作一款奇幻、異世界風格的遊戲，我正在煩惱如何設計種族、文明。請列出一些常見的元素供我進行組合、替換。只需列出名字，無須介紹，愈多愈好
+
+這是一份異世界奇幻遊戲常見的種族與文明元素清單，已分類以便您快速組合。
+
+一、種族 (Races)
+1. 經典/類人 (Classic)
+
+人類 (Human)
+
+精靈 (Elf) - 高等/森林/黑暗/血/月/日/雪
+
+矮人 (Dwarf) - 山丘/深淵/灰
+
+侏儒 (Gnome)
+
+半身人 (Halfling)
+
+半獸人 (Orc)
+
+哥布林 (Goblin)
+
+半精靈 (Half-Elf)
+
+2. 亞人/獸人 (Beastkin/Demihumans)
+
+貓人 (Feline)
+
+犬人/狼人 (Canine/Werewolf)
+
+牛頭人 (Minotaur)
+
+人馬 (Centaur)
+
+鳥人/哈比 (Harpy/Avian)
+
+蜥蜴人 (Lizardman)
+
+龍人 (Dragonborn/Draconian)
+
+蛇人 (Naga/Lamia)
+
+魚人/人魚 (Merfolk/Fishman)
+
+鼠人 (Skaven/Ratman)
+
+兔人
+
+熊人
+
+3. 異怪/魔物 (Monstrous/Exotic)
+
+史萊姆 (Slime)
+
+昆蟲族 (Insectoid)
+
+蜘蛛人 (Arachnid)
+
+樹人 (Ent/Treant)
+
+蘑菇人 (Myconid)
+
+巨人 (Giant) - 霜/火/山/風
+
+食人魔 (Ogre)
+
+巨魔 (Troll)
+
+獨眼巨人 (Cyclops)
+
+4. 超自然/魔法生物 (Supernatural)
+
+天使/天界人 (Aasimar/Celestial)
+
+惡魔/提夫林 (Demon/Tiefling)
+
+魅魔/夢魔 (Succubus/Incubus)
+
+吸血鬼 (Vampire)
+
+亡靈 (Undead) - 骷髏/殭屍/巫妖
+
+妖精 (Fairy/Pixie)
+
+元素精靈 (Elemental) - 地/水/火/風/光/暗
+
+構造體 (Construct)
+
+魔像 (Golem)
+
+自動人偶 (Automaton)
+
+變形怪 (Doppelganger)
+
+虛空生物 (Voidling)
+
+星界生物 (Astral)
+
+二、文明與社會 (Civilization)
+1. 政治體制 (Government)
+
+帝國 (Imperial)
+
+王國 (Monarchy)
+
+聯邦/共和 (Republic/Federation)
+
+城邦 (City-State)
+
+部落 (Tribal)
+
+氏族 (Clan)
+
+神權國/教廷 (Theocracy)
+
+魔法議會 (Magocracy)
+
+軍事獨裁 (Stratocracy)
+
+商會聯盟 (Plutocracy)
+
+海盜邦聯
+
+無政府/混亂 (Anarchy)
+
+2. 地理環境 (Environment)
+
+平原/農耕
+
+森林/樹海
+
+沙漠/綠洲
+
+高山/要塞
+
+地底/幽暗地域
+
+冰原/凍土
+
+群島/海洋
+
+沼澤/濕地
+
+天空/浮空島
+
+火山/熔岩帶
+
+荒野/廢土
+
+異空間/夾縫
+
+3. 核心技術與風格 (Tech & Style)
+
+中世紀高魔 (High Fantasy)
+
+低魔寫實 (Low Fantasy)
+
+蒸氣龐克 (Steampunk)
+
+魔導工業 (Magitech)
+
+煉金術 (Alchemy)
+
+生物科技/血肉改造 (Biopunk)
+
+符文科技 (Rune-tech)
+
+水晶能源
+
+原始/圖騰
+
+游牧/狩獵
+
+航海/大航海
+
+後啟示錄/古代遺跡
+
+4. 文化特徵 (Cultural Traits)
+
+尚武/榮譽
+
+和平/隱世
+
+學術/研究
+
+宗教/狂熱
+
+商業/貿易
+
+藝術/享樂
+
+奴隸制
+
+階級森嚴
+
+集體意識 (Hive Mind)
+
+排外/鎖國
+
+崇拜龍/魔獸
+
+祖先崇拜
+
+三、特殊屬性 (Unique Tags)
+被詛咒的
+
+失去家園的 (流亡)
+
+全女性/無性別
+
+夜行性
+
+光合作用
+
+寄生
+
+心靈感應
+
+不朽/長生
+
+以魔力為食
+
+雙生/共生
+
+下一步
+需要我為您隨機抽取幾個元素進行組合（例如：「蒸氣龐克風格」的「矮人」「神權國」），以產生一個具體的文明概念嗎？
+
+是否還有更多元素？
+
+沒問題，這裡是更進階、更細分或較冷門的元素，能為您的世界觀增添獨特性。
+
+四、進階種族 (Advanced Races)
+1. 神話與傳說 (Mythological)
+
+鬼族 (Oni)
+
+天狗 (Tengu)
+
+狐妖 (Kitsune)
+
+燈神/巨靈 (Djinn/Genie)
+
+羅剎 (Rakshasa)
+
+修羅 (Asura)
+
+瓦爾基里 (Valkyrie)
+
+杜拉漢/無頭騎士 (Dullahan)
+
+溫迪戈 (Wendigo)
+
+蛇髮女妖 (Gorgon)
+
+半羊人 (Satyr/Faun)
+
+2. 植物與自然 (Flora & Nature)
+
+樹靈/樹精 (Dryad)
+
+花妖 (Alraune)
+
+曼陀羅 (Mandrake)
+
+孢子人 (Sporeling)
+
+仙人掌人
+
+藤蔓共生體
+
+珊瑚人 (Coralfolk)
+
+結晶人 (Crystalline)
+
+3. 無機物與概念 (Inorganic & Abstract)
+
+活化武器 (Living Weapon/Sword)
+
+附魔盔甲 (Animated Armor)
+
+陶瓷/球體關節人偶 (Porcelain Doll)
+
+影人 (Shadow/Shade)
+
+鏡中人 (Mirror Folk)
+
+墨水生物 (Inkling)
+
+紙人/符紙 (Paper Charm)
+
+能量體/純光體 (Energy Being)
+
+數據/代碼生命 (Digital/Glitch)
+
+4. 深海與異型 (Deep Sea & Eldritch)
+
+克蘇魯眷族 (Starspawn)
+
+觸手怪 (Tentacle)
+
+蟹人 (Crabfolk)
+
+章魚人/奪心魔 (Illithid style)
+
+深潛者 (Deep One)
+
+燈籠魚人
+
+水母人 (Jellyfish)
+
+五、文明細節與風格 (Civilization Details)
+1. 獨特聚落形態 (Settlement Structure)
+
+移動都市 (龜背/巨獸背上)
+
+履帶/輪行要塞
+
+倒懸城 (Hanging City)
+
+巨樹樹冠 (Canopy)
+
+巨獸體內 (Inside a Titan)
+
+屍骸堆積地 (Necropolis)
+
+水晶簇群
+
+鏡像世界/顛倒世界
+
+夢境/精神位面
+
+時間停滯區
+
+永夜/永晝區
+
+重力異常區
+
+2. 特殊經濟與資源 (Economy & Resources)
+
+靈魂貨幣 (Soul Coin)
+
+記憶交易
+
+壽命/時間交易
+
+魔獸肢體/器官
+
+純淨水 (Dune style)
+
+聲音/旋律
+
+秘密/情報
+
+情感能量 (恐懼/快樂)
+
+3. 社會氛圍與美學 (Aesthetics & Vibe)
+
+哥德式恐怖 (Gothic Horror)
+
+賽博仙俠 (Cyber-Cultivation)
+
+廢土龐克 (Wasteland Punk)
+
+生體建築 (Biotech/Organic)
+
+糖果/童話詭異風 (Dark Fairytale)
+
+骨骼建築 (Bone Structure)
+
+幾何/極簡主義
+
+裝飾藝術 (Art Deco)
+
+霓虹燈/黑市
+
+迷幻/致幻風格
+
+鏽蝕/腐敗
+
+4. 信仰與哲學 (Beliefs)
+
+虛無主義 (Nihilism)
+
+技術崇拜 (Techno-religious)
+
+太陽/恆星崇拜
+
+深淵/虛空崇拜
+
+祖靈/萬物有靈
+
+絕對秩序/蜂巢思維
+
+享樂主義
+
+痛苦苦修
+
+命運/預言至上
+
+六、組織與勢力 (Factions)
+刺客兄弟會
+
+煉金術士公會
+
+吟遊詩人學院
+
+異端審判庭
+
+怪物獵人協會
+
+地下黑市/走私集團
+
+考古學家/探險隊
+
+傭兵團
+
+德魯伊教團
+
+禁忌魔法結社
+
+下一步
+若您需要針對某個特定種族（例如「狐妖」）設計技能樹或種族天賦，請告訴我。
+
+是否還有更多元素？如果沒有的話也沒關係，可以先停下來
+
+這是最後一批補充，主要聚焦在起源、力量來源與異世界特有概念。這些清單已經非常完整，足以應付絕大多數的設定需求。
+
+七、起源與本質 (Origins & Nature)
+外星人 (Extraterrestrial)
+
+異界來客/穿越者 (Otherworldly)
+
+古代人/先民 (Ancients)
+
+未來人 (Time Traveler)
+
+人造人 (Homunculus)
+
+合成獸 (Chimera)
+
+突變體 (Mutant)
+
+半神 (Demigod)
+
+克隆人 (Clone)
+
+意識上傳者 (Uploaded Mind)
+
+八、力量來源 (Power Systems)
+瑪那/法力 (Mana)
+
+氣/武道 (Ki/Chi)
+
+靈能/念力 (Psionics)
+
+信仰之力 (Divine Power)
+
+血脈/遺傳 (Bloodline)
+
+契約/借力 (Pact/Warlock)
+
+盧恩/文字 (Runes/Words)
+
+真名 (True Name)
+
+聖遺物/道具依賴 (Artifact)
+
+情緒 (Rage/Hope/Fear)
+
+獻祭 (Sacrifice)
+
+九、異世界特有概念 (Isekai Tropes)
+勇者召喚 (Hero Summoning)
+
+魔王軍 (Demon Lord Army)
+
+地下城/迷宮 (Dungeon)
+
+冒險者公會 (Adventurer's Guild)
+
+系統/面板 (Status Screen/System)
+
+轉生者 (Reincarnator)
+
+技能竊取/複製 (Skill Steal)
+
+魔石/核心 (Mana Core)
+
+世界樹 (World Tree)
+
+勇者小隊 (Party)
+
+下一步
+元素蒐集已大致完成。如果您準備好了，我們可以開始實作：
+您可以給我一個簡單的想法（例如：「我想做一個關於海洋的遊戲」），我幫您從上述列表中挑選並組合成 3 個不同的文明草案供您選擇。

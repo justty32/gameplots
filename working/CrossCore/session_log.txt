@@ -1,0 +1,22 @@
+# GamePlots 執行進度紀錄 - 交錯戰線 (CrossCore)
+日期：2026年4月30日
+
+## 1. 已完成事項
+- **專案初始化**：確認作品《交錯戰線》尚未存在於專案中，啟動攝入流程。
+- **資料蒐集**：透過網路搜尋與 Wiki 抓取，整理了世界觀（星門、NOVA粒子、碎星）、主要勢力（NERI、探索總署）與小隊分類。
+- **目錄建立**：建立 `working/CrossCore/raw/` 目錄。
+- **原始資料彙整**：產出 `working/CrossCore/raw/summary.md`。
+- **實體掃描 (Phase 2)**：套用 `scan_entities` 技能，產出 `working/CrossCore/entities.md`，包含人物、陣營、事件、地點、物品與概念。
+- **關鍵角色調研**：深入調查了「總隊長」、「萊拉（Ra）」與「霞飛（Joffre/氣象陣營）」的背景與劇情設定。
+
+## 2. 目前檔案狀態
+- `working/CrossCore/raw/summary.md`：原始敘事資料總結。
+- `working/CrossCore/entities.md`：全景實體清單（Phase 3 的 Checkbox）。
+
+## 3. 下次預計執行事項 (Phase 3)
+- **人物詞條撰寫**：根據 `entities.md` 與已蒐集資料，產出 `results/CrossCore/characters.md`。
+- **陣營/事件詞條撰寫**：依序執行 `extract_factions.md` 與 `extract_events.md` 等技能。
+- **主線劇情細化**：進一步挖掘各章節具體內容以完成 `results/CrossCore/synopsis.md`。
+
+---
+進度已存檔，隨時可繼續執行 Phase 3。

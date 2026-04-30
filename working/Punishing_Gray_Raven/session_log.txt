@@ -1,0 +1,21 @@
+# 戰雙帕彌什 (Punishing: Gray Raven) 專案進度紀錄
+
+## 執行日期：2026年4月30日
+
+## 目前階段：Phase 1 攝入 (Ingestion) - 已完成
+
+### 已建立之原始素材 (working/Punishing_Gray_Raven/raw/)：
+1. **bwiki_worldview.md**: 核心世界觀、勢力定義（帕彌什病毒、構造體、昇格者、空中花園）。
+2. **wikipedia_setting.md**: 劇情年表（2130-2190）、關鍵術語（紅潮、代行者、機械教會）。
+3. **bwiki_characters.md**: 詳細的角色小隊與機體清單（灰鴉、突擊鷹、三頭犬等）。
+4. **story_chapters.md**: 主線 0-34 章及外篇、浮點紀實章節索引。
+
+### 下次執行建議：
+* **Phase 2 全景掃描 (Panoramic Scan)**：
+    * 執行技能：`skills/scan_entities.md`
+    * 目標：從 `raw/` 檔案中提取所有具名人、事、物、地、概念，產出 `working/Punishing_Gray_Raven/entities.md`。
+* **Phase 3 詞條撰寫**：
+    * 根據 `entities.md` 掃描結果，開始撰寫 `results/` 下的結構化報告。
+
+---
+本文件由 Gemini CLI 自動生成，用於銜接後續任務。
