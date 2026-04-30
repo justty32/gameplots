@@ -9,12 +9,15 @@
 - [諸神 (Pa'agrio, Maphr, Sayha, Eva)](characters.md#諸神-paagrio-maphr-sayha-eva) — 帕格立歐、梅芙、沙哈與伊娃。
 - [亞納 (Anakim) 與 莉莉絲 (Lilith)](characters.md#亞納-anakim-與-莉莉絲-lilith) — 光之聖女與黑暗聖女。
 - [史奈曼 (Shuniman)](characters.md#史奈曼-shuniman) — 亞丁王國的建立者，古代人類史上最強大的皇帝。
+- [艾帝恩·梵·艾帝納 (Etis van Etina)](characters.md#艾帝恩·梵·艾帝納-etis-van-etina) — 史奈曼後裔，胚胎組織領導者，虛假先知。
 - [巴溫 (Baium)](characters.md#巴溫-baium) — 亞丁皇帝，因追求永生與神權而招致神罰的悲劇人物。
 - [赫利奧斯 (Helios)](characters.md#赫利奧斯-helios) — 巨人族的末代皇帝，對神權最具威脅性的反抗者。
 - [巴茨 (Batz)](characters.md#巴茨-batz) — 蘭斯哈德家門出身的聖騎士，熱血的秩序守護者。
 - [齊格海特 (Siegheardt)](characters.md#齊格海特-siegheardt) — 魯因地區貴族出身的闇騎士，內心燃燒著復仇之火。
-- [卡因 (Kain)](characters.md#卡因-kain) — 艾爾摩貴族出身的劍鬥士，追求極致武道的流浪者。
-- [黎歐納 (Leona)](characters.md#黎歐納-leona) — 少女傭兵，命定的君主。
+- [卡因 (Kain Van Halter)](characters.md#卡因-kain-van-halter) — 曾經的英雄，後淪為胚胎組織的虛無使徒。
+- [黎歐納·黑鳥 (Leona Blackbird)](characters.md#黎歐納·黑鳥-leona-blackbird) — 少女領主，救世主預言的實踐者。
+- [吉賽兒 (Giselle)](characters.md#吉賽兒-giselle) — 卡因的妹妹，其靈魂被艾帝恩操控。
+- [貝歐娜 (Beora)](characters.md#貝歐娜-beora) — 遭到背叛的古代精靈女王。
 - [艾瑞卡 (Erica)](characters.md#艾瑞卡-erica) — 魯因貴族出身的寶藏獵人，女扮男裝。
 - [賈斯汀 (Justin) 與 佛蘭茲 (Franz)](characters.md#賈斯汀-justin-與-佛蘭茲-franz) — 鷹眼暗殺者與具有雙面性格的聖職者。
 - [哈汀 (Hardin) 與 貝雷斯 (Beleth)](characters.md#哈汀-hardin-與-貝雷斯-beleth) — 大魔導師與反叛象牙塔的強大魔法師。
@@ -46,6 +49,8 @@
 - [席琳的墮落與神龍戰爭](events.md#席琳的墮落與神龍戰爭) — 第一場神界大戰。
 - [巨人戰爭 (Giant War)](events.md#巨人戰爭-giant-war) — 巨人族挑戰神權，招致滅族之災。
 - [七封印之戰](events.md#七封印之戰) — 史奈曼皇帝與席琳勢力爭奪世界控制權。
+- [聖戰：格勒西亞遠征](events.md#聖戰格勒西亞遠征-grand-crusade) — 跨海對抗胚胎組織的大規模遠征。
+- [救贖之戰](events.md#救贖之戰-salvation-war) — 終結艾帝納神化計畫的最終戰役。
 - [毀滅女神覺醒](events.md#毀滅女神覺醒) — 席琳睜開雙眼，舊亞丁大陸秩序徹底崩壞。
 - [蘇菲利恩戰爭](events.md#蘇菲利恩戰爭) — 浮空堡壘蘇菲利恩重現世間的多方爭奪戰。
 - [狼之覺醒 (Wolf Awakening)](events.md#狼之覺醒-wolf-awakening) — 原始森林野性契約的喚醒。
@@ -75,7 +80,9 @@
 ## 概念 / 設定
 - [創世神話 (Genesis)](concepts.md#創世神話-genesis) — 世界起源於混沌之球。
 - [死亡 (Death)](concepts.md#死亡-death) — 席琳戰敗後創造的概念。
-- [七個封印 (Seven Signs)](concepts.md#七個封印-seven-signs) — 束縛席琳與莉莉絲力量的魔法系統。
+- [七個封印 (Seven Signs)](concepts.md#七個封印-seven-seals) — 束縛席琳與莉莉絲力量的魔法系統。
+- [胚胎組織 (Embryo)](concepts.md#胚胎組織-embryo) — 追求神化的極端秘密組織。
+- [救世主預言 (Savior Prophecy)](concepts.md#救世主預言-savior-prophecy) — 關於末日救贖的英雄傳說。
 - [紅天 (Red Sky)](concepts.md#紅天-red-sky) — 席琳睜開雙眼，毀滅女神覺醒的視覺象徵。
 - [覺醒力量 (Awakening Power)](concepts.md#覺醒力量-awakening-power) — 繼承古代巨人英雄魂魄的力量。
 - [武士之道 (Samurai Way)](concepts.md#武士之道-samurai-way) — 卡瑪爾種族分支在東方演化的戰鬥風格。
