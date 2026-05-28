@@ -30,6 +30,7 @@
 | Girl_Cafe_Gun/factions.md、爆裂魔女/concepts.md | 347df8c |
 | Vampir/factions.md、Granblue/items.md、Punishing_Gray_Raven/items.md、Tokyo_Ghoul/synopsis.md | 1731427 |
 | Granblue_Fantasy/factions.md | cbbea6e |
+| PGR/places.md、Tera/factions.md、星之彼端/concepts.md、終焉誓約/characters.md | eaca84f |
 
 ---
 
@@ -38,10 +39,10 @@
 下次從這裡接續，建議每批抓 3–4 檔，先讀同作品背景檔再寫：
 
 ### 最優先（44–45 行）
-- [ ] results/Punishing_Gray_Raven/places.md (44)
-- [ ] results/Tera/factions.md (44)
-- [ ] results/星之彼端/concepts.md (44)
-- [ ] results/終焉誓約/characters.md (44)
+- [x] results/Punishing_Gray_Raven/places.md (44) → eaca84f
+- [x] results/Tera/factions.md (44) → eaca84f
+- [x] results/星之彼端/concepts.md (44) → eaca84f
+- [x] results/終焉誓約/characters.md (44) → eaca84f
 - [ ] results/終焉誓約/places.md (44)
 - [ ] results/Black_Desert/synopsis.md (45)
 - [ ] results/Brown_Dust_2/concepts.md (45)
