@@ -44,15 +44,15 @@
 - [x] results/星之彼端/concepts.md (44) → eaca84f
 - [x] results/終焉誓約/characters.md (44) → eaca84f
 - [x] results/終焉誓約/places.md (44) → 1a76080
-- [ ] results/Black_Desert/synopsis.md (45)
+- [x] results/Black_Desert/synopsis.md (45) → 4a4fd32
 - [ ] results/Brown_Dust_2/concepts.md (45)
-- [ ] results/CounterSide/concepts.md (45)
-- [ ] results/CounterSide/timeline.md (45)
+- [x] results/CounterSide/concepts.md (45) → 4a4fd32
+- [x] results/CounterSide/timeline.md (45) → 4a4fd32
 - [ ] results/Epic_Seven/concepts.md (45)
 - [ ] results/Final_Gear/items.md (45)
 - [ ] results/RuneScape/concepts.md (45)
 - [x] results/Tera/timeline.md (45) → 1a76080
-- [ ] results/Tokyo_Ghoul/characters/Suzuya_Juuzou.md (45)
+- [x] results/Tokyo_Ghoul/characters/Suzuya_Juuzou.md (45) → 4a4fd32
 - [x] results/Tokyo_Ghoul/factions.md (45) → 1a76080
 - [x] results/鈴蘭之劍/factions.md (45) → 1a76080
 
