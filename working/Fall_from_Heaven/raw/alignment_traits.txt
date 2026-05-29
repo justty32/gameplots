@@ -1,0 +1,1162 @@
+
+======================================================================
+PAGE: Adaptive
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Adaptive
+======================================================================
+
+Adaptive
+Leaders:
+Varn Gosam
+Cardith Lorda
+Cassiel
+Info:
+Can periodically change a
+Trait
+to
+Aggressive
+,
+Arcane
+,
+Charismatic
+,
+Creative
+,
+Expansive
+,
+Financial
+,
+Industrious
+,
+Organized
+,
+Philosophical
+,
+Raiders
+, or
+Spiritual
+Opportunity to change comes 5 turns before every multiple for the following game speeds:
+Quick: 75
+Normal: 100
+Epic: 150
+Marathon: 300
+Type:
+Traits
+The Adaptive leader will adopt a trait to suit the current situation. They might become aggressive in war, take up study of the arcane, become focused on internal management, or turn to the divines for aid. What ever change in character they under take will always be reacitve to the situation at hand.
+
+======================================================================
+PAGE: Aggressive
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Aggressive
+======================================================================
+
+Aggressive
+Leaders:
+Alexis
+Baron Duin Halfmorn
+Basium
+Charadon
+Hafgan the Purger
+Kandros Fir
+Mahon the Butcher
+Sheelba
+Tasunke
+Statius the Redeemer
+Volanna
+Weevil, Pickle, & Hyde
+Info:
+Mounted
+and
+Melee Units
+receive
+Combat I
+promotion free
+Double production speed of
+Shipyard
+, and
+Siege Workshop
+Type:
+Traits
+Aggressive leaders are hostile in foriegn relations. They are fully willing, and prepared, to invade their neighbors.
+
+======================================================================
+PAGE: Agnostic
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Agnostic
+======================================================================
+
+Agnostic
+Leaders:
+Cassiel
+Minister Koun
+Auric Ulvin
+Info:
+Cannot adopt a state
+Religion
+or research religious
+Technologies
+Slows spread of religions by
+Trade Routes
+Type:
+Traits
+The Agnostic can neither deney the existence of the arcane, and spiritual, nor can they devote themselves to one of the divines, or other powerful entities. They are not interested in the study of faith, and prefer to focus on mundane matters. Having an agnostic leader discourages people from spreading their faith, as the religious feel unwelcomed.
+
+======================================================================
+PAGE: Alignment
+CATEGORIES: Alignment
+URL: https://fallfromheaven.fandom.com/wiki/Alignment
+======================================================================
+
+In Fall From Heaven 2, there are three alignments:
+Good
+,
+Neutral
+, and
+Evil
+. Alignment is not how a leader  perceives him or herself, nor is it how the public views the leader - it is where the leader is placed in the struggle against the
+apocalypse
+. Good leaders - consciously or not - fight to lower the
+Armageddon Counter
+, while Evil leaders are raising it. Neutral leaders are indifferent to the struggle between Good and Evil.
+Race alignment
+Each race start with a precise alignment, deeply embedded in his lore. But things are not immutable.
+The Good Civilizations
+The Evil Civilizations
+Diplomacy
+Civilization alignment also affects your diplomatic relations - Neutral leaders will tend to be distrustful of those who tend towards either extreme, while Good or Evil leaders who share the same end of the spectrum are generally friendly towards one another and disdainful of, if not outright hostile towards, those who do not see the world from a similar perspective. Some units are only available to players of certain alignments - there are malevolent demons who refuse to follow anyone who isn't evil, while druids require their patrons to adopt the path of neutrality, and Paladins will only fight on the side of Good.
+Alignment is set for each civilization (or, more accurately, by their leader - some civilizations, such as the Ljosalfar, have more than one leader available, and their alignment is not always the same) at the beginning of the game. It is somewhat fluid, however; Erebus' religions are highly distinct from one another, and adopting a state religion can change your alignment, as follows:
+The Order: Anyone adoptinging the Order becomes Good.
+The Empyrean: Evil leaders who adopt the Empyrean shift to Neutral.
+Runes of Kilmorph: As with the Empyrean, adopting Runes moves Evil civs to Neutral.
+Fellowship of the Leaves: The Fellowship is the only religion in Erebus which makes no demands of worshippers in terms of alignment - Good, Neutral and Evil alike can follow its tenets.
+Council of Esus: The shadowy dealings of the Council of Esus prevent its followers from sticking to a Good alignment, changing them to Neutral. Evil adopters remain Evil.
+Octopus Overlords: The deranged, demonic influence of the Overlords alters Good leaders who adopt it to Neutral alignment.
+The Ashen Veil: The act of choosing to follow the Veil is a distinctly Evil one; all who follow it are considered to be Evil, at least in the eyes of the rest of Erebus.
+Religious alignment
+Throughout the course of Fall From Heaven 2, a leader's alignment may change. The only way to change alignment is to adopt a religion which mirrors the alignment the leader wants.  A leader's alignment can significantly change how Fall From Heaven 2 plays.
+Adopting
+the Order
+or
+the Ashen Veil
+will set the leader's alignment Good or Evil respectively. Adopting
+Octopus Overlords
+or
+Council of esus
+will shift a leader's alignment from good to neutral, while adopting
+Runes of Kilmorph
+or
+Empyrean
+will shift a leader's alignment from Evil to Neutral. The only religion which will not shift a leader's alignment is
+the Fellowship of the Leaves
+.
+This mean you have to plan ahead if you aim to a particular set up. Some example. You are an Evil Balseraphs, but you aim to be a Neutral FoL. You will need to convert BEFORE to Empyrean or Runes, to shift to Neutral, than convert to FoL. If you do convert directly to FoL you will remain evil. If you convert to Order first, you will become good.
+Religion
+Alignement
+Shift of Alignement
+Died units may go to serve
+Order
+Good
+shift to Good
+as
+angel
+Empyrean
+Good
+if evil shift to neutral
+as
+angel
+Runes of Kilmorph
+Good
+if evil shift to neutral
+as
+angel
+Fellowship of Leaves
+Neutral
+no shift
+no
+Octopus Overlords
+Evil
+if good shift to neutral
+as
+manes
+Council of Esus
+Evil
+if good shift to neutral
+as
+manes
+Ashen Veil
+Evil
+shift to Evil
+as
+manes
+Unit religion and alignment
+Every unit in game may belong to a religion or be agnostic. If a unit follow a religion you will find iit mousing on it. The Religion will dictate the Alignment of the unit: good units belong to one of the three good religions, while evil units belong to one of the three evil ones.
+Religion of a unit is generally decided when it is formed.
+Religion units gets always the relevant religion:
+Priests and clerical spellcaster are clearly relgious. (i.e. Zealot, Cultist, Speaker
+Religion-related units, unlocked while you adopt a state religion (i.e. Drown)
+Units built thank to a religious building (i.e. Asylum building that unlock Lunatics)
+Units promoted based on religion units (i.e. Druid promoted from a Cultist)
+Summons of priests (i.e. Kraken)
+Other units, including civil ones (i.e. warriors, workers, berserkers), have a chance to get one of the religion present in the city that buit them. A 15% chanche apply for each religion, applied serially. In example if all 3 evil religions are present in a city, than there's a  38,6% chance that a non-religious unit will end up with one of them, and so will became evil.
+Arcane units do not have alignment, with one exception: spellcasters that learn Death or Entropy are deemed evil.
+Afterlife: Angels and Manes
+Depending on his religion and alignment, when a living unit dies or when a city is razed, the soul may go to serve in the afterlife in the reign of Heaven or Hell. But if the compact is broken and Mercurians and Infernals are in the world, these poor souls may sometime remain to serve in Erebus. It will not happen always.
+A units may be:
+reborn as
+angel
+--> if has
+Order
+,
+Empyrean
+or
+Runes
+, or belong to Mercurian
+reborn as
+manes
+--> if has
+Octopus Overlords
+,
+Esus
+or
+Ashen Veil
+, or
+Death I
+or Entropy I
+not reborn at all --> if has
+FoL
+, or is
+not alive
+(including angel, daemon, undead, elemental)
+Note that only the unit religion and promotions matters, state religion and civilization alignment are relevant only if a city is razed.
+NOT SURE: animal units?
+A razed city may be:
+reborn as
+angel
+--> if owner is
+good
+reborn as
+manes
+--> if owner is
+evil
+not reborn at all --> if owner is
+neutral
+In order to be reborn as an Angel under Mercurian control a unit has to be living and have a Good Religion
+or
+belong to the Mercurians already.
+Units with no religion and even beasts or units with AV as their religion will return as angels if
+Basium
+controlled them in life. If a unit has an Evil religion and belongs to Basium, it will return as
+both
+an angel and manes. The unit will retain his experience.
+Animals also return as Angels. This makes
+FoL
+the best religion for
+Basium
+, despite his dislike for Sucellus (he probably got along well with
+Cernunnos
+though, as this archangel was a fighter who challenged Agares himself instead of a wimp like his master, so its all good). A stack of FoL Priests may summon hordes of
+Tigers
+and send them to die, to generate countless free angels. As animals lack Divine Sparks, this mechanics should probably be changed. Until then though... ???? check
+Non-living units
+, including Daemons, skeletons and catapults will not return. Mistforms used to return in previous version of the game, until a patch made them into elementals instead of living units.
+Angel will spawn in the Mercurian civilization and may be upgraded to powerful Angles.
+Any city razed belonging to a Good or Neutral player can cause 1 Angel to spawn for Mercurian.
+In order to be reborn as a
+Manes
+under
+Infernals
+control a unit has to be living and have an Evil Religion
+or
+knowledge of the evil arcane principles of Death or Entropy. Manes are lesser demons with no experience, to be used to add population to Infernal cities, sacrifice for production or upgrade to major Daemons.
+This mechanism have strange consequences: Merucrians may be tempted to wage war on good player to raise an army of angels, while if they start attacking an Ashen Veil nation they will engross the Infernal army.
+Pay attention: the alignment of the Civilization has almost no impact. In example, let's assume you are a Khazak, neutral, converted to Octopus to deal with a sea war ongoing. Infernals spawn near you: if you wage war, your diyng units will go to engross their army. So you decide to convert to Order. You will become good, and Hellish terrain will stop spreading to your land. But your OO units will continue to go to serve Infernals upon death, just like your territory already tained by Hell will remain so. Your newly trained Axeman may still get OO religion, if a OO temple is present in the training city.
+Note that units are not guaranteed to return if they meet the requirements. Pseudo-random number generation is involved in determining if the unit will return, as is the number of players in the game and the XP of the unit. Larger maps, many civilizations or low experience units will lower the chances. Also note that the Infernals get 2 chances per evil unit that dies, and that if there are multiple Mercurian/Infernal civs they all get Angels/Manes.
+See:
+https://forums.civfanatics.com/threads/angels-manes-mechanic.366079/
+https://forums.civfanatics.com/threads/basium-best-way-to-play-the-mercurians.311017/page-2
+Good
+Benefits
+Hell Terrain
+will never spread in a Good civilization's cultural border.
+Receives a diplomacy bonus with certain
+leaders
+(generally Good in alignment).
+Can use the
+Overcouncil
+civic.
+Can build
+Paladins
+.
+Restrictions
+Cannot use the
+Undercouncil
+civic.
+Cannot use the
+Slavery
+civic.
+Receives a diplomacy penalty with certain leaders (generally Evil in alignment).
+Miscellaneous
+Any
+civilization
+that adopts the Order religion as their state religion is automatically changed to Good alignment.
+Neutral
+Benefits
+Receives a diplomacy bonus with certain leaders.
+Can use either the Overcouncil or Undercouncil civics.
+Can build
+Druids
+.
+Restrictions
+Hell Terrain
+will not spread within a Neutral civilization's cultural border until the Armageddon Counter reaches 75+
+Receives a diplomacy penalty with certain leaders.
+Miscellaneous
+An Evil civilization that adopts the Runes of Kilmorph or Empyrean religion will be shifted to Neutral alignment
+A Good civilization that adopts Octopus Overlords or Council of Esus will be shifted to Neutral
+Evil
+Benefits
+Receives a diplomacy bonus with certain leaders (generally Evil in alignment).
+Can use the Undercouncil civic.
+Can build
+Eidolons
+.
+Restrictions
+Hell Terrain
+will not spread within an Evil civilization's cultural border until the Armageddon Counter reaches 50+, unless the civilization's state religion is
+the Ashen Veil
+.
+Cannot use the Overcouncil civic.
+Receives a diplomacy penalty with certain leaders (generally Good in alignment).
+Miscellaneous
+Any civilization that adopts the Ashen Veil religion as their state religion is automatically changed to Evil alignment.
+Civics
+Some civics are restricted by your alignment: Slavery can not be adopted by Good civilizations.
+Additionally, Evil civilizations cannot become members of the Overcouncil, and the Undercouncil does not allow Good civilizations to join. Neutral players can join one or the other, but not both at the same time. The Councils function in similar fashion to the U.N. in the vanilla game, but each has their own range of resolutions in FfH 2, opening interesting avenues for manipulating the relations between factions and the balance of power in the game - or for being manipulated yourself!
+Religion hopping
+If you aim to a perfect lore aimed play, you may avoid the so called "Religion hopping": if you are born Evil, you may decide to remain in the domain of Evil Religions. If you are born Elf, you may go for FoL. If you are born dwarf, you may go for
+Runes
+, and if you are
+Bannor
+, well,
+Order
+is there for you. But you are perfectly free to break rules and go against tradition.
+But you will be tempted to perform a bit of Religion Hopping to change alignment and to gain other specific benefit from every religion, such as special buildings, priests, melee units. If you take your time in it you you may remain evil enough to train Ritualist and Eidolons, Neutral to train powerful Druids, and Good to have some Confessors and Paladins. If water dominate the map, you have to sitch to OO a bit, to gain some Cultists for your coastal raid and defense. If hellish daemons knock your door it may be wise to go for Order, if infernal landscape start spreading to your empire you may wish to remain good.
+
+======================================================================
+PAGE: Altar of the Luonnotar (Victory)
+CATEGORIES: Victory
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_the_Luonnotar_(Victory)
+======================================================================
+
+To win this victory, you have to build the
+Altar of the Luonnotar (final)
+. This requires you to have the 6 preceding stages of the Altar by
+Great Prophets
+which in turn requires you to watch closely for the
+your cities are producing. Note that each
+Priest
+specialist gives your city 2 Great Prophet
+, while most GPP buildings contribute to other types of Great Person. So if you want to get the 6 Prophets necessary for the Altar, you should try and get as many
+Priest
+specialists as possible. Each temple allows you one Priest specialist which makes it worth a consideration to research all Religions and spread a lot of them to your cities. The Pagan Temple also allows for one specialist. If that isn't enough, you can also switch to
+Theocracy
+which allows you unlimited
+Priest
+specialists but requires
+Religious Law
+, a late mid game tech. The
+Elohim
+'s unique building each contribute 1 Great Prophet
+making them well suited for this type of victory.
+As for technologies, you will need the entire religious tree for the first six stages of the altar, and then
+Omniscience
+for the final one, which requires most of the arcane tree.
+Wonders that contribute Great Prophet
+:
+Celestial Compass
++2
+Shrine of Sirona
++2
+Prophecy of Ragnarok
++2
+Mercurian Gate
++4
+Dies Diei
++2
+The Necronomicon
++2
+Shrine of the Champion
++3
+Altar of Luonnotar (Anointed)
++1
+The upside of the Altar victory road is that the Altar itself allows for additional Priest specialists, and also grants you several other boons - most importantly the XP boost they give disciple units produced in the city.
+
+======================================================================
+PAGE: Arcane
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Arcane
+======================================================================
+
+Arcane
+Leaders:
+Dain the Caswallan
+Faeryl Viconia
+Perpentach
+Tya Kiri
+Thessa
+Tebryn Arbandi
+Valledia the Even
+Effects:
+Free
+Potency
+promotion for all
+Arcane Units
+1 extra free
+Promotion
+for all
+Arcane Units
+Double production speed of
+Mage Guild
+Arcane refers to a leader adept in, or even master of, the arcane arts. Magic plays a role in the leader's governance, and outlook. They are patron's of the Mage Guild, and thus, schooling in magic is benefited allowing Arcane unites to become potent in their art, and to branch in their schooling.
+
+======================================================================
+PAGE: Arcane (Trait)
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Arcane_(Trait)
+======================================================================
+
+Arcane
+Leaders:
+Thessa
+Valledia the Even
+Dain the Caswallan
+Faeryl Viconia
+Tebryn Arbandi
+Perpentach
+(Insane)
+Info:
+All
+Arcane
+units receive
+Potency
+promotion
+Double production speed of
+Mage Guild
+Type:
+Traits
+Arcane refers to a leader adept in, or even master of, the arcane arts. Magic plays a role in the leader's governance, and outlook. They are patrons of the Mage Guild, and thus, schooling in magic is benefited allowing Arcane units to become potently powerful.
+
+======================================================================
+PAGE: Barbarian (Trait)
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Barbarian_(Trait)
+======================================================================
+
+Barbarian
+Leaders:
+Charadon
+Jonas Endain
+Sheelba
+Hyborem
+Info:
+-10%
+Start at peace with
+Barbarians
+Barbarians will declare war if player's score is 50% higher than second place civilization
+Can never regain peace with Barbarians once war is declared
+Type:
+Traits
+A Barbarian leader will start at peace with Barbarians.
+Animals are barbarians, but they all start with Hidden Nationality, so they can attack you while at peace.
+Many
+Armageddon
+related event will spawn Barbarian units that will not attack you, including the Four Horsemen.
+Barbarians will declare war if player is on the top score position and player's score is 50% higher than second place civilization (in example, 1500 points leader while second position has 1000 points).
+To summarize:
+Animals will attack you normally
+Barbarian units will not attack you, including low level Skeletons and Axemen and top level Beastmasters.
+Acheron
+will ignore you
+Stephanos
+,
+Buboes
+and other
+AC
+units will not attack you
+You may enter Barbarian cities
+
+======================================================================
+PAGE: Charismatic
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Charismatic
+======================================================================
+
+Charismatic
+Leaders:
+Auric Ulvin
+Falamar
+Kylorin
+Perpentach
+(Insane)
+Sabathiel
+Info:
++1
+in all cities
+-25% XP needed for each unit level
++2
+"Your charming"
+bonus diplomatically
+Type:
+Traits
+Something about the leader simply charms the people. The people are happy from the closeness they feel, or love they have, for their leader. This has the odd effect of wanting to impress the leader.
+Strategy
+Charismatic is a good way to inprove diplomatic relations, as it starts the leader off with a +2 bonus to relations with all civs. It's happiness bonus can ward against unrest, and it's XP related bonus to leveling allows the leader's units to gain promotions quicker. The trait however works counter productively for the
+Calabim
+to some extent. It's happiness bonus interfering in the production by unhappiness bonus of the
+Governor's Manor
+. The two other benefits of the trait however still are of benefit.
+
+======================================================================
+PAGE: Creative
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Creative
+======================================================================
+
+Creative
+Leaders:
+Varn Gosam
+Ethne the White
+Arendel Phaedra
+Perpentach
+(Insane)
+Keelyn
+Info:
++2
+in all cities
+Double productin speed of
+Obelisk
+and
+Carnival
+Type:
+Traits
+Creative leaders are interested in the art of Bards, and Craftsman. They promote the arts, hold festivals, and build monuments.
+
+======================================================================
+PAGE: Cultural (Victory)
+CATEGORIES: Victory
+URL: https://fallfromheaven.fandom.com/wiki/Cultural_(Victory)
+======================================================================
+
+The Cultural Victory requires you to bring three cities to legendary culture status, i.e. 50,000
+. While this can take a long time when you are getting caught up in wars, it is still manageable with the right approach.
+There are various ways of earning a city culture:
+Culture buildings: Here there are those with a fixed
+income, as
+Obelisk
+or
+Theatre
+, and those that give a percentage bonus, as the various Temples or
+Carnival
+. Obviously, the former will be of more importance during the early game while the latter are more important at a point where the city is already producing base
+to enhance upon. It may pay off to have Temples of various religions to profit from each one's 20% bonus. Also,
+Octopus Overlords
+as a state religion is well suited for a cultural victory, as their Temples provide the highest
+bonus.
+Culture rate: Here you can set a rate of your rough trade to be converted into culture the same way as with the research rate. You need a very strong economy to set this high, but it will add culture to every city you own.
+Build culture: 25% of
+get converted to culture. Due to the 75% loss, this is a very inefficient way of wasting your
+which can nevertheless speed up the victory by a few turns. Still you should consider having the cities produce
+instead so you can up the culture rate.
+Culture wonders: Almost all
+wonders
+provide either a fixed bonus, or a percentage bonus to culture, to various degrees. But remember you have to up the culture in three cities, so you want to distribute your wonders across those three. An exception to this is
+Syliven's Perfect Lyre
+, which can be relocated by a unit and is therefore a must-build if you want a cultural victory. To a lesser degree this is also true for the
+The Dragon's Hoard
+which you get when you defeat
+Acheron the Red Dragon
+.
+Civics: Especially
+Liberty
+, and
+Republic
+provide a
+bonus.
+Specialists:
+Bards
+and
+Great Bards
+are of the most interest here. To develop a specialist economy, the city must have enough
+income to support non-working inhabitants, and second it must allow for
+Bard
+specialists. Buildings such as the
+Theatre
+permit one additional
+Bard
+, many wonders have a similar effect. The
+Guilds
+civic lets you assign unlimited specialists, however, it is worth considering to use
+Liberty
+instead, which only allows for unlimited
+Bards
+but frees the Labor civic line for
+Caste System
+, which adds 2
+for each specialist. The
+Theatre of Dreams
+(+2
+for
+Bards
+) and the
+Hall of Kings
+(+2
+for all Specialists) wonders are also worth mentioning here. Unless you play as Sidar, you will most definitely also want to max your Great Person producing city so that it gives you
+Great Bards
+but that is entirely a different topic.
+Civilizations well suited for cultural victories:
+Balseraphs
+have good synergies with the culture research path and with culture buildings.
+Kuriotates
+have only 3-4 (depending on map size) real cities which can grow very large, so they are well manageable for a Specialist strategy.
+Sidar
+can have their units Wane after they have reached level 6, so they can added as free specialists to their cities. With the right wonders (see above) this can get you tons of
+.
+Ljosalfar
+can develop freakishly huge cities due to
+and
+boni, so they can either employ specialists or turn their
+or
+into
+
+======================================================================
+PAGE: Defender
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Defender
+======================================================================
+
+Defender
+Leaders:
+Ethne the White
+Einion Logos
+Garrim Gyr
+Amelanchier
+Sandalphon
+Auric Ulvin
+Effects:
+Free
+Homeland
+promotion for all
+Recon
+,
+Melee
+,
+Mounted
+,
+Archery
+and
+Disciple units
+.
+Double production speed of
+Palisade
+,
+Archery Range
+and
+Walls
+Defender defines a ruler who is focused on defense of the homeland, and inspires this in the people. Defenders give extra attention to the construction of fortifications, and defense of city walls.
+
+======================================================================
+PAGE: Expansive
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Expansive
+======================================================================
+
+Expansive
+Leaders:
+Cardith Lorda
+Thessa
+Falamar
+Rhoanna
+Jonas Endain
+Hyborem
+Info:
++3
+in all cities
+Double production speed of
+Settler
+Double production speed of
+Granary
+and
+Harbor
+Type:
+Traits
+Expansive leaders focused on expanding their holdings. They are geared towards settlement of new lands. They build granaries to expand the food supply, harbors for ships that shall sail to new lands, and inspire a drive for colonization.
+
+======================================================================
+PAGE: Financial
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Financial
+======================================================================
+
+Financial
+Leaders:
+Garrim Gyr
+Kandros Fir
+Hannah the Irin
+Rhoanna
+Flauros
+Info:
++1
+on tiles that are typically 2 or more
+Double production speed of
+Moneychanger
+and
+Market
+Type:
+Traits
+Financial leaders are focused on commerce. They always find ways to make more profit, and support the expansion of markets, and trade.
+
+======================================================================
+PAGE: Foolish
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Foolish
+======================================================================
+
+Foolish
+Leaders:
+Weevil, Pickle, & Hyde
+Info:
+AI will occasionally offer bad trades in the negotiation screen. The max number of cities they can build is decreased by one, and each city they do have incurs a -25 research penalty.
+Type:
+Traits
+Note: I may have misread the code when writing these effects.
+
+======================================================================
+PAGE: Industrious
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Industrious
+======================================================================
+
+Industrious
+Leaders:
+Capria
+Arturus Thorne
+Beeri Bawl
+Sandalphon
+Os-Gabella
+Cassiel
+Effects:
++50%
+Wonder
+production
+Double production speed of
+Forge
+Industrious leaders take on large building projects, and promote the manufacturing of goods.
+
+======================================================================
+PAGE: Ingenuity
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Ingenuity
+======================================================================
+
+Ingenuity
+Leaders:
+Basium
+Arturus Thorne
+Kandros Fir
+Mahala
+Info:
+Start game with 50
+-50% cost for unit upgrades:*-75% with
+Guild of Hammers
+Type:
+Traits
+A leader who possesses ingenuity is clever, original, and iventive. These individuals tend to find ingenious solutions, and ways to not only gather more resources, but to make use of those resources.
+
+======================================================================
+PAGE: Insane
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Insane
+======================================================================
+
+Insane
+Leaders:
+Perpentach
+Info:
+2% chance per turn that all other traits will change
+Type:
+Traits
+The Insane are prone to irrational action. In insanity's worse form they have constantly shifting personalities, and detactment from reality, and reason. They are just as likely to befriend you, as they are to order your demise. They could be the most intellecual of person one moment, and an irrational whirlewind of rage the next, turning tables over while stuttering none sense.
+
+======================================================================
+PAGE: Organized
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Organized
+======================================================================
+
+Organized
+Leaders:
+Sabathiel
+Beeri Bawl
+Arturus Thorne
+Valledia the Even
+Sheelba
+Flauros
+Decius
+Kylorin
+Info:
+-50% upkeep for
+Civics
+Can build
+Command Posts
+Double production speed of
+Courthouse
+and
+Lighthouse
+Type:
+Traits
+Organized leaders make sure the ships arrive safely ,and that the law is administered. They set up command posts though out their empire to ensure the armed forces are orderly. Their organization allows society to run smoothly.
+
+======================================================================
+PAGE: Philosophical
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Philosophical
+======================================================================
+
+Philosophical
+Leaders:
+Einion Logos
+Cardith Lorda
+Cassiel
+Dain the Caswallan
+Alexis
+Minister Koun
+Info:
++100%
+in all cities
+Double production speed of
+Library
+and
+Elder Council
+Type:
+Traits
+The Philosophical leader studies, and challenges ideas. The leader encourages the people to contemplate the nature of knowledge, reality, and existence while supporting the gathering of wisemen, and literature.
+
+======================================================================
+PAGE: Raiders
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Raiders
+======================================================================
+
+Raiders
+Leaders:
+Amelanchier
+Basium
+Decius
+Faeryl Viconia
+Hannah the Irin
+Tasunke
+Mahala
+Weevil, Pickle, & Hyde
+Info:
+All
+Recon
+,
+Melee
+,
+Archery
+,
+Mounted
+, and
+Disciple
+units receive free
+Commando
+promotion
++100%
+from pillaging
+Type:
+Traits
+Raiders are focused on pillaging the wealth of other nations. They are trained to strike first, take as much as they can carry, and then to retreat back to their native lands.
+
+======================================================================
+PAGE: Religious (Victory)
+CATEGORIES: Victory
+URL: https://fallfromheaven.fandom.com/wiki/Religious_(Victory)
+======================================================================
+
+The religious victory requires a religion where you possess the holy city, and which is currently your state religion to have a religious influence of 80%. This currently appears to be the hardest victory: You can get your religious influence quite easily up to 60-65% by just opening borders and sending out missionaries, after that it will be difficult. Remember that the AI players having the
+Theocracy
+civic will prevent any spread of non-state religions, so you might have to ask them to change it before. Apparently, religious influence is counted by adding up the populations of cities with that religion, if a city has more than one religion, it is divided between them. So by keeping foreign religions out of your kingdom via
+Inquisition
+and growing your cities, you can gradually expand your influence, maybe for another 5%. You can also use Inquisition in other players cities but only if they follow the same religion as you.
+As of recent (0.41j), you can no longer ask AI players to change their religion, also, the AI will prefer to pick up religions that sort of suit their lore backgrounds. This means that it's probably easier to achieve a religious victory with a popular neutral religion like
+Fellowship of Leaves
+, than with the extreme ones like the
+Order
+and
+Ashen Veil
+. You can sometimes make an AI player change to a religion by spreading it to all his cities but this doesn't work reliably. If you wage a huge war against the player with the most populous cities, you have a realistic chance of getting to 80% influence before you get the
+Domination
+victory instead.
+
+======================================================================
+PAGE: Spiritual
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Spiritual
+======================================================================
+
+Spiritual
+Leaders:
+Arendel Phaedra
+Auric Ulvin
+Beeri Bawl
+Capria
+Jonas Endain
+Os-Gabella
+Varn Gosam
+Info:
+All
+Disciple
+units receive free
+Mobility I
+, and
+Potency
+promotion
+No Anarchy
+Double production speed of
+Temple of the Veil
+,
+Temple of the Overlords
+,
+Temple of Leaves
+,
+Temple of Kilmorph
+,
+Temple of the Empyrean
+,
+Temple of the Order
+and
+Pagan Temple
+.
+Type:
+Traits
+The Spiritual leader is concerned with the divine. The Leader inspires faith from the people, and promotes the building of temples, and the spread of faith. The Leader's guidance, and religious wording helps keep the people together even during social change.
+Strategy
+Leaders with the Spiritual trait can abuse the lack of Anarchy that usually occurs with civic or religious changes. At peace? Scholarship or Agrarianism. When war strikes, instantly change over to Nationhood and Conquest.
+This synergizes well with the double production speed for temples--many Spiritual leaders can play the Religion game, swapping faiths and alignment-hopping all the way until endgame, grabbing as many priests and religion-enabled units (like Crusaders and Stygian Guards) as they wish.
+
+======================================================================
+PAGE: Sprawling
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Sprawling
+======================================================================
+
+Sprawling
+Leaders:
+Cardith Lorda
+Info:
++3
+in all cities
+Cities can work the 3rd Ring
+Number of cities limited according to map size
+Duel: 2 Cities
+Tiny, Small and Standard: 3 Cities
+Large: 4 Cities
+Huge: 5 Cities
+Type:
+Traits
+
+======================================================================
+PAGE: Summoner
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Summoner
+======================================================================
+
+Summoner
+Leaders:
+Keelyn
+Tebryn Arbandi
+Os-Gabella
+Hyborem
+Info:
+Summoned units last 2 turns rather than 1
+Summoned units get the Combat 1 promotion
+Type:
+Traits
+The Summoner is a Spellcaster skilled in the summoning of extraplanar beings. The various contracts, and relations built by the summoner allows the nation to summon more skilled assistence from beyond, and for such assistence to last longer then usual.
+Strategy
+Summoner is a powerful trait for civilizations like the Sheaim that greatly depend upon the power of summoned units for the backbone of their military. By having their summoned units last double the duration of others' summoned units, an adept player can wait an extra turn to almost double the number of summons (and net attacking power) of a stack of units.
+
+======================================================================
+PAGE: Tower of Mastery (Victory)
+CATEGORIES: Victory
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Mastery_(Victory)
+======================================================================
+
+The
+Tower of Mastery
+victory requires each mana sphere building to be built somewhere in your kingdom, for which you need access for each mana type except ice. After that, the
+Tower of Mastery
+itself can be built, again, in any city. All civilizations not at war with anyone else will declare war on you if you start the
+Tower of Mastery
+, so have an army ready when you start it. The mana sphere towers each offer distinct benefits on their own, as you can see from the articles linked to below. The
+Tower of Divination
+will give you a free tech, so you might want to start with it, so as to get a head start on
+Sorcery
+, which is required for the
+Tower of Mastery
+. However, depending on your starting mana, you will sometimes have no choice but to start with a different tower.
+Tower of the Elements
+Tower of Necromancy
+Tower of Alteration
+Tower of Divination
+So it all comes down to securing the mana types and then devoting a bit of build time in a large city. Essentially, there are four ways of getting mana types.
+Grab mana nodes and unique features by territorial expansion. This should be fairly self explanatory.
+Rites of Oghma
+randomly spawns mana nodes everywhere in the world. You are not guaranteed to receive any in your territory but if it is large enough, you have a fair chance of getting almost enough of them.
+AI Players will not generally export mana types, but if you vassallize them, you can demand their palace's mana as a tribute.
+Reuse mana nodes - see below.
+Removing sphere mana after a tower has been built has no effect on that tower, so you can return your nodes to raw ones with a
+Mage
+with
+Dispel Magic
+after the tower has been constructed. If you have the right palace mana you can manage to get all towers with few actual raw mana nodes that way. For
+Dispel Magic
+you need the
+Metamagic II
+promotion, for which you will need
+Sorcery
+and a raw mana node. By the time you get to Sorcery, your Adepts have likely been around for a while, so if you want to start building the towers as early as possible, you should build an
+Adept
+and get him up to level 3 with at least one pending promotion. That way, once you get the Metamagic node, you can give him
+Metamagic I
+, thereby elevating him to level 4, upgrade him to a
+Mage
+, and finally spend his free mage promotion on
+Metamagic II
+. If you guard this Mage well, you can even remove the Metamagic node now.
+The
+Amurites
+get Metamagic mana from their
+palace
+, but they still need
+Sorcery
+as
+Dispel Magic
+can only be learnt by
+Mages
+. Still, this means that you do not need to worry about the Adepts' promotions, or about losing the only Mage that can cast Dispel. On the other hand, the Amurites' Cave of Ancestors gives your arcane units one XP for each mana type, so to max them out, it's really worth keeping most, if not all of the nodes.
+Another civilization suited for this victory are the
+Malakim
+, who have two out of four required mana types for the
+Tower of Divination
+from their
+palace
+.
+
+======================================================================
+PAGE: Traits
+CATEGORIES: Traits
+URL: https://fallfromheaven.fandom.com/wiki/Traits
+======================================================================
+
+A leader trait is a special ability or rule modification that applies to any civilization led by a leader with that trait. If an Avatar of the Leader will manifest itself as a unit, he may die, losing the associated Leader Trait.
+A civilization trait applies to the civilization and persist also if the leader change or is killed.
+Traits give advantages to the leaders on their play styles.
+If
+Auric Ascended
+is killed, the
+Illians
+will lose all of their leader's traits.
+If
+Basium
+is killed, the
+Mercurians
+will lose all of their leader's traits.
+If
+Hyboream
+is killed, the
+Infernal
+will lose  all of their leader's traits. Note that Fallow is a civilization trait so the Infernals don't lose that.
+Notes
+Resurrecting the leader will not restore the Leader Trait.
+Agnostic is a civ trait for the Grigori but a leader trait for the Illians. That means you can build religious units as the Illians if you play with the unrestricted leaders setting.
+List of Traits
+Adaptive
+Aggressive
+(combat 1)
+Agnostic
+Arcane
+(potency 1)
+Barbarian
+Charismatic
++1
+:)
+in all cities /
+-25% XP needed for each unit level
+Creative
++2 culture
+in all cities
+Defender
+Free
+Homeland
+promotion
+Expansive
++3
+Health
+in all cities
+Fallow
+Financial
++1 finance
+on tiles that are typically 2 or more finance
+Horselord
+Industrious
++50%
+Wonder
+hammer production
+Ingenuity
+Start game with 50 finance
+-50% cost for unit upgrades
+Insane
+Organized
+-50% upkeep for
+Civics
+cost
+Philosophical
++100% great people
+in all cities
+Raiders
+free
+Commando
+promotion
++100%
+finance
+from pillaging
+Spiritual
+All
+Disciple
+units receive free
+Mobility I
+, and
+Potency
+promotion
+No Anarchy
+Sprawling
+Summoner
+Summoned units last 2 turns rather than 1   /
+Summoned units get the Combat 1 promotion
+See also
+Master of Mana trait:
+https://forums.civfanatics.com/threads/leaders-and-traits.543692/
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits

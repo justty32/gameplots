@@ -1,0 +1,389 @@
+
+======================================================================
+PAGE: Barbatos the Lich
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Barbatos_the_Lich
+======================================================================
+
+Barbatos the Lich
+Race:
+Undead
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Barbarian
+Only spawns at
+Broken Sepulcher
+Starts With:
+Channeling I
+Channeling II
+Channeling III
+Death I
+Earth I
+Twincast
+Sentry I
+Sentry II
+Staff of Souls
+Info:
+7
++2
+Death
+0
+Cost:
+0
+Message
+Long ago Kylorin is said to have locked Barbatos, the head of the school of Necromancy, in his own Sepulcher. Explorers report that they may have found the legendary site, but the massive stone that held the Sepulcher closed has been broken in two.
+
+======================================================================
+PAGE: Death Knight
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Death_Knight
+======================================================================
+
+Death Knight
+Race:
+Undead
+Unit Class:
+Mounted Unit
+Requires:
+Armored Cavalry
+Hippodrome
+Horse
+or
+Nightmare
+Infernal
+Starts With:
+Can Use Bronze, Iron, or Mithril Weapons
+Does Not Receive Defensive Bonuses
++35% Withdrawal Chance
+Channeling I
+Channeling II
+Death I
+Info:
+8/6
++2
+Death
++2
+Unholy
+3
+Cost:
+240
+Upgrages From:
+Horse Archer
+Replaces:
+Knight
+Strategy
+High strength, high movement rate, and a decent withdrawal rate combine to form a strong utility unit. There is no best use for a Knight, it's the fact that they can do many things so well that make them so valuable.
+Background
+Death Knights are a grotesque mockery of their living counterparts. Knights are resplendent in shinning armor, carry brilliant banners, and their chivalrous hearts show no fear on the battlefields. Death Knights leave a trail of walking dead and virulent disease, and show no pity in rending innocents limb from limb. Some say Death Knights can only be created from the spirit of a Knight who has broken his vows of fealty, but many Knights secretly fear that the Infernals have a way of dragging even the noblest spirit into hell to serve as their vassals. This fear prompts piety on a level royal decree would fail to reach, and rare is a Knight who doesn't seek out a blessing from any passing priest.
+
+======================================================================
+PAGE: Diseased Corpses
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Diseased_Corpses
+======================================================================
+
+Diseased Corpses
+Race:
+Undead
+Unit Class:
+Melee Unit
+Requires:
+The Ashen Veil
+as State
+Religion
+Corruption of Spirit
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
+Undead
+Diseased
+Info:
+4
++2
+Death
+1
+Cost:
+90
+Upgrades To:
+Eidolon
+This is the special unit of the Ashen Veil. No unit strikes as much fear in a well-defended city as an enemy Diseased Corpse ambling up to the gates. They are the only unit that starts with the Diseased promotion, but in large battles it spreads quickly through Civilizations. Diseased Corpses require no building or resources to be built, only the Ashen Veil in the city they are being built and as a state religion.
+Strategy
+6 Strength is pretty strong for a unit like this. Even though Corpses start with Diseased, the Weapon usage covers for this. In the endgame, 10 total strength from Mithril and Death is also pretty good for a 1st tier religious unit.
+Diseased Corpses can be a blessing or curse.  When they attack they spread the Diseased promotion to any living unit (-30%
+).  However, the defending stack can then start spreading the diseased promotion to your own living units.
+A good way to combat this is keep a
+priest
+that can cast
+Cure Disease
+but be careful it will remove the disease promotion from the Diseased Corpses too.  Splitting the attack group up into a few diffrent tiles might advantageous.
+Another way to avoid this is to use only summons or undead/demon units in your armies.
+
+======================================================================
+PAGE: Drown
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Drown
+======================================================================
+
+Drown
+Race:
+Undead
+Unit Class:
+Melee Unit
+Requires:
+Octopus Overlords
+as State
+Religion
+Message from the Deep
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
+Cannot Enter Ocean
+Undead
+Water Walking
+Vulnerable to Fire
+Info:
+3
++1
+Unholy
+1
+Cost:
+90
+Upgrades To:
+Stygian Guard
+Strategy
+:
+The Octopus Overlords special unit is the game's earliest Undead unit. They are just as strong as Axeman but capable of traveling through coast tiles. As Undead they are also immune to disease, making them a good counter for an opponent fond of Diseased Corpse units.
+Background
+:
+How curious the light behaves
+Reflecting off the dancing waves.
+Oh how my very being craves
+A view from down below.
+Suspended in my watery lair,
+I would not need to gasp for air,
+For I'm no longer human there
+Beneath the icy flow.
+It's peaceful there, but I have found
+I still can hear the distant sound
+Of voices of the souls who drowned
+And left loved ones to mourn.
+The lonely wails transmit the pain
+Of those who just could not remain
+So journeyed to the unknown plane
+Of dead souls and unborn.
+But in this world there still exist
+Survivors who will always miss
+The passion of their lovers' kiss
+That warmed them night and day.
+Though here above the vast, cold sea,
+My heart is without tragedy,
+For I have someone dear to me
+Who hasn't passed away.
+Never let that be untrue
+For I could not bear thoughts of you
+Trapped underneath the ocean blue
+Deprived of your last breath.
+No harm to you would I condone,
+For I'd be left here on my own
+To face this tragic world alone,
+A fate far worse than death.
+
+======================================================================
+PAGE: Lich
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Lich
+======================================================================
+
+Lich
+Race:
+Undead
+Unit Class:
+Arcane Unit
+Requires:
+Not Buildable
+Upgrades From:
+A Unit with
+Channeling III
+and
+Death III
+casting
+Lichdom
+Starts With:
+Channeling I
+Channeling II
+Channeling III
+Undead
+Info:
+5
++2
+Death
+1
+Cost:
+N/A
+Special:
+Can Build
+Mana Nodes
+at 400% Workrate
+Liches are created from units using the Lichdom spell. There are a few advantages to casting Lichdom on an Archmage, the most noticable of which is that it frees up another Archmage slot (since civilizations are limited to 4). Liches also gain the Combat I and Extension I promotions for free. They will become undead, making them more vulnerable to certain spells such as Destroy Undead, but immune to effects like Charm Person and Disease. This also means that they will gain the
+Strong
+promotion from the
+Tower of Necromancy
+, but only if it has already been built when they cast their spell. So if you don't need your liches in a hurry, consider building the tower first.
+
+======================================================================
+PAGE: Pyre Zombie
+CATEGORIES: Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Pyre_Zombie
+======================================================================
+
+Pyre Zombie
+Race:
+Undead
+Unit Class:
+Melee Unit
+Requires:
+Bronze Working
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
++10% City Attack
+Info:
+3
++1
+Fire
+1
+Cost:
+60
+Special:
+Explodes when killed, causing damage to nearby units
+Replaces:
+Axeman
+Strategy:
+Use Pyre Zombies as expendable front line troops. They are as strong as Axemen, but when they are killed they explode, damaging all units (enemy and friendly) within a tile of the zombie, centered on the tile that the Pyre Zombie is located on (the tile it defends, or the tile in which it starts its attack on an adjacent enemy).
+This ability makes also for an excellent city defender. Every killed Pyre Zombie explodes and weakens units in the attacker's stack, making capturing the city a difficult task. When playing against the AI, usually 1-3 Pyre Zombie deaths is enough to force the AI to halt an attack and heal the stack.
+You can also use Pyre Zombies as kamikaze units, to soften enemy stacks with collateral damage. This can also be a way to take down stronger units.
+Note also that the explosion has a chance of creating
+smoke
+on
+Forest
+,
+New Forest
+and
+Jungle
+tiles. Also,
+NEVER
+split a stack of Pyre Zombies into adjacent stacks, as the death of Zombies in one stack will weaken their comrades in the other stack.
+General tips on defeating the Pyre Zombie:
+Destroy Undead: If you have access to Life mana, the Life 2 spell Destroy Undead is very effective against the Pyre Zombie. Note that because Destroy Undead affects ALL undead in tiles adjacent to the user and has no upper limit on damage, multiple casts of the spell by a stack of mages can remove the Zombie threat with ease. When killed by this spell, the Pyre Zombie does not explode to do Area of Effect damage. However, it is usually difficult to obtain Mages with this spell in the timeframe it takes a competent Sheaim player to obtain a stack of Pyre Zombies.
+Multi-move Units: Since Pyre Zombies only deal collateral damage to all units within one tile, a simple solution is to attack, one unit at a time, from outside their range--taking advantage of units with many movement points such as cavalry or recon units.
+Baiting (vs AI): Sacrificing a weak unit by placing it in a tile adjacent to the Pyre Zombie stack usually causes the AI to move the entire stack into that tile--by doing this, the AI can be delayed in its attack, giving enough time for the player to generate a better defense.
+If you have a high-level unit with unspent promotions, you can give it Magic Resistance followed by Resist Fire to make it less susceptible to the fire damage. For example, a high-level unit with Strength 5, Drill 4, Shock, Magic Resistance and Resist Fire can absorb a lot of attacks from Pyre Zombies without dying.
+Differences from an Axeman
+Basically a living bomb.
+Doesn't need Copper to build.
+Gets all benefits of Undead.
+
+======================================================================
+PAGE: Skeleton
+CATEGORIES: Summoned Units, Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Skeleton
+======================================================================
+
+Skeleton
+Race:
+Undead
+Unit Class:
+Melee
+Requires:
+Unit casting
+Raise Skeleton
+or Spawns randomly as
+Barbarian
+Starts With:
+Undead
+Cannot Pillage
+Info:
+2
++1
+Death Combat
+1
+Cost:
+N/A
+Kept alive by dark and ancient magic, Skeletons are the spirits of explorers who never found their way home, condemned to wander the frozen wastes for eternity. Though they seldom foray into the lands of the living, they will not hesitate to attack hapless wanderers of the wild.
+Notes: If using the Raise Skeleton Spell, you can only have as many Skeletons on your Team as there are Casters on your Team who have the Raise Skeleton Spell. Example. you have 10 Mages and 5 Adepts, all of whom have Death I. You can only have 15 Skeletons on your team.
+The
+Tower of Necromancy
+raises this limit by 5.
+Early on, Skeletons can serve as a bonus to your military, but as more advanced units come into play, these pile of bones become more like city garrisons, making terrible defenders once Tier 3 units come into play. Try to special one Mage or Adept in summoning if you can: the more bonuses they start with, the longer they will be useful on the offense. Don't forget that Permanent Summons also stack on to your maintainance.
+Occasionaly, if a Skeleton that wasn't Summoned wins a battle, it might become a
+Spectre
+.
+
+======================================================================
+PAGE: Spectre
+CATEGORIES: Summoned Units, Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Spectre
+======================================================================
+
+Spectre
+Race:
+Undead
+Unit Class:
+Melee Unit
+Requires:
+Event OR The spell
+Summon Spectre
+Starts With:
+Fear
+Undead
+Info:
+3
++1
+Death
+Affinity
+2
+Cost:
+N/A
+
+======================================================================
+PAGE: Wraith
+CATEGORIES: Summoned Units, Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Wraith
+======================================================================
+
+Wraith is a terrible spectre that prficent archmages may summon to their will, but only for a short period of time. Is is essence of Death, like the elemental conterparts are to Eart, Fire, Water and Air, and has an affinity to Death Mana, again like the counterparts.
+Wraith
+Race:
+Undead
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Wraith
+Starts With:
+Undead
+Vile Touch
+Fear
+Info:
+6
++3
+Death
++1
+Death
+Affinity
+1
+Cost:
+N/A
+Strategy
+A 10 Str summon unit, available to any Mage with Death 3 promotion. It lasts only 1 turn and is not very mobile, so it does not have overwhelming advantage. What makes Wraith fearful is the Death Mana affinity, that permits to greatly enhance the unit. With 4 Death mana available you have 8 new 13 Str Wraiths each turn, and your mages have automatic Death promotion and may concentrate on combat and mobility promotions. It is possible to concentrate all the strategy on these units, and build no military unit at all.
+Destroy Undead spell will mean nothing to you, because your summons will last 1 turn anyway, preventing only the use as a standard defence.
+Death mana is probably the strongest mana type overall (at least for military). Many spheres have excellent spells and summons, but Death is the only one that has a superb spell at Tier I, Tier II, and Tier III.
+The balancing factor for Death mana is that, for it to be effective, you NEED to hoard it, and that kills you diplomatically. A spectre is worse than a fireball unless you have at least 3 Death mana sources. Similarly, I'd rather have a Fire or Earth elemental than a Wraith, unless I have 3 death mana sources. But having that much Death mana means that almost everyone in the world hates you, making it hard to get resources and war allies.
+Finally, Death mana's fatal flaw is that it's quite ineffective against non-living units. Yeah, your wraiths might be Str 17 when they're attacking normal Longbowmen, but what do you do when Hyborem marches against you with a horde of Demons, or Basium with a horde of Angels (Angels have a 50% Death resistance), or even Beeri with a horde of Golems, and your wraiths are only Str 6 (and your spectres only Str 3) against them?
+Background
+During the Age of Dragons, the gods battled across creation. They fought over land and souls, until
+Dagda
+enforced the Compact. The Compact established rules for the relations between the angels, including providence over the souls of the living. When a person dies, regardless of race, his soul is brought to the vault of the deity he served in life, knowingly or not.
+But some people are bound too closely to their earthly life, and when they die they cannot leave this past life behind, lingering in echoes of memories. The loss of this precious life, the frustration of dreams that will never come to be darkens the heart of the spirit. These desires drag the soul into the Infernal Plains. The soul arrives in Hell, where nightmarish shades whisper to the soul, making him relive his darkest memories over and over. After some time, centuries in some cases, the mind and will of many fallen spirits are broken this way, some of these spirits vanish, while others are devoured by the whispering fiends and other animal-shaped Hungry Ghosts, spirits whose reason vanished and who exist only to satisfy their most primal desires. Some spirits survive the mind-shattering whispers and change: they become
+Spectres.
+Spectres are fallen spirits who recovered clear reason. Their appearance and personality are similar to what they had in life, and these will never change; the falling process galvanizes their soul to this shape. These spectres group themselves in hopeless communities to defend themselves from a highly hostile environment, but they keep the dreams and wishes they had in life, dreams and wishes whose realization is almost impossible in that hellish place. Dreams and wishes that don't go away, memories of the lost ones, that will to not disappear, nothing fades from the unchanging soul of the Spectre.
+During the Age of Magic, a Black Sea appeared by the shores of the razor-glass plain of Naraka. The sky in Hell is starless, but the waveless surface of the Black Sea reflected stars, stars that are not from Creation. Rumor spread that its waters were capable of making spectres lose their memories, dreams and wishes, of making one's self disappear. Many spectres, bored with their grey afterlife, pilgrimaged to the Black Sea, washing away their heart. But the dark waters don't wash away everything; a husk stays behind, a husk that is animated by ominous will. These beings are called Wraiths, a creature so unnatural that they are hated even by the fiends. After they are born on the shores of the Black Sea they float to a sinister tower in the middle of that sea, a windowless tower of infinite height, and no man knows what exists inside.

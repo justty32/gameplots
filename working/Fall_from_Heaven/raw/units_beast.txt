@@ -1,0 +1,632 @@
+
+======================================================================
+PAGE: Baby Spider
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Baby_Spider
+======================================================================
+
+Baby Spider
+Race:
+Spider
+Unit Class:
+Animal Unit
+Requires:
+5% Chance of spawning from a
+Giant Spider
+winning combat
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Can see
+Invisible
+Animals
+Hidden Nationality
+Info:
+2
++1
+Poison
+1
+Cost:
+N/A
+Upgrades To:
+Giant Spider
+Special:
+20% Chance of becoming a
+Giant Spider
+after winning combat
+Giant Spiders can produce baby spiders. But they only do so when the prey is plentiful. Whenever they kill a living unit, there is a chance it will spawn a new baby spider.
+
+======================================================================
+PAGE: Bear
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Bear
+======================================================================
+
+Bear
+Race:
+Bear
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in
+Forests
+and
+Ancient Forests
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+5
+1
+Cost:
+N/A
+Special:
+Can Cast
+Create Den
+Can create
+Dancing Bear
+in a city, after being captured
+Bears that wander into a terrain that will support a bear den may settle there and form a den. Dens will occasionally spawn new bears that will wander out into the world and settle new dens. These may threaten your explorers or provide an ample supply of experience for your early warriors.
+
+======================================================================
+PAGE: Elephant
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Elephant
+======================================================================
+
+Elephant
+Race:
+Elephant
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in
+Grasslands
+and
+Plains
+Starts With:
+Cannot Attack
+Cannot Pillage
+Does not receive defensive bonuses
+Hidden Nationality
+Info:
+8
+1
+Cost:
+N/A
+Upgrades To:
+War Elephant
+Although powerful, wild elephants cannot attack, so your units are safe around them. If you capture one and have the
+Horseback Riding
+technology you can train captured elephants as war elephants which are able to attack and become powerful early units. So once captured, elephants can be upgraded to
+War Elephants
+.
+
+======================================================================
+PAGE: Giant Spider
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Giant_Spider
+======================================================================
+
+Giant Spider
+Race:
+Spider
+Unit Class:
+Animal
+Requires:
+Spawns in
+Jungle
+,
+Forest
+and
+Ancient Forest
+Special:
+Can create
+Spider Pen
+in a city
+1 First Strike
+-25% City Attack
+5% Chance to create a
+Baby Spider
+from Combat
+Cannot Pillage
+Invisible
+Animal
+Can see
+Invisible
+Animals
+Strength:
+4
++ 1
+Poison
+Movement:
+1
+Cost:
+N/A
+Giant spiders are invisible to all but
+recon units
+. They lay in wait in forested areas and attack units that draw to close to them. Sometimes wild giant spiders or captured ones will produce
+baby spiders
+after kills. These can grow to giant spiders after feeding.
+Giant spiders are poisonous and will poison units that defeat them in combat. To get rid of this effect have your units healed by a priest or if your unit starts the turn completely healed the poison will wear off.
+
+======================================================================
+PAGE: Giant Tortoise
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Giant_Tortoise
+======================================================================
+
+Giant Tortoise
+Race:
+Tortoise
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in the
+Ocean
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+Hidden Nationality
+Info:
+4/7
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Gorilla
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Gorilla
+======================================================================
+
+Gorilla
+Race:
+Gorilla
+Unit Class:
+Animal Unit
+Requires:
+Randomly Spawns in
+Jungles
+Starts With:
+Cannot Pillage
+Does Not Receive Defensive Bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+4
+1
+Cost:
+N/A
+Special:
+Can Create
+Gorilla Cage
+in city, after being captured
+Because of their rarity gorillas are the most difficult animal to capture on most maps. They tend to appear in jungles, though even then you are unlikely to find large groups.
+
+======================================================================
+PAGE: Griffon
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Griffon
+======================================================================
+
+Griffon
+Race:
+Griffon
+Unit Class:
+Animal Unit
+Requires:
+Randomly Spawns in
+Grassland
+or
+Plains
+Starts With:
+Cannot Pillage
++50% vs
+Mounted Units
+Flying
+Hidden Nationality
+Info:
+4
+1
+Cost:
+N/A
+The most prized of animal captures, griffons are not only formidable fighters, but their ability to fly may make them the best early explorers in the game.
+
+======================================================================
+PAGE: Hill Giant
+CATEGORIES: Beast Units
+URL: https://fallfromheaven.fandom.com/wiki/Hill_Giant
+======================================================================
+
+Hill Giant
+Race:
+Giant
+Unit Class:
+Beast
+Requires:
+Spawns in
+Desert
+Special:
+Does not receive Defensive Bonuses
+Can bombard City Defenses
+Starts With:
+Sentry
+Strength:
+7
+Movement:
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Kraken
+CATEGORIES: Beast Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Kraken
+======================================================================
+
+Kraken
+Race:
+Kraken
+Unit Class:
+Beast Unit
+Requires:
+Speaker
+casting
+Summon Kraken
+Starts With:
+Stealth
+Info:
+13
+4
+Cost:
+N/A
+Special:
+Can Cast
+Hide
+Summon is permanent
+Dwelling beneath the waves, the powerful krakens will only answer to the summons of the
+Speaker
+. Once they are summoned, they can travel across the seas, fulfilling their masters' demands.
+
+======================================================================
+PAGE: Leviathan
+CATEGORIES: Beast Units
+URL: https://fallfromheaven.fandom.com/wiki/Leviathan
+======================================================================
+
+Leviathan
+Race:
+Beast
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Optics
+Random Event
+Starts With:
+N/A
+Info:
+18
+4
+Cost:
+N/A
+Special:
+Has 25% chance per game of spawning from random event
+
+======================================================================
+PAGE: Lion
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Lion
+======================================================================
+
+Lion
+Race:
+Lion
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in
+Desert
+,
+Grassland
+and
+Plains
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+3
+1
+Cost:
+N/A
+Upgrade To:
+Lion Pride
+Special:
+10% Chance of becoming
+Lion Pride
+after winning combat
+Can create
+Lion Cage
+in a city, after being captured
+Lions are typically found in desert environments. Over time a lion that survives the wild will grow into a pride. A pride that ends up in terrain that will support a den will create a den that will occasionally spawn new lions that will go out to explore the world, grow into new prides and form more dens.
+
+======================================================================
+PAGE: Lion Pride
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Lion_Pride
+======================================================================
+
+Lion
+Race:
+Lion
+Unit Class:
+Animal Unit
+Requires:
+Lion
+winning combat
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+4
+1
+Cost:
+N/A
+Upgrades From:
+Lion
+Special:
+Can Cast
+Create Den
+Can create
+Lion Cage
+in a city, after being captured
+Over time a lion that survives the wild will grow into a pride. A pride that ends up in terrain that will support a den will create a den that will occasionally spawn new lions that will go out to explore the world, grow into new prides and form more dens.
+
+======================================================================
+PAGE: Polar Bear
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Polar_Bear
+======================================================================
+
+Polar Bear
+Race:
+Bear
+Unit Class:
+Animal
+Requires:
+Spawns in
+Snow
+,
+Forest
+and
+Ancient Forest
+Special:
+Can create
+Dancing Bear
+in a city
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Can cast:
+Create Den
+Starts with:
+Hidden Nationality
+Winterborn
+Strength:
+5
+Movement:
+1
+Cost:
+N/A
+Bears that wander into a terrain that will support a bear den may settle there and form a den. Dens will occasionally spawn new bears that will wander out into the world and settle new dens.
+
+======================================================================
+PAGE: Sand Lion
+CATEGORIES: Beast Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Sand_Lion
+======================================================================
+
+Sand Lion
+Race:
+Elemental
+Unit Class:
+Beast (Unit Class)
+Requires:
+Unit casting
+Summon Sand Lion
+Starts With:
+Elemental
+Resist Fire
+Nomad
+Can See
+Stealth
+Beast (Unit Class)
+Info:
+5
++1
+Fire
+3
++40% Desert Strength
+Unit cannot pillage
+Cost:
+N/A
+Elemental beasts found in deserts.
+Civilopedia
+Strategy
+Sand Lions can only be summoned by
+Malakim
+Mages
+, and only on desert tiles. Despite those restrictions, when they are summoned they are powerful attackers with a high movement that allow them to surprise victims.
+Background
+The shifting desert sands themselves, or creatures perfectly designed for them? Either way, these elusive creatures are never seen outside their desert homes unless compelled to travel their by a powerful conjurer or summoner. Whereas interlopers to their harsh realms often suffer delusions in the heat, Sand Lions see with a sight even rangers envy, discerning reality from mirage natural or otherwise.
+Gameplay
+These are very dangerous in an early game. Due to their strength, their high movement, being able to enter cultural borders, and invisible on desert tiles.
+
+======================================================================
+PAGE: Sea Serpent
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Sea_Serpent
+======================================================================
+
+Sea Serpent
+Race:
+Serpent
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in the
+Ocean
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+Hidden Nationality
+Info:
+6
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Tiger
+CATEGORIES: Animal Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Tiger
+======================================================================
+
+Tiger
+Race:
+Tiger
+Unit Class:
+Animal Unit
+Requires:
+Unit casting
+Summon Tiger
+OR
+Randomly spawns in
+Jungles
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Info:
+4
+2
+Cost:
+N/A
+Special:
+Can create
+Tiger Cage
+in city after being captured
+Tigers are dangerous hunters and very capable of taking out a lone
+scout
+or unguarded
+settler
+. There is more to fear in the jungles than just the lizardmen.
+Though far less dangerous than the humanoid and occasionally undead denizens of the wilderness, wild animals are nevertheless a constant hazard to those who dare venture beyond the pale.
+
+======================================================================
+PAGE: War Tortoise
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/War_Tortoise
+======================================================================
+
+War Tortois
+Race:
+Tortoise
+Unit Class:
+Animal Unit
+Requires:
+Warhorses
+Hippodrome
+Lanun
+Starts With:
+Does not receive defensive bonuses
++50% vs
+Mounted Units
+Water Walking
+Info:
+15
+1
+Cost:
+240
+
+======================================================================
+PAGE: Wolf
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Wolf
+======================================================================
+
+Wolf
+Race:
+Wolf
+Unit Class:
+Animal Unit
+Requires:
+Randomly spawns in
+Tundra
+,
+Forests
+and
+Snow
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+2
+2
+Cost:
+N/A
+Upgrades To:
+Wolf Pack
+Special:
+10% Chnace of becoming
+Wolf Pack
+after winning combat
+Can create
+Wolf Pen
+in a city, after being captured
+Wolves occasionally grow into wolf packs. Wolf Packs can spawn new wolves that split off and hunt on their own, making them mobile monster lairs.
+
+======================================================================
+PAGE: Wolf Pack
+CATEGORIES: Animal Units
+URL: https://fallfromheaven.fandom.com/wiki/Wolf_Pack
+======================================================================
+
+Wolf Pack
+Race:
+Wolf
+Unit Class:
+Animal Unit
+Requires:
+Wolf
+winning combat
+Starts With:
+Cannot Pillage
+Does not receive defensive bonuses
+-25% City Attack
+Hidden Nationality
+Info:
+3
+2
+Cost:
+N/A
+Upgrades From:
+Wolf
+Special:
+10% to create a
+Wolf
+after winning combat
+Can create
+Wolf Pen
+in a city, after being captured
+Wolves occasionally grow into wolf packs. Wolf Packs can spawn new wolves that split off and hunt on their own, making them mobile monster lairs.

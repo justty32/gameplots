@@ -5,6 +5,54 @@
 
 ---
 
+# 新作品攝入流水線（2026-05-29）
+
+> 對應底部待辦「多抓一些原始素材」。從 fandom 等 wiki 攝入新作品、走 6-phase 流程產出詞條庫。
+> 流程定義見 `CLAUDE.md`。
+
+## 一、已完工並驗收（5 部）
+
+標準 9 檔 = `synopsis / index / timeline / characters / factions / events / places / items / concepts`，全繁中、全劇透、斷鏈掃描歸零。
+
+| 作品 | 類型 | 抓取頁 | 主檔 | 拆檔 | 備註 |
+| :-- | :-- | --: | :-- | --: | :-- |
+| Fall from Heaven | 遊戲（Civ IV mod） | 472 | 9/9 | 10 | factions 已補全 modmod 文明段落 |
+| Endless Legend | 遊戲（4X） | 341 | 9/9 | 13 | 14 陣營齊全 |
+| Age of Wonders | 遊戲（經典三部曲） | 297 | 9/9 | 7 | 涵蓋 AoW1/AoW2/Shadow Magic |
+| Stormlight Archive | 小說（山德森） | 969 | 9/9 | 7 | 全劇透到 Wind and Truth |
+| Diablo | 遊戲（系列合一） | 855 | 9/9 | 24 | D1–D4 + Immortal + 小說 |
+
+各部產出在 `results/<作品>/`。
+
+## 二、暫停點（依使用者 2026-05-29 指示，停在此處未繼續）
+
+- **Malazan**（malazan.fandom.com）：raw **已抓完 1517 頁 / 0 失敗 / 4.9MB**，存於 `working/Malazan/raw/`（按神祇/派系/種族/地點分檔）。**尚未建詞條庫**（Phase 2–6 未開始）。`fandom_crawler.py` 已含 `malazan` config，可直接派 Phase 2–6 subagent。小說、全劇透。
+- **Pillars of Eternity**（pillarsofeternity.fandom.com，約 13,350 篇）：**尚未抓取，無 config**。接手前先探分類設計 bucket。遊戲、敘事+陣營機制。
+- **Grim Dawn**（grimdawn.fandom.com，約 4,184 篇）：同上，**尚未抓取、無 config**。遊戲。
+- **Cosmere**：已放棄（fandom 站僅 26 頁殘樁；使用者否決改用 Coppermind）。`working/Cosmere` 已刪、config 已移除。
+
+## 三、工具與設定
+
+- **通用爬蟲** `scripts/fandom_crawler.py`：走 MediaWiki API（`action=parse` → 純文字），按分類歸 bucket，含 502/503/429 重試。
+  - 用法：`python scripts/fandom_crawler.py <config>`
+  - 現有 `CONFIGS`：`endless_legend`、`age_of_wonders`、`stormlight`、`diablo`、`malazan`
+  - `DELAY = 0.15s`（每請求間隔）
+- `scripts/ffh_crawler.py`：Fall from Heaven 專用（較早版本）。
+
+## 四、慣例（與使用者確認）
+
+- **抓取一次只一支**，不並行衝高網路流量；多站排隊。
+- **抓取範圍**：遊戲類只取「敘事 + 陣營機制」，略過純數值/圖檔/模板頁；小說類取敘事實體。
+- **全劇透**；**Diablo** 整系列合一；**Stormlight** 全劇透到最新一集。
+
+## 五、下一步（待使用者下令「繼續」）
+
+1. 開 Malazan 的 Phase 2–6 subagent → `results/Malazan/` → 驗收（檔案到齊 + 斷鏈掃描）。
+2. 探 Pillars of Eternity 分類 → 設 config → 抓取（序列、0.15s）→ 建詞條庫。
+3. 探 Grim Dawn 分類 → 設 config → 抓取 → 建詞條庫。
+
+---
+
 ## 整體進度
 
 - `results/` 內詞條檔總數（排除 index / relationship_map / narrative_analysis）：**346**
@@ -107,4 +155,4 @@
 
 ## 尚未著手的另一項使用者需求
 
-- [ ] **多抓一些原始素材**（"可以的話，幫我多抓一些原始素材"）——尚未處理。執行任何爬蟲腳本前須先取得使用者授權；單次下載 < 50MB。
+- [x] **多抓一些原始素材**（"可以的話，幫我多抓一些原始素材"）——**進行中**，見本檔頂部「新作品攝入流水線（2026-05-29）」：已完成 5 部、Malazan raw 待處理、Pillars/Grim Dawn 排隊中。

@@ -1,0 +1,2251 @@
+
+======================================================================
+PAGE: Arete
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Arete
+======================================================================
+
+Arete
+Requires:
+Runes of Kilmorph
+as State
+Religion
+Way of the Earthmother
+Leads to:
+Nothing
+Allows:
+Mines of Gal-Dur
+Bambur
+Arete
+Cost:
+800
+Type:
+Tech
+"Granted, the humans have strength of arms, and quite adequate tools for the job. But, what good is that, when they don't have a clue where to dig?"
+―Osmand Rockspittle, Mining Supervisor
+
+======================================================================
+PAGE: Arthendain
+CATEGORIES: Dwarven Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Arthendain
+======================================================================
+
+Arthendain
+Race:
+Dwarven
+Unit Class:
+Archery Unit
+Hero
+Requires:
+Runes of Kilmorph
+as State
+Religion
+Medicine
+Starts With:
+1 First Strike
+Medic I
+Medic II
+Hero
+Immune to Disease
+Divine
+Life II
+Dwarven
+Info:
+9
+1
+Cost:
+180
+Special:
+Will abandon civilization if state religion switches from Runes of Kilmorph
+An entire company was wiped out by her. She wore a ragged white dress and matted red hair, both of which clung to her like grease on a pan. She didn't carry any weapons, she didn't need them. Her claws were like iron, she was stronger than any girl. But she was just a girl, or at least once she had been. She clawed and bit at them, coughed and wheezed and fled. One of their number was dead and several were injured.
+Arthendain began applying healing poultices to the wounds, but they were already growing green with infection. The finger sized gashes broke open, skin and muscle peeled back as if it was trying to escape the bone. They writhed in pain, and in minutes they looked as if they had been flogged with a whip; after a few more, they appeared as fresh zombies, still screaming, minds alive as their bodies died. Then finally, mercifully, they died.
+Arthendain was uninjured from the fight, but still the disease spread. He grabbed his crossbow intent on making sure the girl didn't spread her disease any further. As he gripped the polished handle of his crossbow, he noticed his own hands had begun to redden and swell. He hurried to water; they were in the sewers beneath Prespur and normally he wouldnt touch the water here, but it had to be better than what was on him. He scrubbed his hands, but it just got worse, then the coughing began.
+He heard himself screaming, exactly as the others. He fell into the water and died.
+The disease spread in the water; the next morning, the city would have awoken to a Plague. There would be barely any left by nightfall, if Sucellus had not interfered. His shadow passed through the sewers and gathered the disease into a earthen flask. He spoke to the water and it brought Arthendain from its depths and laid him at the god's feet. Succellus asked for the dwarf's spirit and Arawn consented.
+Arthendain doesn't remember much, everything from scrubbing his hands to waking up that next morning in a local tavern is little more than a blur. He remembers a man who healed him. He remembers being given the flask and told to keep it safe, and never open it. He remembers being told that he must find that girl. And to this day he has worked toward that goal.
+
+======================================================================
+PAGE: Bambur
+CATEGORIES: Dwarven Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Bambur
+======================================================================
+
+Bambur
+Race:
+Dwarven
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Runes of Kilmorph
+as State
+religion
+Arete
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Enchanted Blade
+Channeling I
+Enchantment I
+Hero
+Dwarven
+Info:
+5
+1
+Cost:
+180
+Special:
+Will abandon civilization if state religion switches from Runes of Kilmorph
+An artist named Kheldon Ki was called before a wealthy lord and ordered to produce a statue of the lord to stand before his home for all the populace to see and revere. Kheldon Ki was a gifted artist, and all art he created was so lifelike it showed the true soul of its subject. As such, his statue of the lord radiated a sense of ego and vanity to all who looked at it. When the lord saw the completed statue, he ordered it torn down and Kheldon to spend the rest of his life in his deepest dungeons. Kheldon spent 40 years within the dungeon, blind and lonely. To fight his loneliness, he began sculpting people from the rocks in the cavern. By the end of his life, he had created hundreds of these stocky statues of men and woman all doing a variety of tasks. At a great age Kheldon lay upon the floor of the dungeon close to death. It was then that Kilmorph appeared before him and said "You have been imprisoned unjustly, for this I will grant you a wish. Choose your wish carefully though, for you will gain only one, be it for revenge against the lord who imprisoned you or a renewal of youth for you to live again." In this way Kilmorph hoped to test Kheldon, to see if he had become so bitter as to be unworthy of heaven by wishing for revenge against the lord. But Kheldon asked for neither of these two things, and instead said "I wish not revenge for it would gain me nothing, and I wish not new life, for I am ready to die; my only wish is that during my final hours I would not be alone." Kilmorph saw this as a good wish, and granted it by breathing life into all the statues Kheldon had created, and they tended to him until he died. After Kheldon's death, his soul was carried to the underworld on the back of a great dragon, and he was welcomed among the spirits of his ancestors. As for the stone people, they burrowed out of the lord's dungeon and spread through the underdark, becoming the dwarves of today.
+Bambur is one of the few original dwarves remaining. He was carved by Kheldon and had Kilmorph herself breathe life into him. He is nearly as talented a crafter as his creator, but Bambur makes weapons instead of statues.
+The first generation of Dwarves never age, they are exactly as they were when they were carved, but each generation of dwarves gets a slightly shorter lifespan. As they get farther and farther from the breath of Kilmorph, they become more mortal, in spirit and life. Bambur has had to watch this fall, the Umberguard himself has even turned away from Kilmorph, but Bambur fights on for his goddess and mother. His strength, and his weapons, are available to any that fights for Kilmorph.
+p
+
+======================================================================
+PAGE: Chalid Astrakein
+CATEGORIES: Disciple Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Chalid_Astrakein
+======================================================================
+
+Chalid Astrakein
+Race:
+Human
+Unit Class:
+Disciple Unit
+Hero
+Requires:
+Empyrean
+as State
+Religion
+Religious Law
+Starts With:
+Channeling I
+Channeling II
+Channeling III
+Sun I
+Law I
+Divine
+Sentry I
+Hero
+Info:
+7
++2
+Affinity
+for
+Sun Mana
+2
+Cost:
+300
+Special:
+Will Abandon civilization if state religion switches from The Empyrean
++1 Vote in the
+Overcouncil
+Can cast
+Pillar of Fire
+, which does 50% base damage, maximum 75%
+Can cast
+Crown of Brilliance
+Chalid is the foremost high priest (Luridus) of The Empyrean. He is mentioned in the tale of Gibbon Goetia, a man gifted (or cursed) by Esus with the ability to assume the likeness of any man. Not much else is known about Chalid.
+Notable Quotations
+I was invited to attend the initiation rites of the Ecclesiastics in Balderham. Ordinarily I would have feared some attempt at propaganda or persuasion, but in all things the Empyrean is open. The Vicar and one Ecclesiastic walked from the temple, at the heart of the city, while I followed behind a respectful distance, a welcome observer but not participant. We went not to the manor house of the local lord, nor the poor beggars in their slums, nor to some sacred altar from which to pray. The Vicar led us to the dungeon, and the Ecclesiastic aspirant showed the same surprise I felt.
+The guards let us pass, and downwards we walked, through the squalor that inevitably collected in such a place, even a relatively enlightened realm such as this. Men moved forward to watch us as we passed. Some hurled taunts or mockery, while some hurled more vile substances, the excrement occasionally landing on the Vicar’s robes.
+The young man flinched, though his mentor did not. “Why have we come to such a dark place, Father?” asked the Ecclesiastic. “Why do we go anywhere?” was the reply. “To bring light into the darkness.” This was some sort of code or mantra, for they both spoke it together. They stopped at one cell, a ragged man shuffled up to the bars, blinking in the light of our torch. “This is the darkest corner of our realm, dear child, not for the fact that we descend deep into this hole, but for the depravity of those who were brought here. This man has… his hands are stained with the blood of man. But he has requested to hear of the light. If you can bring him from the darkness, you will be ready for your vows. Lugus will show you the way.” The Vicar passed the torch to his charge, and turned to leave. The man behind the bars sank to his knees and cried, “Teach me, lord, please!”
+The boy knelt to pray for wisdom, and I turned to leave as well, though I caught the eye to the imprisoned man and grew to doubt success of the young man’s mission in this place.
+—From Chapter 3 of Reflections on the State Cults, by Elder Methyl of the Luonnotar
+Strategy
+This hero is a game breaker against the AI. Build him, ramp up the sun mana nodes, and you have a one man army who can use the pillar of fire to weaken opponents and twincast to summon two +2 sun affinity (like chalid himself) for 3 units to attack with. The AI is no match for a unit like this.
+If you are faced against him as a human player he may seem indestructable. However, mind mana is the answer. Even a simple mage with mind II's charm person can temporarily capture him so you can disband him. Of course then your opponent could rebuild him with life III's resurrection. So the safer route I have found is to get a unit with Mind III (either an archmage or a hero like Gibbon). Then you can cast dominate and simply take him for your own. You will need empyrean religion or you can immediately convert once you capture him (otherwise he will desert you for religious purposes). If you used a hero like Gibbon to get him with Mind III, this means you will lose Gibbon. But if it was an archmage you keep both. Even loyalty cannot stop the conversion, it just means you need to bring another mage along with Metamagic II's dispel magic, and then charm or dominate him.
+If you use Mind III's dominate to take him, it also leaves your opponent in the unfortunate position that his hero is not dead, so he cannot be resurrected nor can the shrine of the champion even be built. Your opponent will have a ton of sun mana nodes that are useless if the opponent has no archmages. But you will be in perfect position to take your fully promoted one man army to capture those sun nodes, while you ramp your own up in the homeland.
+
+======================================================================
+PAGE: Code of Junil
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Code_of_Junil
+======================================================================
+
+Code of Junil
+Requires:
+Great Prophet
+The Order
+Holy City
+Info:
+1 Free
+Law Mana
++1
+for every city in the world with The Order
+The Order spreads quicker along
+Trade Routes
++2
+Great Engineer
++4
+Allows 1
+Merchant
+and 2
+Priest
+-10 to
+Crime Rate
+Cost:
+N/A
+Type:
+Religious Shrine
+Resolve the weaknesses of your heart,
+Obey the laws of your providence,
+Yield to the goodness that surrounds you,
+Grant silence to those who betray it,
+Bring wrath upon those who will destroy,
+Inspire love of the righteous law,
+Vest in yourself the Code of Junil
+
+======================================================================
+PAGE: Corruption of Spirit
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Corruption_of_Spirit
+======================================================================
+
+Corruption of Spirit
+Requires:
+Knowledge of the Ether
+Way of the Wicked
+Leads to:
+Infernal Pact
+Allows:
+First to Discover Founds
+The Ashen Veil
+Receive free
+Savant
+Diseased Corpses
+Rosier the Fallen
+Temple of the Veil
+Cost:
+900
+Type:
+Tech
+"True power is always costly. However, I think I can safely say that the rewards far outweigh any of the possible costs. Who cares for sanity, when you can burn the people claiming you to be insane to cinders with a thought? Who cares for purity, when this taint is so much more vitalizing? Who cares about the soul, when the mind can break all boundaries without it?"
+―
+Tebryn Arbandi
+.
+Strategy
+Corruption of Spirit founds The Ashen Veil and gives a free Savant. The Ashen Veil as a stage religion offers increased amounts of research and access to Diseased Corpses,
+Ritualists
+&
+Profanes
+, Rosier the Fallen, and the ability to research the
+Infernal Pact
+technology, which will summon
+Hyborem
+and the
+Infernals
+to the world.
+The Ashen Veil is a critical part of
+Armageddon
+however, and the AC counter will begin to rise steadily once the Ashen Veil is founded and begins to spread. Be prepared for the Blight, the Horsemen of the Apocalypse, and
+Hell Terrain
+.
+
+======================================================================
+PAGE: Council of Esus
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/Council_of_Esus
+======================================================================
+
+Council of Esus
+Worships:
+Esus
+Strengths:
+Crime
+Weakness:
+Prophecy
+Alignment Effect:
+Change
+Good
+to
+Neutral
+Heroes:
+Gibbon Goetia
+Founded By:
+Deception
+Enables:
+Available
+Nightwatch
+Shadowrider
+As State Religion
+Courtesan
+Dwarven Shadow
+Shadow
+Shrine:
+Nox Noctis
+Special:
+Any unit with Council of Esus as religion can
+Spread Council of Esus
+Any
+Recon Unit
+with Council of Esus as religion can cast
+Mask
+and
+Steal
+If adopted, units do not leave enemy territory when declaring war
+Religion choice is hidden to all civilizations if following Council of Esus
+Type:
+Religion
+Strategy
+An oddity among the religions the Council of Esus has no disciples, priests, high priests or temples. Instead all of its abilities are practiced by units that worship the religion. Any unit that worships Esus can pay to spread the religion in a city.
+That theme, paying for miracles, is common in the Council of Esus. Additionally, the Council of Esus can only be spread by a unit who Follows the religion and is controlled by a player who uses Council of Esus as his State Religion.
+"Shadow" is a good means, but how about an end? The followers of this religion are those who value secrecy above all else, for whatever reason. Some pursue taboos, whatever that may be in their culture. Some have some sort of psychological insecurity; most are seeking to use the power and techniques of the religion to subvert secular authority above them. One would expect most nations would take a very dim view of others with this religion or anyone spreading it to their lands... though not necessarily more than the other evils.
+Personally, adherents to this religion detest judgement of any sort. They wish to hide who they are and what they do, and resent anyone telling them what to do. Of course, this isn't to say that they don't scrutinize each other. The other factor is a lack of trust. The god of trust is fallen, so even
+The Order
+or
+Empyrean
+share a certain suspicion of outsiders, but the Council wears deception like a coat, and knowing how they are putting one over on each other tends to make them entirely without trust even of each other. Recon Units with the Council of Esus Religion can cast Mask (Grants Hidden Nationality Promotion) & Steal.
+If your State Religion is Council of Esus, you can remain within the borders of your enemies at the instant of declaring war. Any Unit which does not have a religion assigned automatically has a 20% chance per religion to adopt one of the religions present in the city where they are built. Though only for Esus is it important if the unit follows the religion or not.
+A Unique Aspect of CoE is that your religious decision is not displayed to other players in the ScoreList, and the AI will not have diplomatic penalties with you for following a different religion than they do.
+References
+Strategy Guide Written for FfH 2.033 Patch G, by Xienwolf.
+Theme: Neutral-Evil/Shadow.
+
+======================================================================
+PAGE: Dies Diei
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Dies_Diei
+======================================================================
+
+Dies Diei
+Requires:
+Great Prophet
+Empyrean
+Holy City
+Info:
+1 Free
+Sun Mana
++1
+for every city in the world with Empyrean
+Empyrean spreads quicker along
+Trade Routes
++2
+Great Prophet
++4
+Allows 1
+Priest
+and 2
+Sage
+-10 to
+Crime Rate
++2 XP for all
+Disciple Units
+built in city
+Cost:
+N/A
+Type:
+Religious Shrine
+Special:
+Reveals all
+Invisible
+units within owner's borders
+Version Histrory
+.32
+Dies Diei reveals all invisible units within your borders.
+
+======================================================================
+PAGE: Disciple (Unit Class)
+CATEGORIES: Disciple Units, Religion, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Disciple_(Unit_Class)
+======================================================================
+
+Disciple or divine units are units that follows a particular religion. Priest units are clerical spellcaster that can heal or command other units and can cast Divine Spells. They have 3 tiers: we will name them Disciple/Priest/High Priest even if the exact appellation change with every particular religion. This confusing peculiarity of the disciple units reflect the heavy separation of each religious line, unknowns to arcane spellcaster, able to cultivate opposite specializations at the same time, if they choose.
+Paladins of Good and Evil
+On top of the Priests the Disciple line sports some tier 4 special military disciple units: Paladin, Druid and Eidolon, that may be regarded as the paladins of good, neutral and evil respectively. They have all the characteristics of Melee units, or Recon units in case of Druids, but pay attention, they are pure Disciple. They are tied to an Alignment like the High Priest are tied to a Religion, but they will NOT abandon you if you choose to change Alignment. Like all top-tier units they are maxed to 4 per player each, but with a bit of Religion Hopping you may be able to get all of them.
+Differently from the Priests and High Priest, you are allowed to directly build them, but it is strongly advisable to upgrade them from High Priests, to retain the spell-casting abilities. Using this strategy you will also be able to go over the limit of 4 High Priest, and more important, you will have some High Priest equivalent for a particular religion that will not abandon you if you change Religion
+Paladins (11
++3
+Holy
+) may be upgraded from
+Cultist
+,
+Priest of Leaves
+,
+Stonewarden
+,
+Ritualist
+,
+Vicar
+,
+Battlemaster
+,
+Boarding Party
+,
+Champion
+,
+Dragon Slayer
+,
+Mimic
+,
+Vampire
+or
+Paramander
+. Paladins are immune to disease and get a bonus against
+demons
+. They have
+Courage
+. Only
+Good
+aligned players can build Paladins, but anyone may use them. Note that you may build a Vampire Paladin, truly powerful, or a Ritualist Paladin able to cast Ring of Fire, given you have abandoned Ashen Veil for Order to change Alignment.
+Druids may be upgraded from
+Confessor
+,
+Cultist
+,
+Priest of Leaves
+,
+Stonewarden
+,
+Ritualist
+,
+Vicar
+,
+Harlequin
+,
+Ranger
+. They lack the brute force of the Good and Evil counterparts, but they are Super-Recon units that can move through Impassable Terrain and super spellcasters able to cast a plethora of Spells.They but cast Entangle, similar to Blinding Light (Dwarven Druids have access to the powerful Crush spell). They have all Channeling I, II and III and Nature I promotion, giving access to Arcane spells of Nature line (they may learn Treetop Defence Poisoned Blade and the precious Vitalize).  (Dwarven Druids have Earth I, so they can learn Wall of Stone, Stoneskin and Summon Earth Elemental). But Druids have also the Disciple promotion, so may cast all the basic clerical spells Cure Disease and Heal.  Note that not beeing Arcane Units, although the Civilopedia entry suggests that they can have other arcane sphere promotions at level 2 and level 3, they do not have access to the level 1 promotion for those spheres, and having extra nodes of another type do not grant them any free promotions.
+Eidolon ( 11
++4
+Unholy
+) are Demons and may be upgraded from same units like Paladin with addition of the Demons
+Diseased Corpses
+,
+Sect of Flies
+,
+Stygian Guard
+. They are "not alive" and so may not be enached with Haste, and in the long run this is a severe limitation.
+Divine Heroes
+Yvain, Mardero...
+Bane Divine
+Beware of the
+Bane Divine
+ritual that effectively kills any disciple unit in the game, but require the proximity of the Apocalypse.
+To be more precise, the Ritual requires an AC of 70 and when completed all Disciple Units in the world, including Paladins and Heroes, will be replaced with Tier 1 Disciples of the same religion.
+Some says the Ritual is overpowered, but with a cost of 10,000
+you have to consider the alternative. Even if  you happen to have Death Mana and Enthropy Mana, you still need 2,500
+: you may use them to build 41 simple Axeman and roll over anything, Disciple or not.
+Religious line and disciple units
+Priests vary with each religion but they share a peculiar pattern. First of all, the player has to come in contact with a religion X, by founding it or by having an opponent player spreading it. A basic
+disciple unit
+immediately spawn, with the ability to
+spread the X relgion
+(equivalent to vanilla game
+Missionary
+), and you may choose to use it to directly spread the religion to one of your city, gaining the ability to build more disciples. Note that occasionally a special event (exploring a lair or a goddy hut) may give the player a free disciple unit. You may also choose to ignore this religion and dispatch the unit to the front as simple medic, and given the lack of medical promotions in the game it may have some sense. Note that with this mechanic you may gain access to any relgion by mere research: even if you do not found yourself any religion, you will be able to access and spread all of them, even if you are absolutely isolated.
+To found a religion you have to resaech the associated tech, or if you are fortunate, you may use a disciple unit obtained by a special event.
+You may altogether ignore the X religion in the game, or you may limit yourself to spread the X Temples to gain the advantage of that particular relgion (health fo FoL, gold for RoK...), or you may even choose to purge your cities from non State Relgion with Inquisitor ability.
+If you choose to invest in the X, religion, you will convert to gain ability to build Priests (with
+Priesthood
+tech), tier 2 spellcasters, super-missionay able to directly found a X Temple in a new city. Priests will remain with you even if you abandon the religion, and it may often be a nice idea to build a bunch of them as reserve. Note that you may directly build them in large numbers, unlike Tier 2 Arcane units that have to be promoted.
+Next step will be to research the religion advanced tech to gain special Heroes or Civics.
+Finally with Theology tech some Priests with high experience may be promoted to High Priests.
+Druids are not priests and follow a different path: they requires only Commune with Nature tech and a Grove in the city to be built, but it is far better to promote them using Priests, as they will retain divine spells.
+Healing and Commanding
+Disciple units have exclusive access to some exculive promotion useful to cure, heal, convert:
+Medic
+: Medic 1/2/3 permit the healing of units in same tile of +10%/20%/30% per turn.
+Cure Disease
+: removes the Diseased promotion from all units on the casters tile, Diseased Corpses included
+Command
+: divine units may gain the ability to convert and gain control of defeated enemy units. They gain access to Command 1/2/3/4, last one reserved to player wirh Order as state-religion. High priests or druids with Command 3 have 50% chance to sudue a unit upon defeating him,
+Priors
+or
+Chalid
+have 70% chance with Command 4. Note that
+Subue Animals
+and
+Subdue Beasts
+have 100% chance, but are limited to
+Animals
+or
+Beast
+.
+XP gain
+All spellcaster gain xp automatically, sitting in their library and laboratories. Priests gain xp faster than Adepts, but slower than Mages. This is because they start with Channeling 2 and not channeling 1. Adepts only have channeling1, and mages have both. High Priests have channeling 2 and 3, while archmages have 1-3. Thus, High Priests gain xp faster than mages, but slower than archmages.
+Arcane leader have a great advantage on arcane unit xp, but there are no equivalent in the disciple line.
+It may be a nice idea to earòy buid some spellcaster units, to let them "ripe" and be ready for battle as time passes.
+Changing Religion
+High tier units and heroes will leave the civilization that abandons their religion, while basic and mid-range units will remain at your disposal.
+To make some examples, if you leave
+Runes of Kilmorph
+, the hero Bambur and the Runekeepers will leave you, while Stonewarden will not.
+Any city that has a particular religion may construct the relative temple and buid Disciples.
+To build It may be useful to change religion to pick best benefit from each one, avoiding the elite units. A common strategy is to convert to Fellowship of the Leaves and adopt just the time to promote each forest to Ancient Forset (+1 food) or to convert to Ashen Veil in the late game to gain a boost in aggressive expansion. Sometimes dwarven leaders switch away from RoK as soon as they have Stonewardens and Temples. Druids and other upgraded priests are an exception: they will remain in control of the player even if the original religion is abandoned, so it is possible ot have an Overlord druid able to cast Kraken even if current relgion is changed.
+All disciple spellcaster share some common traits:
+Tier 1 (Disciple): Medic I. Can sacrify to spread religion (like vanilla Missionaries) or to give a +20 boost of culture and instantly stop any revolt in the city (useful in the capital of a
+slave
+nation or while building
+Beast of Agares
+). May be built in Cities with the relevant Temple (that acts also as the Vanilla Monastery), even if their Religion is not State Religion. Requires the relevant Relgion "tech" (if you conqer a City with a Temple of a relgion you have not rearchced, you may not build the disciple). Note: strangely
+does not
+have access to tier I divine spells.
+Tier 2 (Priest): Medic II, accesso to Cure Disease and Command, can found Temple (spread religion and instantly build the relative temple). May be build in cities with relevant Temple, or like Arcane Tier 2, they may be promoted from Level 4 units. Requires Priesthood. Gain access to tier I and tier II spells, but note that often any religon has only one spell in this range.
+Tier 3 (High Priest): Top tier spellcaster, National Units maxed to 4. Will leave leaders that abandon relevant religion. Like archmages, only upgraded from 6th level Tier 2 units. Require Theology.
+A tier 2 spellcaster has also some special upgrade path that remove the affiliation to a particular religion but depends on the alignement of the leader. This alternate Tier 3 units are maxed to 4, like all Tier 3 spellcasters.
+Paladin
+, elite melee reserved to Good leaders.
+Druid
+, spellcaster reserved to Neutral leaders, something like a Paladin of  Nature.
+Eidolon
+, elite melee reserved to Evil leaders, something like a Dark Paladin.
+These elite units are analouge to
+Lich
+to the
+Archmages
+, but have some key differences: they evolve from Tier 2 units (not Tier 3) and they require a particular alignement. The special
+Dwarven Druid
+is simply a Druid that happen to be born in a dwarven nation. He is so powerful a unit, with his unique
+Crush
+spell, that it is possible to base an entire strategy on his limited presence.
+Note that it is possible ot obtain Paladin, Druids and Eidolon by simple building or by promoting other units, but generally it is preferred to use the Priest line.
+Progression of spellcaster units is similar in the arcane and divine lines:
+Arcane:
+Adept
+-->
+Mage
+-->
+Archmage
+(or
+Lich
+)
+Divine:  Disciple --> Priest --> High Priest (or
+Druid
+/Paladin/Eidolon/Dwarven Druid)
+But some differences appear. A confusing complication is that while mages are quite flexible and may learn any of the mana lines, disciple units are heavily bounded to their particular religion, and to stress this aspect they have peculiar, confusing names:
+Religion
+Tier 1
+Tier 2
+Tier 3
+Special units
+Hero
+The Order
+Acolyte
+Confessor
+Prior
+Valin Phanuel
+,
+Sphener
+The Empyrean
+Ecclesiastic
+Vicar
+Luridus
+Radiant Guard
+Ratha
+Runes of Kilmorph
+Soldier of Kilmorph
+Stonewarden
+Runekeepr
+Fellowship of Leaves
+Disciple of Leaves
+Priest of Leaves
+High Priest of Leaves
+Fawn
+, Treant
+Octopus Overlords
+Zealot
+Cultist
+Speaker
+Drown
+,
+Lunatic
+,
+Stygian Guard
+'
+Hemah
+,
+Kraken
+Council of Esus
+Nightwatch
+(not caster)
+Shadowrider
+(not caster)
+Dwarven Shadow
+,
+Shadow
+,'
+Courtesan
+Gibbon Goetia
+The Ashen Veil
+Savant
+Ritualist
+Profane
+Diseased Corpses
+,
+Beast of Agares
+Mardero
+,
+Rosier the Fallen
+White Hand
+(unadoptable)
+High Priest of Winter
+Frostling
+Auric Ascended
+Cult of the Dragon
+(unadoptable)
+Disciples of Acheron
+Sons of the Inferno
+Acheron the Red Dragon
+The Council of Esus is a religion for thieves. It doesn’t have any preist units: instead recon units created in cities with the religion have a chance to adopt it and gain its benefits. Units that do so gain the Mask (can become hidden nationality) and Steal (has a chance to steal equipment from another unit or city, if failed can cause a war declaration) abilites. They can also spread the Council of Esus to other cities without sacrificing, but paying some money.
+Because the Council doesn’t have traditional priests players often ignore the religious branch of the tech tree when playing them, all of their units are provided through other branches. Its a good religion if your focusing on another strategy (especially in the recon branch for assassins and such).
+White Hand is the religion of the winter, unadoptable, linked to the Illians that have a one-time ritual to get only 3
+High Priest of Winter
+. When Auric will ascend to the role of new god of winter, maybe this religion will regain his splendor.
+Cult of the Dragon is the limited religion that
+Acheron the Red Dragon
+develop in his territory. There are some ambitious means to gain control of the powerful hybrid disciple/archane priest of Acheron. Orbis modmod used to introduce this religion in normal gameplay.
+List of Disciple Units
+Acolyte
+Confessor
+Crusader
+Cultist
+Disciple of Leaves
+Druid
+Dwarven Druid
+Luonnotar
+Ecclesiastic
+Eidolon
+Lightbringer
+Herald
+High Priest of Leaves
+Host of the Einherjar
+Law Bringer
+Luridus
+Monk
+Paladin
+Paramander
+Priest of Leaves
+Prior
+Profane
+Ritualist
+Runekeeper
+Savant
+Speaker
+Stonewarden
+Tar Demon
+Thane of Kilmorph
+Vicar
+Zealot
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits
+
+======================================================================
+PAGE: Fellowship of Leaves
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/Fellowship_of_Leaves
+======================================================================
+
+Fellowship of Leaves
+Worships:
+Cernunnos
+Strengths:
+Inspiration
+Weakness:
+Economy
+Alignment Effect:
+No Effect
+Heroes:
+Kithra Kyriel
+Yvain
+Founded By:
+Way of the Forests
+Enables:
+Available
+Disciple of Leaves
+Temple of Leaves
+As State Religion
+Fawn
+Hidden Paths
+High Priest of Leaves
+Guardian of Nature
+Priest of Leaves
+Satyr
+Treant
+Shrine:
+Song of Autumn
+Special:
+Forests
+will transform into
+Ancient Forests
+When an enemy enters an Ancient Forest within owner's borders, there is a chance a Treant will spawn
+Type:
+Religion
+Strategy
+Deep in the woods, the whispers of Elves linger. Ancient protectors normally above the affairs of men, some men have shown enough loyalty to them to be taught their magic and even gain the assistance of the Fawns.
+Nature is directly responsible for sustaining life, so it is easy to see it as good. In FfH2, Fellowship of Leaves is defined as neutral, meaning it doesn't change the civ's
+Alignment
+. So its tenets are either ambiguous, contradictory, or do not pertain to how to treat other sentient beings.
+Perhaps this is due to a disorganized structure. followers of the FoL do not rely upon revelation from
+Sucellus
+or
+Cernunnos
+, rather upon reflections on the natural world around them. All followers share a respect and delight in natural places, and seek to spread the sphere of life's vitality; there is little concern, officially, for any particular lives, however.
+The Fellowship will fight for their own lands, and crusade to end wide-scale corruption of nature, but rarely intervene in any conflict otherwise, or at least rarely sanction such intervention by the tenets of their creed. Personal ethics of The Fellowship vary dramatically, from emulating the care of a mother hen, to the ferocity and guile of a rabid hyena.
+This is a religion pervaded with personal discovery and growth. There are no strict laws and this leads to widely varying interpretations. Remember that Cernunnos is the weakest of the gods, the only one who wasn't made by the One so he is the most likely to be overwhelmed by his task. Peaceful
+Elohim
+tend to magnificent gardens and brutal
+Calabim
+hunters (where the prey are slaves allowed to run for their chance at freedom) both believe they are serving the rites of The Fellowship. The aspect of creation that The Fellowship exemplifies is change, which is why there are so many variations. The change of The Fellowship is best labeled as growth, the change of a child into a man, or a river cutting a pass through mountains. Radical, unpredictable change is the province of Bhall.
+Fellowship of Leaves as a state religion will cause
+Forests
+in your territory to grow into
+Ancient Forests
+. There is a chance for a
+Treant
+to spawn in an empty Ancient Forest tile when an enemy unit walks onto the tile. This chance is increased by having the tile be worked by a citizen from a city with a Temple of Leaves.
+References
+Strategy Guide Written for FfH 2.033 Patch G, by Xienwolf.
+Theme: Neutral/Nature.
+
+======================================================================
+PAGE: Gibbon Goetia
+CATEGORIES: Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Gibbon_Goetia
+======================================================================
+
+Gibbon is a master Illusionist Hero from the
+Council of Esus
+. That means that the creatures he summons are mere illusion, and may never kill an enemy... only bring them to the verge of death. And that means that as soon as the attacker looks away, the summoned creature is instantly healed.
+Gibbon Goetia
+Race:
+Human
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Deception
+Sorcery
+Starts With:
+Cannot Pillage
+Can Explore Rival Territory
+Channeling I
+Channeling II
+Channeling III
+Hero
+Illusionist
+Religion:
+Council of Esus
+Info:
+5
+1
+Cost:
+180
+Special:
+Will Abandon Civilization if State
+Religion
+switches from
+Council of Esus
+Can Cast
+Impersonate Leader
+which allows player to control rival civilization for a period of time
+Background
+How many roles have I played? They blur together in my mind.
+I was a victim from the moment my life began. An attacker came for my mother even as she gave birth to me. He possessed Garrus, a simple stable boy and used him to sneak up through the inn to my parents room. He tried to get close to my mother, to attack her at her most vulnerable. My father fought to stop him. The details are unknown except that a battle occurred in the room and my father was struck a mortal blow. With his last breath he uttered a holy word that destroyed the spirit possessing Garrus and collapsed the entire inn.
+My mother died in the collapse, my father died from the attack. The stable boy was pulled from the rubble, one arm was crushed but he appeared otherwise healthy. My soul fled the dying infants form and took home in his newly evacuated body. I was born into the body of a teenage boy.
+The innkeeper raised me, teaching me as if I had simply forgotten my life and in a few years I served him well. He raised me as he rebuilt the inn. But I always knew that Garrus wasn't my name and I listened intently when those that survived the collapse retold the story.
+We didn't know much about my parents. But my father wore the yellow robes of a priest of the
+Empyrean
+. There was a small temple to the god in our city and when I was ready I joined their ranks as a disciple. Within the clergy my identity didn't matter, I was simply a child of
+Lugus
+. My superiors praised my empathy, questioned my maturity and laughed when I said that I thought I was the son of a priest. They claimed no such priest had visited the city and considered my thoughts the wishful thoughts of boy with too much imagination.
+My right arm was still crushed, by this point it was shriveled and permanently wrapped against my side. When I asked if it could be healed the priests prayed over it, but it never got better. Others came and received healing, nobles, merchants, beggars, soldiers. But I remained maimed.
+One day in early Aedrini the temple was in an uproar. Priests barked orders, disciples scurried about trying to look busy, no one had thought to wake me. After many questions a priest finally gave me my answer.
+"
+Luridus Chalid
+is coming child, stay out of the way."
+I began to retreat to my chamber when he yelled after me, "And don't bother him when he arrives!"
+That next day a single man arrived on a dappled grey mare. He rode without an escort and though he needed no guards on the road, he could have used some outside of the temple. He was immediately mobbed by well meaning disciples, genuflecting priests and hordes of gawking townspeople. He wore the robes of a
+Luridus
+and I wondered if my father wore the same.
+He spent the next three days in our hastily constructed council chamber. The chamber was open for anyone to hear the deliberation and speak in an orderly manner. They discussed the towns role in the
+Overcouncil
+, local legislation and a problem with brigands in the area.
+The council meetings always went well into the night, and Chalid attended every dawn ceremony. He only had a few hours between to get some sleep. I was hurrying to the dawn service one morning when I found him standing alone in the refectory looking out the windows toward the east. The morning bell rung, signaling the dawn ceremony was about to start and Chalid turned to find me staring at him.
+"Morning disciple, are you ready to receive our lords blessing?"
+I managed to stammer something unintelligible out. Despite that he smiled at me with true affection and clasp me on the shoulder. That was the first he noticed my withered arm.
+"Do you have something to ask me?" he said.
+He expected me to ask for healing, but that didn't matter to me. Instead I asked, "What sort of spirit attacked my mother?"
+He put his arm around me and we walked to the sanctuary together.
+"Let me pray about it" he said.
+The service was exactly like all the others but I paid little attention. Instead I watched Chalid. He looked confused as he prayed, sometimes pained, sometimes resigned and I imagined that it had something to do with my question.
+I waited after the service. Chalid spoke briefly with the
+Vicar
+who had performed the service and meet a few of the members. And then he left the sanctuary and went into the council chambers.
+I spent the day neglecting my duties and waiting outside the council chamber. But just past nightfall the towns warning bells rang out, guards ran through the streets yelling that brigands were attacking.
+Everyone flooded out of the temple. At the edge of the town
+shapes rushed through the darkness
+. Black tipped arrows cut guards down where they writhed screaming in pain. Guards brought torches and under the cover of shield men they retook the fortifications while the shadows simply moved to attack at another point.
+A voice from the darkness called, "What good is a god that abandons you every night?"
+Chalid ignored the taunt and ordered the men back within the cities lantern light. He alone bounded over the wall and in to the darkness at the cities edge. His mace glowed faintly in the starlight and though we couldn't see any attackers on the open field we all knew they were moving in on him.
+Chalid prayed and
+an aura of golden fire burst up around his head
+and dark men caught fire on the field, on the walls, and even a few that had snuck into the city. The holy fire consumed them and guards rushed in to beat or capture the men.
+But one was not distracted by the fire.
+It clung to his black armor and that of his steed
+but he rode soundlessly towards Chalid, like a shadow of a dark god stretching out to touch him. Chalid raised his mace up, and then back down and the field was lit up as if it was day. A pillar of golden fire, like the sun itself but full of righteous fury, crushed the rider. There was a horrific scream and then when the pillar retreated back up into the sky the rider was gone.
+I spent the night tending to the guardsmen wounded in the attack. Their wounds festered from poison and the men passed between fevered dreams and anguish when awake. There was little I could do but try to keep their wounds clean and try to make them comfortable. Chalid and the priests prayed over the men and some were healed, but too many were injured.
+That next morning I returned to my chambers to wash up and change into fresh clothes, as did most of the temple. I headed again to the dawn ceremony and found Chalid alone again in the refectory looking out towards the east.
+"You saved the town." It sounded hollow when I said it. Unsuited to the miracle I had witnessed.
+"I only had faith that Lugus would protect me, he did everything else."
+I smiled, the warmth Chalid had shared with me yesterday was gone now. He looked troubled but I assumed it was just the events of the long night. I know he hadn't slept either.
+"Did you find out anything about my mother?"
+Chalid looked at the floor, the morning bells rang though neither of us moved.
+"I should lie to you" Chalid said, "the mandate of truth is sometimes painful. I am sorry. I won't lie but I will warn you, it would be better if you did not know."
+"I want to know" I argued with more passion than I intended, "Knowledge, truth, revelation are the precepts of Lugus. I should know my own past."
+"The woman's name was Magda de'Vala" Chalid started, "The man wasn't her husband but her guardian, though he was a priest of the Empyrean. The child was prophesied to be a great hero, which is why many sought to kill Magda and her baby."
+He paused, but I only waited for him to continue.
+"The stable boy Garrus died three days before the attack. That which killed Garras, that which killed Magda's guardian and caused the collapse that killed Magda and her baby. That was you."
+I was furious and I rushed out of the refectory. Chalid watched me go then headed into the sanctuary. My thoughts went back to those early days, I never felt like I was the stable boy. And for the first time I questioned my origin. Would a babies spirit in a boy's body be able to adapt that quickly? Could even a possessed stable boy be able to overcome a priest of Lugus, or was that creature something darker? And was I that creature?
+I stopped in the temples infirmary. Except for the wounded it was empty, everyone in the temple was in the dawn ceremony despite those laying here near death. There was only one man awake, a bandage covered his left thigh. I knelt at his bedside. When I saw the torment he was in I forgot a bit of my own.
+"What is your name?" I asked.
+"Abin," he said, "I'm a jeweler who pretended to be a city guard."
+That wasn't unusual. Our city was too small to maintain full time guardsmen so most were volunteers with other jobs.
+"Either you are too good at pretending, or not good enough."
+He gave me a weak smile.
+"Can I pray for you?" I asked. He nodded.
+I placed my hand on him and closed my eyes. I have seen many healed but I had never performed a miracle myself. If I could do this, if I could heal this man and channel the power of Lugus then I couldn't be whatever creature Chalid thought I was. Maybe I was the holy child, maybe the attack on Magda de'Vala failed.
+I could feel his labored breath. I could feel his pain, feel his love for his large family of nieces and nephews. His quiet store and hours spent working on small intricate jewelry. And I felt him die.
+Then I felt the poison strike, it burnt through my body focused on the wound in my left thigh. I stepped away from the bed in shock. I was taller and my robes, which were big on me, were now tight. And my formerly withered arm was now trapped uncomfortably in its folds.
+I loosened the robe and held out my full, strong arm. But it didn't look like my arm, it was the jewelers arm. And as I looked at myself I realized that I was identical to the dead body of the jeweler that lay in the bed in front of me. And then the poison struck again and sent me to my knees. I picked myself up and fled the temple in pain and confusion.
+Pain will drive you mad and it only took a few hours of suffering like this before I found a farmer out working in his field.
+"Blind goats Abin!" he said, "what is wrong with you? Why are you wearing a disciples robes?"
+I threw him to the ground and held him, smashing him once in the face when he tried to fight back. I felt for that closeness, I reached out to find everything that he was, and the pain drifted away. When I opened my eyes I saw him staring up at his own reflection in horror. The last I saw him he was running toward his farmhouse, I started running as well. I don't think I have ever stopped.
+I still don't know what I am. All the roles that I've played since then blur together in my mind. I've gotten better at reading people and worked for a time for an assassins guild, simply for reading people I touch. During other times I steal the lives of those I wish to share. I tried the lavish extravagance of princes and wealthy merchants, but there is little to envy them for once you understand how they truly live. The best stolen lives come from the simple fathers of large families, those that have the love and respect of everyone in their lives. Dump the body of one of those in a shallow grave and I have a few good weeks of fun before I become bored and move on to something else.
+Maybe Chalid was right, maybe I am a monster.
+Strategy
+The
+Illusionist
+pomotion make him a great defender, because summoned units completely heal after each combat if they are not killed in that combat. A single
+Fire Elemental
+summon, having the Illusion promotion, can fend off a stack of 50
+Skeletons
+, because it is fully healed after each combat.
+Gibbon is one of the best spammers of the Domination spell in the game. Have him take the
+Mind I
+,
+Mind II
+, and
+Mind III
+promotions for access to to the spell, and then save all the following promotions. If Gibbon ever fails a Domination attempt, simply re-take the
+Mind III
+promotion to give him access to Domination again.
+This is particularly effective if
+Acheron the Red Dragon
+has not been killed, as Gibbon can easily
+Dominate
+the
+Sons of the Inferno
+units in Acheron's city in order for you to gain access to a large number of
+Channeling III
+casters to field against your enemy (most of which already have
+Fire II
+or
+Fire III
+promotions.
+Consider taking Gibbon down the path of
+Combat I
+through
+Combat V
+in order to give him the
+Twincast
+promotion, as well as the
+Water III
+promotion. By Twincasting illusionary
+Water Elementals
+, Gibbon can act as a solid defensive bulwark against any invading army, as the illusionary Water Elementals will heal to full after each combat. In the case the enemy is able to kill an illusionary Water Elemental, Water Elementals split into 2 Weak Water Elementals upon death, so you have in effect 6 defenders per twincasted Summon Water Elemental cast: (2x Water Elementals + 4x Weak Water Elementals).
+Perfect Sight
+is a promotion that grants 50% against illusions, making the units with it a good counter to Gibbon, but it is fairly rare, being limited to Recon and Archery units. It is also sometimes granted by spells and building effects from the
+Empyrean
+religion. This means that civilizations that specialize in Recon and Archery units; like the
+Ljosalfar
+,
+Svartalfar
+, and
+Sidar
+; or adopt the Empyrean as their state religion must be treated with caution by users of Gibbon.
+
+======================================================================
+PAGE: Hemah
+CATEGORIES: Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Hemah
+======================================================================
+
+Hemah
+Race:
+Human
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Octopus Overlords
+as State
+Religion
+Arcane Lore
+Starts With:
+Channeling I
+Channeling II
+Channeling III
+Hero
+Religion:
+Octopus Overlords
+Info:
+7
+1
+Cost:
+180
+Special:
+Will abandon civilization if state
+religion
+switches from Octopus Overlords
+Can Cast
+Hastur's Razor
+which randomly distributes damage among all units within 1 tile of Hemah
+They called him an affective dreamer. It was a horrible attunement with magic that few were cursed with; what he dreamed became real.
+When he was 12, Hemah saw salamanders playing on the wet stones. They were like living pieces of painted mercury, tiny dragons who had an entire primordial world underneath the dock behind his home. They hissed at Hemah, as if confidence alone would keep him from squashing them.
+That night the hisses came again, but lower, echoing through the small stone house. Slick painted demons broke through the walls. With forked tongues, they scuttled through the shadows and grabbed Hemah's parents, dragging them from the house.
+He slept through it all. In the morning, the neighbors' screams woke him. Most of the house had collapsed, only his room remained standing. The neighbor's wife was a round woman with a voice so high she seemed to squeal like the pigs she and her husband raised. She rushed in and threw herself on Hemah, checking to make sure he was okay. They told him to close his eyes before they led him out of his room, but he looked.
+Claw marks, blood, everything was broken...and his parents were missing. They searched everywhere for them, but couldn't find them, but Hemah knew where they were. He led the pig farmer and his wife to the river behind their home and looked beneath the dock. That's where they found Hemah's parents' broken bodies, their mouths stuffed with so much mud their throats had exploded.
+Since then, everyone who has gotten close to Hemah has died, not that those who don't know him do much better. One morning, he awoke to find the entire population of the small village he was passing through was simply gone. Sometimes creatures are created that live well after he awakes. People are killed, women are raped. Men are made into puppets for the night, forced to play out scenes from Hemah's subconscious over and over again.
+Some say Hemah isn't a mage, he only dreamt he was once and he hasn't forgotten the dream. Others wonder if the Overlords found Hemah and caused his dreams, or if Hemah dreamt of the Overlords and created them. What is known is that as dangerous as Hemah is awake, he is even more dangerous asleep.
+
+======================================================================
+PAGE: Infernal Pact
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Infernal_Pact
+======================================================================
+
+Infernal Pact
+Requires:
+The Ashen Veil
+as State
+Religion
+Corruption of Spirit
+Leads to:
+Nothing
+Allows:
+Bring the
+Infernals
+Civilization to the Game
+Meshabber of Dis
+Demons' Altar
+Infernal Grimoire
+Sacrifice the Weak
+Cost:
+1350
+Type:
+Tech
+"I pledge my body, to gain your strength; I pledge my mind, to gain your insight; I pledge my heart, to gain your devotion; I pledge my soul, to gain your obedience."
+―The Grimoire of Summoning, Second Ritual.
+As soon as you complete
+Infernal Pact
+research, you broke the Compact and the Infernal Civilization will enter the game. You have made a pact with the Devil, in the person of
+Hyborem
+, to gain greater, inhuman power. And power you will get: the
+Sacrifice the Weak
+will make your citizen consume half the food, allowing for enormous cities or abuses of Slavery. Infernal Grimoire may conduct to quick and easy techonology advancament. But do not fool yourself: you have made a pact with the Devil and he will make you pay your debt. In any moment
+Hyborem
+will whisper his forsaken words in the ears of your most wonderful city with
+Ashen Veil
+relgion, stealing it from your control. But in the end, this is the purpose of your religion: to end the world, to make
+Erebus
+the new Inferno. If you are among the fools that seek glory and power no matter the consequences, remember:
+Armageddon
+is coming.
+Strategy
+Once you research this, consider immediately constructing the
+Infernal Grimoire
+, as once the Infernal civilization enters the game, they tend to immediately begin construction on this wonder for the free research.
+Sacrifice the Weak combines amazingly well with Aristograriansim (Aristocracy + Agrarianism) for commerce, and huge growth.
+
+======================================================================
+PAGE: Kithra Kyriel
+CATEGORIES: Elven Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Kithra_Kyriel
+======================================================================
+
+Kithra Kyriel
+Race:
+Elven
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Fellowship of Leaves
+as State
+Religion
+Feral Bond
+Starts With:
+Does Not Receive Defensive Bonuses
+Immune to First Strikes
+1 First Strike
+Can See Invisible Units
+35% Withdrawal Rate
+Elven
+Hero
+Religion:
+Fellowship of Leaves
+Info:
+8
+3
+Cost:
+180
+Special:
+Will abandon civilization if religion switches from Fellowship of Leaves
+Kithra's father was an elven hunter and his mother was a human, a merchant's daughter. Their families were accepting of the relationship, and Kithra's father left his people to move into the small human village. They got married and seemed to defy the belief that these relationships would always end tragically.
+The villagers were very tolerant, even happy, to have an elf living in their village. But though the humans may have accepted him, their diseases didn't. After just 3 years spent in the village, he caught a stomach flu that had been going around the village, and, unaccustomed to such illnesses, it killed him.
+Kithra was raised by his mother. Still accepted and loved by the village, he grew into a quiet and friendly half-elven young man. He worked in the inn stables and seemed to have a knack for calming and caring for the horses that travelers would stable there. That was all he thought he would ever do.
+A soldier was staying at the inn for a few weeks, and he had asked Kithra to exercise his horse at least once a day. It was a magnificent horse, and Kithra looked forward to riding it each day. He was running it in the small pasture by the inn when a new guest arrived, a mage named Hemah.
+Hemah watched the young half-elf ride before going inside. Kithra tried to ride up and talk to him, but the mage waved him off, tired from his travels. The caravan Hemah was traveling with had been attacked by orcs, many were killed and all of the travelers were exhausted.
+That night the orcs attacked again, but strange dark versions of orcs. Some ran through the walls of buildings like ghosts, other fought battles in the streets with guards who had been killed earlier that day. Yells and the sounds of battle echoed in the air, as if it was nothing more than a vision, but this was real. The orcs turned on the village guard, killing them. The soldier from the inn commanded Kithra to get his horse ready and grabbed his sword to keep the orcs back. By the time Kithra had saddled the horse, the soldier was already dead and the orcs were breaking into the inn.
+Kithra saw himself ride through the orcs, bow in hand, firing deadly arrow after arrow into the orc horde. He heard the orcs dying before he remembered ever performing the act. He was confused and then he was on the horse, but the horse had changed, it was stronger and faster than it was that day. The tail was untied and combed out, hooves were polished, and it was fearless. The horse charged through the orcs, trampling any that got in his way. Kithra was terrified, silent witness to his own hands as they used the bow and arrows he had never seen before to fight off the orcs.
+An orc broke into his mother's house and she ran out into the street. Kithra stopped being a puppet and grabbed the reins, forcing the horse to turn toward her and the orc bearing down on her. If she was shocked and terrified by the orc attack, she was even more so by the sight of of her gentle quiet son slaughtering the orcs and turning to charge toward her.
+He aimed at the orc, and his arrow caught him in the chest. A second quickly followed and a third sunk into the orc's head. No longer a puppet, Kithra still had no idea what was going on, but there were many more orcs to kill. He told his mother to hide by the well while he then turned back towards the orcs; there was more fighting to be done before morning.
+Kithra still doesn't know what happened that night. The orcs' bodies simply disappeared, but the effects of their presence didn't. Some of the villagers were killed, as was the soldier who owned the horse. Evidence of the attack was everywhere, broken doors, tracks, the orcs had even eaten some of the livestock. But the orcs themselves, along with their weapons and gear, were gone.
+Kithra's bow remained and the horse kept the changes that had occurred during the night. Kithra had changed too, his sandy blond hair was now golden blond, his eyes were greener, he seemed taller and more fit. Thinking that his elven heritage may have done this to him, he left the village and traveled to his father's former home where he asked for advice from the priest of the Temple of Leaves.
+They weren't able to answer his questions about that night, but they did tell him that he was a hero now, and had an amazing gift bestowed upon him. He stayed and trained and learned at the temple, adopting the elven traditions and the worship of Cernunnos. He has been one of the Fellowship's most powerful heroes ever since.
+
+======================================================================
+PAGE: Mardero
+CATEGORIES: Demon Units, Disciple Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Mardero
+======================================================================
+
+Mardero
+Race:
+Demon
+Unit Class:
+Disciple Unit
+Hero
+Requires:
+The Ashen Veil
+as State
+Religion
+Malevolent Designs
+Starts With:
++40% strength against
+Disciple Units
+March
+Sorcery
+Channeling I
+Channeling II
+Channeling III
+Entropy I
+Stigmata
+Hero
+Demon
+Religion:
+The Ashen Veil
+Info:
+10
++4
+Unholy
+2
+Cost:
+240
+Special:
+Will abandon civilization if state religion switches from The Ashen Veil
++3 to the
+Armageddon Counter
+The basilica was flooded with screaming, a mob calling for the death of Lita. Long suspected of witchcraft, she was found with crow's blood on her forehead and eyelids, evidence of her attempts at clairvoyance through dark rites.
+The adjudicator listened to the guardsman's retelling of her capture. A neighbor claimed to have seen a cat walking backwards from her house and a pigeon handing upside down from the eaves like a bat. The guards had been called to check it out, not an uncommon occurrence for Lita. But this time she didn't open the door, and when the guardsman entered, they found her in her basement deep in a trance, with the crow's broken body beside her.
+"What are the names of these demons you say I follow?" Lita argued, "Hate, suspicion, fear, weakness, pride. Do you believe these are my demons or your own? You scream because I killed a bird, yet you will return to your mutton dinner tonight and see no hypocrisy. You claim that what I have done is evil, yet the temple diviners perform the same acts with oils and burnt incense."
+She shook with rage, her voice carried an authority far beyond her 24 years. She turned and glared at the townspeople, most she had known her entire life, and each one quieted under her gaze, but then picked the screaming back up when her eyes were off of them.
+The adjudicator was Goroff Grist and he had served in this role for nearly 30 years. He wasn't concerned with Lita's pagan ritual but he was very concerned with the effect she had on the city. This kind of disharmony could not be tolerated in a cultured society; she had been warned before about her questionable behavior and refused to become a good citizen. He had known the outcome of this trial the second she was dragged into the basilica.
+Goroff opened the large tome before him. The hall went quiet as he scribed Lita's name and the verdict. Everyone strained to gain some clue from the stroke of his quill as to the final decision. Goroff sprinkled find sand on the ink and blew on it, then he closed the tome.
+"The testimony has been heard and a just decision has been made. Lita of Alexandria will be exiled from the Empire. This exile will be initiated by throwing her from the Cliffs of Hastur. We will see if she will follow the crow's fate and have her body broken, or gain the crow's gift and be saved from the rocks below."
+The crowd cheered the decision, Lita screamed and attacked the guardsmen that held her. They wrestled her into submission and began the march to the edge of the cliffs. By the time they reached them, the crowd had grown and hundreds of townspeople were there to witness her death.
+It was an early spring day and the mists common to cliffs still hung around its base. Lita had stopped strugleing and stood unmoving at the cliffs edge. She told herself that she would die without weakness and step over the edge on her own, but she found herself unable to do so. She sensed something much worse than death over the cliff's edge. Then the guardsman pushed her.
+She fell. Her life passed before her, pain inflicted by her and on her, actions performed both good and evil. She considered her own regret, had she become something she didn't intend? She pushed the thoughts from her mind, she was not the one at fault, but the people of Alexandria. She fed off of her own hate, wished only that they would suffer for what they had done to her.
+She passed into the mists and heard the snap of thick leather, like the crack of a whip all around her. A dark form slammed into her and at first she though it was the ground, but her direction changed and she felt herself being carried along the cliff's edge. A beast held her, and she struggled to see its face. It had thick hide wings and skin that felt like a serpents, but hard and warm. The face was a man's, horrible and beautiful, horns and smaller bones pierced his skin and thick iron pins were inserted into the inside curve of his eye, just where tears are formed.
+He took her to a dark place, Hell or some hidden cave, it was the same to Lita. She became his unwilling concubine, mother of his half-demonic children. His spells kept the many pregnancies from killing her, but they did nothing for the pain which was so intense that she wished for the times when she wasn't pregnant and had only to suffer the brutal rapes. And during the periods of the rapes she wished for the times she was pregnant.
+Mardero was the last of these children. His birth was so traumatic that even his father's considerable power couldn't keep Lita alive through it. His first act in this world was to join his siblings in consuming his mothers flesh, the first of many human victims his father would bring them as they grew.
+Now Mardero roams the land, unbound by the Compact because of his human heritage but as destructive and loyal to the forces of Entropy as any demon.
+
+======================================================================
+PAGE: Meshabber of Dis
+CATEGORIES: Armageddon Events, Demon Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Meshabber_of_Dis
+======================================================================
+
+Meshabber of Dis
+Race:
+Demon
+Unit Class:
+Melee Unit
+Hero
+Requires:
+The Ashen Veil
+as State
+Religion
+Armageddon Counter
+at least 70
+Must be Built in Ashen Veil Holy City
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Divine
+Fire II
+Immune to Fire
+Sentry I
+Demon
+Info:
+19
++6
+Unholy
++2
+Fire
+2
+Cost:
+5000
+Special:
+Will abandon civilization if state religion switches from The Ashen Veil
++3 to the
+Armageddon Counter
+The smoke twisted randomly, as if caught in breeze that was impossible in the small summoning chamber. Kael knelt in a ring with the other students watching the mage in the center demonstrate the experiment in conjuration.
+A figured formed in the smoke, an imp a little over 2 feet tall. His chest was soot black, and he grew lighter gray and hazy along his legs and arms, until his feet and hands were nothing but thin trails of smoke. The embers from the fire danced up into his body and whipped randomly around him, settling in his eyes, which floated lazily, and seperatly, around his forehead.
+He glared at the students until Bradeline, the red robed mage, shouted "Zazim!"
+The imp's ears folded back against his head at the sound of his name.
+"Why do you bring me here?" The imp's voice popped like greasy meat in a hot pan.
+"They will try to control the conversation, lead you where they want to go. Innocent at first, but it is a trap. Speak only of what you want from the creature, you did not summon it for idle conversation."
+One of the imp's eyes remained fixed on Bradeline, while the other floated around his head going from student to student, looking for weakness. Kael was easily 10 years older than the rest of the students, and couldn't tell if the imp noticed this or not. Most of the other students paled and looked away at the imp's glare. A few returned the stare, their own fear overcome by their lust for power. Kael didn't react at all, and the imp's gaze passed quickly on to the next student.
+After its examination of the room the imp dropped, placing his wraithlike hands on the stone floor. The fire brightened and the smoke flared out, momentarily obscuring the imp's form. From within the circle its scratchy voice could be heard speaking unholy words.
+"The daft creature is attempting to summon more of its kin." Bradeline looked almost disappointed. "Most would attempt to flee, but both attempts will be blocked by the summoning circle you constructed. Its call can not penetrate the shell of sorcery, symbols and the enchanted powder."
+Bradeline took a chain from his belt and held it toward the imp. He let go of the end, letting a copper medallion inscribed with a six pointed star swing down as he shouted the imp's name again. Bradeline was as much a performer as he was a conjurer. This time Zazim ignored him.
+The powder was enchanted exactly as it should be, but it was not all silver as the spell required. The imp's call was heard, and in a gust of wind the ill-prepared powder was blown all over the surrounding shocked students. Bradeline didn't have much time for surprise, the newly formed greater demon that stood over the imp reached out and grabbed his throat.
+The demon stood almost to the room's concave ceiling. He had the hooves of a goat, thick twisted legs, and the chest and arms of a massive gorilla. He had two human heads, one with its mouth sewn shut, constantly screaming behind its pursed lips, and the other looked to have had its eyes recently gouged out. Blood and ichor ran down this face and dripped onto the right side of the demon's chest. On one forearm the demon had almost a dozen battered gold rings.
+"Command me now, blood trader!" The demon grinned. Bradeline had summoned him many times, and forced him to perform acts degrading even to demons. The mage raised the medallion ineffectually in front of the demon's face, the one with eyes, but the demon only laughed. He would have toyed with Bradeline longer, but the students began to scream and he realized he had more fun in store than just this one killing. With a squeeze, Bradeline's neck was broken and the demon threw the mage's body against the stone wall of the chamber. Then he turned on the students.
+A boy, more full of ego than sense, began to recite a spell prohibited to students this young. He shot his hands out toward the demon as he finished the incantation. But he was not ready for a spell that complex, and the fire intended for the demon raced up the boy's arms instead. He fell screaming as the flames consumed his shoulders and head.
+Another student, one that had looked away when Zazim glared at him, had his screams cut short as the imp leapt to his chest and climbed into his mouth. Kael watched the students face flush at the realization that he wouldn't live long enough to be killed by the two headed demon that was tearing into the other students. The student fell, choking and grabbed hold of Kael's drab brown acolyte robes. Kael ignored him, the only unmoving piece of the hellish room.
+The room's single door was enchanted, only Bradeline or one of the academy's other instructors could open it. This was to prevent any creature that was summoned here from getting loose and threatening the school. It had seemed a reasonable precaution to the students when they had learned of it, but now as they beat on the chamber door they realized the limitations of the door's protection.
+--The Tale of Saverous, Act II: Chapter 1
+
+======================================================================
+PAGE: Message from the Deep
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Message_from_the_Deep
+======================================================================
+
+Message from the Deep
+Requires:
+Octopus Overlords
+as State
+Religion
+Fishing
+Mysticism
+Leads to:
+Mind Stapling
+Allows:
+First to Discover Founds
+Octopus Overlords
+Receives Free
+Zealot
+Zealot
+Drown
+Temple of the Overlords
+Cost:
+500
+Type:
+Tech
+"I was adjusting the mainsail, getting ready to head home after a long day at sea, when suddenly I felt it. A terrible presence situated thousands of feet beneath us. I thought I was going mad, until I saw my expression mirrored on the faces of my crew. Something was down there, and had I known then what it was, I'd have headed for the shore and never sailed out again."
+―Reaghar Yor, Fisherman
+Strategy
+Message from the Deep allows the researcher to found the Octopus Overlords, if they are the first to do so. If you have the Octopus Overlords as your State Religion, you may also research Mind-Stapling after Message from the Deep. With the Octopus Overlords in a city, you may build Drowns, or pay 60 gold to turn a unit into a Drown, if the Octopus Overlords religion is present. You may also build Zealots (which can spread the religion), and are given one when you obtain the technology.
+
+======================================================================
+PAGE: Mind Stapling
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Mind_Stapling
+======================================================================
+
+Mind Stapling
+Requires:
+Octopus Overlords
+as State
+Religion
+Message from the Deep
+Leads to:
+Nothing
+Allows:
+Lunatic
+Saverous
+Asylum
+Tower of Complacency
+Cost:
+800
+Type:
+Tech
+You cannot do this! I will no longer tolerate your cruelty and malice! I refuse! I spit on your temples and your laws, I...I dont want.... Yes, Overlord. Of course, Overlord. It shall be as you ask. Nothing would please me more.--Sayrin Nures, Speaker of the Tide
+
+======================================================================
+PAGE: Nox Noctis
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Nox_Noctis
+======================================================================
+
+Nox Noctis
+Requires:
+Great Prophet
+or
+Great Merchant
+Council of Esus
+Holy City
+Info:
+1 Free
+Shadow Mana
++1
+for every city in the world with Council of Esus
+Council of Esus spreads quicker along
+Trade Routes
++2
+Great Merchant
++4
+Allows 1
+Bard
+and 1
+Merchant
++10 to
+Crime Rate
++2 XP to all
+Recon Units
+produced in city
+Cost:
+N/A
+Type:
+Religious Shrine
+Special:
+All owner's units within own borders but not in a city will be
+Invisible
+
+======================================================================
+PAGE: Octopus Overlords
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/Octopus_Overlords
+======================================================================
+
+Octopus Overlords
+Worships:
+Danalin
+and Beings Made By Hemah's Dreams
+Strengths:
+Prophecy, Primordial Power
+Weaknesses:
+Madness, Cruelty, Apathy
+Alignment Effect:
+Change
+Good
+to
+Neutral
+Heroes:
+Hemah
+Saverous
+Founded By:
+Message from the Deep
+Enables:
+Available
+Temple of the Overlords
+Zealot
+As State Religion
+Asylum
+Cultist
+Drown
+Kraken
+Lunatic
+Mind Stapling
+Speaker
+Stygian Guard
+Tower of Complacency
+Shrine:
+The Necronomicon
+Type:
+Religion
+Background
+The power beneath the Aegean waves is said to be more powerful than any other, but the Overlords are unfocused and follow a thousand different obscure agendas. The Disciples of the Overlords dare not expose themselves directly to the conflicting commands of their masters and instead use the poor as intermediaries. They are quickly driven insane by the process, which the disciples prefer as it keeps them from manipulating the message. They also share the process of turning a Warrior into The Drown (undead thralls), a process with few volunteers.
+Each word of the name can well describe one aspect of the religion. Octopus is a creature more alien to man (and elves, etc.) than certainly any mammal, and even the lizardmen and others. They are incomprehensible, and thus maddening. Completely alien, and so uncaring of human's fate. Overlords show the view of this religion has of itself. Its leaders serve the Deep Monsters, and their goal is subjugation of the world.
+Their domain is stolen from its rightful steward, or at least subverted. So the overlords are both reckless and insecure in their powers, and thus rarely subtle; they never use a breeze when a typhoon would do.
+The Octopus Overlords themselves are thought to have been created by the the most powerful effective dreams of Hemah. Hemah, in turn, is nothing but an effective dream of Danalin, the God of Water who has chosen to sleep rather than wake to farce a world without his beloved
+Aifons
+.
+Hastur
+, the Lord of Nightmares and Archangel under
+Mammon
+, God of Mind, snuck into Danalin's Vault and now whispers in his ear, corrupting his dreams (the life of Hemah and, through him, the Ovelords and all of Erebus) into a horrible nightmare.
+
+======================================================================
+PAGE: Religion
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/Religion
+======================================================================
+
+Religion plays a large role in Fall from Heaven - much more so than in a normal game of Civilization. Each religion plays completely differently from all others, giving access to unique
+units
+,
+civics
+,
+buildings
+,
+spells
+and abilities, as well as modifying a civilization's
+Alignment
+(see link for details).
+For example, following the teachings of the Order allows access to Confessors (powerful support casters), Basilicas (unique buildings that reduce mainenance), as well as the Social Order civic (allows military units to grant happiness like the Hereditary Rule civic from Civilization 4). The Ashen Veil, on the other hand, enables the training of Ritualists (offensive area-of-effect damage priests) and the Sacrifice the Weak civic (halves food requirements for cities), as well as many other things.
+The religions are, in the order from Good to Evil:
+The Order
+Junil, the elder of the Gods, had promised to stay apart from the conflict in Creation. No one knows why he decided to change his mind, some say it was to combat the influence of the Ashen Veil, others that it was jealousy. Regardless of his reasons, he promised salvation to the least of men and asked only one thing in return: unquestioning obedience.
+The Empyrean
+Where the Order values law, the Empyrean values wisdom. Adjudication started from the teachings of Lugus and punishment is not based on adherence to a labyrinthian codex of laws, but from direct consol on the merits of each case. Social equality and impartiality are the model between a government and its citizens as well as between empires. As such the Empyrean gives equal voice to small empires as it does those that dominate Erebus.
+Runes of Kilmorph
+Kilmorph is the goddess of the earth, She Who Dwells Beneath. She formed children out of stone, the Dwarves, and taught them the secrets of metalworking. One of the first religions available to the men of the world, Kilmorph will answer the prayers of honorable men and even send her soldiers to defend their cities.
+Fellowship of Leaves
+Deep in the woods, the whispers of Elves linger. Ancient protectors normally above the affairs of men, some men have shown enough loyalty to them to be taught their magic.
+Octopus Overlords
+The power beneath the Aegean waves is said to be more powerful than any other, but the Overlords are unfocused and follow a thousand different obscure agendas. The Disciples of the Overlords dare not expose themselves directly to the conflicting commands of their masters and instead use the poor as intermediaries. They are quickly driven insane by the process, which the disciples prefer as it keeps them from manipulating the message. They also share the process of turning a Warrior into The Drown, undead thralls, a process with few volunteers.
+Council of Esus
+An oddity among the religions the Council of Esus has no disciples, priests, high priests or temples. Instead all of its abilities are practiced by units that worship the religion. Any unit that worships Esus can pay to spread religion in a city. That theme, paying for miracles, is common in the Council of Esus.
+The Ashen Veil
+Mages spent weeks in meditation, exploring the farthest reaches of the ethereal world. The demands of the body were ignored, and they survived sustained only by magic. Their efforts were rewarded, a sentience was contacted, dark and horrible. It whispered secrets into the mages' minds, secrets of necromancy, diseases, sacrifical rites. It promised power in exchange for their blood, and they freely gave it.
+Details on Religion
+Religion
+Alignement
+Tech
+Enables building of:
+Mana from Shirne
+Shirne Founded by
+Temple provides
+Other Features
+Order
+Good
+Orders from Heaven
+Valin Phanuel
+Sphener
+Prior
+Confessor
+Crusader
+Basilica
+Code of Junil
++1 Law Mana
+GP
++10%
+(Military)
+Enables
+Social Order
+Civic
+Enables
+Command IV
+promotion
+75% Chance to spawn an
+Acolyte
+when Order spreads to new city, or a
+Crusader
+if
+Fanaticism
+has been researched.
+Spreading Order to a city with
+Ashen Veil
+present will either remove AV from the city or fail to spread Order.
+Empyrean
+Good or Neutral
+Honor
+Chalid Astrakein
+Luridus
+Vicar
+Radiant Guard
+Ratha
+Dies Diei
++1 Sun Mana
+GP
++10%
+Runes of Kilmorph
+Good or Neutral
+Way of the Earthmother
+Bambur
+Arthendain
+Mithril Golem
+(Requires Holy City)
+Runekeeper
+Stonewarden
+Paramander
+Soldier of Kilmorph
+Mines of Gal-Dur
+Tablets of Bambur
++1 Earth Mana
+GP
++2
+Enables Research of
+Arete
+Enables
+Arete
+Civic
+Fellowship of Leaves
+Good or Evil or Neutral
+Way of the Forests
+Kithra Kyriel
+Yvain
+High Priest of Leaves
+Priest of Leaves
+Satyr
+Fawn
+Treant
+Song of Autumn
++1 Nature Mana
+GP or GB
++1
+Enables Research of
+Hidden Paths
+Enables
+Guardian of Nature
+civic
+Forests
+in your borders can transform into
+Ancient Forests
+.
+When an enemy unit enters an Ancient Forest within your borders, there is a chance a
+Treant
+will spawn.
+Octopus Overlords
+Evil or Neutral
+Message from the Deep
+Saverous
+Hemah
+Speaker
+Cultist
+Stygian Guard
+Drown
+Lunatic
+Asylum
+Tower of Complacency
+The Necronomicon
++1 Water Mana
+GP
++3
+Enables Research of
+Mind Stapling.
+Council of Esus
+Evil or Neutral
+Deception
+Gibbon Goetia
+Nightwatch
+Shadowrider
+Nox Noctis
++1 Shadow Mana
+GP or GM
+NO TEMPLE
+Cites with
+Council of Esus
+present (even without CoE as State Religion) can build:
+Shadow
+Dwarven Shadow
+(Khazad/Luchiurp)
+Courtesean
+(Balseraphs)
+Any unit with Council of Esus as religion can spread the Council of Esus for a nominal gold fee (unit is not consumed).
+Any
+Recon Unit
+with Council of Esus as religion can cast
+Mask
+and
+Steal
+(Steal requires CoE as State religion).
+If set as State Religion, units are not forced out of enemy territory when declaring war.
+Religion choice is hidden to all civilizations if following Council of Esus.
+Ashen Veil
+Evil
+Corruption of Spirit
+Rosier the Fallen
+Mardero
+Meshabber of Dis
+(Requires Holy City)
+Profane
+Ritualist
+Diseased Corpses
+Beast of Agares
+Demons' Altar
+Stigmata on the Unborn
++1 Entropy Mana
+GP or  GS
++2
+Enables Research of
+Infernal Pact
+Enables
+Sacrifice the Weak
+civic
+Spreading Ashen Veil to a city with
+Order
+present will either remove Order from the city or fail to spread AV.
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits
+
+======================================================================
+PAGE: Rosier the Fallen
+CATEGORIES: Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Rosier_the_Fallen
+======================================================================
+
+Rosier the Fallen
+Race:
+Human
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+The Ashen Veil
+as State
+Religion
+Corruption of Spirit
+Starts With:
+Does Not Receive Defensive Bonuses
++40% against
+Disciple Units
+25% Withdrawal Rate
+Immune to Disease
+Hero
+Religion: The Ashen Veil
+Info:
+7
++1
+Unholy
+3
+Cost:
+180
+Special:
+Will abandon civilization if state religion switches from The Ashen Veil
++2 to the
+Armageddon Counter
+There were four in the chamber--tradition said there should only be three, and it wasn't like the Order to break tradition. The room was round with a domed ceiling and a mosaic of Lord Sabathiel on it. It was late, and the evening prayers could be heard echoing from the sanctuary.
+Rosier knelt on the floor; he was an Oath-taker here to report on an oath he had exacted. The Oath-takers served two roles: exacting oaths, and punishing those that broke them. As was typical, there was also a Confessor here. The Confessors extracted information, they were the eyes and the ears of the Order, and they served as a witness and record keeper for these trials. The last normal member of the trial was a Diviner. A Diviner was able to tell if any Oath made in Junil's name would be broken or not.
+What had Rosier flush with anger was the Diviner's instances on having a fourth person at the meeting: a fellow Oath-taker, Valin Phanuel. Valin stood back by the door, unsure of what to do. The trial (like all things the Order did) had very precise steps. It was a ceremony for three people, and only the Diviner seemed comfortable breaking that. She started.
+"Arise Rosier, Knight of the 2nd Heart, Oath-taker and Nonpareil."
+Rosier stood and repeated the phrase, as he had many times before, "I am the shield till the sword comes free, I am a bearer of the law until my lord gives me rest, I am a keeper of peace until the oath is broken."
+"What oath do you bring me, child?"
+This Diviner was new, a woman, which was unusual. The former Diviner of the Abbey had been called back, the reason unknown. This was the first time Rosier had met the new Diviner, but he had heard that her unusual behavior had infuriated more than just the Abbey Confessor. Rosier pushed those thoughts back and focused on the reason he was here.
+"At the Osul mountains, a small company of Twisted men were captured. They had served the Burnt Priest, but with him dead and his summoned legions gone, they were left unprovisioned and far from their homeland. I gave them the oath, that they should give up their violence and travel back to their homelands, understanding that the way would be difficult, but that they would be unhindered by the Order if they stayed true to their oath. Each one agreed."
+The Confessor wrote the details in a tome; when the trial was finished, it would be packaged carefully and delivered to the Cynosure of Junil. When he was done writing he methodically intoned, "What we three decide shall become law, let no one break it. Ask the question."
+He glared at Valin when he said three, unwilling to change his script to account for him, as if his conviction of the sanctity of the trial would keep Valin from being able to witness it.
+Rosier continued, "Will the Twisted men keep their oath?"
+The Diviner considered Rosier carefully. The old Diviner would pray here, maybe walk around the room, speak to Junil in angelic languages. But this Diviner, she only sat staring at Rosier. Then she spoke.
+"What do you think?"
+The Confessor just about exploded. He couldn't say anything, it wasn't his turn to speak, but he turned white, and then red, and then back to white again. In his horror, he even dripped ink on the tome, and took it to be a sure sign from Junil that everyone in the room was going to be destroyed.
+"Me?"
+"Yes, Rosier, what do you think?"
+"The Osul can't support much life, and the twisted men aren't competent hunters. Many will starve before they get back to their home. After serving the Burnt Priest, they can't expect to receive any charity from what few people live in that area. Faced with death or the threat of death, most will choose the threat and break their Oath."
+"What causes men to break oaths?"
+Rosier was unprepared for the question, unaccustomed to being asked questions at all; that wasn't the nature of the Order. He thought about it.
+"A lot of things, greed, anger, lust. Something as minor as a desire to act unlawfully to something as big as a belief that the person is greater than the oath he made. There are probably as many different reasons as there are men."
+"Valin, what causes men to break oaths?"
+It was either so clear in his mind--or he was attempting to keep the Confessor from passing out--either way, he answered in one word, "Weakness."
+The Diviner considered again then seemed to come back to the trial.
+"Most of the Twisted men will break their oath. They will attempt to attack a village called Hallowell in 3 nights. Take a company of Oath-takers and wait for them there. Some of the Twisted men won't join the raid and will continue on, do not hinder them."
+Everyone in the room looked at the Confessor. He wasn't writing, he seemed confused on what to record and what to exclude as the Diviner's rambling. He hastily noted the Diviner's decision and intoned, "What we three decide shall become law, let no one break it."
+Rosier kneeled again and said his line, "I will carry out this duty, and pledge my life to this task and to Junil. This is my oath."
+The Diviner watched without expression. Rosier rose and left the room, Valin falling in behind him. Before Valin was out of the door, the Diviner called for him. Valin stepped back in and closed the door.
+"We have another trial to perform," said the Diviner.
+Valin looked at the Confessor, both equally confused. "I witnessed no oaths today."
+"You just did, and we will need to perform a trial on it."
+
+======================================================================
+PAGE: Runes of Kilmorph
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/Runes_of_Kilmorph
+======================================================================
+
+Runes of Kilmorph
+Worships:
+Kilmorph
+Strengths:
+Craftsmanship, Prudence, Integrity
+Weaknesses:
+Greed, Materialism, Uncharitability
+Alignment Effect:
+Change
+Evil
+to
+Neutral
+Heroes:
+Arthendain
+Bambur
+Mithril Golem
+Founded By:
+Way of the Earthmother
+Enables:
+Available
+Temple of Kilmorph
+Thane of Kilmorph
+As State Religion
+Arete
+Arete (Civic)
+Mines of Gal-Dur
+Paramander
+Runekeeper
+Soldier of Kilmorph
+Stonewarden
+Shrine:
+Tablets of Bambur
+Type:
+Religion
+Kilmorph is the goddess of the earth, She Who Dwells Beneath. She formed children out of stone, the Dwarves, and taught them the secrets of metalworking. One of the first religions available to the men of the world, Kilmorph will answer the prayers of honorable men and even send her soldiers to defend their cities.
+The Runes of Kilmorph is a personal guideline, resulting from the stories of the first dwarves, mainly emphasizing integrity and personal responsibility. Followers are exhorted to do their best in their craft, deal honestly with everyone, and to repay their debts. This is especially applied to family and close kin, and results in tight communal loyalty. Followers of Kilmorph are usually quite industrious and seldom cheat their customers. Since this results in a prosperous economy, some followers mistake the benefits of the creed for its goals, and greed is not an unfamiliar vice. But they may not be so quick to help a stranger in need, especially one from another culture, nation, or religion, and unlike
+The Order
+or
+The Empyrean
+, they would seldom be roused to arms in defense of a foreign land - unless those foreigners had done them a favor in the past.
+They are also the most traditional of the religions, and in many cases this tradition is as limiting as it is unifying. Kilmorph exemplifies excellence, but not from raw talent. It is an excellence gained over the years from practice and redundancy.
+References
+Strategy Guide Written for FfH 2.033 Patch G, by Xienwolf.
+Theme: Neutral/Earth.
+
+======================================================================
+PAGE: Saverous
+CATEGORIES: Demon Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Saverous
+======================================================================
+
+Saverous
+Race:
+Demon
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Octopus Overlords
+as State
+Religion
+Mind Stapling
+Starts With:
++25% against
+Melee Units
+Can Use Bronze, Iron, Mithril Weapons
+Demon
+Hero
+Religion: Octopus Overlords
+Info:
+5
++2
+Unholy
+1
+Cost:
+180
+Special:
+Will abandon civilization if state
+religion
+switches from Octopus Overlords
+The Doviello carry crude weapons into battle, a throwing rock bigger than a man's head or a stout branch. They use these makeshift weapons because they were temporary. The first opponent killed becomes their weapon of choice. Grabbed by the ankles, they would be swung like a meaty flail. Blood sprayed over opponents, and every swing would lose more and more of the corpse, until another was needed to replace the first. At this point in the battle, the "weapons" were always readily available. Occasionally, an opponent would be grabbed while still alive. The effect of being beaten by a bloody body that was screaming at you while it happened is traumatizing to even the most hardened warrior. Few armies were willing to face even a few hundred Doviello.
+Saverous was a Doviello warrior, captured by the Burnt Priest and transported to an asylum where he could be the subject of experiments. He would have died there, or worse, gone months without death, but a war began. The Overlords searched their slaves for useful bodies, warriors were sacrificed, priests were pulled from their work to fight. Saverous was nearly 9 feet tall, his body still strong, even if his mind was broken from the experiments. They made him into a thrull.
+Possessed by a demon and inscribed with runes that hardened his skin and strengthened his muscles, Saverous was loosed on the battlefield, and Arawn help any man who stood in his way.
+
+======================================================================
+PAGE: Song of Autumn
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Song_of_Autumn
+======================================================================
+
+Song of Autumn
+Requires:
+Great Prophet
+or
+Great Bard
+Fellowship of Leaves
+Holy City
+Info:
+1 Free
+Nature Mana
++1
+for every city in the world with Fellowship of Leaves
+Fellowship of Leaves spreads quicker along
+Trade Routes
++2
+Great Bard
++4
+Allows 1
+Bard
+and 2
+Priest
+Cost:
+N/A
+Type:
+Religious Shrine
+
+======================================================================
+PAGE: Sphener
+CATEGORIES: Angel Units, Disciple Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Sphener
+======================================================================
+
+Sphener
+Race:
+Angel
+Unit Class:
+Disciple Unit
+Hero
+Requires:
+The Order
+as State
+Religion
+Righteousness
+Starts With:
+Medic I
+Demon Slaying
+Channeling I
+Channeling II
+Channeling III
+Life I
+Angel
+Hero
+Info:
+12
++4
+Holy
+2
+Cost:
+240
+Special:
+Will abandon civilization if state
+religion
+switches from The Order
+-3 to the
+Armageddon Counter
+The room was perfectly formed: identical grey tiles covered the floor and fluted columns were evenly spaced throughout the hall. Angels knelt or were seated according to their rank, which was also reflected in their dress, although the differences were often too slight for mortal eyes to recognize. In fact, the perfection of the chamber, from the exact proportions down to each fold in every angels robe, was so off-putting to mortal eyes that even the most precise couldn't help feeling like he threw the room, or the entire heaven, out of balance by his very existence.
+Junil stood in the center of the chamber unwavering. Words and reports were unnessesary, there was no outward sign of stress or panic, yet every angel's focus was on the same event: sacred ground was being desecrated. It was the Seven Pines, the place that the Compact was signed. It was sacred to many gods, but Junil had committed to keeping the area safe before the gods had agreed to the Compact, to ensure that the Gods and their emissaries could meet there safely, and now that oath wasn't being kept.
+It was the Compact itself that caused the problem, it stated that the gods and angels couldn't intervene directly with the affairs of men, instead they had to work through them by various limited and archaic means, none of which helped in this situation. Those loyal to Junil had been killed, struck down quickly through a form of stealth that obscured even the sight of the angelic watchers.
+In the Seven Pines, there were symbols for each of the gods that existed at the time of the Compact. The svartalfar were stealing the symbols, all those except the symbol of their own god, Esus. Junil's symbol was a sword and shield that hung from one of the trees in the glade. A svartalfar assssin went to claim the symbol as a personal trophy.
+Sphener broke the perfection of the room and stood. The angel opposite him, who was supposed to mirror his movements in every ritualized action, seemed confused. Was he supposed to follow, was this some ritual he had forgotten or was Sphener breaking the laws of the chamber? Other angels in the chamber, including Sphener's own lord, allowed a brief crease of annoyance to cross their foreheads to show their extreme disapproval of Sphener's action. Junil showed no reaction.
+Sphener crossed the perfect floor and kneeled before the god of law. He spoke, following the tradition of the few mortals that had come here to petition Junil, as an angel had never done so before.
+"Great lord, allow me to keep your promise and protect the Seven Pines. Cast me from the vault, take from me the divine essence and have me reborn mortal such that my actions will not break the Compact and both oaths will remain fulfilled."
+Junil turned his eyes to the prostrate lesser angel. His hesitation was not from concern, but from a consideration of the possible outcomes: would Sphener be able to defend the Pines, was Sphener more useful in creation than he was in heaven, was there another way to maintain both oaths, what would keep the same event from occurring again? Junil turned his focus on the svartalfar attackers and decided that Sphener could defeat them; the laws were clear, if an angel wished to fall, he could.
+Junil responded with only one word, "Approved", and Sphener was gone from the chamber.
+The svartalfar assassin smiled as he considered his own reflection in the sword's gleaming blade. The sword was too heavy and long for him but it would sell for a lifetime's wages. Then the sword was yanked out of his hands, he spun expecting to see one of his companions and found himself staring into the breastplate of an 8-foot-tall angel instead.
+The sword was functional as well as ornamental and Sphener cut him down. Like a scythe through grain, Sphener set on the rest, they were killed quickly, but it took longer for Sphener to replace all of the artifacts and remove any trace that they had been there from the Pines. When it was finally complete, he knelt and prayed.
+When Sphener ended his prayer, the Pines were gone; Junil had removed it from creation to keep it safe. All that was left behind was the sword and shield. Sphener took them and headed into the woods. He had long been curious about creation and looked forward to serving Junil in this new role.
+
+======================================================================
+PAGE: Stigmata on the Unborn
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Stigmata_on_the_Unborn
+======================================================================
+
+Stigmata on the Unborn
+Requires:
+Great Prophet
+or
+Great Sage
+The Ashen Veil
+Holy City
+Info:
+1 Free
+Entropy Mana
++1
+for every city in the world with The Ashen Veil
+The Ashen Veil spreads quicker along
+Trade Routes
++2
+Great Sage
++4
+Allows 1
+Sage
+and 2
+Priest
+All
+Units
+built in city receive
+Stigmata
+Promotion
+Cost:
+N/A
+Type:
+Religious Shrine
+Special:
+Adds 5 to the
+Armageddon Counter
+The profane nailed the prophet to the stone,
+and had him opened to the sky.
+The sheet torn from their covered eyes,
+they gazed upon the unveiled world as true.
+The unborn saw and screamed and wriggled in the womb,
+and came unto the world adark, atainted and corrupt.
+
+======================================================================
+PAGE: Tablets of Bambur
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tablets_of_Bambur
+======================================================================
+
+Tablets of Bambur
+Requires:
+Great Prophet
+Rune of Kilmorph
+Holy City
+Info:
+1 Free
+Earth Mana
++1
+for every city in the world with Runes of Kilmorph
+Runes of Kilmorph spreads quicker along
+Trade Routes
++2
+Great Engineer
++4
+Allows 1
+Engineer
+and 2
+Priest
+Cost:
+N/A
+Type:
+Religious Shrine
+
+======================================================================
+PAGE: The Ashen Veil
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/The_Ashen_Veil
+======================================================================
+
+The Ashen Veil
+Worships:
+Agares
+Strengths:
+Forbidden Knowledge, Magic, Power
+Weaknesses:
+Wickedness, Degeneration, Pride
+Alignment Effect:
+Change to
+Evil
+Heroes:
+Mardero
+Rosier the Fallen
+Founded By:
+Corruption of Spirit
+Enables:
+Available
+Savant
+Temple of the Veil
+As State Religion
+Beast of Agares
+Demons' Altar
+Diseased Corpses
+Infernal Pact
+Profane
+Ritualist
+Sacrifice the Weak
+Shrine:
+Stigmata of the Unborn
+Special:
+The
+Armageddon Counter
+is raised by 1 for every city The Ashen Veils is spread to
+Razing a city with The Ashen Veil in it lowers the Armageddon Counter
+Infernals
+can seize control of 1 of the 3 best cities with The Ashen Veil by the
+World Spell
+,
+Hyborem's Whisper
+Type:
+Religion
+Mages spent weeks in meditation, exploring the farthest reaches of the ethereal world. The demands of the body were ignored, and they survived sustained only by magic. Their efforts were rewarded, a sentience was contacted, dark and horrible. It whispered secrets into the mages' minds, secrets of necromancy, diseases, sacrificial rites. It promised power in exchange for their blood, and they freely gave it.
+Their goals are obvious and the evil undeniable, but what motivates them? I see 3 tiers. The initiate seeks power, more quickly than through the council, and of course with fewer restrictions than any good religion. Later, they have gotten their power, taken their revenge or whatever, but it is quickly coming time to pay the piper, and lest they be taken by the
+demons
+they bargained with, they need to find others to fill the ranks. Finally, the very upper echelon serve the same cause as their god--corrupting the world. So that when judgement day comes,
+Agares
+and his servants can point to the huge numbers of the fallen and say, "See, Temporance was flawed; my mistakes were not my fault!" So they seek to justify themselves by damning the rest of creation.
+Needless to say, they aren't very nice to be around, feeling no remorse for any sort of cruelty or coercion; but this isn't to say that they can't work together towards their goals, even get along. Most do not pursue cruelty for its own sake Though it would certainly not offend them if their peers were, they don't by and large indulge in it for it's own sake as the
+Octopus Overlords
+might.
+When the Ashen Veil spreads to a new city, the
+AC
+is increased by 1 point. Razing Cities with the Ashen Veil present will lower the AC instead of raising it. The
+Infernals
+can take over 1 of the best 3 cities with Ashen Veil present without any fight required via their World Spell,
+Hyborem's Whisper
+.
+Concept art of the desolated lands with the Ashen Veil.
+See also
+Religions
+Heroes
+Civilizations
+
+======================================================================
+PAGE: The Empyrean
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/The_Empyrean
+======================================================================
+
+The Empyrean
+Worships:
+Lugus
+Strengths:
+Honesty, Compassion, Justice
+Weaknesses:
+Naivety, Tolerance
+Alignment Effect:
+Change
+Evil
+to
+Neutral
+Heroes:
+Chalid Astrakein
+Founded By:
+Honor
+Enables:
+Available
+Ecclesiastic
+Temple of the Empyrean
+As State Religion
+Luridus
+Radiant Guard
+Ratha
+Vicar
+Shrine:
+Dies Diei
+Type:
+Religion
+Strategy
+Where
+The Order
+values law, The Empyrean values wisdom. Adjudication started from the teachings of Lugus and punishment is not based on adherence to a labyrinthian codex of laws, but from direct consultation on the merits of each case.
+Social equality and impartiality are the model between a government and its citizens as well as between empires. As such The Empyrean gives equal voice to small empires as it does those that dominate
+Erebus
+. "As every dawn is a new beginning for the world, so too can dawn break in even the darkest heart" The Sun rises every day, bringing a new dawn and a new opportunity. In the same way, The Empyrean prize redemption and reconciliation.
+People are given a new chance, even
+evil-doers
+. They are not infinitely patient, but err in the opposite direction of The Order. This is extended to other civilizations by leaders following The Empyrean, but if the evil leaders fail to heed their calls to repent, The Empyrean can certainly be roused to arms for their faith.
+"The sun brings light and life; do not cloak yourself in shadows, but let your own light be an illumination." Another aspect of this religion is its opposition to shadows, darkness, and hidden things. All of their society is open; people try to live by example. This can lead to a certain self-righteousness, and certainly to gossip, etc., but deception is almost unheard of, and even tact may be rare.
+The Empyrean seek redemption where The Order seeks retribution. They argue laws while The Order enforces laws.
+The two can be potent allies, with The Order serving as the arm of the more cerebral Empryean, but they have a very different outlook on how best to approach evil. The aspect of creation that the Empryean exemplifies is revelation, that perfect unalterable truth. The quest for these leads to a lot of very high level discussions on most matters and a tendency to seek the perfect answer when none may exist.
+References
+The Empyrean empire shines!
+Strategy Guide Written for FfH 2.033 Patch G, by Xienwolf.
+Theme: Good-Neutral/Sun.
+
+======================================================================
+PAGE: The Mithril Golem
+CATEGORIES: Armageddon Events, Golem Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/The_Mithril_Golem
+======================================================================
+
+The Mithril Golem
+Race:
+Golem
+Unit Class:
+None
+Hero
+Requires:
+Runes of Kilmorph
+as State
+religion
+Must be Built in Runes of Kilmorph Holy City
+Mithril Working
+Mithril
+Armageddon Counter
+at least 70
+Starts With:
++60% City Attack
+Golem
+Sentry I
+Divine
+Earth III
+Religion:
+Runes of Kilmorph
+Info:
+25
+1
+Cost:
+5000
+Special:
+Will abandon civilization if state religion switches from Runes of Kilmorph
+Mithril is prized in part for its ability to resist spells of all kinds, leading to highly sought after armor for any warrior. However, even the Luchuirp Arch-Enchanters found themselves unable to bind any enchantments, no matter what form it was given. For a long time the idea was thought to be impossible. Then one day a dwarven city was overrun by a legion of drowned. The stone warden who found the ruins cried out to Kilmorph, rending his robes as he fell to his knees in horror. Even dwarven woman and child had been beheaded, the men dragged towards the waters, presumably to rise again and spread the misery further through the land. Kilmorph's heart broke, and she spoke to the Stonewarden, instructing him to build the largest golem ever seen, shaped like a dwarf but cast of pure Mithril. When the time golem was finished, he was told, Kilmorph would give it life as their spells could not. What they would do with it was up to them; the goddess knew she was intervening too much already. The Stonewarden nodded, and gathered his hammer and set off for the Holy city. It would take a long time to forge the parts, and much blood would be shed as he toiled stoically day after day. But the evil would be pushed from the land--forever.
+
+======================================================================
+PAGE: The Necronomicon
+CATEGORIES: Religious Shrines, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Necronomicon
+======================================================================
+
+The Necronomicon
+Requires:
+Great Prophet
+Octopus Overlords
+Holy City
+Info:
+1 Free
+Water Mana
++1
+for every city in the world with Octopus Overlords
+Octopus Overlords spreads quicker along
+Trade Routes
++3 to the Armaggedon Counter
++2
+Great Prophet
++4
+Allows 1
+Sage
+and 2
+Priest
+Cost:
+N/A
+Type:
+Religious Shrine
+
+======================================================================
+PAGE: The Order
+CATEGORIES: Religion
+URL: https://fallfromheaven.fandom.com/wiki/The_Order
+======================================================================
+
+The Order
+Worships:
+Junil
+Strengths:
+Honor, Law, Duty
+Weaknesses:
+Pride, Rigidity, Callousness
+Alignment Effect:
+Change to
+Good
+Heroes:
+Valin Phanuel
+Sphener
+Founded By:
+Orders from Heaven
+Enables:
+Available
+Acolyte
+Temple of the Order
+As State Religion
+Basilica
+Confessor
+Crusader
+Prior
+Social Order
+Shrine:
+Code of Junil
+Special:
+75% Chance to spawn an Acolyte when The Order spreads to new city, or a Crusader if
+Fanaticism
+has been researched
+Type:
+Religion
+The Order is a strong religion for a large empire, thank to its unique Basilica building that lowers maintenance. Their priests are called Confessors, and they are able to
+Bless
+your troops for +1 Holy Damage in their next combat.
+Background
+Junil, the eldest of the Gods, had promised to stay apart from the conflict in Creation. No one knows why he decided
+to change that, some say it was to combat the influence of the Ashen Veil, others that it was jealousy. Regardless of his
+reasons, he promised salvation to the least of men and asked only one thing in return: unquestioning obedience.
+Overall The Order is easy to understand, but also easy to caricature. They are not infallible, as is their goal, but they are one of the most good religions.
+Law is basically a code that applies universally. The Order is certainly judgmental, but that isn't to say they judge based on taste or individual preference. Everyone is subject to the same laws and appropriate consequences, be they king or pauper. Further, they believe this applies to all people, not just the followers of their religion. Consequences fit the Crime, guilty are punished, and the innocent are protected. But while they make a more or less just society, mercy and redemption are weak points of The Order.
+The other theme of The Order is its conflict with demons. The principle reason why The Order is rightly labeled good is because they are willing to die to protect others from demonic oppression.
+Upon spreading to a new city, there is a 75% chance that an Acolyte will spawn, or if the controlling player knows Fanaticism, a Crusader.
+Gameplay
+The Order offers numerous advantages to its adherents, but even temporarily adopting The Order will permit you to build:
+Basiclicas
+, which stack with Courthouses to lower maintenace even more.
+Confessors
+who can
+Bless
+your troops before every combat.
+You may stick with The Order to:
+train Priors, that will sit in your four major cities eradicating unhappiness with
+Unyielding Order
+(No
+in City, -100% City Maintenance, -10 to Crime Rate)
+adopt Social Order (+1
+per Military Unit Stationed in City, +1
+from Basilica, +1
+from Courthouse)
+enjoy the random spawn of free
+Crusaders
+gain the fast moving
+Valin Phanuel
+gain the powerhouse
+Sphener
+In the late game, a large empaire with Order religion,
+Religious Law
+tech,
+Social Order
+civic,
+Courthouse
+and
+Basilica
+in every city, will enjoy -80% Maintenance, -20 to Crime Rate, +2
+, and +1
+per Military Unit Stationed.
+
+======================================================================
+PAGE: Valin Phanuel
+CATEGORIES: Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Valin_Phanuel
+======================================================================
+
+Valin Phanuel
+Race:
+Human
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+The Order
+as State
+Religion
+Orders from Heaven
+Starts With:
+Does Not Receive Defensive Bonuses
+25% Withdrawal Chance
+Immune to Disease
+Demon Slaying
+Hero
+Religion:The Order
+Info:
+6
++2
+Holy
+3
+Cost:
+180
+Special:
+Will abandon civilization if state religion switches from The Order
+The guardsman, Nathan, has died. It seems we will have another burial.
+Valin checked Nathan and gave one more prayer before we carried him off of the road and to a small glade with soft ground. Valin and a few guards started digging while I set the blanket-wrapped body down and sat waiting for them to finish or a turn at a shovel.
+The bandits, or someone, had used the glade to hang their catches. Cut ropes hung from a few spots on the tree, and the grass directly beneath the ropes was tinged a dull brown in places. There weren't any deer hanging here now, but this was a spot accustomed to death.
+I was never asked to dig, and didn't offer to help, except to place the body in the shallow hole when it was complete. After the hole was covered, the men stood quiet for a second, then wandered back to the wagons to sleep, exhausted from the day. No one said anything about the boy.
+I sat at the edge of the glade, silent myself. Valin said another of his prayers then turned to walk back.
+"Why didn't your prayers heal him?"
+Valin wiped the sweat from his forehead as he considered the question. He seemed to be affected by the boy's death, at least more than the guards, but he hadn't said anything about it either. He and I were the last ones in the glade, if you didn't count the newly buried corpse.
+"I dont know why some get healed and some don't. I don't pretend to understand. I just know that people die, both good and evil, every day. I know there is a war being fought, and casualties on both sides. I wouldn't assume that either side is so much stronger that it overwhelms the other side in every battle and suffers no losses."
+"So there is only so much healing to go around? Your god healed the bruise I left on your face, but wouldn't save this boys life. Did you pray for this boy to be healed?"
+"I did."
+Valin looked around the glade, noticing the cut ropes and the blood marks in the grass for the first time. He began smoothing out the dirt on the grave, hoping that whoever hung deer here wouldn't notice or mess with it.
+"It's a war, thats all I know." Valin said.
+"My experience with war tells me that they typically suit the desires of the generals and emperors that wage them, but not the people that fight and die in them."
+Valin seemed ready to quip back something at me, but he bit his tongue and looked only at the cut ropes before responding.
+"When I was a boy, maybe 6 or 7 years old, I couldn't hunt with my father. I was soft-hearted, unable to kill a rabbit. I would cry if I even saw one dead. My father was a very strict man, and he wanted to raise me well. I was punished for my weakness, lashed, hit. But I still couldn't get used to the sight of blood."
+Valin paused, caught up in the memories in his head, before continuing.
+"He had taken away my food, stating that if I was unwilling to hunt I wouldn't share in the rewards of that hunt. I began sneaking food, radishes and onions from the garden. When he caught me I was punished..." Valin spit out the word, "and then he locked me in the smokehouse for two days."
+"There were fresh deer bleeding out in the smokehouse, and it was a tiny wooden shack, barely larger than an outhouse. I was starving, tired, and spent those two days terrified by the blood dripping on me, and the deer faces staring down from the darkness above me."
+"It sounds horrible." I couldn't figure out any other way to respond.
+"It was..." he searched for the word, "Traumatic. But afterwards I wasn't afraid of blood anymore."
+"Or you were just more scared of your father." He ignored my statement. "So are you saying Junil is like your father?"
+"No, I'm saying we are like children. We can hope for a perfect world, we can plead with our superiors to provide it, be they our parents, our emperors, or our gods. But our world isn't perfect, all we can do is try to strengthen the good we find and weaken the evil, and sometimes that means we will have to deal with blood. To fix a meal, or protect a caravan from lawless men."
+I was unconvinced but I didn't want to push Valin any further, so I only nodded and picked myself up. I helped him finish covering up the grave and then we walked back to the caravan and I fell into more of my nightmares of battle and killing, but this time Valin was there with me.
+--The Tale of Saverous, Act I: Chapter 9
+
+======================================================================
+PAGE: Way of the Earthmother
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Way_of_the_Earthmother
+======================================================================
+
+Way of the Earthmother
+Requires:
+Mining
+Mysticism
+Leads to:
+Arete
+Allows:
+First to Discover Founds
+Runes of Kilmorph
+Receive Free
+Thane of Kilmorph
+Soldier of Kilmorph
+Thane of Kilmorph
+Temple of Kilmorph
+Cost:
+500
+Type:
+Tech
+Nothing is more sacred than the earth that gave us birth.--The Tablets of Bambur
+Strategy
+Way of the Earthmother allows the researcher to found the Runes of Kilmorph, if they are the first to do so. If you have the Runes of Kilmorph as your State Religion, you may also research Arête after Way of the Earthmother. It also allows you to build Soldiers of Kilmorph (also requiring the Runes of Kilmorph in the city), which can be sacrificed to hurry a building, and Thanes of Kilmorph, which can spread the religion. You get a free Thane of Kilmorph when you obtain the technology.
+
+======================================================================
+PAGE: Way of the Forests
+CATEGORIES: Religious Techs
+URL: https://fallfromheaven.fandom.com/wiki/Way_of_the_Forests
+======================================================================
+
+Way of the Forests
+Requires:
+Hunting
+Mysticism
+Leads to:
+Hidden Paths
+Allows:
+First to Discover Founds
+Fellowship of Leaves
+Receive Free
+Disciple of Leaves
+Fawn
+Disciple of Leaves
+Temple of Leaves
+Cost:
+500
+Type:
+Tech
+The smallest patches of grass are more wondrous than the greatest monuments of rock and metal.--The Green Rites, chapter IV, sermon VII
+Strategy
+Way of the Forests allows the researcher to found the Fellowship of Leaves, if they are the first to do so. If you have the Fellowship of Leaves as your State Religion, you may also research Hidden Paths after Way of the Forests. It allows you to build Fawns, which are recon units that can capture animals, with the Fellowship of Leaves state religion, and you may build Disciples of Leaves (which can spread the religion) if the religion is present in your city. You are rewarded a free Disciple of Leaves when you obtain the technology.
+
+======================================================================
+PAGE: Yvain
+CATEGORIES: Disciple Units, Elven Units, Hero Units, Religious Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Yvain
+======================================================================
+
+Yvain
+Race:
+Treant
+Unit Class:
+Disciple Unit
+Hero
+Requires:
+Fellowship of Leaves
+as State
+Religion
+Commune with Nature
+Starts With:
+Cannot Pillage
++50 against
+Animals
++50% Attack and Defense in
+Forests
++100% Attack and Defense in
+Ancient Forests
+Better Results from Tribal Villages
+Can Move Through Impassable Terrain
+Elven
+Subdue Animal
+Channeling I
+Channeling II
+Channeling III
+Divine
+Nature I
+Life I
+Religion:Fellowship of the Leaves
+Info:
+9
++2
+Nature Mana
+Affinity
+2
+Cost:
+240
+Special:
+Will abandon civilization if religion switches from Fellowship of Leaves
+His ideas and character often lead others to believe that Yvain may be from the moon instead of the forests he cares for. His eccentric nature leads him across Erebus, visiting secluded glades, talking to exotic animals and chasing nymphs across pebbled river banks.
+Even some within the Fellowship question if Yvain has the sincerity his respected stature would seem to require of him, but none doubt that he is the most powerful Druid and the favored child of Cernunnos. It was Yvain that first dreamed of the Ancient Forests and who is the first to face every newly discovered wilderness. To everyone who delights in finding the wonders of this world, know that the Woodelf has walked through these places before, and that they are all the more amazing because of it.

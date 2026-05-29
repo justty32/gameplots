@@ -1,0 +1,260 @@
+
+======================================================================
+PAGE: Elven Slave
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Elven_Slave
+======================================================================
+
+Elven Slave
+Race:
+Elven
+Unit Class:
+No Unit Class
+Requires:
+Purchased from
+Slave Ring
+OR
+Captured after combat
+Starts With:
+Elven
+Info:
+0
+2
+Cost:
+N/A
+Upgrades To:
+Lunatic
+Special:
+Builds at 40% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Can Sacrifice for 10
+Replaces:
+Slave
+A civilization with the Slavery civic will capture 25% of the units it defeats in combat and convert them into slave units. A slave acts like a worker, but builds at half the normal speed. Slaves can also be sacrificed to add a small amount of production to a city's current production.
+
+======================================================================
+PAGE: Elven Worker
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Elven_Worker
+======================================================================
+
+Elven Worker
+Race:
+Elven
+Unit Class:
+No Unit Class
+Requires:
+Ljosalfar
+or
+Svartalfar
+Starts With:
+Elven
+Info:
+0
+2
+Cost:
+75
+Special:
+Can Build
+Improvements
+on top of
+Forests
+Builds at 80% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+Replaces:
+Worker
+The majority of people in all civilizations throughout time have been workers. Whether engaged in farming, commerce, or industry, their actions form the economic infrastructure without which no nation can succeed. Over time, the endless activity of workers has reshaped the very suface of the land by mining hills, cutting down huge stretches of forest, and irrigating hostile terrain into fertile farmland.
+
+======================================================================
+PAGE: Flurry
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Flurry
+======================================================================
+
+Flurry
+Race:
+Elven
+Unit Class:
+Archery Unit
+Requires:
+Machinery
+Bowyer
+Ljosalfar
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+1 First Strike
+Blitz
+Info:
+12
+2
+Cost:
+240
+Upgrades From:
+Archer
+Longbowman
+Strategy: A Flurry starts with the Blitz promotion and a 2 movement rate making it an excellent way to kill separate units, or clean up a stack after an Archmage has weakened it. Because of the Blitz promotion, the Flurry becomes even more powerful as it gains Mobility promotions.
+A civilizations archers will gain enough proficiency to guard a city or a hilltop with a diligent training. A few rare individuals put the hardest drilled longbowmen to shame, taking to the bow like second nature. These are the people a civilization must seek out and equip to produce the flurry, an elite squad of archers capable of obliterating an army on the march before it notices that it is under attack.
+
+======================================================================
+PAGE: Fyrdwell
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Fyrdwell
+======================================================================
+
+Fyrdwell
+Race:
+Elven
+Unit Class:
+Mounted Unit
+Requires:
+Stirrups
+Archery
+Stable
+Deer
+Ljosalfar
+Starts With:
+Does Not Receive Defensive Bonuses
++35% Withdrawal Chance
+1 First Strike
+Immune to First Strikes
+Elven
+Info:
+6
+3
+Cost:
+120
+Upgrages From:
+Horseman
+Upgrades To:
+Knight
+Background
+Reclusive even among the elves the Fyrdwell are a part of elven history most believe disappeared centuries ago. They consider even the agrarian settlements of the Ljosalfar too urban and spend their time in the fields with the deer or among the shadows of ancient oaks.
+But when war comes even the Fyrdwell join their brothers on the front lines. Although capable archers they aren't hunters and use the weapons only in defense and war. Soft skin and gentle hands turned to bowstrings and bandages.
+
+======================================================================
+PAGE: Illusionist (Unit)
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Illusionist_(Unit)
+======================================================================
+
+Illusionist
+Race:
+Elven
+Unit Class:
+Arcane Unit
+Requires:
+Sorcery
+Level 4
+Adept
+Svartalfar
+Starts With:
+Channeling I
+Channeling II
+Illusionist
+Elven
+1 Free Promotion
+Info:
+4
+1
+Cost:
+N/A
+Upgrades From:
+Adept
+Upgrades To:
+Archmage
+Special:
+Can Build
+Mana Nodes
+at 300% Workrate
+Replaces:
+Mage
+
+======================================================================
+PAGE: Nyxkin
+CATEGORIES: Elven Units
+URL: https://fallfromheaven.fandom.com/wiki/Nyxkin
+======================================================================
+
+Nyxkin
+Race:
+Elven
+Unit Class:
+Mounted Unit
+Requires:
+Stirrups
+Archery
+Stable
+Svartalfar
+Starts With:
+Does Not Receive Defensive Bonuses
++35% Withdrawal Chance
+1 First Strike
+Immune to First Strikes
+Elven
+Info:
+6
+3
+Cost:
+120
+Upgrages From:
+Horseman
+Upgrades To:
+Knight

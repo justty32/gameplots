@@ -1,0 +1,416 @@
+
+======================================================================
+PAGE: Breaching Wave
+CATEGORIES: Morgawr
+URL: https://endlesslegend.fandom.com/wiki/Breaching_Wave
+======================================================================
+
+Breaching Wave
+Faction
+Morgawr
+Obtained
+Era I
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Influence
+Effects:
++1
+on citadel
++1
+on revealed facility
+An Era I
+technology
+exclusive to the
+Morgawr
+which grants
+Influence for every citadel and revealed facility on fortresses the empire controls.
+Lore
+By learning how to exploit the psionic powers of Dust, Morgawr can locally break the systems designed by their jailers to inhibit their mental powers.
+
+======================================================================
+PAGE: Dust-Mind Decoupling
+CATEGORIES: Morgawr
+URL: https://endlesslegend.fandom.com/wiki/Dust-Mind_Decoupling
+======================================================================
+
+Dust-Mind Decoupling
+Faction
+Morgawr
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+Unlocks totems accessories
+An Era III
+technology
+exclusive to the
+Morgawr
+which unlocks totem accessories. It is unlocked by completing Chapter 5 of the Morgawr faction quest.
+Totems can only be equipped on units from assimilated minor factions. Totems greatly boost units' offensive stats, but at a high cost: totems all have the unique
+Cursed
+capacity, which blocks natural HP regeneration and causes a unit to instead lose 5% HP every turn. The only way to heal these units is to use in-combat abilities, like the
+Caecator
+'s, or
+Skoros
+'s unique
+army action
+.
+List of Totem Accessories
+Item
+Name
+Effects
+Capacities
+Lore
+Xanthid Totem
++50% Attack
+on unit
++50% Damage
+on unit
+30
+3
+3
+Formed from the shell fragments of a poisonous crab, this totem gives the wearer increased abilities, but at the cost of slowly draining their life.
+Stonefish Totem
++50% Initiative
+on unit
++50% Damage
+on unit
+30
+3
+3
+With a highly venomous fish as its fetish animal, this totem inflicts a curse that boosts the wearer's abilities while draining its life.
+Chironex Totem
++30% Attack
+on unit
++30% Initiative
+on unit
++50% Damage
+on unit
+60
+3
+3
+An object of devotion derived from a jellyfish that is the most venomous creature on Auriga, this totem confers great powers to the unit wearing it at the cost of rapid degeneration - and eventual death.
+Lore
+The ability of the Morgawr to control and influence the minds of others improves as it is practiced. They are now able to turn liberated spirits into pure Dust, linking living souls to ancient magics.
+
+======================================================================
+PAGE: Leviathan
+CATEGORIES: Morgawr, Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Leviathan
+======================================================================
+
+Leviathan
+Faction
+Morgawr
+Unit Type
+Submersible
+Base Attributes:
+Life
+132
+Attack
+58
+Initiative
+20
+Speed
+5
+Defense
+34
+Damage
+50
+Range
+1
+Sight
+4
+Cost:
+Production
+110
+The Leviathan is a naval submersible unit for the
+Morgawr
+. The Leviathan can be unlocked by
+researching
+it in Era II.
+Lore
+This giant creature of the deep is a dangerous foe whose powerful strikes can come at any moment; it can move stealthily then rise up to attack its target from the depths.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Submersion
+Cannot be submerged on coastal water tiles
+x5 Defense
+when submerged
+Can pass through opponent units
+Ignores Endless Flames effects
+Cannot counter attack
+Ignores sea weather penalties
+Can see invisible units
+Will become invisible when submerged
+Invisibility doesn't work against adjacent army
+Intimidation Aura
+-25% Initiative
+for adjacent opponents when attacking/defending
+Rapid Mutation
+Can be retrofit anywhere
+Equipment Slots
+Weapons
+Acid Spray
+Jaws
+Armor
+Plating
+or
+Hydrofoils
+2
+Officer
+Slots
+
+======================================================================
+PAGE: Main Maritime Academy
+CATEGORIES: Morgawr
+URL: https://endlesslegend.fandom.com/wiki/Main_Maritime_Academy
+======================================================================
+
+Main Maritime Academy
+Faction
+Morgawr
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Military
+Effects:
++80 XP when recruiting a unit on naval unit
+Need an exploited sea tile to be built
+Costs:
+Production
+200
+Resource
+5
+5
+Upkeep
+10
+per turn
+A
+city improvement
+exclusive to the
+Morgawr
+obtained from the
+Main Maritime Academy
+technology which is unlocked by completing Chapter 2 Part 1 of the Morgawr faction quest. Constructing the Main Maritime Academy requires the city to have at least 1 exploited sea tile.
+Lore
+Casting far and wide for particularly talented Morgawr, this collective turns out armies that are particularly skilled and capable in executing maritime actions.
+
+======================================================================
+PAGE: Main Maritime Academy (Technology)
+CATEGORIES: Morgawr
+URL: https://endlesslegend.fandom.com/wiki/Main_Maritime_Academy_(Technology)
+======================================================================
+
+Main Maritime Academy (Technology)
+Faction
+Morgawr
+Obtained
+Faction Quest
+Category
+Military
+Type
+City Improvement
+Focus
+Military
+Effects:
+Unlocks the Main Maritime Academy for construction
+An Era II
+technology
+exclusive to the
+Morgawr
+which unlocks construction of the
+Main Maritime Academy
+on cities. It is unlocked by completing Chapter 2 part 1 of the Morgawr faction quest.
+Lore
+Casting far and wide for particularly talented Morgawr, this collective turns out armies that are particularly skilled and capable in executing maritime actions.
+
+======================================================================
+PAGE: Mastermind
+CATEGORIES: Morgawr, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Mastermind
+======================================================================
+
+Mastermind
+Faction
+Morgawr
+Unit Type
+Support
+Base Attributes:
+Life
+90
+Attack
+10
+Initiative
+10
+Speed
+3
+Defense
+34
+Damage
+26
+Range
+3
+Sight
+5
+Cost:
+Production
+30
+The Mastermind is a support unit for the
+Morgawr
+, and is their only land unit. Two Masterminds constitute the starting force for the Morgawr. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Fast and with an excellent vision range, the amphibious Mastermind is solid in defense but particularly useful for unmasking enemy plans by spotting camouflaged or hidden units.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+True Sight
++2 Vision range
+Ignores line of sight
+Can see invisible units within its range of vision
+Amphibious
+Reduces movement cost on Rivers to 0.25.
+-1 Movement
+-1 Battle Movement
+Bloodlust
++30% Damage
+for 2 turns
+on friendly target
++30% Initiative
+for 2 turns
+on friendly target
++2 Battle movement
+for 2 turns
+on friendly target
+-15% Life
+for 2 turns
+on friendly target
+Equipment Slots
+Weapons
+Quarterstaff
+Longscepter
+Magewand
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: No More Ties
+CATEGORIES: Morgawr
+URL: https://endlesslegend.fandom.com/wiki/No_More_Ties
+======================================================================
+
+No More Ties
+Faction
+Morgawr
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Industry
+Effects:
++1
+on ground tiles
++1
+on ground tiles
++2
+on ground tiles
++1
+on ground tiles
+An Era IV
+technology
+exclusive to the
+Morgawr
+which increases the Industry and Science of ground tiles, as well as increasing the speed of units on land. It is unlocked by completing Chapter 8 of the Morgawr faction quest.
+Lore
+As the Morgawr grow more powerful, their mental strength and physical enhancements allow them to cut the ties that bind them to the water.
+
+======================================================================
+PAGE: Vore
+CATEGORIES: Morgawr, Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Vore
+======================================================================
+
+Vore
+Faction
+Morgawr
+Unit Type
+Frigate
+Base Attributes:
+Life
+124
+Attack
+37
+Initiative
+8
+Speed
+4
+Defense
+32
+Damage
+40
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Vore is a naval frigate unit for the
+Morgawr
+. The Vore can be unlocked by
+researching
+it in Era I.
+Lore
+The Vore is a solid fighter, but its great strength lies in its toughness and its ability to automatically lift its armor and improve defenses when attacked.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Turtle
++50% Defense
+after being attacked for the first time
+Lasts until the end of the battle
+Rapid Mutation
+Can be retrofit anywhere
+Equipment Slots
+Weapons
+Acid Spray
+Jaws
+Armor
+Plating
+or
+Hydrofoils
+Prow
+1
+Officer
+Slot

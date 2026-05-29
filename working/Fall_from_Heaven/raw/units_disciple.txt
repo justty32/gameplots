@@ -1,0 +1,1222 @@
+
+======================================================================
+PAGE: Acolyte
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Acolyte
+======================================================================
+
+Acolyte
+Race:
+Human
+Unit Class:
+Disciple Unit
+Requires:
+Orders from Heaven
+Temple of the Order
+Starts With:
+Cannot Pillage
+Can spread
+The Order
+Can sacrifice for 20
+Medic I
+Religion:The Order
+Info:
+3
+1
+Cost:
+60
+Upgrades To:
+Crusader
+Confessor
+Special:
+Is Never Obsolete
+Free unit given when
+Orders from Heaven
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Acolytes should be sacrificed freely and never upgraded to Crusaders or Confessors, as those units can gain all the promotions that an Acolyte could ever receive.
+Civilopedia Entry
+The aspiring acolyte was taken to the roof of the basilica or temple, alone with the ranking Confessor. It was a ritual, but one the acolyte had never before observed, and so also a test. Below them lies the city, with its teeming inhabitants. Merchants, soldiers, farmers, laborers, nobles, each on his own task.
+"Look out, my son," commands the confessor, "and tell me what you see."
+"Order," replies the young acolyte calmly.
+The confessor smiles. "How do you see order here? Each man follows his own will."
+"Order is brought by the law. As we follow the code of
+Junil
+, we are able to cooperate with one another, bringing about the ultimate expression of order, civilization. Each man's works contribute to the greater good without him knowing it, so long as those who harbor ill will are constrained by the law."
+"What is the greatest temptation of the faithful of Junil?"
+"Mercy."
+"Why?"
+"The children of mercy are redemption and injustice. To show mercy to the murderer is to show contempt for the slain, and to grant mercy to the thief is to impoverish his victims. The redemption of a foe is the greatest achievement, but by forgiveness without contrition one is only allowing future suffering. The brother who grants mercy to all sees compassion as his strength; in truth pride is his weakness and the seeds of future misery are sown in the community. Thus mercy must remain the discretion of the gods."
+"And so what is your greatest calling?"
+"Obedience. Unquestioning Obedience." This exchange complete, the acolyte will be bathed and blessed, a full member of the Order.
+- From chapter 2 of Reflections on the State Cults, by Elder Methyl of the
+Luonnotar
+.
+
+======================================================================
+PAGE: Confessor
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Confessor
+======================================================================
+
+Confessor
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+The Order
+as State
+Religion
+Temple of the Order
+Starts With:
+Cannot Pillage
+Medic I
+Medic II
+Channeling II
+Divine
+Spirit Guide
+Info:
+4
++1
+Holy
+1
+Cost:
+120
+Upgrades From:
+Acolyte
+Upgrades To:
+Prior
+Paladin
+Druid
+Eidolon
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Bless
+Can Cast
+Found Temple of the Order
+
+======================================================================
+PAGE: Crusader
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Crusader
+======================================================================
+
+Crusader
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Fanaticism
+The Order
+as State
+Religion
+Temple of the Order
+Copper
+or
+Iron
+or
+Mithril
+Starts With:
+Demon Slaying I
+Immune to Disease
+Medic I
+Religion:
+The Order
+Info:
+6
++1
+Holy
+1
+Cost:
+120
+Upgrades From:
+Acolyte
+Upgrades To:
+Paladin
+The religious fighting unit of
+The Order
+.
+Civilopedia
+Strategy
+Use the Crusader to counter your opponent's Demonic units. Not only do they get a strength bonus against demons, but they are immune to disease, making them perfect to send into an area to eliminate any diseases the Ashen Veil and their Diseased Corpses have spread.
+Background
+The Crusaders are always at the front of the fight when the Order goes to war. When they are not dispatching their enemies to their false gods, the Crusaders are striding up and down the lines helping their wounded comrades or saying the final rites over those who have died at the hands of the ungodly. The Crusaders are a brotherhood of Hospitallers almost as old as the Order itself. Their ranks are swelled by faithful from all walks of life, because the armour, weapons and training are paid for from the deep coffers of the Order of Junil. Therefore the Crusaders consist of only the best warriors, priests and surgeons, regardless of whence they came. Some elite Crusaders may go on to become noble Paladins of the Order. Their brothers train to replace them when they fall in righteous combat.
+Gameplay
+A Crusader may spawn upon the spread of the Order into a city, if the city's civilization follows the Order and has already discovered the Fanaticism technology. This makes for a good investment, as by using a single Disciple or Priest unit, a player can convert that unit into a religion in the city (for happiness and possibly a free temple for the extra benefits), as well as a free 7 strength unit that could either be left there as a decent defender, or moved to the front lines as reinforcements. However, like all spawned units, they start without any XP.
+Crusaders are especially potent when paired with a
+Spiritual
+leader, since they will start with
+Mobility I
+.
+
+======================================================================
+PAGE: Cultist
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Cultist
+======================================================================
+
+Cultist
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+Temple of the Overlords
+Octopus Overlords
+as State
+Religion
+Starts With:
+Medic I
+Medic II
+Channeling II
+Divine
+Water Walking
+Religion:Octopus Overlords
+Info:
+5
+1
+Cost:
+120
+Upgrades From:
+Zealot
+Upgrades To:
+Speaker
+Paladin
+Druid
+Eidolon
+Special:
+Can Cast
+Cure Disease
+Tsunami
+Found Temple of the Overlords
+
+======================================================================
+PAGE: Disciple of Leaves
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Disciple_of_Leaves
+======================================================================
+
+Disciple of Leaves
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Way of the Forests
+Temple of Leaves
+Starts With:
+Cannot Pillage
+Can Spread
+Fellowship of Leaves
+Can Sacrifice for 20
+Medic I
+Religion:Fellowship of Leaves
+Info:
+3
+1
+Cost:
+60
+Upgrades To:
+Priest of Leaves
+Ranger
+Special:
+Is Never Obsolete
+Free unit given when
+Way of the Forests
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Uniquely among the basic Disciple units, Disciples of Leaves can be upgraded to Rangers at any level once
+Animal Handling
+is researched. Although Rangers can receive all the promotions that a Leaves Disciple may gain, upgrading in this way will give the Ranger the Disciple's free Medic I promotion. Training and upgrading a Disciple of Leaves in a city with many buildings that give bonus XP to Disciple units (such as a city with the
+Altar of the Luonnotar
+) can lead to highly promoted Rangers fresh out of the box!
+Civilopedia Entry
+A Druid stands in the middle of the disciples like an oak surrounded by saplings. They are inside a circle of rose petals that have been dipped in water from a spring blessed by a priest of Leaves. So warded they can observe the forest without interaction.
+In this case, their attention is quickly drawn to an injured old wolf, apparently having been driven from his pack. Having spent several months immersed in the subtleties of nature, their sympathy is drawn towards him.
+The weakened wolf is soon set upon by a mother cougar training her cubs, and some of the aspirants flinch as it is felled.
+"Do you still not understand?" chides the Druid. "Why do you side with the wolf over the cougar?"
+Each aspirant gives a different answer, trying to justify his instincts.
+"The wolf was weak, it wasn't fair." protests one.
+"The wolf is a higher animal." says another.
+"Where two were alive, now only one is." laments the last.
+"Trust the wisdom with which the world was created. We are not made to judge nature, but to study it, from the inside. Nature does not favor weakness, and so our task is not to protect the helpless. It does not judge one life more worthy than the next. Let all struggle, and if the winner is a plant, a wolf, or an elf or a human, so be it. And nature does not prefer life over death. Every creature gets both given once, and will in return deliver each as much as it is able. Your duty is not to preserve life over death, my blossoms, but to expand the scope of the struggle. Spread the seeds of the green plant, that it may grow, and die, and give its essence to the entire web of life."
+Their lesson complete, the disciples followed the Druid through the forest, ancient trees parting for the aged man like curtains in the wind.
+- From chapter 5 of Reflections on the State Cults, by Elder Methyl of the Luonnotar.
+
+======================================================================
+PAGE: Druid
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Druid
+======================================================================
+
+Druids and their dwarven counerpart the Dwarven Druids are the mages of nature. They are strong melee unit, they are good tier 3 Arcane Spellcaster (Nature 3), they are Disciple Units and start with Medic I, they have recon abilities and are able to carry birds like Ranger and, most important, can move through Impassable Terrain.
+Druid
+Race:
+Human or Lizardman
+Unit Class:
+Disciple Units
+Requires:
+Commune with Nature
+Grove
+Alignment
+:
+Neutral
+Starts With:
+Cannot Pillage
++50% vs
+Animals
+-20% City Attack
+Can Move Through Impassable Terrain
+Can Carry 1
+Hawk
+Better Results from Tribal Villages
+Medic I
+Subdue Animal
+Channeling I
+Channeling II
+Channelling III
+Nature I
+Info:
+8
++1
+Nature
+Affinity
+2
+Cost:
+240
+Upgrades From:
+Confessor
+Cultist
+Priest of Leaves
+Stonewarden
+Ritualist
+Harlequin
+Ranger
+Vicar
+Special:
+Maxed to 4 units per player
+Can Cast
+Entangle
+Strategy
+Druids are the only units outside of the pure Disciple line that have the Medic I promotion. They also have a high strength for a spell casting unit and have access to all levels of Nature magic.
+It is possible to build a Druid in any city with a Grove, but is far better to promote them from tier II Disciple Units. A druid upgraded from a Priest Unit is a  High Priest-equivalent unit: he can cast the Channeling III Divine spell of the associated religion. For example, upgrading a
+Vicar
+(Empyrean) to a Druid keeps the Divine promotion, thus enabling the Druid to cast
+Crown of Brilliance
+. This also is a way to bypass unit abandonment to keep units capable of casting, say, Unyielding Order or Summon Kraken while religion-jumping.
+Morevoer, in analogie with the Lich mechanism, this is a method to gain 8 National Units with Channeling III Divine powers.
+Only neutral players can build Druids.
+Druids and Flash Golem synergy
+One particular use of the druids is in support of a strategy using
+Flesh Golems
+.
+Balseraphs
+are probably the best civ to make use of Flesh Golems, with Freaks and Mimics that can easily provide fodder.. With puppets they can generate more Flesh Golems than they have Archmages with Body3  III. The promotions from Freaks or the Mutate spell can be transferred to the Flesh Golems.
+Druids help with Flesh Golems in two ways. A cultist promoted to a druid will be able to summon Kraken, that is the best unit to buid up the base strength of the Flesh Golem in a cost effective way. Then a druid can also get the promotion Command 3 and with Order religion Command 4. Sacrificing a druid with command 4 to a Flesh Golem means that 70% of the combats it wins against living enemies will capture an enemy. This is a way of getting even more exotic promotions to sacrifice to other Flesh Golems.
+Background
+Infused with the magic of Sucellus, the Reborn, the Druids are the mages of nature and bringers of life. Because the only way to gain true and lasting knowledge of how to manipulate the very fabric of life itself is to devote one's whole existence to intimate contact with nature, Druids are a reclusive and not terribly social folk. The Druids form a loose brotherhood of near-hermits who meet once a year to compete, share knowledge, and bond, before they once again disperse to their various fields and forests. Their powerful organic magic means that many empires employ them not so much for their use in war, but for their use in peace, perfecting the land and making it more fertile. Few established empires are incapable of contacting a few Druids to help them repair the scars of war and industry or bring life and lushness to previously infertile regions.
+Variants
+Clan of Embers
+
+======================================================================
+PAGE: Ecclesiastic
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Ecclesiastic
+======================================================================
+
+Ecclesiastic
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Honor
+Temple of the Empyrean
+Starts With:
+Cannot Pillage
+Can spread
+Empyrean
+Can sacrifice for 20
+Medic I
+Religion:Empyrean
+Info:
+3
+1
+Cost:
+60
+Upgrades To:
+Vicar
+Special:
+Is Never Obsolete
+Free Unit when
+Honor
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Ecclesiastics should be sacrificed freely and never upgraded to Vicars, as Vicars can gain all the promotions that an Ecclesiastic could ever receive.
+Civilopedia Entry
+I was invited to attend the initiation rites of the Ecclesiastics in Balderham. Ordinarily I would have feared some attempt at propaganda or persuasion, but in all things the Empyrean is open. The Vicar and one Ecclesiastic walked from the temple, at the heart of the city, while I followed behind a respectful distance, a welcome observer, but not a participant. We went not to the manor house of the local lord, nor the poor beggars in their slums, nor to some sacred altar from which to pray. The Vicar led us to the dungeon, and the Ecclesiastic aspirant showed the same surprise I felt.
+The guards let us pass, and downwards we walked, through the squalor that inevitably collected in such a place, even a relatively enlightened realm such as this. Men moved forward to watch us as we passed. Some hurled taunts or mockery, while some hurled more vile substances, the excrement occasionally landing on the vicars robes.
+The young man flinched, though his mentor did not. "Why have we come to such a dark place, Father?" asked the Ecclesiastic.
+"Why do we go anywhere?" was the reply.
+"To bring light into the darkness." This was some sort of code or mantra, for they both spoke it together.
+They stopped at one cell, a ragged man shuffled up to the bars, blinking in the light of our torch.
+"This is the darkest corner of our realm, dear child, not for the fact that we descend deep into this hole, but for the depravity of those who were brought here. This man has... his hands are stained with the blood of another man. But he has requested to hear of the light. If you can bring him from the darkness, you will be ready for your vows.
+Lugus
+will show you the way."
+The Vicar passed the torch to his charge, and turned to leave.
+The man behind the bars sank to his knees and cried, "Teach me, lord, please!"
+The boy knelt to pray for wisdom, and I turned to leave as well, though I caught the eye of the imprisoned man and grew to doubt the success of the young man's mission in this place.
+- From chapter 3 of Reflections on the State Cults, by Elder Methyl of the
+Luonnotar
+.
+
+======================================================================
+PAGE: High Priest of Leaves
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/High_Priest_of_Leaves
+======================================================================
+
+High Priest of Leaves
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Theology
+Fellowship of Leaves
+as State
+Religion
+Incense
+Level 6
+Priest of Leaves
+Starts With:
+Cannot Pillage
+Medic II
+Channeling II
+Channeling III
+Divine
+Religion:Fellowship of Leaves
+1 Free Promotion
+Info:
+8
+1
+Cost:
+N/A
+Upgrades From:
+Priest of Leaves
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Heal
+Can Cast
+Bloom
+Can Cast
+Summon Tiger
+Can Cast
+Summon Treant
+Will abandon civilization if religion changes from
+Fellowship of Leaves
+
+======================================================================
+PAGE: Lightbringer
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Lightbringer
+======================================================================
+
+Lightbringer
+Race:
+Human
+Unit Class:
+Disciple Unit
+Requires:
+Malakim
+Special:
+Cannot Pillage
+Starts With:
+Sentry
+Strength:
+2
+Movement:
+1
+Cost:
+60
+Civilopedia
+Strategy
+Lightbringers have extra visibility, making them useful for scouting or to prevent barbarian spawning.
+Background
+Well before the founding of any of the five great polarizing religions in the Age of Rebirth,
+Varn Gosam
+of the
+Malakim
+had already consolidated the multiplicity of prophets in his land into one faith, though before the Revelation of the Mirror there was no formal creed or name for this nascent religion. It would come to be called
+the Empyrean
+, and it would change and grow from the tribal faith it was in those days as it spread across Erebus. The Lightbringer was widely used in Malakim lands due to their divine scrying powers in those early days, and retained a ceremonial position well after the
+ecclesiastics
+superseded them in importance.
+Gameplay
+Lightbringers can upgrade into any of the religious disciple-class units. While playing as Varn Gosam (and his
+Spiritual
+trait), this translates into an ability to have a strong Disciple—and Arcane—assortment of units. By using any combination of XP-granting civics, the Malakim
+Desert Shrine
+, levels of the
+Altar of Luonnotar
+, the
+Form of the Titan
+, and a
+Command Post
+, Lightbringers (and any other Disciple-class unit) can be produced with
+Mobility I
+and
+Potency
+, and a slew of XP. By promoting some of those Lightbringers to
+Savant
+and then to a mage, one can easily get mages with potency, (imperfectly) mimicking the
+Arcane trait casters
+—the main downside to these casters are that the first few promotions cannot be first-tier spells as Lightbringers are still Disciple-class units. This can also be applied to the Lightbringer to Disciple of Leaves to Ranger upgrade path for Potency-enabled recon units, but the benefits are fewer compared to Potency-enabled mages. Also, the Malakim generally depend the least upon recon units, as their strength lies in a powerful Disciple- and religious-unit based army.
+In general, this synergizes very well with the Malakim penchant for Altar Victories, as the Altar both provides XP to disciple-type units, and a victory condition.
+
+======================================================================
+PAGE: Luridus
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Luridus
+======================================================================
+
+Luridis
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Theology
+Empyrean
+as State
+Religion
+Incense
+Level 6
+Vicar
+Starts With:
+Cannot Pillage
+Medic II
+Channeling II
+Channeling III
+Divine
+Religion:Empyrean
+1 Free Promotion
+Info:
+6
++1
+Fire
++1
+Holy
+1
+Cost:
+N/A
+Upgrades From:
+Vicar
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Heal
+Can Cast
+Revelation
+Can Cast
+Crown of Brilliance
+Will abandon civilization if religion changes from
+Empyrean
+
+======================================================================
+PAGE: Monk
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Monk
+======================================================================
+
+Monk
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+Elohim
+Starts With:
+Cannot Pillage
+Medic I
+Demon Slaying I
+Info:
+6
+2
+Cost:
+120
+Upgrades From:
+Strategy
+Monks are great for fighting demonic units. They also have the Medic promotion, making them decent healers. They don't need a building to train so they can be created in any city.
+Background
+Day 6. Encountered the remnants of a company of Macemen. Theyve seen my foe. If I make haste, I am but a day away from ridding the world of his evil. I must prepare.--Extract from the diary of Brother Kideran, Demon Hunter.
+Only the smartest, most evil of prey is worthy of the Monk's attention. These men have given their lives over to the intense focus and meditation required to leave behind the frail constraints of their bodies and become something more than mortal. Free from the laws of physics, Monks are equipped with the mental tools needed to take up the fight with the Demons themselves--and win.
+Tips
+You could call this a specifically anti-Infernal unit.  The Monk is otherwise a well-rounded and speedy unit.
+
+======================================================================
+PAGE: Paladin
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Paladin
+======================================================================
+
+Paladin
+Race:
+Human or Elven
+Unit Class:
+Disciple Units
+Requires:
+Righteousness
+Iron
+or
+Mithril
+Alignment
+:
+Good
+Starts With:
+Medic I
+Courage
+Demon Slaying I
+Immune to Disease
+Info:
+11
++3
+Holy
+1
+Cost:
+240
+Upgrades From:
+Confessor
+Cultist
+Priest of Leaves
+Stonewarden
+Ritualist
+Vicar
+Battlemaster
+Boarding Party
+Champion
+Dragon Slayer
+Mimic
+Vampire
+Paramander
+A tier 4 combat-oriented
+Disciple unit
+.
+Civilopedia
+Strategy
+The perfect heathen slaying unit for those following the noble path, the Paladin is immune to disease and gets a bonus against
+Demons
+.
+Background
+Paladins are the strongest Disciple unit. Only
+Good
+players can build Paladins.
+Gameplay
+Paladins can be built, but there are some strong benefits from upgrading older tier 2 or 3 units. An upgrade from a
+melee unit
+will keep any advanced City Raider or promotions not normally available to Disciple units. Likewise, a Paladin upgraded from a tier 3 priest like a
+Confessor
+or a
+Vicar
+will still keep
+Medic II
+and the ability to cast divine spells.
+Variants
+Ljosalfar
+
+======================================================================
+PAGE: Paramander
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Paramander
+======================================================================
+
+Paramander
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Fanaticism
+Runes of Kilmorph
+as State
+Religion
+Temple of Kilmorph
+Copper
+Starts With:
+Medic I
+Demon Slaying I
+Religion:Runes of Kilmorph
+Info:
+7
+1
+Cost:
+120
+Upgrades From:
+Soldier of Kilmorph
+Upgrades To:
+Paladin
+A holy warrior following the teachings of Kilmorph, the Paramander is a strong unit against demons. They require Copper and a Temple of Kilmorph to be trained, and can be upgraded to Paladins.
+Strategy
+The Paramander is the one T3 Disciple Unit (compared to the Crusader, and other similar units) that has all of its strength in untyped, regular strength: it has 7 base strength vs the Crusader's 6+1 Holy. This is particularly good if the opponent has some means of magic resistance or immunity, as your unit's strength will not diminish due to magic effects. However, this can be a two-sided sword as well, as the typed damage could be useful (e.g. Holy damage vs Demon units, which have -25% Holy Resistance).
+
+======================================================================
+PAGE: Priest of Leaves
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Priest_of_Leaves
+======================================================================
+
+Priest of Leaves
+Race:
+Human
+Unit Class:
+Disciple units
+Requires:
+Fellowship of Leaves
+as
+State Religion
+Priesthood
+Temple of Leaves
+Special:
+Cannot Pillage
+Can cast
+Bloom
+Can cast
+Summon Tiger
+Can cast
+Found Temple of Leaves
+Starts With:
+Medic I
+Medic II
+Channeling II
+Divine
+Religion
+Fellowship of Leaves
+Strength:
+5
+Movement:
+1
+Cost:
+120
+
+======================================================================
+PAGE: Prior
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Prior
+======================================================================
+
+Prior
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Theology
+The Order
+as State
+Religion
+Incense
+Level 6
+Confessor
+Starts With:
+Cannot Pillage
+Medic II
+Channeling II
+Channeling III
+Divine
+Religion:The Order
+1 Free Promotion
+Info:
+6
++2
+Holy
+1
+Cost:
+N/A
+Upgrades From:
+Confessor
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Heal
+Can Cast
+Bless
+Can Cast
+Unyielding Order
+Will abandon civilization if religion changes from
+The Order
+
+======================================================================
+PAGE: Profane
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Profane
+======================================================================
+
+Profane
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Theology
+The Ashen Veil
+as State
+Religion
+Incense
+Level 6
+Ritualist
+Starts With:
+Cannot Pillage
+Medic II
+Channeling II
+Channeling III
+Divine
+Religion:The Ashen Veil
+1 Free Promotion
+Info:
+6
++2
+Unholy
+1
+Cost:
+N/A
+Upgrades From:
+Ritualist
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Heal
+Can Cast
+Ring of Flames
+Can Cast
+Summon Balor
+Will abandon civilization if religion changes from
+The Ashen Veil
+
+======================================================================
+PAGE: Ritualist
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Ritualist
+======================================================================
+
+Ritualist
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+The Ashen Veil
+as State
+Religion
+Temple of the Veil
+Starts With:
+Cannot Pillage
+Medic I
+Medic II
+Channeling II
+Divine
+Religion:The Ashen Veil
+Unholy Taint
+Info:
+4
++1
+Unholy
+1
+Cost:
+120
+Upgrades From:
+Savant
+Upgrades To:
+Profane
+Eidolon
+Druid
+Paladin
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Ring of Flames
+Can Cast
+Found Temple of the Veil
+
+======================================================================
+PAGE: Runekeeper
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Runekeeper
+======================================================================
+
+Runekeeper
+Race:
+Human
+Unit Class:
+Disciple Unit
+Requires:
+Theology
+Runes of Kilmorph
+as
+State Religion
+Gems
+Level 6
+Stonewarden
+Special:
+Cannot Pillage
+Can cast
+Shield of Faith
+Can cast
+Earthquake
+Lost if
+State Religion
+changes
+Starts With:
+Channeling II
+Channeling III
+Divine
+Medic I
+Medic II
+Medic III
+Religion
+Runes of Kilmorph
+1 free
+Promotion
+Strength:
+7
++1
+Holy
+Movement:
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Savant
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Savant
+======================================================================
+
+Savant
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Corruption of Spirit
+Temple of the Veil
+Starts With:
+Cannot Pillage
+Medic I
+Can spread
+The Ashen Veil
+Can sacrifice for 15
+Religion:The Ashen Veil
+Info:
+2
+1
+Cost:
+60
+Upgrades To:
+Ritualist
+Mage
+Special:
+Is never obsolete
+Free unit given when
+Corruption of Spirit
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Savants are unique among the six basic disciple units in that they can upgrade to Mages at level 4. Doing so allows that Mage to gain the Medic promotions that they would otherwise not be able to receive. They also gain other normal promotions that Arcane units would not normally have access to such as Drill, Woodsman/Guerilla, and Cover/Formation/Shock.
+They are also unique in that they cannot create a Great Work. Instead they can bulb a technology.
+Civilopedia Entry
+He came to the Ritualists under the cover of darkness, looking furtively around. It was not the temple that he went to, with its genial looking librarians and philosophical debates, but to an abandoned building some blocks away. The hooded young man opened the door without knocking. Inside was lit only by candles, each giving a different colored glow.
+Five gnarled old fingers wrapped around his wrist like a vise. Instinct made him struggle, but other Ritualists soon had hold of his shoulders and left arm. "Why have you come?" hissed the Ritualist holding his wrist. The other observed silently.
+"You told me this was the place, to become one of you."
+"Not good enough. It must be of your will. Why have you come?"
+The Savant to be answered again, "I have come to bargain. I offer myself."
+The Ritualist nodded, and pulled out a knife. Then he slashed the newcomer's palm, and watched as a thin line of blood appeared, soon forming a small pool in this hand. This he spilled into a small, fragrant pile of desiccated herbs. The Savant was released, and he quickly clasped his hands together to staunch the bleeding. Each Ritualist picked up a candle, and together they lit the reagents stained with blood.
+A small fire appeared, with an overwhelming stench of burning flesh. A deep voice echoed throughout the house. "What can I give you?"
+The Savant peered into the flames before answering. "I have been ignored, mistreated, and scorned. Give me power to destroy my enemies!"
+"And what do you offer?"
+"Everything. My life, my wealth, my family, my honor. My soul."
+"It is done. You have favor with Me, and your service has been entered into of your own accord. Let all see another choose my path!" The voice faded.
+Again the Savant's hand was grabbed by one of the Ritualists. This was held into the fire, which did not burn him. Rather, his skin wrinkled and aged before my eyes, the mark traveling up his arms and soon covering his whole body. Then he was released, and he collapsed to the floor. He was still for several minutes, and I thought I heard sobbing.
+But no, it was laughter. His eyes burned with dark fire. "I feel... so powerful. At last..." was the last thing I heard. He continued laughing as he was roughly stripped and dressed in the robes of a Savant.
+- From chapter 9 of Reflections on the State Cults, by Elder Methyl of the Luonnotar.
+
+======================================================================
+PAGE: Speaker
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Speaker
+======================================================================
+
+Speaker
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Theology
+Octopus Overlords
+as State
+Religion
+Incense
+Level 6
+Cultist
+Starts With:
+Cannot Pillage
+Medic II
+Channeling II
+Channeling III
+Divine
+Religion:Octopus Overlords
+1 Free Promotion
+Info:
+7
++1
+Holy
+1
+Cost:
+N/A
+Upgrades From:
+Cultist
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Heal
+Can Cast
+Tsunami
+Can Cast
+Summon Kraken
+Will abandon civilization if religion changes from
+Octopus Overlords
+
+======================================================================
+PAGE: Stonewarden
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Stonewarden
+======================================================================
+
+Stonewarden
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+Runes of Kilmorph
+as State
+Religion
+Temple of Kilmorph
+Starts With:
+Cannot Pillage
+Medic I
+Medic II
+Channeling II
+Divine
+Religion:Runes of Kilmorph
+Info:
+5
+1
+Cost:
+120
+Upgrades From:
+Thane of Kilmorph
+Upgrades To:
+Runekeeper
+Eidolon
+Druid
+Paladin
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Shield of Faith
+Can Cast
+Found Temple of Kilmorph
+
+======================================================================
+PAGE: Thane of Kilmorph
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Thane_of_Kilmorph
+======================================================================
+
+Thane of Kilmorph
+Race:
+Human (or variable if built by a non-human civilization)
+Unit Class:
+Disciple Units
+Requires:
+Way of the Earthmother
+Temple of Kilmorph
+Starts With:
+Cannot Pillage
+Medic I
+Can spread
+Runes of Kilmorph
+Can sacrifice for 20
+Religion:Runes of Kilmorph
+Info:
+2
+1
+Cost:
+60
+Upgrades To:
+Stonewarden
+Paramander
+Special:
+Is never obsolete
+Free unit given when
+Way of the Earthmother
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Thanes should be sacrificed freely and never upgraded to Stonewardens or Paramanders, as those units can gain all the promotions that a Thane could ever receive.
+Civilopedia Entry
+The old Stonewarden was awakened abruptly by a knock on the temple door. He shook the sleep out of his eyes and opened the door, revealing a young man. "Temple services start in the evening, my boy," he said.
+The newcomer mustered his courage. "I want to become a thane, sir."
+The Stonewarden smiled at the earnestness of his visitor, recalling a time long, long ago when he had made a similar calling. "What time does the smith wake in the morning to light his furnace?"
+"Sir? I don't know, I don't want to be a smith, I want to serve
+Kilmorph
+!"
+"How does the merchant keep all his camels moving at the same pace? How does the King decide a man's punishment? How does the miner know where to strike for ore? When must the baker remove his sweet bread to keep it from burning? What does the soldier do to keep his courage up before battle?"
+The boy stared back at the Stonewarden, who chuckled at last.
+"Kilmorph does not need service in the temple, youngling, but amongst her people. Work side by side with the smith, to learn his struggles and dreams. Travel with the merchant, and guide him through his temptations. Be beside the soldier as he dies, and the king as he orders the death of a guilty man. We of Kilmorph can mold the community together as the potter shapes the clay, for they will heed your advice only when they know you were once one of them."
+"How will I know when I am done?"
+"You will know. Kilmorph will draw you back to me, and I will be ready to teach you how to draw on her power. A Stonewarden is able to move mountains-only when his people share his faith. So go, draw the people to together and to Kilmorph, and when you return the earth itself will do your bidding."
+The old man watched as his charge left hesitantly, then shuffled back and resumed his nap.
+- From chapter 4 of Reflections on the State Cults, by Elder Methyl of the
+Luonnotar
+.
+
+======================================================================
+PAGE: Vicar
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Vicar
+======================================================================
+
+Vicar
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Priesthood
+Empyrean
+as State
+Religion
+Temple of the Empyrean
+Starts With:
+Cannot Pillage
+Medic I
+Medic II
+Channeling II
+Divine
+Religion:Empyrean
+Info:
+4
++1
+Holy
+1
+Cost:
+120
+Upgrades From:
+Ecclesiastic
+Upgrades To:
+Luridus
+Eidolon
+Druid
+Paladin
+Special:
+Can Cast
+Cure Disease
+Can Cast
+Revelation
+Can Cast
+Found Temple of the Empyrean
+
+======================================================================
+PAGE: Zealot
+CATEGORIES: Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Zealot
+======================================================================
+
+Zealot
+Race:
+Human
+Unit Class:
+Disciple Units
+Requires:
+Message from the Deep
+Temple of the Overlords
+Starts With:
+Cannot Pillage
+Medic I
+Can spread
+Octopus Overlords
+Can sacrifice for 20
+Religion:Octopus Overlords
+Info:
+3
+1
+Cost:
+60
+Upgrades To:
+Cultist
+Stygian Guard
+Special:
+Is never obsolete
+Free unit given when
+Message from the Deep
+is discovered
+All basic disciple units share the same basic functions. They start with the rare medic promotion, speeding the healing of any advancing stack that they accompany. They can create a
+Great Work
+in a city, adding a small amount of
+Culture
+and ending resistance. They can attempt to spread their religion to of your cities, and rivals as well if you have negotiated open borders. There is a higher chance of doing so if there are fewer religions already present in the city.
+Zealots may elect to upgrade to either Cultists or Stygian Guards. In the case of the former, it is generally not worth doing, but in the case of the latter, upgrading a Zealot to a Stygian Guard can give the Guard a free Medic I promotion, and also give it two promotions that they would not otherwise be able to have, namely
+City Garrison
+and
+Command
+.
+Civilopedia Entry
+I have not been able to discern how the Cultists choose their Zealots. Sometimes it is a vagrant, sometimes the son or daughter of a noble, and everyone in between seems eligible. He is abducted and taken to temple, usually on the night of the full moon. The hands and feet are bound. Sleep is induced. Some sects use various herbal concoctions; this one simply strangled the man until he passed out. He is laid in a shallow pool, submerged partially in sea water.
+All night the Cultists gather around, listening for anything he might say in this sleep. This becomes the Zealot's new name. It is etched onto a clay jar, which is filled with sea water.
+I observed the names on some of these. "The Leviathan Trembles But Does Not Awaken," read one. "Pour the Blood of the Slaves Into the Styx," another.
+The victim tonight seemed to hear nothing, for he was silent as he slept, nearly until dawn. Should this be the case, the victim is drowned and serves in the
+undead army
+of the Overlords.
+Fortunately for this man, or perhaps not, he at last called out screaming, "The distant one has watching eyes!"
+The Cultists nodded to each other and pulled the man from the water. When he saw them holding him, he cringed. They spoke not to him, but dragged him to the back of the temple.
+I was unable to follow, but observed the Zealot days later in sea-colored robes. He had bloodshot eyes, and moved through the crowd in the town marketplace engaged in a constant dialogue with himself.
+- From chapter 7 of Reflections on the State Cults, by Elder Methyl of the
+Luonnotar
+.

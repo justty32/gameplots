@@ -1,0 +1,522 @@
+
+======================================================================
+PAGE: Battle Born
+CATEGORIES: Infantry Units, Necrophages, Units
+URL: https://endlesslegend.fandom.com/wiki/Battle_Born
+======================================================================
+
+Battle Born
+Faction
+Necrophages
+Unit Type
+Infantry
+Base Attributes:
+Life
+130
+Attack
+40
+Initiative
+39
+Speed
+4
+Defense
+44
+Damage
+32
+Range
+3
+Sight
+3
+Cost:
+Production
+N/A
+The Battle Born is an infantry unit that is created as a result of the
+Proliferator's
+"Parasitism" capacity. Battle Born are added to an army at the end of a battle if the Proliferator successfully affected an enemy unit with Parasitism, and that unit died in battle, or can be added to a city's garrison by using a
+Recycled Stockpile
+on that city during a
+Dust Eclipse
+. Battle Born always spawn at Level 1 equipped with the highest-tier Iron or Dust Claws, Helm, Cuirass, and Greaves available, and cannot be retrofit.
+One of the unique properties of the Battle Born is that they ignore Army and Garrison size restrictions; even if your max army size is only 4, you can still have dozens of Battle Born units in the army, so long as Proliferators continue to kill units with Parasitism - Battle Born units must be "spawned" into armies to ignore the max, and cannot merge into armies that are over the maximum. However, having more units in an army than you are allowed comes with an exponentially increasing penalty added to the army's upkeep, with the penalty for having 2 units above max being 40
+per turn, but having 12 units over max is about 500
+per turn. As such, this property of the Battle Born should be used with restraint, or you should heavily invest in reducing the cost of Military upkeep, either by the
+Empire Plan
+, Hero
+Skills
+, the
+Reliquary of Auriga
+, or the
+Cannon Fodder
+Necrophage Technology.
+Lore
+Created from their fallen enemies on the field of battle, these soldiers of the hive do not feel pain, pity, or remorse.
+Capacities
+Icon
+Name
+Effect
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Disease 1
+Allows the unit to transfer Disease to its target when attacking
+Unit with Disease loses 10% of its Life
+every round
+When dying, the Disease is spread to adjacent units
+Equipment
+Weapons
+Claws
+Armor
+Helm
+Cuirass
+Greaves
+
+======================================================================
+PAGE: Cannon Fodder
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Cannon_Fodder
+======================================================================
+
+Cannon Fodder
+Faction
+Necrophages
+Obtained
+Research Era II
+Category
+Military
+Type
+Empire
+Focus
+Upkeep
+Effects:
+-50%
+on Military Upkeep
+-20%
+on Hero Upkeep
+An Era II
+technology
+exclusive to the
+Necrophages
+which decreases the upkeep of non-hero units by 50%, and of heroes by 20%
+Lore
+Simple beings with simple lives and a single goal can be maintained inexpensively.
+
+======================================================================
+PAGE: Demanding Gods
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Demanding_Gods
+======================================================================
+
+Demanding Gods
+Faction
+Necrophages
+Obtained
+Research Era II
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Approval
+Effects:
+Gives the ability to sacrifice 1
+from City Population
++30
+on City during a limited time
+Duration depends on
+remaining in City and can be cumulated
++1
+per
+in City just before sacrifice
+Cannot be used if siege on Empire
+An Era II
+technology
+exclusive to the
+Necrophages
+which unlocks the ability to sacrifice a City's
+population to gain a temporary boost to
+Approval. Upon unlocking this technology, the City Info panel will gain a new button placed between the Population counter and the Growth Stock progress bar. Upon pressing this button, 1 Population will be sacrificed and the city will get a +30
+bonus. This bonus will last a number of turns equal to the total Population of the City (including
+from pacified Villages) at the time of the sacrifice. Another sacrifice can be made before the effect from the previous one times out, and the duration of the effect will be extended by a number of turns equal to the population of the City.
+If you play with the
+Endless Legend Community Patch
+, the duration scales with game speed as follows:
+Fast: 1 turn per
+Normal: 2 turns per
+Slow: 3 turns per
+Endless: 4 turns per
+Lore
+Hunger - for Food, recognition, or glory - can drive one to extreme behavior.
+
+======================================================================
+PAGE: Forager
+CATEGORIES: Infantry Units, Necrophages, Units
+URL: https://endlesslegend.fandom.com/wiki/Forager
+======================================================================
+
+Forager
+Faction
+Necrophages
+Unit Type
+Infantry
+Base Attributes:
+Life
+100
+Attack
+22
+Initiative
+30
+Speed
+4
+Defense
+34
+Damage
+24
+Range
+1
+Sight
+3
+Cost:
+Production
+60
+The Forager is an infantry unit for the
+Necrophages
+. Two Foragers constitute the starting force for the Necrophages. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Skilled at leaving and tracking pheromone-scented trails, the Forager is also capable of spitting highly corrosive acid.
+Capacities
+Icon
+Name
+Effect
+Disease 1
+Allows the unit to transfer Disease to its target when attacking
+Unit with Disease loses 10% of its Life
+every round
+When dying, the Disease is spread to adjacent units
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Equipment
+Weapons
+Axe
+Claws
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Fungal Laboratory
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Fungal_Laboratory
+======================================================================
+
+Fungal Laboratory
+Faction
+Necrophages
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Food
+Effects:
+Limited to one copy in your empire
+Ka-Riss hero must be city governor
++5
+per
+on city
+Costs:
+Production
+400
+Upkeep
+5
+per turn
+A
+city improvement
+exclusive to the
+Necrophages
+obtained from the
+Fungal Laboratory
+tech, which is unlocked by completing Chapter 3 of the Necrophages faction quest. While
+Ka-Riss
+must be the governor in order for the Fungal Laboratory to be constructed in a city, Ka-Riss does not need to remain governor of that city after construction is complete for the city to benefit from the Fungal Laboratory.
+Lore
+Using technology discovered in the ancient ruins of Auriga, Necrophage workers improve the management of air, moisture, and fertilizer to greatly increase the output of their fungal 'farms'.
+
+======================================================================
+PAGE: Fungal Laboratory (Technology)
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Fungal_Laboratory_(Technology)
+======================================================================
+
+Fungal Laboratory (Technology)
+Faction
+Necrophages
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+City Improvement
+Focus
+Food
+Effects:
+Unlocks Fungal Laboratory for construction.
+An Era III
+technology
+exclusive to the
+Necrophages
+that unlocks the
+Fungal Laboratory
+for construction. It is unlocked by completing Chapter 3 of the Necrophages faction quest.
+Lore
+Using technology discovered in the ancient ruins of Auriga, Necrophage workers improve the management of air, moisture, and fertilizer to greatly increase the output of their fungal 'farms'.
+
+======================================================================
+PAGE: Givers of Remembrance
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Givers_of_Remembrance
+======================================================================
+
+Givers of Remembrance
+Faction
+Necrophages
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Military
+Effects:
++100 XP when recruiting a unit on units
+Costs:
+Production
+1200
+Resource
+10
+Upkeep
+5
+per turn
+A
+city improvement
+exclusive to the
+Necrophages
+obtained from the
+Givers of Remembrance
+tech, which is unlocked by completing Chapter 7 part 1 of the Necrophages faction quest. It is necessary to build the Givers of Remembrance in at least one city to complete Chapter 8 part 1 of the Necrophages faction quest.
+Lore
+A reduced breed of Givers of Remembrance, Lesser Givers only collect and share battlefield lessons between armies rather than all the histories of the hive.
+
+======================================================================
+PAGE: Givers of Remembrance (Technology)
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Givers_of_Remembrance_(Technology)
+======================================================================
+
+Givers of Remembrance (Technology)
+Faction
+Necrophages
+Obtained
+Faction Quest
+Category
+Military
+Type
+City Improvement
+Focus
+Military
+Effects:
+Unlocks Givers of Remembrance for construction.
+An Era IV
+technology
+exclusive to the
+Necrophages
+that unlocks the
+Givers of Remembrance
+for construction. It is unlocked by completing Chapter 7 part 1 of the Necrophages faction quest.
+
+======================================================================
+PAGE: Incubation Orb
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Incubation_Orb
+======================================================================
+
+Incubation Orb
+Faction
+Necrophages
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
+-100
+on unit
+Can be equipped by heroes only
+Capacities:
+No capacities
+Costs:
+Resource
+100
+The Incubation Orb is a
+Tome
+exclusive to the
+Necrophages
+, received for completing Chapter 6 of their faction quest. The Incubation Orb is necessary to complete Chapter 8 of the Necrophages faction quest.
+Lore
+In order to amass the energy which will be transferred to the young in an incubator, this artifact form the time of the Endless draws life energy from those who carry it.
+
+======================================================================
+PAGE: Mindless Slaughter
+CATEGORIES: Necrophages
+URL: https://endlesslegend.fandom.com/wiki/Mindless_Slaughter
+======================================================================
+
+Mindless Slaughter
+Faction
+Necrophages
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
++30% Attack
+on units
+An Era IV
+technology
+exclusive to the
+Necrophages
+that increases the attack of all units by 30%. It is unlocked by completing Chapter 8 of the Necrophages faction quest.
+Lore
+It is easier to attack when on gives little thought of defense - and survival.
+
+======================================================================
+PAGE: Necrodrone
+CATEGORIES: Flying Units, Necrophages, Units
+URL: https://endlesslegend.fandom.com/wiki/Necrodrone
+======================================================================
+
+Necrodrone
+Faction
+Necrophages
+Unit Type
+Flying
+Base Attributes:
+Life
+124
+Attack
+36
+Initiative
+30
+Speed
+6
+Defense
+36
+Damage
+36
+Range
+1
+Sight
+4
+Cost:
+Production
+120
+The Necrodrone is a flying unit for the
+Necrophages
+. The Necrodrone does not need to be researched and can be trained immediately after settling a city.
+Lore
+Adept at striking from air, Necrodrones damage both by striking and by spitting clouds of caustic poison.
+Capacities
+Icon
+Name
+Effect
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Disease 1
+Allows the unit to transfer Disease to its target when attacking
+Unit with Disease loses 10% of its Life
+every round
+When dying, the Disease is spread to adjacent units
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Equipment
+Weapons
+Claws
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Proliferator
+CATEGORIES: Necrophages, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Proliferator
+======================================================================
+
+Proliferator
+Faction
+Necrophages
+Unit Type
+Support
+Base Attributes:
+Life
+52
+Attack
+10
+Initiative
+26
+Speed
+4
+Defense
+32
+Damage
+22
+Range
+3
+Sight
+3
+Cost:
+Production
+120
+The Proliferator is a support unit for the
+Necrophages
+. The Proliferator can be researched in the second
+Technology Era
+.
+The Proliferator is also a fairly unique unit in that it is able to make more units; because of the Parasitism capacity, if the Proliferator attacks a unit, that unit will be implanted with an egg unless they have the Disease Immunity capacity. If the infected unit dies in battle, then at the end of battle, a
+Battle Born
+unit will be added to the army the Proliferator came from. These units also ignore the "Max Units" rule imposed on armies, allowing for massive armies, but at a drastically increased cost to upkeep, so this ability should be used wisely, lest you bankrupt yourself.
+Lore
+The great reproduction factory of the Necrophages, a Proliferator can resurrect both friend and foe by implanting eggs which control their minds.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Parasitism
+Parasites its opponent.
+If the parasited unit dies, a new unit is gained at the end of the battle.
+Vaccination
+Provides immunity against any Disease and Parasitism on friendly target
+Equipment
+Weapons
+Claws
+Magewand
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot

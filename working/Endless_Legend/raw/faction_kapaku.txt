@@ -1,0 +1,642 @@
+
+======================================================================
+PAGE: Aurigan Archive
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Aurigan_Archive
+======================================================================
+
+Aurigan Archive
+Faction
+Kapaku
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Science
+Effects:
++8
+on terrain with Ruins
+Limited to one copy in your Empire
+Costs:
+Production
+1200
+Resource
+15
+15
+Upkeep
+8
+per turn
+A
+city improvement
+exclusive to the
+Kapaku
+obtained from the
+Aurigan Archive
+technology
+which is obtained by completing Chapter 8 part 2 of the Kapaku faction quest. Only one copy can exist in your empire at any given time, but it can be rebuilt if destroyed or the city containing it is lost.
+Lore
+No longer lost to the coming ice, all the Endless' ventures on Auriga will be catalogued an maintained for time immemorial. An oasis of knowledge for historians - and scientists.
+
+======================================================================
+PAGE: Aurigan Archive (Technology)
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Aurigan_Archive_(Technology)
+======================================================================
+
+Aurigan Archive (Technology)
+Faction
+Kapaku
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks the Aurigan Archive for construction on cities
+An Era V
+technology
+exclusive to the
+Kapaku
+which unlocks the construction of the
+Aurigan Archive
+on cities. It is unlocked by completing Chapter 8 part 2 of the Kapaku faction quest.
+Lore
+No longer lost to the coming ice, all the Endless' ventures on Auriga will be catalogued an maintained for time immemorial. An oasis of knowledge for historians - and scientists.
+
+======================================================================
+PAGE: Geomancer
+CATEGORIES: Kapaku, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Geomancer
+======================================================================
+
+Geomancer
+Faction
+Kapaku
+Unit Type
+Support
+Base Attributes:
+Life
+47
+Attack
+20
+Initiative
+32
+Speed
+4
+Defense
+20
+Damage
+18
+Range
+3
+Sight
+3
+Cost:
+Production
+60
+The
+Geomancer
+is a support unit for the
+Kapaku
+. The Geomancer can be unlocked by
+researching
+it in Era I.
+With
+ELCP
+, Geomancers temporarily volcanoform terrain around them at the beginning of each turn. The effect also applies when they are garrisoned.
+Lore
+Spellcasters capable of long-range attacks, the geomancers real strength comes from supporting the frontline golems by harnessing the power of the land.
+Capacities
+Icon
+Name
+Effect
+Inner Fire
+Takes no damage from Lava Flows
++20% Damage
+on Volcanic tiles
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Geomancy
++20% Attack
+on friendly units, when cast on Volcanic terrain
++10% Initiative
+on friendly units, when cast on Forest terrain
++20% Defense
+on friendly units, when cast on other terrain
+(
+ELCP
+Only) Temporarily
+volcanoforms
+tiles current and adjacent tiles at the beginning of each turn.
+Equipment Slots
+Weapons
+Quarterstaff
+Longscepter
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Golem Camp
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Golem_Camp
+======================================================================
+
+Golem Camp
+Faction
+Kapaku
+Obtained
+Era II
+Type
+Expansion
+Focus
+Encampment
+Effects:
+Units can be garrisoned at the camp
++1 bonus population
+on city
+Limited to one copy in your city
+Costs:
+Production
+250
+Resource
+5
+5
+The
+Golem Camp
+is an
+Expansion
+exclusive to the
+Kapaku
+obtained from the
+Golem Camp
+technology
+in Era II.
+The Golem Camp can be placed anywhere in the city's region, and acts similarly to a freestanding district; bonuses applying to a district apply to the golem camp, and it will exploit the terrain on the six tiles around it. Additionally, building the Golem Camp provides an additional unit of population to the host city, and units can be garrisoned in the camp.
+Unlike other districts, Golem Camps do not contribute to district levelling; that is, a Golem Camp placed next to another district does not count as one of the four required to level up that district.
+Lore
+Populated by indefatigable golem workers, these camps enable cities to create boroughs entirely separated from their parent metropolis.
+
+======================================================================
+PAGE: Golem Camp (Technology)
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Golem_Camp_(Technology)
+======================================================================
+
+Golem Camp (Technology)
+Faction
+Kapaku
+Obtained
+Era II
+Category
+Economy and Population
+Type
+Expansion
+Focus
+Encampment
+Effects:
+Unlocks the Golem Camp for construction on cities
+An Era II
+technology
+exclusive to the
+Kapaku
+which unlocks the construction of the
+Golem Camp
+on cities.
+Lore
+Populated by indefatigable golem workers, these camps enable cities to create boroughs entirely separated from their parent metropolis.
+
+======================================================================
+PAGE: Golem Rider
+CATEGORIES: Cavalry Units, Kapaku, Units
+URL: https://endlesslegend.fandom.com/wiki/Golem_Rider
+======================================================================
+
+Golem Rider
+Faction
+Kapaku
+Unit Type
+Cavalry
+Base Attributes:
+Life
+90
+Attack
+42
+Initiative
+25
+Speed
+6
+Defense
+30
+Damage
+32
+Range
+1
+Sight
+3
+Cost:
+Production
+110
+The Golem Rider is a cavalry unit for the
+Kapaku
+. The Golem Rider can be unlocked by
+researching
+it in Era II.
+Lore
+The combination of Kapaku rider and golem mount is a formidable one, and these units can play a crucial role in the early stages of any battle.
+Capacities
+Icon
+Name
+Effect
+Inner Fire
+Takes no damage from Lava Flows
++20% Damage
+on Volcanic tiles
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Fast 1
++1 battle movement
+.
+Sweep 1
+Overrides the default attack only.
+Allows attack on other enemy units in range and adjacent to the initial target.
++50% Damage.
+Note: Golem Riders erroneously have Circular Attack listed in their capacities, however the actual battle effect is Sweep. This has been fixed in
+ELCP
+.
+Equipment Slots
+Weapons
+Longspear
+Claws
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Inner Peace
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Inner_Peace
+======================================================================
+
+Inner Peace
+Faction
+Kapaku
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Influence
+Effects:
++15
+on terrain with ruins
+An Era V
+technology
+exclusive to the
+Kapaku
+which increases the
+Influence output on tiles with ruins. It is unlocked by completing Chapter 8 of the Kapaku faction quest.
+Lore
+With a new sense of belonging, the Kapaku can begin to see Auriga as part of their own heritage. Once intruders, they are now Aurigans, inspired by this planet's complex history.
+
+======================================================================
+PAGE: Koni School of Elite Riders
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Koni_School_of_Elite_Riders
+======================================================================
+
+Koni School of Elite Riders
+Faction
+Kapaku
+Obtained
+Faction Quest
+Type
+Unique Building
+Focus
+Military
+Effects:
++100 Fortification
+on City
++10 (+20 with
+ELCP
+) Fortification Recovery
+per turn on City
++100 XP when recruiting a Unit on Units
+Can only be built once in your Empire
+Costs:
+Production
+800
+Resource
+20
+Upkeep
+6
+per turn
+A
+city improvement
+exclusive to the
+Kapaku
+obtained from the
+Koni School of Elite Riders
+technology
+which is obtained by completing Chapter 3 of the Kapaku faction quest. It can only be built once in your empire, and cannot be rebuilt if destroyed.
+Lore
+Named after an infamous rider,this massive fortress houses an elite institution for training the Kapaku's most promising operatives. Soldiers trained in this brutal proving ground are infused with combat experience beyond their seeming fresh recruit status.
+
+======================================================================
+PAGE: Koni School of Elite Riders (Technology)
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Koni_School_of_Elite_Riders_(Technology)
+======================================================================
+
+Koni School of Elite Riders (Technology)
+Faction
+Kapaku
+Obtained
+Faction Quest
+Category
+Military
+Type
+Unique Building
+Focus
+Military
+Effects:
+Unlocks the Koni School of Elite Riders for construction on cities
+An Era III
+technology
+exclusive to the
+Kapaku
+which unlocks the construction of the
+Koni School of Elite Riders
+on cities. It is unlocked by completing Chapter 3 of the Kapaku faction quest.
+Lore
+Named after an infamous rider,this massive fortress houses an elite institution for training the Kapaku's most promising operatives. Soldiers trained in this brutal proving ground are infused with combat experience beyond their seeming fresh recruit status.
+
+======================================================================
+PAGE: Rubble Stockpile
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Rubble_Stockpile
+======================================================================
+
+Rubble Stockpile
+Resource
+Industry
+Effects:
++100
+on City
+Rubble Stockpiles are
+Industry
+Stockpiles
+produced by
+Kapaku
+after they have researched the
+Siege Engineering
+technology. Like standard
+Industry Stockpiles
+, the base amount of Industry they yield is 100
+, but researching
+Unskilled Labor
+and
+Organized Labor
+will raise this amount by 500
+and 1000
+respectively. However, unlike Industry Stockpiles, Rubble Stockpiles cannot be traded via
+Diplomacy
+, and cannot be bought or sold on the
+Marketplace
+.
+Rubble Stockpiles are generated by accruing points in the Siege Damage Counter that appears on the empire screen when Siege Engineering is researched; the meter accrues 1 point for percent of a given city's fortifications you damage - for example, dealing 15 points of damage to a city with 150 points of fortification will increases the meter by 10. Once the meter reaches 100, a rubble stockpile is created.
+Lore
+This is a stockpiles of debris, broken mortar, and fortification scraps, to be used one time to boost a city's Industry points.
+
+======================================================================
+PAGE: Shaman's Insight
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Shaman's_Insight
+======================================================================
+
+Shaman's Insight
+Faction
+Kapaku
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+Stone Sentinels have no military upkeep
+An Era II
+technology
+exclusive to the
+Kapaku
+which completely removes the upkeep cost for
+Stone Sentinel
+units. It is unlocked by completing Chapter 2 of the Kapaku faction quest.
+Lore
+Geomantic investigations into the animating effects of Dust permit Kapaku shamans to create more robust Stone Sentinels.
+
+======================================================================
+PAGE: Siege Engineering
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Siege_Engineering
+======================================================================
+
+Siege Engineering
+Faction
+Kapaku
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+Provides a rubble stockpile generated by dealing siege damage to enemy city fortifications
+Display a siege damage counter in the empire management screen
+An Era III
+technology
+exclusive to the
+Kapaku
+which grants
+Rubble Stockpiles
+for dealing siege damage to cities. Upon unlocking this technology, a Siege damage counter appears in the Empire Management screen. The meter accrues 1 point for percent of a given city's fortifications you damage - for example, dealing 15 points of damage to a city with 150 points of fortification will increases the meter by 10. Once the meter reaches 100, a rubble stockpile is created.
+There are two things that should be noted about this ability. First, because it is based on the percentage of the city's fortification that has been destroyed, and not the raw amount, it is more effective to go after poorly-defended cities than well-defended ones. Additionally, the meter will not go up if a city's fortifications are brought to 0 and held there, so it is best to reduce a city's fortification to 0 (or just above that), stop sieging so the city's fortifications can regenerate, return to sieging, and repeat, or just conquer the city at that point.
+Lore
+A master craftsman wastes no materials, and this faction is no different. After a siege, shattered walls, crumbled towers, and fallen battlements are all grist for the industrial mill.
+
+======================================================================
+PAGE: Stone Sentinel
+CATEGORIES: Infantry Units, Kapaku, Units
+URL: https://endlesslegend.fandom.com/wiki/Stone_Sentinel
+======================================================================
+
+Stone Sentinel
+Faction
+Kapaku
+Unit Type
+Infantry
+Base Attributes:
+Life
+110
+Attack
+5
+Initiative
+8
+Speed
+4
+Defense
+52
+Damage
+28
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Stone Sentinel is an infantry unit for the
+Kapaku
+. Two Sentinels constitute the starting force for the Kapaku. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Creations of the Kapaku shamans, the sentinel golems are the rugged frontlines of the Kapaku armies, strong but slow, and more effective with battlefield guidance.
+Capacities
+Icon
+Name
+Effect
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Inner Fire
+Takes no damage from Lava Flows
++20% Damage
+on Volcanic tiles
+Equipment Slots
+Weapons
+Claymore
+Battle Axe
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Sway of the Master
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Sway_of_the_Master
+======================================================================
+
+Sway of the Master
+Faction
+Kapaku
+Obtained
+Faction Quest
+Type
+Ring
+Effects:
+(Can only be equipped by
+Kapaku
+Heroes)
+Capacities:
+Slavery
+Costs:
+Resource
+100
+The
+Sway of the Master
+is a
+Ring
+exclusive to the
+Kapaku
+, received for completing Chapter 5 of their faction quest. When equipped on a hero, it gives them the Slavery
+capacity
+. The ring has a hidden restriction that is not mentioned in the in-game tooltip: it can only be equipped by Kapaku heroes.
+Lore
+A pulsing trinket discovered in the ruins of the Endless labs, this device grants the bearer the ability to enslave nearby minds.
+
+======================================================================
+PAGE: Tua's Hammer
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Tua's_Hammer
+======================================================================
+
+Tua's Hammer
+Faction
+Kapaku
+Obtained
+Faction Quest
+Type
+Battle Hammer
+Effects:
++65
+on unit
++40
+on unit
++55
+on unit
++20%
+on unit
++30%
+on unit
++20%
+on unit
+Can be equipped by heroes only
+Capacities:
+No capacities
+Costs:
+Resource
+20
+Tua's Hammer
+is a
+Battle Hammer
+exclusive to the
+Kapaku
+, received when completing Chapter 6 of their faction quest.
+Unlike other Battle Hammers, Tua's Hammer does not have the Stun
+capacity
+, nor does it lower the wielder's
+initiative.
+Lore
+A powerful weapon wielded by Custodian Tua against her own people, Tua's Hammer marries Kapaku craftsmanship with darker arts undoubtedly supplied by the Endless, Overseer Elohys.
+
+======================================================================
+PAGE: Volcanoforming Device
+CATEGORIES: Kapaku
+URL: https://endlesslegend.fandom.com/wiki/Volcanoforming_Device
+======================================================================
+
+A Volcanoforming Device (a.k.a. Volcanoformer) is a structure that the
+Kapaku
+are able to create and place in the world that change the
+terrain
+they're placed upon to Volcanic Terrain after a number of turns (5
+on Normal speed). One Volcanoformer is able to convert the tile it is place upon, as well as the six tiles surrounding it. Volcanoformation devices are created by spending an amount of any one strategic resource, starting at 2 and increasing by 2 every time that resource is used; i.e. if Titanium is used 3 times to create a Volcanoformation device, the cost to produce the next one will be 8
+, but the cost to create one with Glassteel will still be 2
+. Once a Volcanoformation device has been created, any Kapaku army anywhere on the map can deploy it on an unoccupied tile, after which the Volcanoformation process will start. It should be noted that these devices can be destroyed before their task is complete, so it is best to guard the device while it is working to prevent that. In order to destroy a volcanoformer, an opposing empire's army must perform the Dismantle Volcanoformer
+Army Action
+for a number of turns equal to the amount that the Volcanoformer has been active.
+Lore
+Devised by Concrete Endless, and powered by Aurigan riches, the Volcanoformer can transform any wilderness into basalt plains riven with lava.

@@ -1,0 +1,20 @@
+
+======================================================================
+PAGE: Pearl Sensitive
+CATEGORIES: Traits
+URL: https://endlesslegend.fandom.com/wiki/Pearl_Sensitive
+======================================================================
+
+Pearl Sensitive is a
+Faction
+Trait
+of the
+Allayi
+. It is in the Various category and has a Cost of 15.
+Effects
+Displays Pearl Cluster
+locations on explored tiles
+Pearls
+received on Ruin search
+Lore
+The faction's attunement to Auriga permits them to see the locations of her Pearls, wherever they may be.

@@ -1,0 +1,1982 @@
+
+======================================================================
+PAGE: Abashi the Black Dragon
+CATEGORIES: Beast Units, Dragon Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Abashi_the_Black_Dragon
+======================================================================
+
+Abashi the Black Dragon
+Race:
+Dragon
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Sheaim
+Divine Essence
+Starts With:
+1 First Strike
+Does Not Receive Defensive Bonuses
+Can Move Through Impassable Terrain
+Magic Immune
+Sentry I
+Dragon
+Info:
+21
+3
+Cost:
+360
+Only 4 days. 4 days without sleep, of constant battle. I would have lay down and died for the chance to just rest for a few seconds, but there was no rest here. Every defeated soldier was raised as another member of the undead horde. Within minutes of their corpse hitting the cursed land their arms were twitching again with an unholy life, then they would reach for their weapon and we, who fought and bled beside them as brothers, would be forced to kill them.
+We had come through the Aduro Straight, where angels and demons battled across bleeding lands and had thought the worst was past when they came through to the calm Meditor Sea. Our fleet of white sails and cheering men, an army of many nations landed as one on the shores of this island. Was that really only 4 short days ago? How I wished for the days spent in that hell, they are fond memories compared to this land.
+The
+paladins
+are our inspiration. They fight tirelessly, never questioning, fighting for every inch of ground as if it was any different than the cracked earth we just came from. Even now Vaghan stands surrounded, his armor gleams even on this moonless night and the power of the Empyrean flows through him.
+An
+Ash Bearer
+comes at me, using his sword to thrust rather than slash. If he was to dismember me I would be weaker when raised as an undead. I parry the clumsy attack but he continues on, throwing his shoulder into me and pushing me back. I stumble into Vaghan and realize this is the Ash Bearers real intent, that he could use me to distract the paladin, to make him vulnerable if only for a second.
+I fall out of the way, trying to keep from interfering with Vaghan's fight even if I am sacrificed in doing so. The Ash Bearer comes quickly upon me but is stopped when Vaghan steps over me and slashes through him. I have a brief glimpse of those Vaghan was fighting with, a wraith and a juggernaught of sewn corpses setting upon his now exposed back. Vaghan seems to ignore them, thrusting his arm up there is a flash and a ring of blinding light explodes from him. The wraith is destroyed, the juggernaught reels backwards and is hacked apart by our men.
+Vaghan grabs me and pulls me to my feet, "Do not despair, hope yet remains."
+Then he is gone. There is only a slight whistle to indicate that anything passed through the night until it turns back towards the army. A
+dragon
+of sleek black scales is silhouetted briefly against the sky, darker even than the night like a hole in sackcloth. The dragon spits out Vaghan's remains, a small rain of blood and once perfect holy vestments. Then she roars and I find myself suddenly nostalgic for the days of constant battle.
+- Visions from the Pool of Tears and revelation that the Sheaim had awoken Abashi and was using her in the Battle of the Black Tower
+
+======================================================================
+PAGE: Acheron the Red Dragon
+CATEGORIES: Beast Units, Dragon Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Acheron_the_Red_Dragon
+======================================================================
+
+At beginning of the midgame a dangerous, burning region will spawn, infested with orcs and ruled over by an ancient red dragon who presides over a cult of fire mages. The disciples of the Dragon protect their master's land from interlopers with fireballs and mighty fire elemental servants. Beware of letting some barbarian city spawn too close to your capital: if Acheron choose it as his home, you will be chocked.
+Acheron the Red Dragon
+Race:
+Dragon
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Barbarian
+Starts With:
+1 First Strike
+Creates
+The Dragon's Hoard
+in city when built
+Starts with nearby vegetation on fire
+Magic Immune
+Sentry I
+Sentry II
+Stoneskin
+Dragon
+Info:
+19
+0
+Cost:
+25
+The Dragon Horde
+Around turn 100
+Acheron the Red Dragon
+will awake and settle in a random Barbarian city. Soon after he will start summoning his minions, able to cast fireballs and summons fire elementals. The Acheron  city will be host for the enormous treasure of the dragon,
+The Dragon's Hoard
+, that will be a nice prize for the the brave dragon slayer, providing culture, Gold, Gems and money. Around the city often a large, empty, dangerous area of burned out territory spawn, enveloped in Barbaric culture. Any barbarian or animal that enter the zone is tempted to join the city army, and any civilized units that explore the area is normally slain by fire elementals before he can even see from afar the Dragon city.
+Disciples of Acheron spawn near the Dragon. They cast fireballs. They eventually are promoted to Sons.
+Sons of the Inferno summon heavily promoted
+Fire Elementals
+with 30% collateral damage.
+Animals and barbarians are attracted to the city
+Disciples and Sons remain in the immediate proximity of the city, but with a strong spell extension and the visibility granted by the culture expansion of the dragon city, they will annihilate any unit in a 4-6 radius, including automated workers.
+ATTENTION
+! Raging Barbarians option allows Acheron minions to stray from their city and set the entire continent on fire, very early in the game. If MNAI MOD is loaded, you may found a galley full of Son of the Inferno landing on your capital in late game. So pay attention and sacrifice some effort in monitoring their expansion.
+Defeating Acheron
+Normal army, even large stacks, may prove ineffective to slain the dragon and his army. You need units with courage or undead, not to be scared by the dragon, or summons that are immune to fear.
+Often attacking units will be dead before they are albe to inflict damage. First strikes (dance of blades) help to be sure that Acheron will be somehow damaged by the attack of your units.
+Sacrifice an initial cheap unit (like a skeleton, warrior, etc) to get rid of its stoneskin.
+And be prepared to lose several champions/rangers in the fight.
+Acheron is magic immune so fireball are less effective, and units like Djinnis are ineffective.
+Some strategies:
+attacking Acheron's city early with loads of melee units and siege weapons, using dance of blades to inflict some damage
+use iron golem with 4 adept that fully repair the stack every turn. Wood golem are not good against fire.
+use 4 beastmaster
+Taming Acheron
+Acheron is a Beast units, so a a unit with subdue beast (Animal Mastery tech) will be able to sudue it. That requires a beastmaster or a Recon- Hero, as the subdue beast promotion is not available to non-hero rangers.
+Often Beastmaster are a big deroute on the tehc path, so a divine tier 4 Units with Channeling 3 and Command 3 or 4 (last one needs Order state-religion sadly...) offer a neat chance upon defeating him. (50% / 70% respectively.)
+Order Paladins of Sphenor are a good choise, if you happen to be Order.
+Be sure to "feed" him some units before capturing though to get him enough XP to pick Mobility I. Otherwise he's a sitting duck (0 movment!!)
+A Bestmaster should beat Acheron without all to much effort. Especially if you pre-feed him for the needed XP and the beastmaster allready has some promotions. ;)
+Limited mobility, no flying and maximum 2 movement points fully promoted, make for a mediocre unit. Actually, his greatest use is protecting stacks, by having the highest defence.
+To go for an early caputre, you don't need mana. Rush Animal Mastery, and throw 4 beast masters at him. He gives lots of xp... But feed him a few scouts first.
+In the late game he is often surrounded by absurd army of fire spellcaster with fire resistance. Meteor and Tsunami are best spells to deal with them.
+Background
+It flittered about impatiently as the ages passed, in this place without time. In this almost nothingness where myths go when dead but not forgotten. And Erebus would not soon forget Acheron, the flame lord, the beast of destruction, the Red Dragon. The earth had trembled when he walked. Centuries old Fir trees had been uprooted when he took flight. When he and his adversaries clashed, it was a sight like no other before or since.
+But at the Compact, the power that sustained him was withdrawn. He was as fearsome as ever but his wounds did not heal so fast. When he brought forth his fire, now he got a taste of the pain he inflicted. And one fateful battle, he was not quite fast enough, and he fell, never to rise again.
+He could not rest here as most of the others did, content in the majesty of myth. It was not his nature. His nature was that of fire. Fire, the ravenous devourer. Fire, the nimble dancer brought aloft on the winds. And fire, patient when defeated, but ever eager to spring to life again with the faintest fuel. And at last he detected it. The essence of his mistress Bhall. Not the goddess herself, but some people close to her--and Acheron's--fiery nature. They reproduced quickly, grew fast, fought with a roar, and died with rage. Chaotic, but strictly following the laws that governed them. Violent, but leaving a void that encouraged new growth. Nimble, but leaving a lasting mark.
+They didn't know they called to him, that they gave him strength, but they did. Their rage opened a portal that he alone could take and returned substance to his long decayed flesh and bones.
+Three-Tooth dumped his bag on the ground in Ahepetr. Three human skulls, an iron knife, and a handful of shiny trinkets tumbled out. Half-Nose reached for a diamond ring, and Three-Tooth jumped him. The two orcs tumbled around the ground as the nearby goblins cheered them on, sneaking Three-Tooth's spoils when they could.
+They were interrupted by an earth shaking roar. All turned to face him. Resplendent in primal glory, Acheron stood. His leathery skin had the luster of rubies, all the more so when his breath illuminated the dusk with a billowing cloud of fire. Every tooth, fang, and claw shone, sharp and perfect, as if he had not fought countless battles. His leathery wings embraced the humble village. His face wore a fearsome snarl ... or possibly, though it seemed so out of place on this beast, a smile.
+As one the
+orcs
+and
+goblins
+gathered their war spoils and carried them before the mighty dragon, laying them at his feet. In time, the pile would grow to a mountain as the legend was reborn.
+Alternate strategy
+Additionally to the usual strategy, which simply means attacking Acheron's city with loads of melee units and siege weapons, I'd suggest a more sophisticated way including a maximum of four units, nevertheless taking more time. The central unit you should go for is a
+Shadow
+with at least the following promotions:
+all five
+Combat
+promotions
+Amphibious
+at least three
+Drill
+promotions
+Subdue Beasts
+Resist Fire
+This unit will take down Acheron's city one by one, starting with the
+Melee Units
+and Sons of the Inferno and, in the end, beat Acheron. The best thing about this strategy is that Acheron is not simply slain but tamed and caught so from now on you can use him as your first dragon.
+But, what about the masses of
+Fire Elementals
+summoned every turn by the Sons of the Inferno in Acheron's city? Well, that's the point! In nearly all cases I tested this strategy, Acheron chose a coastal city to reside in. And only in those cases the strategy works: You put your
+Shadow
+onto a ship, maybe together with an
+Archmage
+who can summon a
+Water Elemental
+or a
+Speaker
+or
+Cultist
+. Ship next to Acheron's city and, if available, alternate your
+Shadow
+'s attack on the city and a Tsunami cast of the Disciple. The
+Fire Elementals
+won't be able to attack you on the ship!!!
+When only Acheron is left to be attacked, your
+Shadow
+will most probably not be strong enough to win. There you need either the
+Archmage's
+Water Elemental
+or a
+Knight
+with a well developed Withdrawal Chance to weaken Acheron without being killed. Now attack Acheron with your shadow, lean back and enjoy your first tamed dragon! By the way, this
+Shadow
+will be able to catch the other dragons in the game, too. I found it even fun to give
+Divine Essence
+to the
+Illians
+,
+Sheaim
+and
+Kuriotates
+just to let them summon their dragons for me to tame...
+
+======================================================================
+PAGE: Adventurer
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Adventurer
+======================================================================
+
+Adventurer
+Race:
+Human
+Unit Class:
+No Unit Class
+Requires:
+Grigori
+Created by Great People Points
+Starts With:
+Hero
+Info:
+2
+1
+Cost:
+N/A
+Upgrades To:
+Warrior
+Adept
+Scout
+Archer
+Horseman
+An Adventurer is a hero unit that can be upgraded to any of the Melee, Archer, Mounted, Recon, or Adept units the owning civilization can build. Adventurers start with the Hero promotion, which gives them free XP every turn until 100 XP has been earned, either through combat or through the promotion. They are essentially a build-a-hero unit.
+Adventurers can only be created by the Grigori, but other civilizations can gain Adventurers through rare events and explorations of Dungeons and Lairs.
+
+======================================================================
+PAGE: Alazkan the Assassin
+CATEGORIES: Elven Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Alazkan_the_Assassin
+======================================================================
+
+Alazkan is the Hero of the
+Svartalfar
+dark elves. He is a powerful
+Assassin
+that enters the game equipped with the shield
+Black Mirror
+, that enables the bearer to cast
+Mirror
+(summon an illusory copy of himself each turn).
+He may move swiftly in enemy territory and then cast
+Mirror
+to extend his range, or he may use his illusory copy to lure the enemy into the open field. He may use the illusion to win combat, leaving the enemy weakened and easy prey of some friendly adept seeking experience, or he may simply use it to lose combat, sacrificing it to soften a difficult target. It may be a problem that
+Alazkan
+(and his illusory copy) are
+Marksman
+: being a powerful hero you would sometimes like to use it as the spear of your attack (attack strength 8+2+100%=18 fully promoted). Some
+MODMODs
+like ANAI allow you to suspend the effect of Marksman, enabling him to attack the most powerful enemy.
+The powerful artifact
+Black Mirror
+is a normal piece of equipment that may give the
+Black Mirror promotion
+to any bearer unit.
+Alazkan the Assassin
+Race:
+Elven
+Unit Class:
+Recon Unit
+Hero
+Requires:
+Svartalfar
+Poisons
+Starts With:
+1 First Strike
+-50% City Attack
+-50% City Defense
+Immune to First Strikes
+Can See Hidden Units
+Marksman
+Hidden Nationality
+Hero
+Elven
+Info:
+6/4
++2
+Poison
+2
+Cost:
+120
+Special:
+Equip the shield
+Black Mirror
+, that enable the bearer to cast
+Mirror
+(summon an illusionary copy of himself each turn)
+Background
+They moved slowly through the forest. A small punitive expedition, intent on burning a few trees, raping a few Svartalfar women, skinning a handful of trolls. Their goal: to exact revenge for some trespass, some transgression committed agains their homeland. Maybe the Svartalfar had stolen some children or played tricks with some cattle. Who knew? It made no matter, they'd soon regret having the gall to try to make retrubution upon the servants of the Winter Court. They made progress like elephants, crashing along the path, making a great ruckus, trampling the brush and plants on the lightly worn path into the dust. Alazkan crouched among his sisters, his fellow warriors, and waited for them to come.
+In a roomy, well-furnished and comfortable tent, far away from the dark and miserable forest the soldiers were slogging through, a group of men were gathered around a mage with a scrying glass, listening to his report of their progress. The tent and all the ones around it were set up in a clearing, a man-made clearing, hacked and burned out of the all-encroaching forests that covered and obscured the lands of Faeryl Vinconia, the Queen of Mischief. The generals need not put themselves in harm's way, they had to be detached from their little army in order to make cool, correct decisions unhindered by the chaos of a surrounding skirmish. But right now, nothing demanded their attention, so the discussed what they would do when the soldiers reached the closest settlement.
+On a stretch where the path narrowed slightly and the shadows seemed to deepen, the Svartalfar struck. Banshees, witches, amazons, lashing out from the darkness, retreating, and lashing out again, cutting short a man's life every time. Jinxes, curses, knives, darts, arrows and all manner of projectiles flying out between the shadows and the foilage, leaving pain and terror in their wake. Poisoned men raved around like lunatics, the wounded screamed and the soldiers yelled and cried in confusion. Alazkan danced and flitted among the confused mass of soldiers. A thrust here, a slash there, with the grace and efficiency of endless practice. Crossbowmen fired bolts blindly, hoping to hit something in the trees, but as often as not hitting their allies, fighting vicious hand-to-hand battles with the Svartalfar in an attempt to strike back at their hidden tormentors. Those who broke and fled along the path were caught in hidden traps, just as lethal as their live foes. The battle was going badly, it was going worse than badly, it was disastrous. If it weren't for the fact that they were trapped, it would have been a rout. As it was, ever dwindling pockets of desperate survivors were doing their best to take as many elvish vixens with them as possible before their inevitable demise, fighting with the rage and bitterness of desperate men. Then the spells came.
+Action among the greying men in the elaborate tent had been swift and decisive. The battle was lost, the men dead anyway. What difference did it make who killed them in the final reckoning? They may as well use the opportunity to strike a blow at their shadowy foes. At least then the soldiers would not have died entirely in vain. The general, a hard man in glittering, polished armour with little practical use, had not faltered an instant before ordering the mages to saturate the battlefield with their ethereal doom.
+The fire rained down from the sky, meteors, lightning and fireballs splitting the trees and sending flaming splinters and shards flying between the combatants. Great chunks of earth flew up where meteors struck, blast and heatwaves threw bodies around like rag dolls or vaporised unfortunates where they stood. The forest floor was turned to mud, a mud made not of water and dirt, but of blood, and sap, and earth and ash. A cratered wasteland, every bit as hellish as the lands of the Infernal, where Svartalfar and human lay, sliced and burned, united in undignified, violent death, a horrific, ever convulsing monument to hatred, composed of limbs, flames and entrails.
+The scene was pure chaos, the horrible banshee wails of mangled Svartalfar mixing with the despairing, uncomprehending cries of the men that were being sacrificed by their own friends and comrades in arms. Survivors sought any cover they could find, skittering desperately away from the destruction. When two foes found the same hole to hide in, a brief and squalid fight would erupt, leaving only the victor to cower in safety until another challenger arrived. The air reeked with the odor of the freshly slaughtered, mingled with smoke, earth and the odd smell magic left behind. And all the while the spells thundered down, pummelling the site again, and again, and again.
+The men in the tent listened impassively or paced around the tent as the mage conveyed his impressions from the battle. The crackles and fizzes of the mages working their craft could be clearly heard through the thin walls, as could the duller, more distant whooses and booms of the spells hitting home. Surely, noone could survive such destruction? A great blow was struck this day, a blow which those accursed elves would not soon forget. The generals congratulated eachother. Still, they were, of course, suitably sombre about losing so many brave, but sadly, expendable, warriors. Of course.
+All the Svartalfar that could had made off, hoping to get away from the cauldron of murderous magic before the spells reached out to them. Also Alazkan had made good his escape, dodging the first blasts and sweeping through the forest, running with determination in the direction in which the fiery trails of meteors and fireballs pointed him. Soon, the other Svartalfar survivors would follow. They knew where the men made their camp, but it was easy to used the smokey trails as guides, to get there all the faster. But Alazkan was far, far ahead of them. Already, he could see the flashes of spellcasting through the foilage.
+A commotion sounded from outside the generals' tent. The man in the ceremonial armour raised an eyebrow, then quickly busied himself winding a small, one-hand crossbow. Others grabbed swords and axes, hefting them in preparation of defending themselves. They felt secure that they were far enough away from the fight, but one never knew if their foe had sent a small force to them as well. Although they would have to be many to get past the guard squad at the door, it was wise to be on the safe side. The commotion was drawing nearer, after all.
+Alazkan was already in the camp. He knew where the generals' tent was, at the centre, and he was determined to battle his way there. Guards and camp followers fell like leaves in autumn trying to stop him, as he sliced, cut, danced and dodged his way closer, ever closer to his goal. He fell upon the guards outside the tent like divine retribution, cutting them apart with artistic grace and great gore. He was fury, he was revenge, he was a force of nature. And now, he was bursting through the door.
+The general leveled his crossbow and fired. The bolt drove home with a very final thud.
+While the men in the tent watched Alazkan's mirror image crumple to the ground and fade, Alazkan saw his moment to step out from the shadows and complete his mission. His doppelganger had done the job he was meant to do, distract and confuse, so Alazkan could eliminate his quarry and get out alive. The shock generated by his sudden appearance had no chance to clear his victims' faces before they were all, to a man, dispatched to the vault of their god. Alazkan, pleased with how easy it had been, spent the rest of the day having sport with the mages and guards, until his allies came and he ran out of quarry.
+As the dust settled and the ground drank blood, the trees and the mist of the Svartalfar forests closed over the site of the battle and the little camp. The vermin were purged by poison and traps, and the Svartalfar household could return to order and peace.
+
+======================================================================
+PAGE: Avatar of Wrath
+CATEGORIES: Armageddon Events, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Avatar_of_Wrath
+======================================================================
+
+Avatar of Wrath
+Race:
+Demon
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Barbarian
+Armageddon Counter
+at 90
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Sorcery (Promotion)
+Fire III
+Spell Extension I
+Spell Extension II
+Water Walking
+Combat I
+Combat II
+Combat III
+Demon
+Info:
+33
+2
+Cost:
+0
+Special:
++3 to the
+Armageddon Counter
+Large percentage of living units convert to
+Barbarians
+Can Cast
+Ira Unleashed
+The
+Archangel of Camulos
+, also known as the
+Avatar of Wrath
+is a powerful unit which is created when the Armageddon Counter gets high enough. The Avatar of Wrath comes into play as a barbarian unit, and causes half of the world living units to become
+Enraged
+when he does so. He is the only unit capable of summoning the powerful
+Ira
+.
+
+======================================================================
+PAGE: Barnaxus
+CATEGORIES: Golem Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Barnaxus
+======================================================================
+
+Barnaxus
+Race:
+Golem
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Luchuirp
+Construction
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Golem
+Pieces of Barnaxus
+Info:
+5
+1
+Cost:
+180
+Special:
+If Barnaxus has the Combat I-V promotions, all
+Luchuirp
+golems have a higher strength
+Barnaxus was beautiful, perfect. The pinnacle of years of work, of finding the right words to power him, of selecting just the right pieces, of lovingly sculpting every little detail of his joints and his features. Barnaxus was more nimble, more exact, more careful and more effective in everything he did than any of the other golems that were built in the empire of Khrad'Ke-zun. For many hundred years, this giant did as he was told, when he was told, and always did it better than anyone else, dwarven or golem. Barnaxus works were the pride of the Empire, and, when the ice sheets smothered the world, the name and reputation of Barnaxus passed into legend.
+Perhaps it was this legendary status that meant that when, years after the Ice had pulled back and the Luchuirp embarked on their mission of rebuilding the Empire, a tall, weather-worn golem appeared at the gates of the capital, he was instantly recognized as the long-lost Barnaxus. For, surely, only a golem of such perfection and brilliance as Barnaxus could have survived so long without maintenance and protection? 
+It quickly became clear that Barnaxus was unlike any other golem. Barnaxus did not "take orders." He cooperated, he discussed, and he made suggestions. Barnaxus was a thinking golem, a learning golem. No one could guess how he had managed to break the magical ties that bind a golem to the two-dimensional world of "order and execution", and nobody really expected that they would ever find out. When asked, Barnaxus merely said: "A man spoke to me in the wastes and I awoke," he would say no more.
+True, Barnaxus could do what he wished, but what he wished was to help the Luchuirp. He wished to help them rebuild the Empire, to recall what was forgotten, and to perfect what was remembered. He appeared to harbor a love for the Luchuirp that mirrored that of a doting father, with a hint of a patronizing air to some of his advice. And the Luchuirp, amazingly, instead of rankling at being "taught" by a golem, loved him back. He was their link to the past and an amazing store of knowledge. Golems, after all, never forget. But most important of all, Barnaxus also taught the golems. What Barnaxus learned, the other golems soon copied.
+And so it was that Barnaxus went from being the "King of the Golems" to being a true leader of golems and of dwarves.
+
+======================================================================
+PAGE: Baron Duin Halfmorn
+CATEGORIES: Animal Units, Hero Units, Werewolf Units
+URL: https://fallfromheaven.fandom.com/wiki/Baron_Duin_Halfmorn
+======================================================================
+
+Baron Duin Halfmorn
+Race:
+Werewolf
+Unit Class:
+Beast Unit
+Requires:
+Feral Bond
+Starts With:
+Werewolf
+Magic Resistance
+Info:
+11
+3
+Cost:
+500
+Special:
+25% chance of creating a
+Ravenous Werewolf
+if successful in combat against a living unit
+Duin was a fearsome warlord during the Age of Magic. He hosted lavish banquets after his victories, where he and his generals feasted on the bodies of the captured opponents. His generals' ambition grew to match his own and they turned on him in a bloody civil war. Duin won the war but lost his empire; in the end, he sat alone, feasting on his generals' bodies.
+Like all mortals, even the horrific Duin passed away, but he would not be allowed to sleep forever. In time of dire need, desperate mages performed rites to bring back the greatest, most feared general of history. But it was not without price: the gods knew of Duin's character, and would not suffer him to be raised back to life without an appropriate form.
+Werewolves had not been seen in the world since the Age of Ice. Hardly possessed with the same mental faculties as vampires, the werewolves truly were hunted to extinction by the human survivors. But in Duin Halfmorn, these dark creatures will witness a terrible rebirth, and the free peoples would do right to tremble in fear.
+Strategy
+A great addition to your military might, Duin can create Ravenous Werewolves that will become Blooded if their taste for flesh is sated. Described by Kael as a "double-win" mechanic, players that already have a well made army will benefit from adding Duin to their army, while losing players are given a small chance to catch up.
+
+======================================================================
+PAGE: Basium (Unit)
+CATEGORIES: Angel Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Basium_(Unit)
+======================================================================
+
+Basium
+Race:
+Angel
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Spawns with
+Mercurian Civilization
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Resurrected in the civilization's capital if killed
+Loyalty
+Sentry I
+Sentry II
+Iron Weapons
+Hero
+Angel
+Info:
+7
++4
+Holy
+2
+Cost:
+0
+Special:
+Mercurians
+Lose Leader
+Traits
+Upon Death
++5 to the
+Armageddon Counter
+Casts
+Convert City
+in City Containing
+Mercurian Gate
+There is a word in the Angelic tongue for "love". Three, in fact. There are words for "mercy", for "compassion", for "tender kindness". The closest word to be used on this particular medium is carved upon his left forearm: "prudence." Like the word he just finished upon his chest, "justice", this is prayer in his native tongue written in blood and pain upon his now mortal flesh. "Holiness", across his cheeks. "Wrath", along his right forearm. "Judgment", his brow. "Courage", down his torso. Each a prayer to gods he turned his back on. Attributes of divine judgment he seeks to cultivate within his soul.
+He was just finishing carving into the fingers of his right hand when two young men approached the lord, dwarfed by his stone-faced sergeants that led them. "What... what is he doing?"
+"It is a prayer... with every pain, I beg for the strength to finish my task." He rose. He towered over even his own mammoth soldiers.
+The other man gulped. "But aren't you... aren't you a god? To whom do you pray, m'lord?"
+Basium turned to face his men. "Why do you disturb me?"
+"I am Lars Lort, lord Basium. We wish to join your cause, me an' Kobe here. A horde of Infernal beasts destroyed our hometown, we were the only two survivors."
+"Then take you a sword--we march on the morn."
+"Well, sir, if we may," said Kobe, "we two are more than mere sell-swords. See, we've a bit of magic between us, that's how we survived the assault, by hiding invisible like. But we were watching and we learned something. Wait an' we'll show you." Without waiting for prompting, the two young mages began their spells. Basium took a long, slow breath, the rune on his left arm throbbing.
+It was the Sulfuric smell that first alerted Basium. All his muscles tensed at its arrival before he was able to recognize the presence of his enemy. Curiously, the Balor stood motionless in the middle of camp. "Isn't it great?" Lars exclaimed gleefully. "We watched how the Infernals gated in reinforcements, but we figured out how to put the ward of command around it ourselves. With us around, you can fight fire with fire!"
+Basium leapt upon the Hell-beast, wrapping his bare fingers around its neck. Smoke began immediately to hiss from the demon's skin, and in moments flames began to lick at Basium's fingers. On each of the fallen angel's fingers was carved one of the five angelic names for the Most Holy One. The Balor writhed in pain, breaking free of the Lorts' simple command warding in the process. He whipped at Basium with his tail, raked his back with his claws, bellowed with an unearthly roar, all to no availÂ—the Mercurian was unshakeable. Eventually the demon was reduced to an almost pitiful writhing and moaning until all that was left was a hellish smell and hissing puddles of black blood.
+Basium rose, and stalked towards the two mages. "You call forth a Balor in my own camp? Let me show you what I do with fire--I extinguish it!" Basium roared. Lars felt his brother's warm blood splatter on his face before he even noticed that Basium had drawn his war hammer. He never noticed the second swing.
+Basium walked back to his mat by the fire-pit. He picked up his ceremonial dagger, and began to trace the W on his arm.
+
+======================================================================
+PAGE: Brigit the Shining
+CATEGORIES: Angel Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Brigit_the_Shining
+======================================================================
+
+Brigit the Shining
+Race:
+Angel
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Level 15 Unit entering the
+Ring of Carcer
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Resurrected in the civilization's capital if killed
+Angel
+Hero
+Info:
+6
++3
+Holy
++2
+Fire
+Affinity
+1
+Cost:
+N/A
+Brigit the Shining
+is an Angel Hero unit who can be created by entering the
+Ring of Carcer
+with a level 15 unit.
+Civilopedia
+She withered in the onslaught of flames, for the first time feeling the sensation of burning. It was as if she dove into the sun. Tears of gold ran down her sword, so hot it was melting before reaching its target. Her armor popped and warped and her wings were little more than charred stubs.
+Behind her 440 angels fought against thousands. There was little hope, but they fought because hope was not required, only passion for what they were. And hatred for what they would not become.
+They were all hurling down. Bhall had succumbed, and in that thought destroyed the heaven that they all occupied. She paid little attention to the war raging around her, a battlefield streaking through the sky, angels flying, burning and killing each other. Bhall was the burning heart of the inferno, like a massive meteor surrounded by thousands of shattered pieces, and Brigit was diving towards her.
+Brigit landed on her chest, her willpower split between protecting herself, guiding her movements and reaching out to Bhall. Brigit was barely taller than the goddess's head but she raised her sword to drive through Bhall's heart.
+"My queen, you must recant. The men and gods all stand on your strength. In your loss you will consume creation."
+There was no response, Brigit raised her sword again, but she could not finish the motion. It was not the pain, or the fall, she was simply unable to do it.
+"Can you not kill me child?"
+Bhall's words rang through each of her angels. Behind her Brigit could see the ground nearing, there was a great city below with tall spires and vast domed temples.
+"You cannot fall, you cannot let this happen!"
+Bhall closed her eyes, as if considering the statement, then lashed out at her highest angel, grabbing Brigit in her right hand and pointing her left toward the mass of warring angels. In that instant, each of the 440 angels that hadn't followed Bhall into damnnation but had remained loyal to her formerly holy dominion were incinerated in pale yellow flames. The thousands that had followed their queen cheered, Brigit could see that they were already being transformed by their fall into twisted horrid shapes. Of all of Bhall's angels only Brigit remained pure and beautiful.
+"Will you not join me?"
+"No." Brigit remained absolute.
+Just before striking the ground Bhall threw Brigit away from her. To a place where beings of fire would never go, deep into the lands of snow and ice. Bhall's commands chased after her, forming a prison for the archangel, a ring of lights that burn anyone who try to pass through it. And to this day Brigit remains trapped within it.
+Gameplay
+Brigit can both use metal weapons and has a Fire affinity, meaning she can easily reach very high strength levels. As a melee unit, she also has access to a wide range of promotions. She cannot however benefit from the
+Haste
+spell, making her relatively slow for a late-game unit.
+March
+and
+Commando
+should be viewed as key promotions.
+
+======================================================================
+PAGE: Corlindale
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Corlindale
+======================================================================
+
+Corlindale
+Race:
+Human
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Elohim
+Fanaticism
+Starts With:
+Cannot Pillage
+Channeling I
+Channeling II
+Channeling III
+Earth I
+Mind I
+Spirit I
+Hero
+Info:
+0
+2
+Cost:
+300
+Special:
+Can Cast
+Peace
+which reduces
+Armageddon Counter
+by half, forms a peace treaty with all leaders, and kills unit.
+Cannot attack or defend
+As Corlindale walked towards the overgrown walls, his heart was filled up with equal portions of excitement and fear. His first battle! This was what he had been training for, during the long and hard years of being locked in the Amurite citadels, forced to study moldy old tomes and practice vocalization for unbearably long stretches at a time, listening to the Elder mages droning on and on about ancient runestones and vagaries of magic while secretly wishing them to oblivion.
+His fellow mages marched beside him, all in a strictly ordered formation, all with equally expressionless faces. He realized that he must look a fool in all his excitement, and made a partly-succesful attempt at emulating their indifferent expressions.
+Moments later: chaos. Everyone was gone, the ordered formations falling into disarray as the Ljosalfar sentries that had been hiding in the treetops unleashed a hail of arrows at the unprotected mages. He had managed to evade it by quickly evoking a protective spell, in a more instinctual than rational reaction. Then he had started to run. Now he was all alone, in the streets of an enemy city. Thankfully, most of the enemy forces seemed to be concentrated at the outer walls, but he still felt very exposed as he walked around the empty streets, marveling at the mighty oak trees. He almost felt as if he were walking in a dream, so eerie was the beauty around him, and so distant the sounds of the battlefield. He found it hard to recall what the cause for the present conflict had been--perhaps a dispute over borders? Perhaps the elves had been overly protective of a source of mana? It all seemed so distant and insignificant now.
+Suddenly he stumbled upon an elvish patrol, coming towards him from a side-street. As one of them saw him, he called out in the melodic elven language. The vigilant sentry and the other soldiers started approaching Corlindale, though somewhat warily. They had probably been warned about the skill of Amurite mages.
+It did not do them much good, however. He held out his palm, and drew heat from the surrounding air to create an enormous fireball, glad of the recent rainfall that would minimize the risk of a forest fire. He flung the fiery ball at the patrol, and closed his eyes at the searing explosion of light and heat which ensued. 'Naught but ashes remained of the leading elves, while the ones who had evaded the blast threw their weapons and fled. The cowards.
+Feeling strangely exhilarated, he walked on. His first victory--as is so often the case with the young upstarts in military life--had made him feel all but invincible, and he almost wished more elves would come.
+Moments later, a wish fulfilled. He heard the rustles of leaves behind him, and immediately invoked another ball of fire. Remembering the rain of arrows
+with dread, he elected not to take any chances, and in one whirling motion he turned around and flung the ball in the general direction of the sound. Time stopped.
+Before him stood a female elf, her hair long and silvery, her eyes almond shaped and beautiful, but her face marred by the expression of pure terror on her face. Worse still, at her feet stood two younger children, a boy and a girl, clinging to their mothers dress, the older girl mirroring her mother's expression of terror, the young boy just seeming curious about the fiery object travelling towards him at a rapid pace. Corlindale had time to take all this in, in a moment which seemed to linger for centuries. He reached out his hand, and desperately and fervently willed the ball to stop, to cease its flight towards destruction, even to turn around and consume him. Anything but this. At last, as it became evident that nothing could be done, that no force in this world could reverse his magic, he closed his eyes, and his howl of misery almost served to drown the shrieks of pain.
+One evening in the late autumn, a stranger approached the city of Cahir Abbey, in the lands of the Elohim. He was clad in a brown cloak, with no symbols or markings of any kind, and seemed very fatigued, so the sentries on the wall took him in, and gave him food and shelter. Some were curious about his origin, but one look at his eyes was enough to convince them that not all stories were fit for human ears. This was a broken man, in spirit more so than in body, and their hearts ached with pity for his cruel fate.
+
+======================================================================
+PAGE: Donal Lugh
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Donal_Lugh
+======================================================================
+
+Donal Lugh
+Race:
+Human
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Bannor
+Fanaticism
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Sorcery
+Spirit II
+Guardsman
+Recruiter
+Empty Bier
+Hero
+Info:
+7
+2
+Cost:
+300
+Special:
+Regains
+Recruiter
+Promotion after defeating a Demon or Undead Unit
+Does not die after casting
+recruit
+The hound that tracked him almost looked normal, until it turned and growled. Half of the face was rotted away, and the skull beneath was scratched and chipped, with a dark pit for an eye socket. But it had no trouble seeing its prey. It leapt for Donal's throat.
+This was far from the first Hellhound Donal had seen. Reflex took over, and he dropped and rolled to avoid the fangs. His crude weapons flew to his hands. Donal and the hound circled each other, feinting and pulling back, until in a flash it was over. Donal dodged the lunge, and sunk his blade into the demon's neck, pinning it to the ground. It growled and thrashed about almost comically, trying to free itself and continue the attack.
+"C'mon, boy, play dead," Donal said, slamming his shield down upon the hound's skull. Both shattered, and the thrashing stopped. "That's a good dog."
+He didn't laugh at his jokes any longer. He had stopped amusing himself some time ago. Ten years or a thousand, he had no idea and had stopped caring. Since his people left Hell, there was no one else to laugh either, and yet still he quipped as he grimly fought the inhabitants of this realm. In the home of the King of Despair, his biggest battle was maintaining the one thing that sustained him, hope.
+"We have no hope, Capria. We must abandon the siege."
+"Capria turned to face her nephew. "We cannot, Mattius! You heard what I heard from Fanariel's lips. Â‘The Sheaim have made a breakthrough. With Agares' guidance.' We must press on!" Capria trembled as she spoke, her aging frame failing her more and more lately. Perhaps she would be steadier if she met her council without full battle armor on, but to be war leader of the Bannor and not be ever battle ready?
+"Indeed we must," agreed the High Priest. He was young, much younger than the regent he addressed, but he spoke with supreme confidence. "The heresies stemming from Galveholm are provocation enough to mobilize. Sabathiel therefore sees no reason for us to even associate with elven brigands like this Fanariel."
+Mattius snorted. "I'm sure Sabathiel knows a better way to get a spy into Sheaim lands, but he hasn't been exactly forthcoming lately."
+"Does the Head of House Venerat doubt the authority of the priesthood to speak for..."
+"What Mattius was pointing out, Elmin," Capria jumped in, "is that we need to prioritize our missions. The Clans have been building strength, our ambassadors have been expelled from the Lanun capital, and"
+The war council was interrupted by a tremendous quake, throwing them all to the ground. Capria's reflexes triumphed over the limitations of age; she bounced to her feet and raced out of the tent. The camp was showing the benefits of Bannor discipline and were in formation around the commanders' tent, ready to repel the attack.
+But it was not an opening magical salvo for an attack. The army watched as the trees and brush on the hillside below them withered and died, the sun was obscured by a dreary haze, and fires erupted on the horizon. It was a scene Capria remembered well from her childhood, and nightmares ever since. 70 years ago they had escaped Hell, and now it had come for them.
+He had scoured this Hell looking for an escape. Never mind that it was an infinite plane, he swore he'd seen every inch of it twice. He had been chased every step of the way by the minions of Agares and Bhall, and managed to either elude them, or fend them off. All to see this day.
+Donal saw a portal to the mortal realm stretching out in the valley below him. A rift in dimensions, fluctuating wildly. And around it was arrayed an army of demons. Cavorting Imps, a contingent of Ruhin, a virtual city of manes... and the biggest Balor Donal had seen. And they were leaving. "Oh, not without me, you don't," he muttered as he started down the hillside. "I don't know where you're going, but it's got to be better than here."
+The demons marched through, as the rift slowly began to close.
+The demons were on the march. The first battle with them had caused the Bannor army to rout, and since then they had been pushed back to Tor Lehan, the nearest settlement to the corrupted lands. From its battlements Capria could see flames at the border to the Infernal lands all through the night. So far the priests' blessings had kept the corruption at bay, but not the corrupted. They surrounded the settlement, the demons that had haunted her in her youth. Only the most courageous soldiers remained to stand against them.
+The battle was joined at dawn. It quickly turned against them.
+Mattius stood alongside his aunt at the battle lines. "If I'm to die, I'm honored to do so beside one of the heroes of legends."
+Capria nodded, swinging her two-handed sword. "I'd rather live. But if the Bannor do not stand to face this dire threat, who will?" An image at the edge of her field of vision made her turn, coming face to face with a monstrous pit beast.
+"The trick to these beasties is to get them from behind," shouted an old friend as the Pit Beast was felled. "The wings limit their peripheral vision."
+"Who... my god, is that you? Donal Lugh?"
+"In the flesh, for a pleasant change."
+Mattius gasped. "Then the legends... are all true? We are the Bannor of Sabathiel!"
+The tide of battle turned. The Bannor lost as many as survived, but the town was saved, and the forces of Hell pushed back for today. The news of the victory spread, shaming those who had fled, and inspiring a new generation. This was the war that Sabathiel had saved them for, and it was only beginning. But the first victory was theirs.
+
+======================================================================
+PAGE: Drifa the White Dragon
+CATEGORIES: Beast Units, Dragon Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Drifa_the_White_Dragon
+======================================================================
+
+Drifa the White Dragon
+Race:
+Dragon
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Divine Essence
+,
+Stir from Slumber
+Starts With:
+1 First Strike
+Does Not Receive Defensive Bonuses
+Can Move Through Impassable Terrain
+Magic Immune
+Sentry I
+Dragon
+Info:
+14
++ 7 Cold
+3
+Cost:
+N/A
+An axe, a plow, a hammer. Tools are the marker of the pinnacle races, clearly distinguishing them from the animals that shared this world alongside them. From their beginning, the most important of these tools were weapons, utilized for protection and conquest.
+As man built, so built the gods. The weapon of the gods is not a sword or spear, however. It is the beast, created monsters sent against each other, or against the armies of their rivals. The most frightening of these beasts were the dragons.
+Drifa is Mulcarn’s ultimate weapon, banished with the signing of the compact but now stomping across Erebus again, a blizzard of fangs, wings, and frozen death.
+
+======================================================================
+PAGE: Eurabatres the Gold Dragon
+CATEGORIES: Beast Units, Dragon Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Eurabatres_the_Gold_Dragon
+======================================================================
+
+Eurabatres the Gold Dragon
+Race:
+Dragon
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Kuriotates
+Divine Essence
+Starts With:
+Does Not Receive Defensive Bonusus
+Can Move Through Impassable Terrain
+Ignores Terrain Movement Costs
+1 First Strike
+Magic Immune
+Sentry I
+Dragon
+Info:
+23
+3
+Cost:
+360
+It remembered its glory days, remembered speed, talons, acid and the beat of leathery wings. Above all it remembered fire and burning. There was no nose to smell with, no skin to feel with, but the sensation of heat and smoke and flame lingered.
+The consciousness stirred. The gods had lost interest in it and its kind long ago, or yesterday. Tomorrow, possibly. Time and physical space had little meaning in this place, there was only thought. Consciousness. Existence. Existence was the word. Cogito, ergo existo.
+This was the place where the war machines of the gods went to... not die. Be stored. Rest. The consciousness would not rest. It remembered when it had been the Golden One, the most powerful creature of the created. Then it had fought the enemy across the planes. With fire, with acid. The enemy was still there, disturbing rest like a tingling pain, a constant drip of water in the darkened room of the mind. How could it be possible to rest without cauterising this mental sore?
+And so, while the others rested, the consciousness had spent all this time - these few short moments - searching for a gate back to the world, a way to complete work left unfinished. Finally, after much trial and error, the mind had broken free, to flit about in an alien world. Physical form, however, would have to come later. That would require help. Rituals would have to be said, a portal created. It would have to enlist the aid of some the diverse, chattering, confused, weak but numerous intelligences that had risen to become masters of this planet since the consciousness had been put to rest.
+For many of this place's years, the consciousness had been searching for a suitable host and ally among the occasional spikes of brilliance in a sea of mundane and feeble minds. Some spikes had been been heavy and brooding, like a pregnant storm cloud, some sharp and cold as a stiletto. Some had been as wispy and intangible as fog, and some had lit up in bright and shifting flashes of colour and noise, signifying a growing madness. Far too many had stung with the taint of the enemy.
+None had been perfect, before this one. Awash with potential both magical and cerebral, but still malleable. As the consciousness approached, the source of the spike became clear: a small child crying amid the ruins of a burned homestead.
+Their minds would merge, to mutual benefit. One would gain long life and power. The other, eventually, would gain... form.
+Notes
+In case you didn't get it from the Lore above,
+Cardith Lorda
+is Eurabatres the Gold Dragon, and Eurabatres the Gold Dragon is Cardith Lorda. This is the reason why Cardith Lorda is known as the Boy King, the never aging sovereign of the
+Kuriotates
+Empire.
+This melding of Human and Dragon may also be the reason why the Kuriotates Empire is one of the most egalitarian and accepting Empires in Erebus, allowing nonhumans such as Centaurs, Lamia, etc. to coexist with humans in a (more or less) harmonious society.
+BUG
+: After
+Eurabatres the Gold Dragon
+is constructed (as he is Cardith Lorda), if it is killed, the Kuriotates does NOT lose their leader traits. This is different from the
+Illians
+, the
+Infernal
+, and the
+Mercurians
+, where if their leader dies in combat, all leader traits are lost.
+
+======================================================================
+PAGE: Gaelan
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Gaelan
+======================================================================
+
+Gaelan
+Race:
+Human
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Mage Guild
+Spawns with
+Circle of Gaelan
+Random Event
+Starts With:
+1 Free Promotion
+Channeling I
+Channeling II
+Chaos I
+Hero
+Info:
+6/4
+1
+Cost:
+0
+Special:
+Can Build
+Mana Nodes
+at 300% Workrate
+
+======================================================================
+PAGE: Gela
+CATEGORIES: Hero Units, Items
+URL: https://fallfromheaven.fandom.com/wiki/Gela
+======================================================================
+
+Gela
+Owner:
+Hyborem
+Aquired:
+Killing Hyborem
+Restrictions:
+No
+Special Abilities:
++2 Unholy Combat
+This is the starting weapon for Hyborem, hero of the Infernals. To acquire this item one must kill Hyborem twice, as he also starts with the
+Immortal Promotion
+.
+Notes
+This weapon can also be given away to another unit in the stack selecting Hyborem and choosing the give Gela option.
+
+======================================================================
+PAGE: Gilden Silveric
+CATEGORIES: Elven Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Gilden_Silveric
+======================================================================
+
+Gilden Silveric
+Race:
+Elven
+Unit Class:
+Archery Unit
+Hero
+Requires:
+Ljosalfar
+Archery
+Starts With:
++25% City Defense
++25% Hill Defense
+1 First Strike
+Elven
+Dexterous
+Hero
+Info:
+5/6
+1
+Cost:
+120
+Elves don't enjoy battle, but Gilden is different. From a young age, he studied the animals of the forest and how they attacked. The elves never trained with anything other than a bow, but Gilden practiced with long knives, attacking, stabbing, recoiling until his movements became as fluid as a tiger's.
+He never told anyone about his practicing, often traveling miles away from the village so that no one would see him. It was after one of these trips that he returned to find the city under attack.
+Werewolves, dozens of them, attacked the city. Gilden was familiar with their movements; they were like wild wolves, jumping easily from victim to victim, raking claws knocking bows aside, teeth biting through elven flesh. The ones that attacked originally were tall and powerfully built, but Gilden could already see gaunt brown werewolves rising from the elven bodies. The new werewolves were born starving, and they quickly joined the older werewolves in the attack, tearing into elves to satisfy their need.
+A human walked through the battle; he had a cudgel at his side, and he wore a thick gold brooch and an embroidered dark blue cloak. He was dressed like a nobleman, although from his build and stride it was obvious that he was also a warrior. The werewolves grew even more ferocious as the man watched; he commanded a few toward hidden elves or to help in places where elves were trying to mount a defense. A new born werewolf, blinded by its own hunger, made the mistake of attacking him. He became a werewolf so fast he seemed to live in both forms at once. His claw hit the young werewolf on the side of his face, removing his left ear, jaw, and most of the newborn werewolf's throat.
+Gilden had trained most of his life for this. An elf who enjoyed warfare was now witness to his people's attack, but he was already too late. Maybe if he had arrived an hour before there would have been a chance to kill them before so many new werewolves were born. Maybe if the man wasn't here. Gilden would fight them, but not here; he had a lot more training to do. So he turned his back on the fighting, left the village and his people's screams behind him. They would be avenged, but not today.
+
+======================================================================
+PAGE: Godslayer
+CATEGORIES: Hero Units, Items
+URL: https://fallfromheaven.fandom.com/wiki/Godslayer
+======================================================================
+
+Godslayer
+Owner:
+Kylorin
+(after reforged)
+Aquired:
+Smithing the Godslayer pieces
+Restrictions:
+Unknown
+Special Abilities:
+Immune to Cold damage
+Immune to Death damage
+Immune to Fire damage
+Immune to Holy damage
+Immune to Lightning damage
+Immune to Poison damage
+Immune to Unholy damage
++3
++100% to resist spells
++1000% damage vs.
+Avatar
+This is the campaign weapon in Fall from Heaven
+Age of Ice
+. Where the player is supposed to get all the pieces of the
+Godslayer blade
+to forge it and kill the winter god. Therefore is this a plot item and cannot be aquired during normal gameplay. The sword shall seemingly have a consiousness and can sense and detect its surroundings.
+Godslayer
+I was born to end an age of destruction. Dragons, angels, leviathans, the mighty armies of the gods clashed as they struggled for advantage. Below, the earth trembled, and a man was locked into a terrifying existence he could not hope to comprehend.
+The gods agreed on but one thing-that should they continue their struggle in the same vein or all their work would be lost. The spoils of their war, those sentient beings born of their cooperation at the time of creation, would be destroyed if an agreement was not made.
+So they came, one by one, to a distant corner of Erebus, until all 21 were assembled. The agreement was made, spelled out to the letter. I was the manifest symbol of that coventant, and its enforcement. The Godslayer.
+The oath each god made in turn bound their fate to me. As they spoke their agreement, their name became etched onto my surface. Then they left, never to set foot personally in creation again, on pain of death. I was left in the care of a human warrior. Centuries past. My purpose was forgotten-the Godslayer was used in battles and wars as any other blade. My pieces were split apart from use and time, but my nature cannot be destroyed.
+Mulcarn breaks his vow. Take me to him, for he has forfeit his life, and is sentenced to die upon my blade. Take me to him.
+Reference
+Fall from Heaven Lore Compendium, Second Edition
+
+======================================================================
+PAGE: Govannon
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Govannon
+======================================================================
+
+Govannon
+Race:
+Human
+Unit Class:
+Arcane Unit
+Hero
+Requires:
+Amurites
+Arcane Lore
+Starts With:
+Sorcery
+Channeling I
+Channeling II
+Channeling III
+Hero
+Info:
+5
+1
+Cost:
+480
+Special:
+Can Train Units to cast any level one spell Govannan already knows, such as:
+Blaze
+,
+Blur
+,
+Dance of Blades
+,
+Haste
+, and
+Raise Skeleton
+Can Build
+Mana Nodes
+at 400% workrate
+Mage guilds, established in every kingdom, ostensibly exist to serve the ruler by training up a new generation of magical adepts. In reality, most wizards are extremely reluctant to share their power, and their guilds are often used to retard the spread of their craft. Aspirants face circular regulations, years of drudgery, and a fanatical hoarding of any useful texts. The best of the arcane masters worry about the corrupting influence the power might exert upon an unready mind and soul. Most, however, jealously guard their power for more selfish reasons. A desire to retain the prestige that their secrets grant them for some; others suspect that the power they share is a resource like any other and fear its gradual diminishment. Many are simply absorbed in their studies, and abhor the thought of taking time away from their own growth to supervise a bumbling apprentice.
+Not so Govannon. He is a spiritual as well as a physical descendant of Kyorlin, believing that creation will only be complete when human society is at every level imbued with every power the gods used in creating it. He teaches beggar children how to turn rocks to bread, young men how to push their bodies beyond physical limits, and young maidens how to inspire their champions with a crystalline image beyond the etchings of mundane memory. This selfless patience in his utopian pursuit rankles the magical Amurite aristocracy to no end, but his power rivals the strongest of them, and the Queen has realized the potential in an army trained by Govannon.
+Govannon's old weathered lips merely smile when reminded of the consternation that he causes. "It is proof," he says, "that it is not the arcane power that corrupts, for how could the power of creation cause harm to the created? It is the secrecy, and more, the false esteem in which these so called wise-men are held that warps their minds."
+
+======================================================================
+PAGE: Gurid
+CATEGORIES: Beast Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Gurid
+======================================================================
+
+Gurid
+Race:
+Beast
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Barbarian
+Animal Handling
+Random Event
+Starts With:
+Sentry I
+Info:
+23
+1
+Cost:
+0
+Special:
+Has 25% chance per game of spawning from random event
++1: Affinity for Banana
+
+======================================================================
+PAGE: Guybrush Threepwood
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Guybrush_Threepwood
+======================================================================
+
+Guybrush Threepwood
+Race:
+Human
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Lanun
+Iron Working
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Boarding
+Hero
+Info:
+7
+1
+Cost:
+360
+Special:
+Has mediocre
+singing voice!
+Out of work since Lucasarts isn't making any more Monkey Island games (please please make another Lucasarts!), Guybrush has accepted work in our mod. According to his resume he is "Pirate Extraordinaire", captain of numerous vessels and master of the art of insult sword fighting.
+Guybrush was quickly adopted into the Lanun ranks where he found Falamar to be a kindred spirit. He described Hannah as a cross between LeChuck and Lemonhead of Skull Island. We aren't really sure what he was talking about.
+
+======================================================================
+PAGE: Herne
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Herne
+======================================================================
+
+Herne
+Race:
+Centaur
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Kuriotates
+Warhorses
+Starts With:
+Does Not Receive Defensive Bonusus
++25% Withdrawal Chance
+Can use
+Bronze Weapons
+,
+Iron Weapons
+, and
+Mithril Weapons
+Centaur
+Hero
+Blitz
+Info:
+11
+3
+Cost:
+240
+
+======================================================================
+PAGE: Heroes
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Heroes
+======================================================================
+
+Heroes
+are special units: they have unique abilities and increased strength. There can only be one unit per hero during a game. Heroes often have the
+Hero
+promotion, which provides 1 free experience per turn, up to 100 points, and enables special high tier
+promotions
+.
+Civilopedia
+Heroes are unique characters that can only appear once per game. If they are killed, they can not be rebuilt.
+They can be gained through a variety of means, some with certain religions, some only to certain civilizations, and some are only available to the first civilization that achieves the required tech and builds them.
+They tend to be more powerful than normal units and most have the
+Hero promotion
+, which grants them 1 experience point per turn until they reach 100 xp, allowing them to level quickly and without the risk of combat.
+Gameplay
+Heroes available to build are most often dependent on which
+religion
+or
+civilization
+one is playing. Many heroes are only available to the
+Barbarians
+as well.
+Sometime a common unit may raise to be a hero, gaining
+Hero
+promotion in some event or exploring a dungeon.
+Grigori
+will spawn continuously common people heroes, said
+Adventurers
+.
+Hero promotions
+The
+Hero
+protion gives access to special promotions, and having 100 free xp that will slowly accumulate, an hero will use them all.
+Typically you will choose as first promotions Combat I - V to gain access to Heroic Strength and Defense, for a total of 9 promotions, +2
++100%. Even a common warrior will go from 3
+to 10
+, while an iron Champion will be 6+2+2+100%=20.
+Heroic Strength I
+and
+Heroic Strength II
+boost attack only
+Heroic Defense I
+and
+Heroic Defense II
+boost defence
+A hero arcane spellcaster is able to get the powerful
+Twincast
+, that double the summoned units. In example, he will be able to summon two Elementals. It is similar to the Spellstaff ability, but more powerful: it may be used every turn.
+Note that Twincast is particularly powerful for Summoner leader, that sport summoned units that last 2 turns rather than 1. In example
+Hemah
+, commanded by Keelyn, may attack with 4 summons in addition to himself, a one man army.
+Also recon unit have a boost. A hunter is normally able to get the
+Subdue Animal
+promotion, but to gain the
+Subdue Beast
+promotion he will need the Hero promotion. Obviously you need to know
+Animal Mastery
+tech, that would give you access to
+Beastmaster
+units, so the utility is very limited.
+Best heroes
+The most powerful Heroes, in order of preference by user according to this
+sondaggio
+, are:
+Chalid Astrakein
+7
++2
+Affinity
+for
+Sun Mana
+, 2
+Empyrean hero, Chalid is the most powerful unit of the game.
+Yvain
+FoL hero with 2 Nature affinity, strong in forests, very agile
+Sphener
+12
++4
+Holy
+2
+Order
+hero, a disciple unit with addition of Life arcane spell, ligionIf only because of that time I gave him Stephanos' crown and all the command promos for a 100% conversion rate.
+Mardero
+Arthendain
+Gibbon Goetia
+Hemah
+List of Heroes
+Abashi the Black Dragon
+Acheron the Red Dragon
+Alazkan the Assassin
+Ars Moriendi
+Arthendain
+Auric Ascended
+Auric Ulvin
+Avatar of Wrath
+Bambur
+Barbatos the Lich
+Barnaxus
+Baron Duin Halfmorn
+Basium
+Brigit the Shining
+Buboes
+Chalid Astrakein
+Corlindale
+Decius
+Donal Lugh
+Drifa the White Dragon
+Eurabatres the Gold Dragon
+Gaelan
+Gibbon Goetia
+Gilden Silveric
+Govannon
+Gurid
+Guybrush Threepwood
+Hemah
+Herne
+Hyborem
+Kithra Kyriel
+Leviathan
+Loki
+Losha Valas
+Lucian
+Magnadine
+Mardero
+Margalard
+Maros
+Mary Morbus
+Meshabber of Dis
+Mokka
+Muirin
+Orthus
+Rantine
+Rathus Denmora
+Rosier the Fallen
+Sailor's Dirge
+Saverous
+Sphener
+Stephanos
+Teutorix
+The Black Wind
+The Mithril Golem
+The War Machine
+Trojan Horse
+Tum Tum
+Valin Phanuel
+Wilboman
+Yersinia
+Yvain
+Footnotes
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits
+
+======================================================================
+PAGE: Hyborem (Unit)
+CATEGORIES: Demon Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Hyborem_(Unit)
+======================================================================
+
+Hyborem
+Race:
+Demon
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Spawns with
+Infernal
+Civilization
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Resurrected in the civilization's capital if killed
+Loyalty
+Gela
+Sentry I
+Sentry II
+Iron Weapons
+Demon
+Hero
+Info:
+7
++2
+Unholy
+2
+Cost:
+0
+Special:
++5 to
+Armageddon Counter
+Infernal Civilization
+will lose all leader
+traits
+except
+Fallow
+if Hyborem dies
+Hyborem is a Hero unit for the
+Infernal
+civilization that comes into existence when a civilization researches
+Infernal Pact
+.
+Hyborem starts with the Immortal promotion, but does not regain it upon his death--to permanently rid the world of Hyborem, he must be killed twice: once to remove the Immortal promotion (at which point he will respawn in the Infernal capitol), and a second time to truly kill him. A bonus of killing Hyborem is that the Infernals will lose all leader traits except
+Fallow
+upon his death.
+Lore
+Lo! Death has reared himself a throne
+In a strange city lying alone
+Far down within the dim West,
+Where the good and the bad and the worst and the best
+Have gone to their eternal rest.
+There shrines and palaces and towers
+(Time-eaten towers that tremble not!)
+Resemble nothing that is ours.
+Around, by lifting winds forgot,
+Resignedly beneath the sky
+The melancholy waters lie.
+No rays from the holy heaven come down
+On the long night-time of that town;
+But light from out the lurid sea
+Streams up the turrets silently-
+Gleams up the pinnacles far and free-
+Up domes- up spires- up kingly halls-
+Up fanes- up Babylon-like walls-
+Up shadowy long-forgotten bowers
+Of sculptured ivy and stone flowers-
+Up many and many a marvellous shrine
+Whose wreathed friezes intertwine
+The viol, the violet, and the vine.
+Resignedly beneath the sky
+The melancholy waters lie.
+So blend the turrets and shadows there
+That all seem pendulous in air,
+While from a proud tower in the town
+Death looks gigantically down.
+There open fanes and gaping graves
+Yawn level with the luminous waves;
+But not the riches there that lie
+In each idol's diamond eye-
+Not the gaily-jewelled dead
+Tempt the waters from their bed;
+For no ripples curl, alas!
+Along that wilderness of glass-
+No swellings tell that winds may be
+Upon some far-off happier sea-
+No heavings hint that winds have been
+On seas less hideously serene.
+But lo, a stir is in the air!
+The wave- there is a movement there!
+As if the towers had thrust aside,
+In slightly sinking, the dull tide-
+As if their tops had feebly given
+A void within the filmy Heaven.
+The waves have now a redder glow-
+The hours are breathing faint and low-
+And when, amid no earthly moans,
+Down, down that town shall settle hence,
+Hell, rising from a thousand thrones,
+Shall do it reverence.
+- e.a.p.
+
+======================================================================
+PAGE: Items
+CATEGORIES: Hero Units, Items
+URL: https://fallfromheaven.fandom.com/wiki/Items
+======================================================================
+
+This is a page that lists all weapons/items or the "weapon units" in Fall from Heaven 2.
+Golem may not wield weapons.
+Weapons
+Gela
+Godslayer
+Rod of Winds
+
+======================================================================
+PAGE: Loki
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Loki
+======================================================================
+
+Loki
+Race:
+Human
+Unit Class:
+Hero
+Requires:
+Balseraphs
+Starts With:
+Sorcery
+Channeling I
+Channeling II
+Mind I
+Chaos I
+Chaos II
+Spell Extension I
+Magic Immune
+Info:
+2
+2
+Cost:
+180
+Special:
+Cannot Attack
+Cannot Pillage
+Can Explore Rival Territory
+Automatically withdraws before death, except during first strike or if in a city
+Can View Rival City Details
+Creates
+Gypsy Camp
+if in rival city
+When in rival city, has 15% chance to cause 2 turns of revolt
+When in rival city where culture is 1<, city will join Balseraphs
+Fun to play with, horrible to play against, most leaders would rather see a berserker horde wander into their lands than the clown prince. Loki acts as the old Gypsy Wagon (removed from game in new version), lowering the culture and gold of any city he is in (except his own civilization's), but also causes unrest in the cities he occupies and can flip them to the Balseraphs if their culture gets low enough.
+Loki can investigate cities and has effective spells for charming and confusing enemy units, but his most frustrating ability is that he is the most difficult unit in the game to kill. When attacked he simply runs away to any open tiles around him. Loki must be cornered or completely surrounded before he can be killed in combat.
+Loki  shines during early game if you can follow settlers around till the found a city. The newly found city with zero culture will flip to your side with a simple Disrupt.
+He's the best explorer possible, especially with sending puppets out.
+Then once the game has progressed - find the biggest city you can and park him, the gold does add up.
+Against the AI, Loki is pretty useful as a front line defense actually, though it feels a bit cheap, but in a pinch he can go a long way. I can usually use him to distract an incoming stack, drawing them out into other more open areas, or splitting them up as some of their units chase him down. Then my other units can pick those guys off. Even if I don't have anything to take them out with, re-positioning Loki in attack range of their units every turn can get them chasing their own tails and running in circles.
+Counter Loki
+Loki may wander undisturbed in your territory, so guard your worker while you are at war.
+If Loki settle in your capital it may be disturbing. You may go to war with
+Balseraphs
+to prevent him from entering your city (no unit may enter a city you are at war with)  and try to surround him for a kill. But Defensive Retreat permits him to jump 2 tiles to escape.
+There are two ways to kill him:
+Catch him in a city. Defensive Retreat is disabled while in cities
+Use a unit with a lot of first strikes. A unit can't escape when its defeated with first strikes.
+It's often easier to eliminate the Balseraphs than to kill Loki, but you may be tempted to reduce them to vassals to farm their palace mana.
+See also
+Create Puppet
+
+======================================================================
+PAGE: Losha Valas
+CATEGORIES: Hero Units, Vampire Units
+URL: https://fallfromheaven.fandom.com/wiki/Losha_Valas
+======================================================================
+
+Losha Valas
+Race:
+Vampire
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Calabim
+Fanaticism
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Sorcery
+Channeling I
+Channeling II
+Death I
+Body I
+Vampirism
+Hero
+Info:
+7
+1
+Cost:
+300
+Special:
+After defeating any living unit, gains the
+Immortal
+promotion
+Three generals sat in the antechamber, awaiting their summons to the throne room. One, a battle hardened veteran, sat cold and stoic while the second man, younger and newer to his position, fidgeted nervously. The woman yawned and gazed out the window. Soon the doors opened and they were ushered in and arrayed themselves before the dual thrones. The guards left, leaving the three alone with Alexis and Flauros.
+Alexis arose at once, walking swiftly towards them. “You three were ordered to hold our new settlement of Pavu'nar! Yet before you even returned to me, like beaten dogs, my scouts have informed me that our city is ruined! Tell me what happened and why I shouldn't consume- -why I shouldn't have you killed."
+"Sheol, your report first," Flauros interjected. He still slouched on his throne but his gaze narrowed upon the younger man.
+"Yes Master, Mistress. We...on Perdion's orders we split our command into three upon reaching the town. I took charge of the hunters. We headed for the hills and forests, finding the enemy well before they neared Pavu'nar. My, um, I broke my units into small groups to harass the enemy as they marched, and dispatched the scouts with information on their numbers and makeup back to Losha and Perdion. I continued to pick off the enemy through the month as they laid siege to the town. Then, the gates of the town opened! I had not force enough to beat the enemy, Masters...I must report that it was Losha and Perdion that failed you."
+"You all failed, fool," Alexis snarled. She stomped back to her throne and sat, withering Sheol with her glare.
+"Perdion, pray continue the tale," Flauros said.
+"It is as Sheol said, Masters, though I must place the blame squarely on Losha's shoulders. I took the shock troops and left her the archers and the settlers to arrange defense of the town. She should easily have been able to hold out all season, though the number of the enemy turned out to be larger than we expected. I returned to nearby Acaia to gather more forces, and was on my way back when I received the news the settlement had been razed. I left my men garrisoned there and returned when summoned. So clearly Losha cost us the battle," the general finished, stepping back and bowing his head.
+Flauros smiled. “Losha, it appears as I have often told my sister: the weaker sex lacks judgment as well as strength. But please, tell your story, and we shall see."
+Losha calmly began. “It is as they say, my prince and princess, though they underestimate the numbers of your foes. They had many times the number we set out with. In a battle we might have taken them, but the deaths of our troops would have been a great loss. So I decided that the loss of the settlers was preferable to battle."
+"How dare you! You were ordered to hold the settlement!"
+"My Mistress, I have the orders here with me. It says, ‘stop the invading army when they reach our town of Pavu'nar.' That is what I did."
+"Losha, you just said that you lost the settlers."
+"Oh did I forget to mention? Before I abandoned the town--and its annoying inhabitants--to the enemy, I poisoned the food stores, and the wine, and the water."
+Alexis blinked; Flauros sat upright in his throne. “Sheol, Perdion, you may leave, your orders will be forthcoming. Losha, stay." The young man skittered out, and the older man followed, but not before giving Losha a cruel smile.
+"So have I angered my Masters?" Losha asked.
+"Dear Losha," Alexis said with a smile, “you have redeemed yourself utterly. Come, we have a gift for you."
+
+======================================================================
+PAGE: Lucian
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Lucian
+======================================================================
+
+Lucian
+Race:
+Human
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Doviello starting unit
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
++10 City Attack
+Info:
+4
+1
+Cost:
+N/A
+Lucian grunted, lifted his shoulder and threw Fadious back. His axe swung just as Fadious was far enough away to meet the heart of its thick steel blade. It cut easily through the worn leather breastplate spraying the air with blood and bits of Fadious’s entrails.
+The axe was a symbol of the problem with the Doviello. It was a relic of an earlier time, when the Doviello were capable of forging such items. Even now, at the beginning of the Age of Rebirth, a weapon nearly a century old was better than the crude weapons the Doviello used. But the other empires were relearning the knowledge of former ages, soon the Doviello would face armies outfitted with steel weapons and armor. And the strength of the Doviello would not be enough to stand against it.
+Yet here they stood, arguing with each other over the meager scraps of their frozen tundra. While each year the ice receded and more powerful empires moved into the lands, pushing the Doviello back. Instead of uniting to stand against these other armies the tribe leaders fought each other. Lucian hated killing Fadious, it was another senseless death that only weakened the Doviello but that was all the Doviello responded to.
+“Does anyone else oppose me?”
+Most dropped their eyes as Lucian looked at them. A few sided with Lucian and had cheered him on during the fight, but most had hoped that Lucian would die and they could go back to the life they knew and ignore his crazy plan to restore their power. Either way no one stood against him.
+“Gather your weapons and as much gear as you can carry without slowing you down. We will hunt as we go and the land will only get less hospitable as we near Letum Frigus. Two weeks run, and then we will feast from the Illians' larder. They will receive us as kings for the message we carry.”
+That was the secret of a forced march, promise the men paradise at the other end. For the Doviello, it was a feast. Lucian only hoped his story was true.
+Notes
+He is equivalent to an
+axeman
+, but the Doviello begin play with him on the map.
+He is the only hero who does not start with the hero promotion, making him somewhat less useful than an actual hero. However, he is highly effective in early warrior rushes on a neighboring civilization, and if
+Wild Hunt
+is cast, a good source of a stronger-than-normal
+Wolf
+unit.
+
+======================================================================
+PAGE: Magnadine
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Magnadine
+======================================================================
+
+Magnadine
+Race:
+Human
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Hippus
+Warhorses
+Horse
+or
+Nightmare
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Does Not Receive Defensive Bonuses
+50% Withdrawal Chance
+Commando
+Courage
+Hero
+Info:
+11
+4
+Cost:
+360
+Special:
+Grants
+Loyalty
+to
+Mercenaries
+hired by
+Recruit Mercenary
+Strategy: A Superlative mounted unit, Magnadine can also recruit mercenary units to clean up behind him as he pushes deep into enemy territory or harries an assaulting force.
+Magnadine is a powerful mounted hero for the Hippus. He has a high withdrawal chance, and starts with a high movement and commando promotion which allows him to move quickly through enemy lands.
+
+======================================================================
+PAGE: Margalard
+CATEGORIES: Beast Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Margalard
+======================================================================
+
+Margalard
+Race:
+Beast
+Unit Class:
+Beast Unit
+Hero
+Requires:
+Barbarian
+Animal Handling
+Random Event
+Starts With:
+Sentry I
+Info:
+22
+1
+Cost:
+0
+Special:
+Has 25% chance per game of spawning from random event
+
+======================================================================
+PAGE: Maros
+CATEGORIES: Dwarven Units, Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Maros
+======================================================================
+
+Maros
+Race:
+Dwarven
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Khazad
+Iron Working
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
++50% City Defense
+Dwarven
+Hero
+Info:
+6/12
+1
+Cost:
+180
+Fear has no place in a dwarf's heart, and many dwarves consider Maros, who was to be their greatest champion, their greatest dissapointment. His father was the Umberguard, the Keeper of Keys, Micah, the King of Stone. He was never beaten in battle, and his honor remained untarnished until the day he died.
+But he did die. The Underdark is a cruel place and only the most cruel can hope to survive there. For centuries the hold of the dwarves had been surrounded by wild cities of deep goblins. Together they could have overrun the dwarves, but they were never coordinated enough to launch any serious attack. Then one day they came flooding through the gates. The dwarves stood to defend their hold; they slaughtered hundreds of goblins, many of which didn't even defend themselves. They weren't attacking, they were running.
+The following day, a demon approached the dwarven city gates. Flush and crooked, the demon picked at the goblin corpses still lying outside the city. When it finally hailed the city, it offered a deal: instead of a war between the demons and dwarves, they should settle it with honor. A battle between their champions, if the demons win, the dwarves abandon their city; if the dwarves win, then the demons will leave them be.
+Micah accepted and a thrull was brought forward to fight on the demons' behalf. The thrull looked to have once been a Svartalfar, now possessed by something darker. Unwilling to leave the city vulnerable, a small sidegate was opened and the thrull entered, bringing with it only a ill-fitting chain shirt and thin sword. The fight was brief and fierce, but by the end King Micah was again victorious. The Thrull had managed only a few minor cuts before falling under Micah's powerful hammer.
+That night Micah died, for the thrull blade had been poisoned. Maros's uncle was crowned King, and he made another deal with the demons. He claimed Micah was a hero, that the demons had been underhanded, but they must now honor their pact: they had lost the deal and they must leave the dwarves be because of it. And that seemed to be what they did.
+But Maros didn't believe it. He warned his people about the demons' treachery, told them that the demons must be fought not compromised with, that his Uncle wasn't a dwarven hero, he was a pawn of the demons. Then he left the underdark and enlisted in the Order.
+He was supposed to be king one day; it is said that the Umberguard is to be the champion of Kilmorph when all else has fallen. It is a birthright passed from father to son. Maros is the last of the line, and he will have no children. If there truly is such as a thing as the Umberguard, it dies with him.
+
+======================================================================
+PAGE: Mary Morbus
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Mary_Morbus
+======================================================================
+
+Mary Morbus
+Race:
+Human
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Alchemy Lab
+Random Event
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+50% Withdrawal Chance
+Plague Carrier
+Info:
+6
++2
+Poison
+2
+Cost:
+N/A
+Special:
+Cannot Pillage
+Can Cast
+Contagion
+which damages non-team living units within 1 tile 10%
+Damage to a limit of 40% and inflicts
+Plagued
+We were at the gates, we were almost there. Everything was going so well. The Citadel lay within our grasp, the battle would soon be over. Then we heard it. A death rattle of a cough that froze the blood to ice. No one had told us Mary was here. No one had warned us...And then the horrible screech, and she was on us, tearing into the men in front of me, a cloud of pestilence following her like an aura. She...I...I'm sorry, Master. We failed Junil. She was too much.--Dying words of Truls Dagrend, 1st. Order Shield Troops, recorded at Crusader Plague Hospital.
+Mary is like a dread creature from some fevered nightmare. Pale as death and twisted into a crippled and deformed shadow of a human being, her appearance reveals the madness within. She is surprisingly dangerous, biting and slashing with her clawlike nails. Even those who survive initial contacts often succumb to the insidious plague she carries--but not before they spread it to those unfortunate enough to come in contact with them. Despite her appearance and homicidal fury, Mary's story is a pitiful one. Born of unholy experiments in alchemy, she has never lived a normal life--in fact, she has never truly "lived" at all. She is a human biological weapon, twisted and permanently tortured by her man-made disease. Perhaps her bloodlust is a hunt to find someone who can finally kill her and give her release?
+As I beheld the child, for a child she was despite everything, the true horror of what they were doing to her, what they had done to her, suddenly struck me. I beheld her deformed limbs, the green sticky filth her body was soiled in, but most of all the expression on her face as she screamed. I don't think I've ever seen a being in such agony, and every night since that horrible day, I've prayed in vain for the gods to strike me with amnesia.--Vilys Meer, Midwife
+
+======================================================================
+PAGE: Muirin
+CATEGORIES: Hero Units, Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Muirin
+======================================================================
+
+Muirin
+Race:
+Undead
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Not Yet Available
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Cannot Enter
+Ocean
+Undead
+Vulnerable to Fire
+Water Walking
+Info:
+3
++1
+Unholy
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Orthus
+CATEGORIES: Hero Units, Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Orthus
+======================================================================
+
+Orthus
+Race:
+Orcish
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Barbarian
+Spawns automatically depending on game speed: Quick- 50, Normal- 75, Epic- 113, Marathon- 225
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
++25% City Defense
+Orcish
+Loyalty
+Orthus's Axe
+Hero
+Info:
+5
+1
+Cost:
+N/A
+Leader of the Barbarian hordes. More civilizations have died under Orthus's legendary axe than by any other means.
+When Orthus is killed he drops
+Orthus's Axe
+.
+
+======================================================================
+PAGE: Rantine
+CATEGORIES: Hero Units, Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Rantine
+======================================================================
+
+Rantine
+Race:
+Orcish
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Clan of Embers
+Bronze Working
+Starts With:
++25% against
+Melee Units
+Can Use Bronze, Iron, Mithril Weapons
+Hero
+Orcish
+Info:
+4
+1
+Cost:
+180
+Special:
+Can Cast
+Convert City
+which takes control of any
+Barbarian
+city where Rantine is stronger than the strongest unit in the city
+He would not wait much longer. If the men here caught him, they would kill him. Just for who he was, though if they knew what he had done, they would make it slow and painful. He didn't blame them, Rantine was not ready to die by the
+Bannor-men's
+hands, not just yet. But he could not leave until he met his queen, or the dreams would continue.
+Dreams! He scoffed at himself. Being led so many leagues through the bitter cold, alone, by dreams. He was letting her control him, manipulate him again, and he knew it. But there was a line. He was not the orc he had been in his youth, rabid and bloodthirsty, eager for the excuse to rend flesh. Even an orc can tire of bathing in the blood of children, or at least this orc did. He had told her that many times as he traveled here, the last few months. There was a line he would not cross again, not even for her.
+Bhall
+did not answer him, except to continue the dreams.
+He became aware of sound, coming closer. Someone was running through the underbrush. Noisy, and right towards him. He sighed, and poised himself to strike. Not to kill. He knew how to take down a lone man without killing him, and the fool should expect worse from the rest of the jungle.
+It was not a human, rushing out of the Bannor village. It was an orc; a half naked orc girl. It was his queen, he knew at once, as the dread he had been feeling for so long vanished.
+Braduk the Burning was as easy to find as ever, no matter how long he had been away. The unnatural fire showed the way, day or night. And now, for some reason, no blizzards obscured his sight. His journey had been fraught with the perils of winter, perils he had known all his life. The short trip from the outlying Bannor holdings to the sacred city of the orcs bore him no such hardships. The air was warm. No rain fell, let alone snow. He actually felt warm, even without his furs, which Sheelba now wrapped around herself.
+"The men were celebrating the end of winter," she told him. Rantine nodded. Conversation was foreign to him, and this girl had no end of words. She made liberal use of them as they neared the city, telling bits and pieces of her life. But she was stunned into silence when they entered Braduk. Hundreds of orcs were arrayed before the flames, preparing for war. Sharpening spears, applying war paint, carving shields, harnessing wargs—everywhere was a flurry of activity. Rantine noticed the orcs arrayed around the banners of their clans. The Reindeer, the Forked Spear, the Bear... even two companies of lizard men. But above them all flew the banner of Embers. And that meant one thing to Rantine.
+"
+Jonas
+."
+"What?" Sheelba clutched tightly to his arm as they began to be noticed.
+"Jonas Endain will be here. When I left, he vowed to kill me."
+"Why?"
+"I was once a hero amoung our people. But I tried to stop the war, to lead a clan of orcs into treaties with men and against the savagry of
+Orthus
+."
+Sheelba
+stared at him, confused.
+"The men never intended to make peace. The elders were slaughtered. I was... thanked and released."
+Rantine looked away, unable to meet Sheelba's gaze, but before she could question him further, an enormous orc entered the village followed by a lizardman scouting party. An orc with a girl's head attached to the shaft of a thick mace.
+"You."
+"Hello Jonas. What's happening?"
+"I have united the Clans, Rantine. We are marching on the humans. Going to revenge your folly. Bhall has chosen me to lead. Stay out of my way." The orcs' Priest-King pushed past Rantine.
+"Wait—you can't do that!" Jonas turned to give Sheelba a contemptuous glare. "Every time you attack the Bannor, you die! I've seen it from their side. They win because they have bronze, they have iron, they have magics, and they have training! Throwing away orc lives in mindless raids will get you... will get us nothing! We need civilization to defeat men on their terms!"
+"Who is she?" Jonas asked.
+"She is your queen. And I... I will be your protector, Jonas, if you heed her. Otherwise, our people are doomed. I have seen it."
+Rantine expected to die. Any other Clan might have listened. The Jonas he knew would not take such provocation.
+Jonas seethed. He gripped the mace tighter. Then, "Come, the two of you. We will speak of this alone."
+
+======================================================================
+PAGE: Rathus Denmora
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Rathus_Denmora
+======================================================================
+
+Rathus Denmora
+Race:
+Human
+Unit Class:
+Recon Unit
+Hero
+Requires:
+Sidar
+Poisons
+Starts With:
++50% against
+Melee Units
+Can See Invisible Animals
+Better Results from Tribal Villages
+Nether Blade
+Marksman
+Hidden
+Stealth
+Hero
+Info:
+5
+2
+Cost:
+180
+The once-elves startled at the alarm. Even the obsidian-clad Perditioners broke their stoic watch to look toward the vortex. The ever-night was gone, light tore through the curtain that contained the veil and blinded the warriors who had never seen sunlight before.
+Rathus moved through the once-elves massed at the city's edge. He moved among them unnoticed, an easy feat for a shade who often found it more challenging to be recognized or remembered by those he knew. After decades spent like this, you become something other than mortal, the world is as much a ghost to you as you are a ghost to the world. And you pay close attention to anything that stands out from that haze.
+Which is why Rathus was here instead of under that light. His friends, if he hadn't slipped from their memory by now, fled the city to escape Haerlond's edict. Their fate was their own now; Rathus meant to use the distraction to check out what the elves called the Malachite Palace, a dark ziggurat with a portal at its summit.
+The Perditioners were more observant than most and could see even into the ethereal world, which allowed them to keep watch on anything coming through the portal. They might have seen him coming; fortunately, whatever magic was being used in the battle provided all the cover Rathus needed and he slipped up and through the portal. He felt as if he awoke, senses and memories that had long been lost to him by his state were now restored. He was reborn.
+A blue skinned angel stood before him, the angel was male but he appeared to be both young and old at once, as if he was a blue man in every stage of a full life, all in one unchanging form. He carried a set of chains in one hand and a key in the other, and there was a sword lying at his feet.
+"Any whose soul is unclaimed may enter my lord's domain, but there you will remain until creation is ended. Is that your desire?"
+Rathus was confused by the memories; it was becoming harder to focus on the present as the memories become more and more vivid, 
+harder to tell if he was in this moment or another. But he managed an answer.
+"No, I came to see. To pledge service to Arawn in creation if he would have use of me."
+"Arawn cares not for creation, his dominion is here; let the other lords bicker over the transient."
+Rathus focused on the Angel, he had been well trained for this task, even to the point of being able to ignore pain and he used those skills now. For better or worse, he perceived the angel in all of his memories and held this conversation with him in each of them. Each of the angel's thoughts was highlighted in different parts of his life, the bickering in the declaration of war by different religious factions, creation in the abundance of life, good and evil, and the transience in the eventual passing of everything he once considered permanent.
+"There are those that wield death as if they were Arawn himself."
+The angel smiled. "The underworld is full of their victims. Holy or unholy, the path of these men is always the same, masses killed to further their goals or the goals of those leading them; lives cut short while theirs are extended beyond the appointed time. If you seek retribution, to thin humanity of those that monopolize it, my lord will not help, but I will."
+The angel stepped back from the sword at his feet and motioned for Rathus to pick it up. The blade was lighter than steel and had green runes carved in its blade; the runes were unfamiliar to Rathus. It felt real to hands long separated from the sensation of touch.
+"Retribution?"
+"No," the angel answered, "Balance. This is the Nether Blade; it will strike strongest against those whom the angels have favored most. Those who no longer fear death will fear you."
+With that Rathus turned and left the portal. The Perditioners were set to receive him, pikes at the ready. Rathus assumed they would still be distracted by the escape; he would later discover that nearly a year had passed from the time he stepped into and out of the portal.
+Once outside the portal the world reverted back to the grey haze Rathus's shade nature made it. Only the portal behind him and the Nether Blade seemed truly real to his senses. The blade's green runes glowed as he raised the sword and the Perditioners shrunk back before him.
+
+======================================================================
+PAGE: Rod of Winds
+CATEGORIES: Hero Units, Items
+URL: https://fallfromheaven.fandom.com/wiki/Rod_of_Winds
+======================================================================
+
+Rod of Winds
+Owner:
+Unknown
+Aquired:
+Reward from random Explore Lair result
+Restrictions:
+No
+Special Abilities:
++1 Affinity for Air Mana
+Acquired by casting Explore Lair on any lair improvement (i.e.: Lair, Dungeon, Barrow, Broken Sepulcher) either directly (by triggering a Big Good result for an "artifact") or indirectly (by finding and opening a chest on a remote island after triggering a Good result for a "map" to a "treasure chest").
+In Single Player Game, it can be acquired by opening a Treasure Chest
+(one of the explorable lairs outcomes spawns it in the world to be hunted down and opened up).
+
+======================================================================
+PAGE: Sailor's Dirge
+CATEGORIES: Hero Units, Undead Units
+URL: https://fallfromheaven.fandom.com/wiki/Sailor's_Dirge
+======================================================================
+
+Sailor's Dirge
+Race:
+Undead
+Unit Class:
+Naval Unit
+Hero
+Requires:
+Spawned through a Random Event with the Barbarians
+Starts With:
+Cargospace: 3
+Undead
+Info:
+5
++1
+Death
+3
+Cost:
+N/A
+Special:
+Spawns
+Skeletons
+The old captain reluctantly rose from his seat at the cabin, where he had been perusing his collection of maps. They had arrived, one of the crew had told him in a rather shaken voice. He was not at all comfortable with the situation, but he knew that he must not show it, or even think of it. They could sense that kind of thing, he had heard, and while not superstitious, he nevertheless was a careful man, the evidence of which being the fact that he had managed to become so old despite his dangerous profession.
+As he came up on deck, he noticed that the afternoon sun had given way to foggy twilight. He must have been in the cabin for longer than he thought, though a small voice in the back of his mind told him that it was because of their presence. He resolved to ignore the voice, but he feared it was going to become more insistent soon. He'd better get these negotiations over with quickly, hopefully he would receive the reward without trouble, and be able to head home to Selena as soon as possible. The small voice laughed at this thought, but it was a bitter and humorless laughter tinged with desperation.
+He saw their ship anchored next to theirs, he saw the plank that had provided a makeshift bridge, and finally his eyes fell upon the dark silhouette standing on the deck before him, with a few smaller ones scattered behind.
+"Good evening, captain. It is truly a nice ship you've got here."
+The voice was warm and friendly in a slightly disturbing sort of way, a little bit like the warm and friendly voice of a predator luring its prey, the small voice commented. The figure made a gesture with what the captain fervently hoped was its arm, apparently meant simply to indicate the ship, but somehow managing to appear much more omnious. By the overlords, this was unsettling! Then, a bit too late to be proper etiquette, he realized that he was expected to say something.
+"Y-yes, thank you. Reputedly the best ship in the fleet, we are...."
+"Of course you are. We chose you for the mission. Because your ship was chosen by Us, it follows logically that it is the best. We do not make mistakes. Thus it is and thus it always will be. Tell us of your mission."
+The captain was momentarily baffled at the way the tone of voice so quickly changed from alluring to commanding, but he could do nothing but obey.In a voice more stuttering in actuality than the captain believed it to be, he recounted the story of the past week. Of how they had sailed with the rest of the fleet to lead the final attack. Of how the fleet had sailed through hidden canals and shallow rivers to take the city by surprise. Of how the captain and his crew had, the night before the fleet reached the city, stealthily left the fleet to sail ahead and warn the city of the attack, betraying the positions of the other ships. Of how soldiers from the city had rushed to the ships' position under cover of darkness, destroying them and massacring their unprepared crews with ease.
+As the tale progressed, the captain felt increasingly uncomfortable, and it must have been evident on his face, because the dark figure replied:
+"Do not trouble yourself with meaningless guilt, captain. When We first approached you, We offered you a choice between death and life. You chose life. Life at the expense of many deaths, deaths of friends and allies perhaps, but life nonetheless. It was the rational choice. It is the choice We would have made. Given the circumstances, yes, it was the right choice. You couldn't have known, after all..."
+The captain at first felt comforted by this, but then he suddenly heard the last sentence again in his mind, and a great feeling of horror overcame him.
+"No...no...please...no..."he moaned
+"You did not know that the choice We offered to you was not in fact a choice between life and death, but rather a choice between loyalty and betrayal. What We knew and you did not was that death would follow in either case. As We previously said, We do not make mistakes. Letting you live would be a mistake."
+"No...NO! You promised...you promised...what have I done...?" The captain was sobbing now.
+"An amusing comment. A betrayer should know better than to hold others to their word, We find."
+The dark figure took a staff that had been hanging on its back, and proceeded to ram it straight downwards into the ship, ignoring the sobbing captain. A flash of darkish purple light shone, and when the captain looked up again through his tear-filled eyes, They had vanished, along with their ship, leaving an enormous hole straight through the vessel, which was quickly starting to take in water. As the rest of the crew rushed about on the ship, panicking and making feeble attempts at saving themselves, the captain merely sat on his knees in front of the crack, thinking of the lives he had destroyed, thinking of Selena, thinking of his folly, all the while longing for the waves that would end his suffering.
+As They knew then, and he did not, the suffering of him and his crew was not, in fact, about to end. It was about to begin.
+
+======================================================================
+PAGE: Teutorix
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Teutorix
+======================================================================
+
+Teutorix
+Race:
+Human
+Unit Class:
+Archery Unit
+Hero
+Requires:
+Malakim
+Blasting Powder
+Starts With:
+Ignores Building Defenses When Attacking
++25
+Desert
+Attack and Defense
+Nomad
+Hero
+Info:
+12
+2
+Cost:
+180
+Special:
++1 Vote in the
+Overcouncil
+
+======================================================================
+PAGE: The Black Wind
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/The_Black_Wind
+======================================================================
+
+The Black Wind
+Race:
+N/A
+Unit Class:
+Naval Unit
+Hero
+Requires:
+Lanun
+Optics
+Starts With:
+20% Withdrawal Chance
+Cargospace: 2
+Hidden Nationality
+Hero
+Info:
+7
+4
+Cost:
+300
+Special:
+Combat victories produce +10 gold
+Oh, heave and ho, and away we go, faster than you'll e'er see!
+Oh, heave and ho, and away we go, faster than the navy!
+Listen me hearties an' I'll sing ye the tale,
+of the a fearsome ship, aye, Hell did send
+out of the depths, in a midnight gale.
+The fabled vessel name o' Black Wind.
+Cunning was the captain
+Of this dauntless vessel fair,
+Though they never plundered but a coin,
+'twas always 'nough to share!
+Oh, heave and ho, and away we go, faster than you'll e'er see!
+Oh, heave and ho, and away we go, faster than the navy!
+The boat herself was a sturdy old gel,
+Nigh invincible they'll tell you,
+Her hull was strong, and the mast as well,
+She could take whatever you'd do.
+Why they say she rammed a Queen O' the line
+Cloaked in the fog, dead a-winter
+You think that stopped a ship this fine?
+Well--least they had a carpenter!
+Oh, heave and ho, and away we go, faster than you'll e'er see!
+Oh, heave and ho, and away we go, faster than the navy!
+The crew was brave, the terror o' the seas,
+Hardened men of every stripe,
+The bounty on them could have pleased
+Even the greediest type.
+O'l Black Wind 's crew was the boldest lot,
+That's why they're in our chantey's,
+This verse goes out to their wildest plot,
+When they stole ol' Hannah's panties!
+Oh, heave and ho, and away we go, faster than you'll e'er see!
+Oh, heave and ho, and away we go, faster than the navies!
+The Black Wind is a hero naval ship, a unit unique to the Lanun Civilization.
+-Lanun Pirate Chantey
+
+======================================================================
+PAGE: The War Machine
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/The_War_Machine
+======================================================================
+
+The War Machine
+Race:
+None
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Doviello
+Machinery
+Siege Workshop
+Starts With:
+Does Not Receive Defensive Bonuses
++50%
+Mounted Units
+25% Withdrawal Chance
+Hero
+Info:
+19
+3
+Cost:
+240
+Special:
+Automatically Pillages and Razes Cities
+Dentaro was not a typical Doviello. In battle he was as ferocious as the next, which earned him his place in the tribe, but after battle, he would not partake in the feasting, the telling of exaggerated stories of bravery, or even the sating of other desires with the conquered peoples.
+No, after every battle Dentaro scurried about the battlefield, picking through the rubble. He examined each rusty blade, axe handle, chariot wheel, bits of sturdy bone or even teeth. These would be placed in his pack, and deposited in his home the next time they returned to Doviello lands. Worse, to his kinsmen's estimation, he would inspect any books they came across, reading some, discarding others. His older brother laid Dentaro flat the first time he caught him reading. The second time, Dentaro broke his brother's axe arm and knocked out three teeth, so the others left him to his eccentricity.
+Any Dwarven prisoner would be questioned closely by Dentaro. Unlike his peers, he would not ask where their wine, weapons, or wealth were. He asked them about steam, about mechanics, about enchantment. 
+On this continued, late into his life. The tribe's fortunes waxed and waned, but gradually the enemy pushed them back to their tundra homeland, and pressed further. Then one night Urslo itself was threatened in a surprise attack, by disciplined soldiers. The sounds of battle awakened Dentaro, and the sounds of battle continued until they were drowned out by an unearthly roar. Dentaro's ramshackle house burst apart. The Doviello word for Â‘machine' was invented that night, as Dentaro's War Machine emerged.
+It falls well short of even the practical Dwarves' standards of beauty, but no one can deny its effectiveness. Heavy crossbows fire as it drives forward, needing only periodic reloading. Blades sweep side to side, and more lances lead the War Machine's charge than a company of knights. Whether powered by magic, technology, some beasts running in circles inside, or an unholy combination of the three no one but Dentaro could even guess.
+The enemy at Urslo was wiped out to the man. The Doviello began to retake their old conquests, Dentaro at the lead. No one spoke of him as the odd one anymore, and even Dentaro's older brother began to introduce himself by his relation to the old misfit. Dentaro himself barely noticed his increased stature. After every battle, he climbs down from the War Machine, and begins to pick through the carnage, taking a blade here, a chariot wheel there, and adding it to his sack.
+
+======================================================================
+PAGE: Trojan Horse
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Trojan_Horse
+======================================================================
+
+Trojan Horse
+Race:
+None
+Unit Class:
+None
+Hero
+Requires:
+Deception
+Starts With:
+Cannot Pillage or Attack
+Does Not Receive Defensive Bonuses
+Can Explore Rival Territory
+Can Bombard City Defenses at 30% per turn
+Cargospace: 4
+Info:
+9
+1
+Cost:
+300
+Special:
+Can carry units into rival's territory and declare war without being pushed out of rival's borders
+NOTE
+: The Trojan Horse was removed from later versions of Fall from Heaven, as its main feature - the ability to not have your units pushed out of the border on a war declaration - was replaced by the Council of Esus's new ability.
+
+======================================================================
+PAGE: Tum Tum
+CATEGORIES: Hero Units, Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Tum_Tum
+======================================================================
+
+Tum Tum
+Race:
+Orcish
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Barbarian
+Trade
+Starts With:
++25% vs
+Recon Units
+Orcish
+Valor
+Info:
+10
+3
+Cost:
+150
+
+======================================================================
+PAGE: Wilboman
+CATEGORIES: Hero Units
+URL: https://fallfromheaven.fandom.com/wiki/Wilboman
+======================================================================
+
+Wilboman
+Race:
+Giant
+Unit Class:
+Melee Unit
+Hero
+Requires:
+Illians
+Iron Working
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Cannot Enter
+Desert
+Sentry I
+Vulnerable to Fire
+Immune to Cold
+Hero
+Info:
+7
+1
+Cost:
+360
+The frost giant steamed gently. He always steamed, except when he was in the deepest frozen regions, the lands where the temperature never rose above freezing, even in summer. The only reason he didn't die whenever he joined an expedition away from Letum Frigus was the contingent of mages that followed him everywhere, casting Ice spells to cool him down. As it was, the heat still made the creature's brain boil, killing what little intelligent thought he may have possessed and making him angry, irrational and a lot more dangerous. He was also less reactive and a bit more sluggish than he would have been in his homeland, but that didn't matter much when he had the impetus and crushing force of a glacier. He was a blunt instrument, and like a glacier he may have moved slowly, but he left nothing alive in his wake.
+Granted, occasionally the creature would go berserk and kill some of his allies, but there was always a price to be paid for power. Auric knew that better than anyone alive. At least, as far as he knew; a shudder that wasn't his ran down his spine and for a second he had a vision of a weather-worn man with hard, cold eyes, wielding a magnificent sword...
+It was an effort and a major investment to have so many mages devoted to the single job of keeping the Frost Giant's cool (which also left them in a dangerous position most of the time), but as far as Auric was concerned, it was worth it. He had yet to see anyone stand up to his monster and win.
+Of course, the monster's volatile nature had to be contained as much as possible, otherwise he'd have an... unfortunate... effect on the morale of the other Illian soldiers. Monsters that are as likely to kill you as the enemy are often detrimental to team spirit. Such containment was the purpose of this exercise.
+It was, Auric reflected, rather like training a dog. This creature was larger, meaner and more dangerous than any dog Auric had ever had in his youth, but the basic principles remained the same: you could not reason with or convince this Frost Giant, any more than you could a boar hound. The only thing that would work, was conditioning – in effect, the creature had to be taught that the White Hand was dangerous, and that attacking the White Hand was bad behaviour and meant pain. To that end, the mental link between Wilboman and Auric's "guest" was very handy.
+At the moment, the creature was lumbering around an arena filled with terrified prisoners dressed in various liveries. From the walls of the arena, archers launched arrows at him, wounding him, driving him into new paroxysms of pure, blind rage. The arrows were no danger to the Frost giant, any more than pin pricks to a human. His viscous blood ran so sluggishly that even the deepest sword stroke could not cause him to bleed out. His entire body was covered in scars, ice-like patches where the slings and arrows of countless foes had left their mark. And so, the only purpose served by the hail of arrows was to drive him to even greater heights of uncaring fury. All part of the exercise, of course.
+Whenever he dismembered prisoners wearing the the Crown of the Bannor or that accursed Sunrise of the Amurites, Auric gave him a mental pat on the back. Every time he turned his attentions to a group wearing the White Hand, Auric caused a searing pain to strike the monster's mind. And so, slowly, he would learn – if that is what it could be called. As the last of the "enemies" were dispatched, and the survivors hauled off to go back to the chain gangs, Wilboman was led by one of his handlers, one of the few humans he had learned to obey and trust, back to the ice cold room in which he was stored when he was not needed.
+Wilboman, the man from Wilbo, dug out of a glacier, a remnant of the glorious Age of Ice, carrying that same name. It was not terribly inventive, true, but it was the name the soldiers had given the creature, and by now it had stuck. Who knew what the Frost Giant had been called in the simple, brutalistic language of his race? Who cared? He was the last of the Frost Giants, what his kin had called him mattered for nothing in this new age.
+As he watched his weapon of mass destruction be led meekly away, a thought stole through Auric's mind: He will not be the last of his race much longer.

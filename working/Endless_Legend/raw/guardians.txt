@@ -1,0 +1,529 @@
+
+======================================================================
+PAGE: Atmos
+CATEGORIES: Guardians, Units
+URL: https://endlesslegend.fandom.com/wiki/Atmos
+======================================================================
+
+Atmos
+Faction
+All
+Unit Type
+Flying
+Base Attributes:
+Life
+820
+Attack
+160
+Initiative
+38
+Speed
+6
+Defense
+140
+Damage
+60
+Range
+1
+Sight
+3
+Cost:
+Production
+2000
+30
+Atmos is a
+Guardian
+unlocked by the
+Guardian of Air
+technology in
+Research Era V.
+During construction, Atmos behaves similarly to a district; the Guardian must be placed on an open tile adjacent to the city while under construction that isn't occupied by any units, and progress on construction is halted by the city being under siege. Additionally, Atmos cannot be garrisoned and counts towards the number of Guardians allowed on empire.
+Lore
+Adept at tracking the winds and scents of Auriga, Atmos is one of the ancient spirits that were imprisoned by the Endless. Now that those chains are gone, the tough and dangerous Guardian of Air is free to act as it will.
+Capacities
+Note: If you play with
+ELCP
+, Atmos got the "Urkan Slayer 3" capacity. This unit is expensive and rarily seen, with the introduction of very strong Urkans it can now serve as alternative way to counter them.
+In vanilla game version
+Icon
+Name
+Effect
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Blood Rage
++50% Damage
+when the target dies before the end of the round.
+Winter Wind
++2 movement
+during winter.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Teleport
+Can be teleported on a visible tile (range of 10 tiles).
+With
+ELCP
+Icon
+Name
+Effect
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Blood Rage
++50% Damage
+when the target dies before the end of the round.
+Winter Wind
++2 movement
+during winter.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Teleport
+Can be teleported on a visible tile (range of 10 tiles).
+Urkan Slayer 3
++100% Damage
+dealt to Urkans.
+Equipment Slots
+Weapons
+Item
+Name
++
++
++
++
++
+Capacity
+Lore
+Windchill
+40
+40
+50
+The chill blasts of air from this weapon are particularly dangerous to mounted troops.
+Cyclone
+100
+10
+6
+4
+40
+125
+31
+The blast of wind from the Guardian strikes like a physical force, stunning those who dare to attack it.
+Tempest
+100
+10
+6
+4
+100
+50
+30
+The powerful blasts from this weapon strike all nearby enemies with the force of Auriga's anger.
+Armor
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Fotios
+CATEGORIES: Guardians, Units
+URL: https://endlesslegend.fandom.com/wiki/Fotios
+======================================================================
+
+Fotios
+Faction
+All
+Unit Type
+Ranged
+Base Attributes:
+Life
+500
+Attack
+100
+Initiative
+52
+Speed
+4
+Defense
+18
+Damage
+100
+Range
+3
+Sight
+3
+Cost:
+Production
+2000
+30
+Fotios is a
+Guardian
+unlocked by the
+Guardian of Fire
+technology in
+Research Era IV.
+During construction, Fotios behaves similarly to a district; the Guardian must be placed on an open tile adjacent to the city while under construction that isn't occupied by any units, and progress on construction is halted by the city being under siege. Additionally, Fotios cannot be garrisoned and counts towards the number of Guardians allowed on empire.
+Lore
+Linked to the primeval force of fire, Fotios is a fast and deadly Guardian that was held in chains by the Endless. Now alive and aware, seeking a cause, it watches across the vast landscapes of Auriga.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Ward
+Can reveal the terrain around the initial position of the unit (radius of 10 tiles).
+Eternal Fire
+Burns its target for 6 rounds when attacking.
+Burning unit loses 15% of its life
+every round.
+Equipment Slots
+Weapons
+Item
+Name
++
++
++
++
++
+Capacity
+Lore
+Flame Without Fuel
+40
+42
+50
+Inexplicable, this ewapon taps the forces of the Guardian itself to send forth surges of spectacular flame. Infantry units are highly vulnerable.
+Flame Without Hope
+100
+10
+6
+4
+62
+50
+260
+This is a destructive weapon that both cuts and burns; its flames of chaos incarnate strike with unusual precision.
+Flame Without Mercy
+100
+10
+6
+4
+70
+42
+100
+An extension of the Guardian, and perhaps the will of the universe, this weapon harnesses the energy of suns to destroy defenses of wood and forest.
+Armor
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Gios
+CATEGORIES: Guardians, Units
+URL: https://endlesslegend.fandom.com/wiki/Gios
+======================================================================
+
+Gios
+Faction
+All
+Unit Type
+Infantry
+Base Attributes:
+Life
+833
+Attack
+75
+Initiative
+42
+Speed
+4
+Defense
+127
+Damage
+64
+Range
+1
+Sight
+3
+Cost:
+Production
+2000
+30
+Gios is a
+Guardian
+unlocked by the
+Guardian of Earth
+technology in
+Research Era IV.
+During construction, Gios behaves similarly to a district; the Guardian must be placed on an open tile adjacent to the city while under construction that isn't occupied by any units, and progress on construction is halted by the city being under siege. Additionally, Gios cannot be garrisoned and counts towards the number of Guardians allowed on empire.
+Lore
+Gios, the Guardian of Earth and as tough and solid as the rock itself, spent millennia in chains forged by the Endless. It has awoken and freed itself, and can once more sense all that moves in or across the planet.
+Capacities
+Icon
+Name
+Effect
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Fortify
+Doubles the fortifications
+of a city.
+Earthquake
+Overrides the default attack only.
+Deals 25% Damage
+on all opponents when attacking.
+Crusher
+Ignores movement penalties due to terrains
+Slow 1
+-1 battle Movement
+Equipment Slots
+Weapons
+Item
+Name
++
++
++
++
++
+Capacity
+Lore
+Club of the World's Root
+40
+50
+180
+The Guardian of Earth was created with this weapon as an extension of itself. This simple, brutish weapon uses the Guardian's connection with the soil to improve its senses and perception.
+Club of Dust Strata
+100
+10
+6
+4
+125
+31
+180
+This epic weapon was formed from the stones that lie at the core of Auriga. Its power is particularly effective against those who strike the Guardian from a distance.
+Club of the Lost Core
+100
+10
+6
+4
+60
+50
+450
+This ancient weapon is an extension of the strength of Auriga, and wreaks havoc on all nearby troops who attack the Guardian.
+Armor
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Neros
+CATEGORIES: Guardians, Units
+URL: https://endlesslegend.fandom.com/wiki/Neros
+======================================================================
+
+Neros
+Faction
+All
+Unit Type
+Cavalry
+Base Attributes:
+Life
+900
+Attack
+100
+Initiative
+48
+Speed
+6
+Defense
+48
+Damage
+100
+Range
+1
+Sight
+3
+Cost:
+Production
+2000
+30
+Neros is a
+Guardian
+unlocked by the
+Guardian of Water
+technology in
+Research Era V.
+During construction, Neros behaves similarly to a district; the Guardian must be placed on an open tile adjacent to the city while under construction that isn't occupied by any units, and progress on construction is halted by the city being under siege. Additionally, Neros cannot be garrisoned and counts towards the number of Guardians allowed on empire.
+Lore
+This ancient Guardian, both tough and deadly, was deemed too dangerous by the Endless. Confined for millennia but finally free, it once again listens to the echoes of the present and the past.
+Capacities
+Icon
+Name
+Effect
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Flood
+Can destroy watchtowers and extractors (and Fungal Blooms width
+ELCP
+) (radius of 1 tile).
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Tsunami Charge
+After a charge, deals damage to the target and opponents in a cone up to 1 tile per movement point spent.
+River Surfer
+Reduces movement cost on rivers to 0.5.
+Equipment Slots
+Weapons
+Item
+Name
++
++
++
++
++
+Capacity
+Lore
+Vortex of the Waves
+40
+50
+180
+Wielding the power of ocean waves, the winds of this whirling vortex are particularly effective against flying units.
+Charybdal Vortex
+100
+10
+6
+4
+60
+75
+180
+Drawing its strength from the most terrible whirlpool on Auriga, this weapon wreaks havoc in particular on ground units nearby.
+Vortex of the Polar Ice
+100
+10
+6
+4
+70
+50
+270
+A weapon with the power of the seas and the cold of a glacier, this epic weapon was born in a war of the Lost Gods and serves to protect the Guardian.
+Armor
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Skoros
+CATEGORIES: Guardians, Units
+URL: https://endlesslegend.fandom.com/wiki/Skoros
+======================================================================
+
+Skoros
+Faction
+All
+Unit Type
+Support
+Base Attributes:
+Life
+640
+Attack
+144
+Initiative
+54
+Speed
+4
+Defense
+75
+Damage
+25
+Range
+3
+Sight
+3
+Cost:
+Production
+2000
+20
+20
+Skoros is a
+Guardian
+unlocked by the
+Guardian of Dust
+technology in
+Research Era III.
+During construction, Skoros behaves similarly to a district; the Guardian must be placed on an open tile adjacent to the city while under construction that isn't occupied by any units, and progress on construction is halted by the city being under siege. Additionally, Skoros cannot be garrisoned and counts towards the number of Guardians allowed on empire.
+Lore
+One of the five ancient spirits that once protected Auriga, this quick and dangerous Guardian of Dust was attuned to the planet's magical currents. Though it was imprisoned by the Endless, Skoros's chains have faded and it now lives again.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Guardian Nature
+Provides immunity against negative battle winter effects.
+Provides immunity against any debuff and disease.
+Solitary
+Cannot be joined by other units in an army.
+Guardian Aura
+Heals the adjacent armies of an amount equal to 100% of their life
+.
+Mind Control
+50% chance to mind control the target for 2 rounds when attacking.
+The mind controlled target will automatically attack its closest friendly unit.
+Equipment Slots
+Weapons
+Item
+Name
++
++
++
++
++
+Capacity
+Lore
+Scepter of Speed
+40
+40
+42
+More than just a weapon, this ties the will of the Guardian to its form and its purpose, increasing its speed.
+Scepter of Survival
+100
+10
+6
+4
+40
+62
+260
+Channeling the Dust within the environment, this weapon adds terrific power to the Guardian's attack.
+Scepter of Supremacy
+100
+10
+6
+4
+100
+42
+30
+This supreme weapon draws upon the magic of Dust in order to heal, not hurt.
+Armor
+1
+Accessory
+Slot

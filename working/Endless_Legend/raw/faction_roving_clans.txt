@@ -1,0 +1,646 @@
+
+======================================================================
+PAGE: Dervish
+CATEGORIES: Cavalry Units, Roving Clans, Units
+URL: https://endlesslegend.fandom.com/wiki/Dervish
+======================================================================
+
+Dervish
+Faction
+Roving Clans
+Unit Type
+Cavalry
+Base Attributes:
+Life
+100
+Attack
+20
+Initiative
+36
+Speed
+6
+Defense
+34
+Damage
+24
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Dervish is a Cavalry unit for the
+Roving Clans
+. Two Dervishes constitute the starting force for the Roving Clans. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+A mainstay of the Roving Clan's hordes, the Dervish excels in rapid and devastating charges that take advantage of its mobility and mass.
+Capacities
+Icon
+Name
+Effect
+Charge 2
++50% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Longspear
+Hammer
+Shield
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Freelance Guards
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Freelance_Guards
+======================================================================
+
+Freelance Guards
+Faction
+Roving Clans
+Obtained
+Era II
+Category
+Military
+Type
+Army Action
+Focus
+Privateers
+Effects:
+Unlocks Privateers
+Armies composed exclusively of mercenaries can carry a neutral flag, preventing other empires (even allies) from knowing which empire owns them
+Armies of privateers have an increased upkeep
+-20%
+on Heroes and Mercenaries market Buyout cost on empire.
++2 Fortification Damage
+per turn
+on Mercenary.
+An Era II
+technology
+exclusive to the
+Roving Clans
+which grants the ability to convert an army made up of Mercenaries to Privateers, which appear to all other factions as a roaming army. However, Privateers will have an increased upkeep cost, and cannot perform the Bribe, Parley, or Search army actions.
+This technology replaces the
+Mercenary Corps
+technology that is available to every other faction in Era IV.
+ELCP
+If you play with
+Endless Legend Community Patch
+there is some changes for Mercenary Corps and Freelance Guards:
+Also reduce the market Buyout cost of Mercenaries and Heroes by 20%.
+This feature is mostly overlooked, mainly because mercenaries are too expensive in the important midgame portion of the game.
+The added bonuses makes the tech a bit more lucrative, even if you dont plan to use it immediatly.
+Also grant +2 Fortification Damage
+per turn
+to all Mercenaries.
+This is done to promote pillage play and mercenary usage across all factions.
+Lore
+The idea of turning troops not needed for caravan defense into flagless mercenaries is logical. After all, they are needed to protect the Clans' long-term commercial interests.
+
+======================================================================
+PAGE: Happy Decampers
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Happy_Decampers
+======================================================================
+
+Happy Decampers
+Faction
+Roving Clans
+Obtained
+Faction Trait
+Type
+Expansion
+Focus
+District
+Effects:
+-10
+on city tile
+-1
+on city tile
++1
+on city tile
++1
+on city tile
++1
+on city tile
++2
+per extra level on city tile
++2
+per extra level on city tile
++2
+per extra level on city tile
++20 Fortification
+per extra level on city tile
++15
+per extra level on city tile
+Can be used as resource extractor
+Costs:
+Production
+1
+1
+A district exclusive to the
+Roving Clans
+which rebuilds
+Borough Streets
+that were picked up by the
+Setseke Ho!
+action. Happy Decampers can be used a number of times equal to the number of Borough Streets that were picked up by Setseke Ho! and cost no Industry
+to build, but only one can be built per turn, and all uses of Happy Decampers must be used before more Borough Streets can be constructed.
+Lore
+City migrations are made slightly easier through efficient planning; the first of the relocated districts can be established at no cost.
+
+======================================================================
+PAGE: High Towers
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/High_Towers
+======================================================================
+
+High Towers
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Science
+Effects:
++2 vision
+on city tiles
++5
+on city
+Limited to one copy in your empire
+Wild Walkers hero with Roads of Dust item must be city governor.
+Costs:
+Production
+400
+Upkeep
+2
+per turn
+A
+city improvement
+exclusive to the
+Roving Clans
+obtained from the
+High Towers
+technology which is unlocked by completing Chapter 2 Part 1 of the Roving Clans faction quest. Constructing High Towers is required to complete Chapter 2 of the Roving Clans faction quest.
+While a
+Wild Walkers
+hero with the
+Roads of Dust
+item must be the city's governor in order to construct it, they do not need to remain governor once construction is complete.
+Lore
+Expertise obtained from the Wild Walkers in matters of architecture and construction materials boosts Science, and the towers themselves increase Vision range.
+
+======================================================================
+PAGE: High Towers (Technology)
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/High_Towers_(Technology)
+======================================================================
+
+High Towers (Technology)
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks High Towers for construction on cities
+An Era I
+technology
+exclusive to the
+Roving Clans
+which unlocks the
+High Towers
+construction on cities. It is unlocked by completing Chapter 2 Part 1 of the Roving Clans faction quest.
+Lore
+Expertise obtained from the Wild Walkers in matters of architecture and construction materials boosts Science, and the towers themselves increase Vision range.
+
+======================================================================
+PAGE: Kassai
+CATEGORIES: Ranged Units, Roving Clans, Units
+URL: https://endlesslegend.fandom.com/wiki/Kassai
+======================================================================
+
+Kassai
+Faction
+Roving Clans
+Unit Type
+Ranged
+Base Attributes:
+Life
+92
+Attack
+32
+Initiative
+26
+Speed
+7
+Defense
+30
+Damage
+20
+Range
+3
+Sight
+3
+Cost:
+Production
+90
+The Kassai is a ranged unit for the
+Roving Clans
+. The Kassai can be researched in the first
+Technology Era
+.
+Lore
+Perhaps the most rapid military unit on Auriga, the Kassai move with exceptional speed both in and out of battle.
+Capacities
+Note: If you play with
+ELCP
+, Kassai got the "City Breaker 2" capacity.
+In vanilla game version
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Fast 2
++2 battle movement
+.
+With
+ELCP
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Fast 2
++2 battle movement
+.
+City Breaker 2
++8 Fortification Damage
+per turn
+.
+Equipment Slots
+Weapons
+Longbow
+Crossbow
+Shield
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Money Talks
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Money_Talks
+======================================================================
+
+Money Talks
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+Diplomacy
+Focus
+Trade Routes
+Effects:
+Unlocks the Inflation and Inflation Nullification diplomatic declarations.
+Inflation:
+Permits reduction of the trade routes income of others empire when in war
+-50%
+on cities
+-50%
+on cities
+Inflation Nullification:
+Permits removal of the trade routes income penalty of other empire when in war
+An Era IV
+technology
+exclusive to the
+Roving Clans
+which unlocks the Inflation and Inflation Nullification diplomatic declarations. The Inflation declaration can be used on an empire the Roving Clans are at war with to decrease their Dust
+and Science
+income from trade routes by half, while Inflation Nullification is able to remove Inflation from an empire that is being affected by it. It is unlocked by completing Chapter 8 of the Roving Clans faction quest.
+Lore
+Masters of the manipulation of goods and currencies, Roving Clans traders can induce inflationary tendencies in other empires, reducing their trade income.
+
+======================================================================
+PAGE: Roads of Dust
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Roads_of_Dust
+======================================================================
+
+Roads of Dust
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
++8
+on city
++1
+on units
+Can be equipped by heroes only
+Capacities:
+No Capacities
+Costs:
+Resource
+55
+The Roads of Dust is a
+Tome
+exclusive to the
+Roving Clans
+, received for completing Chapter 1 of their faction quest. The item is required to complete both Chapter 2 and it's alternate version, as both requires equipping a hero with the Roads of Dust item. In Chapter 2, it must be equipped on a
+Wild Walkers
+hero who has been made governor of a city so that it can construct the
+High Towers
+city improvement, while in Chapter 2 Alternate, it must be equipped on an
+Ardent Mages
+hero as it leads an army and searches three ruins.
+Lore
+This ancient manuscript unveils secrets of the Endless, who used Dust magic to reduce both the amount of friction generated by metals and their weight. Industrial goods last longer and require less fuel, and armies can skim faster across the land.
+
+======================================================================
+PAGE: Setseke
+CATEGORIES: Cavalry Units, Roving Clans, Units
+URL: https://endlesslegend.fandom.com/wiki/Setseke
+======================================================================
+
+Setseke
+Faction
+Roving Clans
+Unit Type
+Cavalry
+Base Attributes:
+Life
+70
+Attack
+5
+Initiative
+0
+Speed
+6
+Defense
+20
+Damage
+12
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Setseke is a Cavalry unit for the
+Roving Clans
+. The Setseke is produced by performing the
+Setseke Ho!
+action on a city, enabling it's relocation. It's equipment cannot be changed, but it will be equipped with iron or Dust
+claws
+appropriate to the current technological Era, and will spawn with an amount of experience equal to what a unit produced by that city would have.
+During a
+Dust Eclipse
+, the Setseke becomes much more powerful due to the Roving Clans' "Setseke Infusion" trait. During a Dust Eclipse, Setsekes receive a bonus of +430 Life
+, +80 Attack
+, +80 Defense
+, +45 Initiative
+, and +70 Damage
+. This boost effectively makes the Setseke one of the most powerful units in the game, and easily the most powerful unit that can be attained in the first three technological eras, due to lack of access to the technologies unlocking the
+Guardians
+and higher-tier weapons and armor.
+Lore
+Gargantuan beetles developed over the centuries to carry clans, then towns, then cities, these behemoths remain calm; docile, and content as long as they are well fed.
+Capacities
+Icon
+Name
+Effect
+Relocation
+Can resettle a city
+Unsellable
+Cannot be sold on the Markteplace
+Crusher
+Ignores movement penalties due to terrains
+Equipment Slots
+Weapons
+Claws
+
+======================================================================
+PAGE: Setseke Ho!
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Setseke_Ho!
+======================================================================
+
+Setseke Ho!
+Faction
+Roving Clans
+Obtained
+Faction Trait
+Type
+Setseke Ho!
+Effects:
+Move this city
+Costs:
+Production
+1
+A special action that Roving Clans cities are able to take. Upon completing the project, the city and all it's
+districts
+will be turned into a
+Setseke
+unit, and be able to resettle the city in a different location. Upon resettling the city, all
+city improvements
+that had been previously built will remain, but the districts must be placed back down. For every
+Borough Streets
+that had been constructed on the city before relocating, there will be one use of the
+Happy Decampers
+construction, which will rebuild Borough Streets for no Industry
+but can only be used once per turn, and Borough Streets cannot be constructed normally until all uses of Happy Decampers have been used. Special districts, such as the
+Altar of Auriga
+, will have their own constructions that do not have a set Industry cost, but will instead use all the Industry produced by the city that turn to be built.
+It should also be noted that non-district expansions, such as resource extractors and watchtowers, will not be picked up by the Setseke Ho! action, and will remain built in that region. However, they will not provide any benefit while there is no city built in that region. Additionally, it is possible for a rival faction to found a city in a region that you have built such expansions on and immediately gain control of them by doing so.
+Lore
+Though it is not easy, requiring concentration and community effort, the giant scarabs or "Setseke" of the Roving Clans can lift their cities up and transport them across Auriga.
+
+======================================================================
+PAGE: Traders' Tents
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Traders'_Tents
+======================================================================
+
+Traders' Tents
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+Empire
+Focus
+Trade Routes
+Effects:
++50%
+on city trade routes
+An Era III
+technology
+exclusive to the
+Roving Clans
+which increases the Dust
+earned from trade routes by 50%. It is unlocked by completing Chapter 4 of the Roving Clans faction quest.
+Lore
+The Roving Clans' canny knowledge of goods, merchants, and markets is aided by their specially made tents, within which every whisper and gesture is observed and recorded.
+
+======================================================================
+PAGE: Well of Dust
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Well_of_Dust
+======================================================================
+
+Well of Dust
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Trade Routes
+Effects:
+Requires Right of Way built in the city
+Require an income of 100
+from the city
++2 Trade Routes max on city
+Costs:
+Production
+1000
+Upkeep
+2
+per turn
+A
+city improvement
+exclusive to the
+Roving Clans
+obtained from the
+Well of Dust
+technology which is unlocked by completing Chapter 7 of the Roving Clans faction quest. Constructing the Well of Dust is required to complete Chapter 8 of the Roving Clans faction quest.
+To be built in a city, that city must have
+Right of Way
+already built in it and produce at least 100
+.
+Lore
+Part magical and part mercantile, this partially submerged treasury accumulates Dust from whatever source is available. Ruins, ancient mechanisms, markets, caravans, and even the air all contribute something to this storehouse of wealth and magic.
+
+======================================================================
+PAGE: Well of Dust (Technology)
+CATEGORIES: Roving Clans
+URL: https://endlesslegend.fandom.com/wiki/Well_of_Dust_(Technology)
+======================================================================
+
+Well of Dust (Technology)
+Faction
+Roving Clans
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+City Improvement
+Focus
+Trade Routes
+Effects:
+Unlocks Well of Dust for construction on cities
+An Era IV
+technology
+exclusive to the
+Roving Clans
+which unlocks the
+Well of Dust
+construction on cities. It is unlocked by completing Chapter 7 of the Roving Clans faction quest.
+Lore
+Part magical and part mercantile, this partially submerged treasury accumulates Dust from whatever source is available. Ruins, ancient mechanisms, markets, caravans, and even the air all contribute something to this storehouse of wealth and magic.
+
+======================================================================
+PAGE: Yirmak
+CATEGORIES: Infantry Units, Roving Clans, Units
+URL: https://endlesslegend.fandom.com/wiki/Yirmak
+======================================================================
+
+Yirmak
+Faction
+Roving Clans
+Unit Type
+Infantry
+Base Attributes:
+Life
+108
+Attack
+38
+Initiative
+34
+Speed
+5
+Defense
+34
+Damage
+40
+Range
+1
+Sight
+3
+Cost:
+Production
+140
+The Yirmak is an infantry unit for the
+Roving Clans
+. The Yirmak can be researched in the second
+Technology Era
+.
+Lore
+Though the fast and powerful Yirmak is technically a cavalry unit, its fearsome claws and aggressive nature make it quite effective in melee.
+Capacities
+Icon
+Name
+Effect
+Fast 1
++1 battle movement
+.
+Sweep 1
+Overrides the default attack only.
+Allows attack on other enemy units in range and adjacent to the initial target.
++50% Damage.
+Equipment Slots
+Weapons
+Longspear
+Claws
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot

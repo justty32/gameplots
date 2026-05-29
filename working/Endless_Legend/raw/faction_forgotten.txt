@@ -1,0 +1,611 @@
+
+======================================================================
+PAGE: Assassin
+CATEGORIES: Forgotten, Infantry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Assassin
+======================================================================
+
+Assassin
+Faction
+Forgotten
+Unit Type
+Infantry
+Base Attributes:
+Life
+74
+Attack
+26
+Initiative
+32
+Speed
+4
+Defense
+20
+Damage
+34
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Assassin is an infantry unit for the
+Forgotten
+. Two Assassins constitute the starting force for the Forgotten. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Though they are front line fighters, the Assassin excels in feints, stunts and quick knife work. It is said that they can get you in the dark and from behind, even under the desert's noonday sun.
+Capacities
+Note: If you play with
+ELCP
+, Assassin got the "Minor Faction Slayer 2" capacity.
+In vanilla game version
+Icon
+Name
+Effect
+Stealth
+Can become invisible on all tiles if all units of the army have this ability.
+Invisibility doesn't work against adjacent army or unit.
+Fast 1
++1 battle movement
+.
+Dual Wield
+Can equip 2 one-handed weapons
+-50% attribute bonuses on the left handed weapon.
+Acrobat
+Can pass through opponent units.
+With
+ELCP
+Icon
+Name
+Effect
+Stealth
+Can become invisible on all tiles if all units of the army have this ability.
+Invisibility doesn't work against adjacent army or unit.
+Minor Faction Slayer 2
++30% Damage
+against minor faction units
+Fast 1
++1 battle movement
+.
+Dual Wield
+Can equip 2 one-handed weapons
+-50% attribute bonuses on the left handed weapon.
+Acrobat
+Can pass through opponent units.
+Equipment Slots
+Weapons
+Sword
+Axe
+Claws
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Commercial Espionage
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Commercial_Espionage
+======================================================================
+
+Commercial Espionage
+Faction
+Forgotten
+Obtained
+Era V
+Category
+Empire and Expansion
+Type
+City Improvement
+Focus
+Trade Routes
+Effects:
+Unlocks Surreptitious Research and Remotuscope Factory for construction on cities
+An Era V
+technology
+exclusive to the
+Forgotten
+which unlocks the construction of
+Surreptitious Research
+and
+Remotuscope Factory
+on cities. Upon unlocking this technology, and previously-built
+Watchtowers
+or
+Lookout Towers
+will automatically be upgraded to the Remotuscope Factory for free. This technology takes the place of the
+Enlightened Trade
+technology available to all other factions.
+Lore
+Advanced techniques in espionage - dead drops, ciphers, tradecraft, clandestine cells - turn the caravans of Auriga into a firehose of useful information.
+
+======================================================================
+PAGE: Dust Sense
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Dust_Sense
+======================================================================
+
+Dust Sense
+Faction
+Forgotten
+Obtained
+Research Era I
+Category
+Military
+Type
+Empire
+Focus
+Pillage
+Effects:
++100%
+from Pillage on Empire
+An Era I
+technology
+exclusive to the
+Forgotten
+which increases the
+Dust
+received from
+Pillaging
+actions by 100%.
+Lore
+By studying the subtleties of Dust as part of their training at the Warfarer's Divinity, Forgotten soldiers are able to root out more of the precious stuff when pillaging.
+
+======================================================================
+PAGE: High Seminary
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/High_Seminary
+======================================================================
+
+High Seminary
+Faction
+Forgotten
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Dust
+Effects:
++30% research cost reduction for Era III technologies on empire
+An Era III
+technology
+exclusive to the
+Forgotten
+which reduces the Dust
+cost of unlocking other technologies from Era III by 30%. Because of this, it is recommended to unlock this technology before purchasing any Era III technologies. It is unlocked by completing Chapter 5 Part 1 of the Forgotten faction quest.
+Lore
+A place dedicated to strengthening belief in the Forgotten path through devout meditation and rigorous debate, the most experienced agents leave the seminary even more dedicated to the cause.
+
+======================================================================
+PAGE: Learn from Others
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Learn_from_Others
+======================================================================
+
+Learn from Others
+Faction
+Forgotten
+Obtained
+Research Era III
+Category
+Military
+Type
+Empire
+Focus
+Hero
+Effects:
++3 XP per turn on Hero
++3 XP per turn per infiltrated hero on hero
+An Era III
+technology
+exclusive to the
+Forgotten
+which increases the XP every hero gains per turn by 3, and an additional 3 for every hero that is infiltrating a city at the end of the turn.
+Lore
+Great heroes are not born with heroism, but learn it through the example of others. By sending the unseasoned on ranging expeditions with the most exalted, all of Forgotten society can learn.
+
+======================================================================
+PAGE: Master Deceivers
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Master_Deceivers
+======================================================================
+
+Master Deceivers
+Faction
+Forgotten
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+-100%
+on Forgotten hero upkeep.
+An Era IV
+technology
+exclusive to the
+Forgotten
+which reduces the upkeep of Forgotten heroes by 100%, making them free to maintain. Note that this only applies to heroes that are themselves Forgotten, not heroes of other factions that are owned by the Forgotten. It is unlocked by completing Chapter 8 of the Forgotten faction quest.
+Lore
+With the arts of infiltration near perfected, agents posted to enemy cities need little time to become extremely effective, having an almost instinctive grasp for who wields power - and who is vulnerable.
+
+======================================================================
+PAGE: Myst
+CATEGORIES: Flying Units, Forgotten, Units
+URL: https://endlesslegend.fandom.com/wiki/Myst
+======================================================================
+
+Myst
+Faction
+Forgotten
+Unit Type
+Flying
+Base Attributes:
+Life
+100
+Attack
+28
+Initiative
+36
+Speed
+6
+Defense
+44
+Damage
+16
+Range
+1
+Sight
+4
+Cost:
+Production
+90
+The Myst is a flying unit for the
+Forgotten
+. It can be researched in the second Technology Era.
+Lore
+Where spying and stealth are important you will find the Mysts. Able to change from mist to solid form and back they are hard to hit and easy to be hit by.
+Capacities
+Icon
+Name
+Effect
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Stealth
+Can become invisible on all tiles if all units of the army have this ability.
+Invisibility doesn't work against adjacent army or unit.
+Faster Than Shadows
+Overrides the default attack only
+Does not work against unit with fortification
+Deals normal damage to the initial target and to opponents adjacent to the target
+The damage is spread from unit to adjacent unit
+Equipment Slots
+Weapons
+Longpsear
+Claws
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Predatore
+CATEGORIES: Forgotten, Ranged Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Predatore
+======================================================================
+
+Predatore
+Faction
+Forgotten
+Unit Type
+Ranged
+Base Attributes:
+Life
+84
+Attack
+30 (39 with
+ELCP
+)
+Initiative
+26
+Speed
+4
+Defense
+18
+Damage
+20
+Range
+3
+Sight
+3
+Cost:
+Production
+80
+The Predatore is a ranged unit for the
+Forgotten
+. It can be researched in the first Technology Era.
+Lore
+Deadly from a distance with their crossbow, the Predatores strike terror into any enemy in their line of sight. Using poison and with exceptional aim, a Predatore's target is generally dead before it knows it is in the crosshairs.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Stealth
+Can become invisible on all tiles if all units of the army have this ability.
+Invisibility doesn't work against adjacent army or unit.
+Dual Wield
+Can equip 2 one-handed weapons
+-50% attribute bonuses on the left handed weapon.
+Predator's Mark
+When hit, opponents are marked until the 2 next rounds (up to 3 marks)
+When attacking a marked opponent, deals 20% extra damage per number of marks.
+Equipment Slots
+Weapons
+Longbow
+Crossbow
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Shadowbinder
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Shadowbinder
+======================================================================
+
+Shadowbinder
+Faction
+Forgotten
+Obtained
+Faction Quest
+Type
+Sword
+Effects:
++15
+on unit
++4
+on unit
++18
+on unit
++20
+on unit
++30%
+on unit
++10%
+on unit
++30%
+on unit
++30%
+on unit
+Can be equipped by heroes only
+Capacities:
+Shadowguard
+Infantry Slayer 3
+Costs:
+Resource
+4
+Shadowbinder is a
+Sword
+exclusive to the
+Forgotten
+, received for completing Chapter 3 of their faction quest. It is unlocked simultaneously with
+Shadowbrand
+and
+Ziema Adya's
+second form, who is equipped with Shadowbrand and Shadowbinder by default. Due to the Shadowguard capacity, the weapon grants an additional +30% Defense if it is equipped along with Shadowbrand, making it most effective to equip this weapon on Forgotten heroes, who can take advantage of that bonus through the Dual Wield capacity.
+Lore
+Where the twin blade Shadowbrand cuts brutally, stabbing at an enemy's vulnerabilities, Shadowbinder swings gracefully, carving fluid arcs through air and flesh and bone. Forged in the dark with its counterpart on the Anvil of Onyo Iwe high in the Targadian Mountains, the blade has seen over a thousand winters. When used together, the grace of Shadowbinder improves the defensive abilities of its wielder.
+
+======================================================================
+PAGE: Shadowbrand
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Shadowbrand
+======================================================================
+
+Shadowbrand
+Faction
+Forgotten
+Obtained
+Faction Quest
+Type
+Sword
+Effects:
++15
+on unit
++4
+on unit
++18
+on unit
++20
+on unit
++30%
+on unit
++10%
+on unit
++30%
+on unit
++30%
+on unit
+Can be equipped by heroes only
+Capacities:
+Shadowstrike
+Infantry Slayer 3
+Costs:
+Resource
+4
+Shadowbrand is a
+Sword
+exclusive to the
+Forgotten
+, received for completing Chapter 3 of their faction quest. It is unlocked simultaneously with
+Shadowbinder
+and
+Ziema Adya's
+second form, who is equipped with Shadowbrand and Shadowbinder by default. Due to the Shadowstrike capacity, the weapon grants an additional +30% Attack if it is equipped along with Shadowbinder, making it most effective to equip this weapon on Forgotten heroes, who can take advantage of that bonus through the Dual Wield capacity.
+Lore
+Of the two swords that comprise the legendary pair of weapons, Shadowbrand is the cruel twin. Eager to inflict the most painful blows, Forgotten lore claims that if you place your ear near its edge you will hear the screams of its first victims, a Vaulter clan assassinated by Master Shadow Maka Ulum. It is even more dangerous in attack when paired with its twin, Shadowbinder.
+
+======================================================================
+PAGE: Surreptitious Research
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Surreptitious_Research
+======================================================================
+
+Surreptitious Research
+Faction
+Forgotten
+Obtained
+Era V
+Type
+City Improvement
+Focus
+Trade Routes
+Effects:
++1 trade routes max on city
++50%
+on city trade routes
+Costs:
+Production
+2000
+Resource
+20
+Upkeep
+7
+per turn
+A
+city improvement
+exclusive to the
+Forgotten
+obtained from the
+Commercial Espionage
+technology. Surreptitious Research increases the number of
+trade routes
+on a city by 1, and increases the Dust
+produced by that city's trade routes by 50%. This construction replaces the
+Scientific Envoy
+city improvement available to every other faction.
+Lore
+By stealthily listening in on conversations, gaining access to draft versions of contracts, and otherwise tipping the odds in their favor, Forgotten Trade Routes do miraculously well.
+
+======================================================================
+PAGE: Tower of the Consecrate
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Tower_of_the_Consecrate
+======================================================================
+
+Tower of the Consecrate
+Faction
+Forgotten
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Exploitation
+Effects:
+Requires at least 1
+from pacified villages
++1 resource on strategic resource extractor
++1 resource on luxury resource extractor
+Costs:
+Production
+600
+Upkeep
+2
+per turn
+A
+city improvement
+exclusive to the
+Forgotten
+obtained from the
+Tower of the Consecrate
+technology which is unlocked by completing Chapter 4 of the Forgotten faction quest. The Tower of the Consecrate improves the output of
+Strategic
+and
+Luxury Resource
+extractors when built, but building it requires at least one pacified, rebuilt, and non-converted
+Minor Faction
+village in the city's region. Building the Tower of the Consecrate in at least 3 cities is required to complete Chapter 5 Part 1 of the Forgotten faction quest.
+Lore
+Though the Consecration Order is primarily concerned with the spiritual well-being of the Forgotten, as moral authority they also control and improve the distribution of key, scarce resources from this building.
+
+======================================================================
+PAGE: Tower of the Consecrate (Technology)
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/Tower_of_the_Consecrate_(Technology)
+======================================================================
+
+Tower of the Consecrate (Technology)
+Faction
+Forgotten
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Exploitation
+Effects:
+Unlocks the Tower of the Consecrate for construction on cities
+An Era II
+technology
+exclusive to the
+Forgotten
+which unlocks the construction of the
+Tower of the Consecrate
+on cities. It is unlocked by completing Chapter 4 of the Forgotten faction quest.
+Lore
+Though the Consecration Order is primarily concerned with the spiritual well-being of the Forgotten, as moral authority they also control and improve the distribution of key, scarce resources from this building.
+
+======================================================================
+PAGE: What's Mine is Mine
+CATEGORIES: Forgotten
+URL: https://endlesslegend.fandom.com/wiki/What's_Mine_is_Mine
+======================================================================
+
+What's Mine is Mine
+Faction
+Forgotten
+Obtained
+Research Era II
+Category
+Military
+Type
+Empire
+Focus
+Security
+Effects:
++15 Security
+on Cities
++3
+on Infiltrated Hero
+An Era II
+technology
+exclusive to the
+Forgotten
+which increase the Security of Cities by 15, and gives infiltrated heroes +3 Infiltration Point
+.
+Lore
+Those who are strong in the ways of espionage must also be ready when their enemies use those skills against them. Additional training in counter-espionage is never wasted time.

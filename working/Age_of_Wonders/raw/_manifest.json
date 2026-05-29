@@ -1,0 +1,2549 @@
+{
+  "fetched": 297,
+  "failed": [],
+  "pages": [
+    {
+      "title": "Age of Wonders II game manual story",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 2816
+    },
+    {
+      "title": "Age of Wonders II story description (official website, c. 2001)",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 2507
+    },
+    {
+      "title": "Age of Wonders game manual stories",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 8005
+    },
+    {
+      "title": "Age of Wonders: Shadow Magic story description (official website, c. 2003)",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 2108
+    },
+    {
+      "title": "Attack Range",
+      "bucket": "lore",
+      "categories": [
+        "Game Concepts"
+      ],
+      "chars": 256
+    },
+    {
+      "title": "Developer commentary on story and lore",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 28669
+    },
+    {
+      "title": "Elwyn's Flight",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 3284
+    },
+    {
+      "title": "Excerpts from the Book of Wonders",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 3399
+    },
+    {
+      "title": "First Age",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 675
+    },
+    {
+      "title": "Free hero",
+      "bucket": "lore",
+      "categories": [
+        "Heroes",
+        "Terminology"
+      ],
+      "chars": 2596
+    },
+    {
+      "title": "Goblins and Trolls",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 3576
+    },
+    {
+      "title": "Lore Galore: Age of Wonders World Timeline",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 21773
+    },
+    {
+      "title": "Scenario",
+      "bucket": "lore",
+      "categories": [
+        "Game Concepts"
+      ],
+      "chars": 675
+    },
+    {
+      "title": "Second Age",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 1047
+    },
+    {
+      "title": "Sirdanc the Changed (story)",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 7309
+    },
+    {
+      "title": "Story (Age of Wonders II)",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 10093
+    },
+    {
+      "title": "Story (Age of Wonders)",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 22452
+    },
+    {
+      "title": "The Acquisition of Aldor",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 3733
+    },
+    {
+      "title": "The History of the Valley of Wonders",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 17432
+    },
+    {
+      "title": "The Horn of the Dead",
+      "bucket": "lore",
+      "categories": [
+        "Out-of-game lore texts"
+      ],
+      "chars": 4807
+    },
+    {
+      "title": "Eleanor",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 2708
+    },
+    {
+      "title": "Elwyn",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 3578
+    },
+    {
+      "title": "Inioch",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 8098
+    },
+    {
+      "title": "Julia",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 5762
+    },
+    {
+      "title": "Keeper protagonist",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 3571
+    },
+    {
+      "title": "Meandor",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 8042
+    },
+    {
+      "title": "Sirdanc the Changed",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 1025
+    },
+    {
+      "title": "Stormlord protagonist",
+      "bucket": "story_characters",
+      "categories": [
+        "Story characters"
+      ],
+      "chars": 3922
+    },
+    {
+      "title": "Campaign heroes",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes"
+      ],
+      "chars": 10364
+    },
+    {
+      "title": "Hero (Age of Wonders)",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes"
+      ],
+      "chars": 4984
+    },
+    {
+      "title": "Leader",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes"
+      ],
+      "chars": 2930
+    },
+    {
+      "title": "Library heroes (Age of Wonders)",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes"
+      ],
+      "chars": 6640
+    },
+    {
+      "title": "Archons",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 1044
+    },
+    {
+      "title": "Archons (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 4053
+    },
+    {
+      "title": "Azracs",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 4139
+    },
+    {
+      "title": "Azracs (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3468
+    },
+    {
+      "title": "Dark Elves",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 261
+    },
+    {
+      "title": "Dark Elves (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3545
+    },
+    {
+      "title": "Dark Elves (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 4452
+    },
+    {
+      "title": "Draconians (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 4455
+    },
+    {
+      "title": "Dwarves",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 252
+    },
+    {
+      "title": "Dwarves (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3274
+    },
+    {
+      "title": "Dwarves (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3812
+    },
+    {
+      "title": "Elves",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 246
+    },
+    {
+      "title": "Elves (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3205
+    },
+    {
+      "title": "Elves (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3368
+    },
+    {
+      "title": "Frostlings",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 261
+    },
+    {
+      "title": "Frostlings (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3364
+    },
+    {
+      "title": "Frostlings (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 4162
+    },
+    {
+      "title": "Goblins",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 252
+    },
+    {
+      "title": "Goblins (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3777
+    },
+    {
+      "title": "Goblins (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 4138
+    },
+    {
+      "title": "Halflings",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 258
+    },
+    {
+      "title": "Halflings (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 2914
+    },
+    {
+      "title": "Halflings (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3864
+    },
+    {
+      "title": "Highmen (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3724
+    },
+    {
+      "title": "Humans",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 249
+    },
+    {
+      "title": "Humans (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 2225
+    },
+    {
+      "title": "Humans (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3716
+    },
+    {
+      "title": "Lizardmen",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 222
+    },
+    {
+      "title": "Lizardmen (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3338
+    },
+    {
+      "title": "Orcs",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 243
+    },
+    {
+      "title": "Orcs (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 3429
+    },
+    {
+      "title": "Orcs (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3659
+    },
+    {
+      "title": "Races (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 5005
+    },
+    {
+      "title": "Tigrans (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3617
+    },
+    {
+      "title": "Undead",
+      "bucket": "races",
+      "categories": [
+        "Races"
+      ],
+      "chars": 249
+    },
+    {
+      "title": "Undead (Age of Wonders)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders races"
+      ],
+      "chars": 4218
+    },
+    {
+      "title": "Undead (AoW II and Shadow Magic)",
+      "bucket": "races",
+      "categories": [
+        "Age of Wonders II races",
+        "Age of Wonders: Shadow Magic races"
+      ],
+      "chars": 3683
+    },
+    {
+      "title": "Cult of Storms",
+      "bucket": "factions",
+      "categories": [
+        "Factions and organizations"
+      ],
+      "chars": 3907
+    },
+    {
+      "title": "Keepers",
+      "bucket": "factions",
+      "categories": [
+        "Factions and organizations"
+      ],
+      "chars": 5015
+    },
+    {
+      "title": "Verdant Kingdom",
+      "bucket": "factions",
+      "categories": [
+        "Kingdoms and sovereign states"
+      ],
+      "chars": 1277
+    },
+    {
+      "title": "Evermore",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 3923
+    },
+    {
+      "title": "Garden",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 444
+    },
+    {
+      "title": "Air Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5164
+    },
+    {
+      "title": "Air Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5475
+    },
+    {
+      "title": "Air Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 2635
+    },
+    {
+      "title": "Arcalot",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6756
+    },
+    {
+      "title": "Ashen Steppe",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 3010
+    },
+    {
+      "title": "Blackwater Lake",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 10506
+    },
+    {
+      "title": "Campaign (Age of Wonders)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign"
+      ],
+      "chars": 6646
+    },
+    {
+      "title": "Campaign (Shadow Magic)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign"
+      ],
+      "chars": 1688
+    },
+    {
+      "title": "Campaign endings (Age of Wonders)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign"
+      ],
+      "chars": 10079
+    },
+    {
+      "title": "Campaign transcript (Age of Wonders)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign"
+      ],
+      "chars": 101811
+    },
+    {
+      "title": "Cult of Storms campaign",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign"
+      ],
+      "chars": 2950
+    },
+    {
+      "title": "Death Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 4000
+    },
+    {
+      "title": "Death Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 4246
+    },
+    {
+      "title": "Death Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 3522
+    },
+    {
+      "title": "Drakar Oasis",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 4601
+    },
+    {
+      "title": "Earth Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 4706
+    },
+    {
+      "title": "Earth Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5648
+    },
+    {
+      "title": "Earth Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 2110
+    },
+    {
+      "title": "Earthquake",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 9481
+    },
+    {
+      "title": "Eastern Pass",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 4073
+    },
+    {
+      "title": "Evermore (scenario)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 7836
+    },
+    {
+      "title": "Facing a Legend",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5928
+    },
+    {
+      "title": "Fairy Hill",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 2435
+    },
+    {
+      "title": "Fire Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5830
+    },
+    {
+      "title": "Fire Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 3989
+    },
+    {
+      "title": "Fire Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 2814
+    },
+    {
+      "title": "Gabriel's Last Stand",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6999
+    },
+    {
+      "title": "Garrison Supply",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5526
+    },
+    {
+      "title": "Goblin Revolt",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4092
+    },
+    {
+      "title": "Goblin Rush",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5442
+    },
+    {
+      "title": "Hall of Heroes",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 8137
+    },
+    {
+      "title": "Heimburg Havens",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 2698
+    },
+    {
+      "title": "Horn of Kesh",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 6687
+    },
+    {
+      "title": "Inioch's Touch",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 3593
+    },
+    {
+      "title": "Invasion",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4274
+    },
+    {
+      "title": "Jungle of Umbura",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 4588
+    },
+    {
+      "title": "Keepers campaign",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign"
+      ],
+      "chars": 7832
+    },
+    {
+      "title": "Land of Shadows",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 4417
+    },
+    {
+      "title": "Last Goodbye",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 3081
+    },
+    {
+      "title": "Life Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5998
+    },
+    {
+      "title": "Life Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 5729
+    },
+    {
+      "title": "Life Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 4471
+    },
+    {
+      "title": "Mining Outpost",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 2847
+    },
+    {
+      "title": "Mount Abydo",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 5865
+    },
+    {
+      "title": "Mouth of Amtar",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 3692
+    },
+    {
+      "title": "Noble Treachery",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5315
+    },
+    {
+      "title": "Norwood",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 4797
+    },
+    {
+      "title": "Old Tower",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 3537
+    },
+    {
+      "title": "Opposition",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6623
+    },
+    {
+      "title": "Pass of Grief (Highmen)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 7006
+    },
+    {
+      "title": "Pass of Grief (Undead)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6359
+    },
+    {
+      "title": "Peninsula of Sobek",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5984
+    },
+    {
+      "title": "Phobian Empire",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 5117
+    },
+    {
+      "title": "Prelude to War",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5493
+    },
+    {
+      "title": "Sanctuary Woods",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 9554
+    },
+    {
+      "title": "Serpent River",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6154
+    },
+    {
+      "title": "Southern Marsh",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5998
+    },
+    {
+      "title": "Subterranean Path (Cult of Storms campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5217
+    },
+    {
+      "title": "Subterranean Path (Keepers campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4914
+    },
+    {
+      "title": "Sunbirth Mountains",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 7522
+    },
+    {
+      "title": "The Hive",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 12071
+    },
+    {
+      "title": "The Isle of Burbatak",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 7100
+    },
+    {
+      "title": "The Northern Trade Route (Cult of Storms campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 3876
+    },
+    {
+      "title": "The Northern Trade Route (Keepers campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 3986
+    },
+    {
+      "title": "The Safelands",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6358
+    },
+    {
+      "title": "The Skull",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 7484
+    },
+    {
+      "title": "The Storm Breaks Loose",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4865
+    },
+    {
+      "title": "Tutorial (Age of Wonders II)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 3561
+    },
+    {
+      "title": "Unicorn Valley",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4266
+    },
+    {
+      "title": "United Cities (Cult of Storms campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 5429
+    },
+    {
+      "title": "United Cities (Keepers campaign)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 6821
+    },
+    {
+      "title": "Uniting the Clans",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4209
+    },
+    {
+      "title": "Upon the Rocks of Sacrifice",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4314
+    },
+    {
+      "title": "Urland Fields",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders: Shadow Magic campaign scenarios"
+      ],
+      "chars": 5811
+    },
+    {
+      "title": "Valley of Wonders (scenario)",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 21122
+    },
+    {
+      "title": "Water Sphere, Episode 1",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 4894
+    },
+    {
+      "title": "Water Sphere, Episode 2",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 3354
+    },
+    {
+      "title": "Water Sphere, Episode 3",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders II campaign scenarios"
+      ],
+      "chars": 3463
+    },
+    {
+      "title": "Wizard College",
+      "bucket": "campaigns",
+      "categories": [
+        "Age of Wonders campaign scenarios"
+      ],
+      "chars": 4409
+    },
+    {
+      "title": "Air Elemental",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elementals"
+      ],
+      "chars": 1111
+    },
+    {
+      "title": "Astra",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Highman Units"
+      ],
+      "chars": 1101
+    },
+    {
+      "title": "Azrac Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Humanoids"
+      ],
+      "chars": 527
+    },
+    {
+      "title": "Azrac Priest",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Humanoids"
+      ],
+      "chars": 1180
+    },
+    {
+      "title": "Azrac Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Humanoids"
+      ],
+      "chars": 779
+    },
+    {
+      "title": "Azrac Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Humanoids"
+      ],
+      "chars": 644
+    },
+    {
+      "title": "Ballista",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Dark Elf Units",
+        "Dwarf Units",
+        "Elf Units",
+        "Frostling Units",
+        "Goblin Units",
+        "Halfling Units",
+        "Highman Units",
+        "Human Units",
+        "Machines",
+        "Undead Units"
+      ],
+      "chars": 1253
+    },
+    {
+      "title": "Basilisk",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 1409
+    },
+    {
+      "title": "Battering Ram",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Dwarf Units",
+        "Elf Units",
+        "Frostling Units",
+        "Goblin Units",
+        "Halfling Units",
+        "Highman Units",
+        "Human Units",
+        "Lizardman Units",
+        "Machines",
+        "Orc Units"
+      ],
+      "chars": 689
+    },
+    {
+      "title": "Beholder",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 1177
+    },
+    {
+      "title": "Black Dragon",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dragons"
+      ],
+      "chars": 799
+    },
+    {
+      "title": "Black Spider",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 787
+    },
+    {
+      "title": "Bombardier",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Machines"
+      ],
+      "chars": 839
+    },
+    {
+      "title": "Builder",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 1203
+    },
+    {
+      "title": "Catapult",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Dark Elf Units",
+        "Elf Units",
+        "Frostling Units",
+        "Goblin Units",
+        "Halfling Units",
+        "Highman Units",
+        "Human Units",
+        "Machines",
+        "Orc Units"
+      ],
+      "chars": 1363
+    },
+    {
+      "title": "Centaur",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Halfling Units"
+      ],
+      "chars": 1037
+    },
+    {
+      "title": "Dark Elf Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Humanoids"
+      ],
+      "chars": 757
+    },
+    {
+      "title": "Dark Elf Executioner",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Humanoids"
+      ],
+      "chars": 1097
+    },
+    {
+      "title": "Dark Elf Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Humanoids"
+      ],
+      "chars": 1032
+    },
+    {
+      "title": "Dark Elf Storm Priest",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Humanoids"
+      ],
+      "chars": 1330
+    },
+    {
+      "title": "Dark Elf Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Dark Elf Units",
+        "Humanoids"
+      ],
+      "chars": 879
+    },
+    {
+      "title": "Demon",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Undead Units"
+      ],
+      "chars": 1073
+    },
+    {
+      "title": "Dire Penguin",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Frostling Units"
+      ],
+      "chars": 810
+    },
+    {
+      "title": "Djinn",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 1183
+    },
+    {
+      "title": "Doom Bat",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Orc Units"
+      ],
+      "chars": 2301
+    },
+    {
+      "title": "Dragon Ship",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 755
+    },
+    {
+      "title": "Drill",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 738
+    },
+    {
+      "title": "Druid",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids"
+      ],
+      "chars": 1066
+    },
+    {
+      "title": "Dwarf Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 940
+    },
+    {
+      "title": "Dwarf Axeman",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 831
+    },
+    {
+      "title": "Dwarf Berserker",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 1034
+    },
+    {
+      "title": "Dwarf Boar Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 940
+    },
+    {
+      "title": "Dwarf Cleric",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 1161
+    },
+    {
+      "title": "Dwarf First Born",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dwarf Units"
+      ],
+      "chars": 989
+    },
+    {
+      "title": "Dwarf Mole",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 1263
+    },
+    {
+      "title": "Dwarven Balloon",
+      "bucket": "creatures",
+      "categories": [
+        "Dwarf Units",
+        "Machines"
+      ],
+      "chars": 903
+    },
+    {
+      "title": "Earth Elemental",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elementals"
+      ],
+      "chars": 891
+    },
+    {
+      "title": "Elephant",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 656
+    },
+    {
+      "title": "Elf Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Elf Units",
+        "Humanoids"
+      ],
+      "chars": 714
+    },
+    {
+      "title": "Elf Cleric",
+      "bucket": "creatures",
+      "categories": [
+        "Elf Units",
+        "Humanoids"
+      ],
+      "chars": 1206
+    },
+    {
+      "title": "Elf Ranger",
+      "bucket": "creatures",
+      "categories": [
+        "Elf Units",
+        "Humanoids"
+      ],
+      "chars": 1101
+    },
+    {
+      "title": "Elf Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Elf Units",
+        "Humanoids"
+      ],
+      "chars": 827
+    },
+    {
+      "title": "Elven Scout",
+      "bucket": "creatures",
+      "categories": [
+        "Elf Units",
+        "Humanoids"
+      ],
+      "chars": 723
+    },
+    {
+      "title": "Fairy",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elf Units"
+      ],
+      "chars": 838
+    },
+    {
+      "title": "Fire Elemental",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elementals"
+      ],
+      "chars": 946
+    },
+    {
+      "title": "Fire Sprite",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 716
+    },
+    {
+      "title": "Flame Thrower",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 720
+    },
+    {
+      "title": "Frost Queen",
+      "bucket": "creatures",
+      "categories": [
+        "Frostling Units",
+        "Humanoids"
+      ],
+      "chars": 1151
+    },
+    {
+      "title": "Frostling Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Frostling Units",
+        "Humanoids"
+      ],
+      "chars": 670
+    },
+    {
+      "title": "Frostling Shaman",
+      "bucket": "creatures",
+      "categories": [
+        "Frostling Units",
+        "Humanoids"
+      ],
+      "chars": 1044
+    },
+    {
+      "title": "Frostling Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Frostling Units",
+        "Humanoids"
+      ],
+      "chars": 672
+    },
+    {
+      "title": "Frostling Wolf Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Frostling Units",
+        "Humanoids"
+      ],
+      "chars": 743
+    },
+    {
+      "title": "Galleon",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 926
+    },
+    {
+      "title": "Galley",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 712
+    },
+    {
+      "title": "Giant",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dwarf Units",
+        "Humanoids"
+      ],
+      "chars": 1064
+    },
+    {
+      "title": "Giant Frog",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 666
+    },
+    {
+      "title": "Giant Slug",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 846
+    },
+    {
+      "title": "Goblin Big Beetle",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 919
+    },
+    {
+      "title": "Goblin Bomber",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 965
+    },
+    {
+      "title": "Goblin Darter",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 887
+    },
+    {
+      "title": "Goblin Shaman",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 1243
+    },
+    {
+      "title": "Goblin Spearman",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 1043
+    },
+    {
+      "title": "Goblin Wolf Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 904
+    },
+    {
+      "title": "Goblin Wyvern Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Goblin Units",
+        "Humanoids"
+      ],
+      "chars": 1043
+    },
+    {
+      "title": "Gold Dragon",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dragons"
+      ],
+      "chars": 970
+    },
+    {
+      "title": "Great Eagle",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 788
+    },
+    {
+      "title": "Green Wyvern",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 1364
+    },
+    {
+      "title": "Halfling Cleric",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 1366
+    },
+    {
+      "title": "Halfling Eagle Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 880
+    },
+    {
+      "title": "Halfling Pony Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 832
+    },
+    {
+      "title": "Halfling Rogue",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 1044
+    },
+    {
+      "title": "Halfling Slinger",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 777
+    },
+    {
+      "title": "Halfling Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Halfling Units",
+        "Humanoids"
+      ],
+      "chars": 643
+    },
+    {
+      "title": "Hell Hound",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Undead Units"
+      ],
+      "chars": 1311
+    },
+    {
+      "title": "Highman Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Highman Units",
+        "Humanoids"
+      ],
+      "chars": 856
+    },
+    {
+      "title": "Highman Avenger",
+      "bucket": "creatures",
+      "categories": [
+        "Highman Units",
+        "Humanoids"
+      ],
+      "chars": 1211
+    },
+    {
+      "title": "Highman Paladin",
+      "bucket": "creatures",
+      "categories": [
+        "Highman Units",
+        "Humanoids"
+      ],
+      "chars": 1139
+    },
+    {
+      "title": "Highman Saint",
+      "bucket": "creatures",
+      "categories": [
+        "Highman Units",
+        "Humanoids"
+      ],
+      "chars": 1428
+    },
+    {
+      "title": "Highman Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Highman Units",
+        "Humanoids"
+      ],
+      "chars": 966
+    },
+    {
+      "title": "Human Air Galley",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Machines"
+      ],
+      "chars": 953
+    },
+    {
+      "title": "Human Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 1405
+    },
+    {
+      "title": "Human Cavalier",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 1965
+    },
+    {
+      "title": "Human Charlatan",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 2898
+    },
+    {
+      "title": "Human Medium Cavalry",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 707
+    },
+    {
+      "title": "Human Musketeer",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 2675
+    },
+    {
+      "title": "Human Pikeman",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 677
+    },
+    {
+      "title": "Human Priest",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 928
+    },
+    {
+      "title": "Human Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Human Units",
+        "Humanoids"
+      ],
+      "chars": 748
+    },
+    {
+      "title": "Ice Drake",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dragons",
+        "Frostling Units"
+      ],
+      "chars": 913
+    },
+    {
+      "title": "Incarnate",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dark Elf Units"
+      ],
+      "chars": 1241
+    },
+    {
+      "title": "Karagh",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Goblin Units"
+      ],
+      "chars": 1141
+    },
+    {
+      "title": "Kobold",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Orc Units"
+      ],
+      "chars": 1053
+    },
+    {
+      "title": "Lady of Pain",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dark Elf Units"
+      ],
+      "chars": 833
+    },
+    {
+      "title": "Leprechaun",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Halfling Units"
+      ],
+      "chars": 1350
+    },
+    {
+      "title": "Lizardman Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Lizardman Units"
+      ],
+      "chars": 600
+    },
+    {
+      "title": "Lizardman Frog Rider",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Lizardman Units"
+      ],
+      "chars": 805
+    },
+    {
+      "title": "Lizardman Shaman",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Lizardman Units"
+      ],
+      "chars": 1054
+    },
+    {
+      "title": "Lizardman Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Lizardman Units"
+      ],
+      "chars": 736
+    },
+    {
+      "title": "Lurker",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 762
+    },
+    {
+      "title": "Mermaid",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 972
+    },
+    {
+      "title": "Nature Elemental",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elementals",
+        "Elf Units"
+      ],
+      "chars": 1359
+    },
+    {
+      "title": "Nordic Glow",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Frostling Units"
+      ],
+      "chars": 1212
+    },
+    {
+      "title": "Nymph",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elf Units"
+      ],
+      "chars": 859
+    },
+    {
+      "title": "Orc Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 603
+    },
+    {
+      "title": "Orc Assassin",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 2433
+    },
+    {
+      "title": "Orc Heavy Cavalry",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 549
+    },
+    {
+      "title": "Orc Shaman",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 1140
+    },
+    {
+      "title": "Orc Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 636
+    },
+    {
+      "title": "Orc Warlord",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Orc Units"
+      ],
+      "chars": 2233
+    },
+    {
+      "title": "Red Dragon",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dragons",
+        "Orc Units"
+      ],
+      "chars": 1053
+    },
+    {
+      "title": "Salamander",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 1115
+    },
+    {
+      "title": "Sandworm",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 711
+    },
+    {
+      "title": "Satyr",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Halfling Units"
+      ],
+      "chars": 942
+    },
+    {
+      "title": "Scorpion",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 640
+    },
+    {
+      "title": "Sea Serpent",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 1061
+    },
+    {
+      "title": "Shadow",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dark Elf Units"
+      ],
+      "chars": 1039
+    },
+    {
+      "title": "Shredder Bolt",
+      "bucket": "creatures",
+      "categories": [
+        "Machines",
+        "Orc Units"
+      ],
+      "chars": 757
+    },
+    {
+      "title": "Spider Queen",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Dark Elf Units"
+      ],
+      "chars": 1228
+    },
+    {
+      "title": "Spirit Puppet",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Highman Units"
+      ],
+      "chars": 1104
+    },
+    {
+      "title": "Syron",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 1194
+    },
+    {
+      "title": "Titan",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Highman Units"
+      ],
+      "chars": 1072
+    },
+    {
+      "title": "Transport Ship",
+      "bucket": "creatures",
+      "categories": [
+        "Machines"
+      ],
+      "chars": 824
+    },
+    {
+      "title": "Troll",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Goblin Units"
+      ],
+      "chars": 1335
+    },
+    {
+      "title": "Turtle Ballista",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 774
+    },
+    {
+      "title": "Turtle Catapult",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Lizardman Units"
+      ],
+      "chars": 1078
+    },
+    {
+      "title": "Undead Archer",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Undead Units"
+      ],
+      "chars": 1292
+    },
+    {
+      "title": "Undead Bone Horror",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Undead Units"
+      ],
+      "chars": 1241
+    },
+    {
+      "title": "Undead Bone Ram",
+      "bucket": "creatures",
+      "categories": [
+        "Machines",
+        "Undead Units"
+      ],
+      "chars": 937
+    },
+    {
+      "title": "Undead Doom Priest",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Undead Units"
+      ],
+      "chars": 1563
+    },
+    {
+      "title": "Undead Knight",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Undead Units"
+      ],
+      "chars": 1181
+    },
+    {
+      "title": "Undead Mummy",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids"
+      ],
+      "chars": 1286
+    },
+    {
+      "title": "Undead Reaper",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Undead Units"
+      ],
+      "chars": 1374
+    },
+    {
+      "title": "Undead Skull Thrower",
+      "bucket": "creatures",
+      "categories": [
+        "Machines",
+        "Undead Units"
+      ],
+      "chars": 1112
+    },
+    {
+      "title": "Undead Swordsman",
+      "bucket": "creatures",
+      "categories": [
+        "Humanoids",
+        "Undead Units"
+      ],
+      "chars": 1416
+    },
+    {
+      "title": "Undead Wraith",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Undead Units"
+      ],
+      "chars": 1183
+    },
+    {
+      "title": "Unicorn",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elf Units"
+      ],
+      "chars": 1299
+    },
+    {
+      "title": "Valkyrie",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Highman Units"
+      ],
+      "chars": 1200
+    },
+    {
+      "title": "Water Elemental",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Elementals"
+      ],
+      "chars": 896
+    },
+    {
+      "title": "Wild Boar",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 542
+    },
+    {
+      "title": "Wolf",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures"
+      ],
+      "chars": 696
+    },
+    {
+      "title": "Yaka Avatar",
+      "bucket": "creatures",
+      "categories": [
+        "Azrac Units",
+        "Creatures"
+      ],
+      "chars": 1030
+    },
+    {
+      "title": "Yeti",
+      "bucket": "creatures",
+      "categories": [
+        "Creatures",
+        "Frostling Units"
+      ],
+      "chars": 870
+    },
+    {
+      "title": "Items (Age of Wonders)",
+      "bucket": "items",
+      "categories": [
+        "Age of Wonders items"
+      ],
+      "chars": 7570
+    },
+    {
+      "title": "Units (Age of Wonders II)",
+      "bucket": "units_aow2",
+      "categories": [
+        "Age of Wonders II units"
+      ],
+      "chars": 18337
+    }
+  ]
+}

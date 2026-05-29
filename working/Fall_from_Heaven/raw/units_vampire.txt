@@ -1,0 +1,147 @@
+
+======================================================================
+PAGE: Brujah
+CATEGORIES: Vampire Units
+URL: https://fallfromheaven.fandom.com/wiki/Brujah
+======================================================================
+
+Brujah
+Race:
+Vampire
+Unit Class:
+Melee Unit
+Requires:
+Calabim
+Rage
+Training Yard
+Special:
+Can use
+Bronze
+,
+Iron
+and
+Mithril Weapons
+Does Collateral Damage at 40% Strength
+Maximum 20% Damage up to 4 Units
+Starts With:
+Vampirism
+Channeling I
+Channeling II
+Body I
+Death I
+Strength:
+11/5
+Movement:
+1
+Cost:
+240
+Upgrades From:
+Vampire
+Replaces:
+Berserker
+Vampires don't tend to shy away from brutality, but most prefer manipulation and petty cruelty to outright savagery. Not the Brujah, however. After leading enough battles, the veneer of civilization that the Calabim have adopted as a survival scheme since the Age of Ice crumbles away. They revel in the carnage of battle, even risking their immortal lives against odds in which
+Vampire lords
+would be content to send in fodder after fodder. Their results are hard to argue with, however.
+Differences from Beserker
+Starts with some minor Magic knowlegde.
+Has Vampirism.
+
+======================================================================
+PAGE: Vampire
+CATEGORIES: Vampire Units
+URL: https://fallfromheaven.fandom.com/wiki/Vampire
+======================================================================
+
+Vampire
+File:Vampire.gif
+Race:
+Vampire
+Unit Class:
+Melee Unit
+Requires:
+Calabim
+Feudalism
+Governor's Manor
+Special:
+Can use
+Bronze
+,
+Iron
+and
+Mithril Weapons
+Starts With:
+Vampirism
+Channeling I
+Channeling II
+Body I
+Death I
+Strength:
+5
+Movement:
+1
+Cost:
+180
+Replaces:
+Champion
+Every
+Vampire
+on
+Erebus
+can trace their lineage to
+Alexis
+or
+Flauros
+, the first vampires born in ages past. Some of the first to receive the gift from them live on to the present, ruling clans and cities, and keeping their 'offspring' in check. Spoiled and accustomed to power, life under the rulership of a Vampire is a harsh existence, with the perpetual dread of being 'invited' to a feast. Humans ruled by Vampires in the
+Age of Rebirth
+responded one of two ways: with resigned depression, or fanatically devotion, joining the ranks of the
+Moroi
+in order to prove themselves worthy of the gift. Though relatively few have their wishes so granted, those who do frequently turn their backs on their human lives, becoming as cruel and decadent as the masters they serve. They delight in darker magics and in relish combat, though only when the odds are wildly in their favor do most Vampires consider joining the melee.
+Strategy
+Capable fighters with a handful of useful
+Spells
+, vampires true strength lies in their ability to grow in power from feasting on city population - and to pass this power on to worthy allies.
+Difference from Champion
+Has minor Magic.
+Has Vampirism.
+
+======================================================================
+PAGE: Vampire Lord
+CATEGORIES: Vampire Units
+URL: https://fallfromheaven.fandom.com/wiki/Vampire_Lord
+======================================================================
+
+Vampire Lord
+Race:
+Vampire
+Unit Class:
+Melee Unit
+Requires:
+Divine Essence
+Level 12 Unit
+Calabim
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
+Immortal
+Vampirism
+Channeling I
+Channeling II
+Channeling III
+Body I
+Death I
+Mind I
+Info:
+9
+1
+Cost:
+N/A
+Upgrades From:
+Vampire
+Special:
+Does not lose
+Immortal Promotion
+upon death. To be killed, must die in capital when respawned.
+Replaces:
+Immortal
+All vampires have unnaturally long life-spans, but the vampire lords have learned to cheat death itself. Whether through massive feasting or some more arcane ritual, the body of a vampire lord is recreated upon destruction. Some spend their stolen years further honing their martial prowess, but many, having experienced everything else in life, study forbidden knowledge, learning to cast advanced death and body spells without mana. A few take the final step towards immortality, and become a
+Lich
+.

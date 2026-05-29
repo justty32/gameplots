@@ -1,0 +1,9288 @@
+
+======================================================================
+PAGE: Air Elemental
+CATEGORIES: Creatures, Elementals
+URL: https://ageofwonders.fandom.com/wiki/Air_Elemental
+======================================================================
+
+Air Elemental
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+32
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Cold Immunity
+,
+Fire Immunity
+,
+Physical Immunity
+,
+Poison Immunity
+,
+Vision II
+Air Elemental
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Air Elemental
+spell.
+Description
+“
+Air Elementals are wispy flying humanoids, made visible only by the dust and moisture carried in the dense concentrations of air that form their bodies. The lack of a solid form makes these Elementals immune to a large number of attacks. Lightning, however, is capable of harming Air Elementals, as it super-heats the air and causes it to rapidly expand and disperse. Pure magical energy is also capable of damaging them. Offensively, the Air Elemental is capable of dealing a solid physical blow by casting up debris and knocking their opponents about with strong concentrated gusts of wind.
+Like most Elementals, Air Elementals are summoned at gates or by powerful wizards.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Astra
+CATEGORIES: Creatures, Highman Units
+URL: https://ageofwonders.fandom.com/wiki/Astra
+======================================================================
+
+Astra
+Level
+4
+Produced by
+Highmen
+Cost
+200
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Good
+Gender
+Female
+Stats
+Attack
+7
+Damage
+6
+Defense
+4
+Resistance
+8
+Movement
+36
+Health
+20
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Dispel Magic I
+,
+Fearless
+,
+Fire Protection
+,
+Fire Strike
+,
+Healing
+,
+Holy Immunity
+,
+True Seeing
+,
+Vision II
+Experienced
+Dispel Magic II
+Veteran
+Dispel Magic III
+Astra
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Astras are thought to be a race of angelic beings descended from the heavens. Unlike Valkyries, which appear frequently at the site of large battles, Astras only appear in particularly calamitous situations. These divine beings fly with large feathered wings and fight with flaming swords, igniting nearly everything they strike. They can also lash out with holy power and turn undead creatures. Astras also have the ability to magically heal the most serious wounds of virtually any creature.
+Astras are most often found fighting alongside the Highmen, but will aid any of the good races in times of need.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Azrac Archer
+CATEGORIES: Azrac Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Azrac_Archer
+======================================================================
+
+Azrac Archer
+Level
+1
+Produced by
+Azrac
+Cost
+15
+Demographics
+Race
+Azrac
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+1
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Enhancement
+Fire Protection
+Marksmanship I
+Marksmanship II
+Azrac Archer
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+Azrac Archers wield the bow with average proficiency. Like all of their race, they benefit from a natural resistance to fire-based attacks.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Azrac Priest
+CATEGORIES: Azrac Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Azrac_Priest
+======================================================================
+
+Azrac Priest
+Level
+2
+Produced by
+Azrac
+Cost
+30
+Demographics
+Race
+Azrac
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+1
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Magic Strike
+,
+Strike
+,
+Turn Undead I
+(II
+, III
+)
+Movement
+Walking
+Enhancement
+Dispel Magic I
+(II
+, III
+),
+Fire Immunity
+,
+Healing
+,
+Magic Bolts
+Azrac Priest
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+Azrac Priests are called the Yakamajal, meaning "The Will of Yaka." They worship the ageless, all-seeing, Azrac king-god, Yaka. The priests are believed to be the embodiment of Yaka's will among his chosen people. In Azrac society, priests act as teachers, judges, and enforcers of Yaka's Code.
+Azrac Priests are not exceptional fighters, but instead, may project arcane energies given unto them by Yaka. They are completely immune to fire and often perform feats of wonder over searing fire pits to impress their subjects. Though sanctimonious, they will heal the "rightly wounded." They can dispel infidel magic. They also possess the power to repel the Yakamapu, meaning "The Waste of Yaka," or more commonly called, the Undead.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Azrac Rider
+CATEGORIES: Azrac Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Azrac_Rider
+======================================================================
+
+Azrac Rider
+Level
+2
+Produced by
+Azrac
+Cost
+36
+Demographics
+Race
+Azrac
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+40
+Health
+8
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+,
+Fire Protection
+Azrac Rider
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+The Azracs are the first recorded race to domesticate the horse. Their horses are legendary for their stamina and strength, even in blistering desert heat. Azrac riders establish a blood-bond with their steeds from their birth. Instead of heavy armor and bulky weapons, they rely upon their steed's swiftness and the sharp curve of their scimitar. Like all of their race, Azrac cavalry are resistant to intense heat.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Azrac Swordsman
+CATEGORIES: Azrac Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Azrac_Swordsman
+======================================================================
+
+Azrac Swordsman
+Level
+1
+Produced by
+Azrac
+Cost
+15
+Demographics
+Race
+Azrac
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+1
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Fire Protection
+Azrac Swordsman
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+The common Azrac warrior is proficient in the use of a scimitar in melee combat. These foot soldiers are lightly armored, preferring mobility in the hot climate, to roasting in the confines of metal shielding. Like all of their race, Azrac infantrymen are resistant to intense heat.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Ballista
+CATEGORIES: Azrac Units, Dark Elf Units, Dwarf Units, Elf Units, Frostling Units, Goblin Units, Halfling Units, Highman Units, Human Units, Machines, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Ballista
+======================================================================
+
+Ballista
+Level
+2
+Produced by
+All races except
+Lizardmen
+and
+Orcs
+Cost
+72
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+7
+Abilities
+Combat
+Shoot Javelin
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+Marksmanship I
+Marksmanship II
+Ballista
+is a
+unit
+common to multiple races in
+Age of Wonders
+. This unit is used by all races except for the Lizardmen and Orcs, who have different units substituting for the catapult.
+Description
+“
+Although mechanically different from crossbows, Ballistas function quite similarly. Ballistas are siege machines that are most effectively deployed at long ranges against other units rather than city walls. Their javelins are much more accurate and aerodynamic than the boulder of a catapult. Several ballistas can provide excellent cover for catapults and rams attempting to breach a city's outer wall.
+Because of their heavy wooden construction, they are slow to move from place to place. These machines are also more fragile than catapults and can be more easily destroyed.
+— In-game description in
+Age of Wonders
+See also
+Shredder Bolt
+(corresponding Orc unit)
+Turtle Ballista
+(corresponding Lizardman unit)
+
+======================================================================
+PAGE: Basilisk
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Basilisk
+======================================================================
+
+Basilisk
+Level
+4
+Produced by
+Lizardmen
+Cost
+203
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+5
+Defense
+6
+Resistance
+5
+Movement
+36
+Health
+22
+Abilities
+Combat
+Strike
+.
+Doom Gaze
+Movement
+Walking
+,
+Swimming
+Enhancement
+Fearless
+,
+Night Vision
+,
+Poison Immunity
+,
+True Seeing
+Basilisk
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Appearing almost a cross between a giant turtle and a dragon, the Basilisk stalks the swampy shores searching for food. In order to prevent themselves from becoming the creature's main source of nutrition, the Lizardmen sacrifice their prisoners of war, hoping to satiate its monstrous appetite. In times of peace the Lizardmen sacrifice their elders and cripples to the monster, and should they be too few, the Lizardmen go to war. In Lizardman society it is considered a feat of great honor to face a basilisk and serve as its nourishment and Basilisks do not mind the free food. At home in water or upon the land, and heavily armored, the Basilisk attacks with its gaping mouth lined with daggers of deadly ivory, but its horrible gaze kills even quicker. Legends claim the creature turns its victims to stone, but the truth is far more terrible. With a glance it strikes death into the hearts of its victims, and then consumes the warm flesh, before it can become rigid as stony death.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Battering Ram
+CATEGORIES: Dark Elf Units, Dwarf Units, Elf Units, Frostling Units, Goblin Units, Halfling Units, Highman Units, Human Units, Lizardman Units, Machines, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Battering_Ram
+======================================================================
+
+Battering Ram
+Level
+1
+Produced by
+All races except
+Azracs
+and
+Undead
+Cost
+23
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+10
+Abilities
+Combat
+Wall Crushing
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+Battering Ram
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+The battering ram is a standard piece of equipment for almost every civilized race. It is also often a necessary one for conquest and expansion. Made of sturdy wood construction, a ram can withstand a fair amount of damage.
+— In-game description in
+Age of Wonders
+See also
+Elephant
+Undead Bone Ram
+
+======================================================================
+PAGE: Beholder
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Beholder
+======================================================================
+
+Beholder
+Level
+3
+Produced by
+Azrac
+Cost
+106
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+6
+Movement
+24
+Health
+15
+Abilities
+Combat
+Doom Gaze
+,
+Strike
+Movement
+Floating
+Enhancement
+Cause Fear
+,
+Night Vision
+,
+True Seeing
+,
+Vision I
+Beholder
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+The Beholder has a spherical body, one large central eye and a huge maw lined with razor-sharp teeth. Several omni-directional eye-stalks atop it make it impossible to surprise the Beholder from any side. This creature floats magically, and its gaze has been known to freeze its victims in terror, stopping all bodily functions and causing instant death. Those who do not die instantly are deeply afflicted with a gripping fear that makes it difficult to think coherently.
+Beholders most often inhabit dank ruins in hot climates. The Azracs revere these creatures and refer to them as, Yakamaheli, The Eyes of Yaka, believing that they have been sent to watch over their people. Indeed, Beholders fight alongside the Azracs to preserve this notion, and the respect it generates.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Black Dragon
+CATEGORIES: Creatures, Dragons
+URL: https://ageofwonders.fandom.com/wiki/Black_Dragon
+======================================================================
+
+Black Dragon
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+6
+Defense
+5
+Resistance
+8
+Movement
+32
+Health
+20
+Abilities
+Combat
+Strike
+,
+Black Breath
+Movement
+Flying
+Enhancement
+Death Immunity
+,
+Dragon
+,
+Fearless
+,
+Poison Protection
+,
+Vision II
+Black Dragon
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Black Dragon
+spell.
+Description
+“
+Black Dragons are pure evil. Even among dragonkind they are outcasts, frequenting the most foreboding areas. They may be summoned and will ally only with races intent upon destroying life. They are tough, attack with great ferocity, and are highly resistant to magic. They are immune to death magic and channel the energy in the form of powerful bolts of black magic.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Black Spider
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Black_Spider
+======================================================================
+
+Black Spider
+Level
+2
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+3
+Resistance
+4
+Movement
+28
+Health
+6
+Abilities
+Combat
+Strike
+,
+Web
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Poison Immunity
+,
+Poison Strike
+,
+Wall Climbing
+Black Spider
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the Summon Spider spell.
+Description
+“
+Black Spiders hide in shadowed pits, underground caverns, and scarcely traveled forest and wastelands. The Black Spider shoots strands of web at their prey, entangling them. When immobile, the spider sinks its sharp venomous fangs deep into its victim. Wizards employing the forces of evil have been known to pull these creatures from their dank homes to serve their cause.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Bombardier
+CATEGORIES: Dwarf Units, Machines
+URL: https://ageofwonders.fandom.com/wiki/Bombardier
+======================================================================
+
+Bombardier
+Level
+2
+Produced by
+Dwarf
+Cost
+79
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+10
+Abilities
+Combat
+Fire Cannon
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Bombardier
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+The Dwarves invented the bombardier shortly after discovering the explosive mix of sulfur, charcoal and saltpeter. The device was made to hold a large quantity of boom-powder in a great metal caldron, which hurls a heavy rounded piece of ore over long distances. Roughly as accurate as a catapult, but with greater range, the bombardier has led to the obsolescence of catapults among the Dwarves.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Builder
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Builder
+======================================================================
+
+Builder
+Level
+1
+Produced by
+Builder's Guild
+Cost
+95
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+5
+Abilities
+Combat
+(None)
+Movement
+Walking
+Enhancement
+Cold Immunity
+,
+Construct
+,
+Fearless
+,
+Poison Immunity
+Builder
+is a
+unit
+produced at a Builder's Guild in
+Age of Wonders
+.
+Description
+“
+A Builder is a specialized unit which serves no function in battle but remains invaluable in a war campaign. They can be used to build shipyards, roads, towers, and even repair razed cities. They cost more, not only for the construction of the unit, but because the Builder's Guild must recruit and train a crew of able Engineers to work the Builder. With the capacity to construct structures that produce merchandise, the unit quickly pays for itself.
+Engineers, while trainable in all races, are considered a breed of their own. They serve willfully, content to spend their pay on trinkets, Dwarven puzzle boxes, and on new tools. They have little regard for lodging or personal hygiene and delight in the chance to "work" (play) with the Builder, safely away from any chance of getting killed.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Catapult
+CATEGORIES: Azrac Units, Dark Elf Units, Elf Units, Frostling Units, Goblin Units, Halfling Units, Highman Units, Human Units, Machines, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Catapult
+======================================================================
+
+Catapult
+Level
+2
+Produced by
+All races except
+Dwarves
+,
+Lizardmen
+, and
+Undead
+Cost
+58
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+8
+Abilities
+Combat
+Hurl Boulder
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+Marksmanship I
+Marksmanship II
+Catapult
+is a
+unit
+common to multiple races in
+Age of Wonders
+. This unit is used by all races except for the Dwarves, Lizardmen, and Undead, who different units substituting for the catapult.
+Description
+“
+Catapults are fairly simple but expensive devices widely used by most races. They utilize leverage and the flexibility of the wooden arm to hurl boulders over a great distance. Made of sturdy wood, catapults can sustain a fair amount of damage before rendered useless. Their size and weight also make them very slow to transport.
+Catapults are primarily used in sieges to breach a city's outer wall. The huge boulders hurled by these machines are ideal for such attacks. If a catapult's stone strikes an enemy the damage can be devastating, however, catapults are not particularly accurate against tiny moving targets.
+— In-game description in
+Age of Wonders
+See also
+Bombardier
+(corresponding Dwarf unit)
+Turtle Catapult
+(corresponding Lizardman unit)
+Undead Skull Thrower
+(corresponding Undead unit)
+
+======================================================================
+PAGE: Centaur
+CATEGORIES: Creatures, Halfling Units
+URL: https://ageofwonders.fandom.com/wiki/Centaur
+======================================================================
+
+Centaur
+Level
+3
+Produced by
+Halflings
+Cost
+80
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+6
+Damage
+3
+Defense
+4
+Resistance
+6
+Movement
+36
+Health
+11
+Abilities
+Combat
+Strike
+,
+Archery
+Movement
+Walking
+,
+Forestry
+Enhancement
+Charge
+,
+Marksmanship II
+Experienced
+Marksmanship III
+Veteran
+Marksmanship IV
+Centaur
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+Centaurs appear as a race of intelligent half-man, half-horse beings. They typically live in small forest-dwelling clans. Although they are considered protectors of nature, they hunt for their food and are skilled in the use of the bow and arrow. Their equine legs enable them to move over great distances quickly; they can run down almost any prey. Their ability to move easily through the forests makes them exceptional hunters and particularly formidable foes in dense woodlands.
+As they are generally benign creatures of the forests, Centaurs can often be found fighting alongside Halflings and Elves.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Dark Elf Archer
+CATEGORIES: Dark Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elf_Archer
+======================================================================
+
+Dark Elf Archer
+Level
+1
+Produced by
+Dark Elves
+Cost
+17
+Demographics
+Race
+Dark Elf
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+5
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Enhancement
+Marksmanship I
+,
+Night Vision
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Dark Elf Archer
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+Like their Elven brothers, Dark Elves are naturally skilled archers. With practice, they become true masters of the bow. Like all of their race, Dark Elven archers shun the daylight and are able to see in the darkness of the underground. Dark Elves also have an unnaturally strong resistance to magical effects.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dark Elf Executioner
+CATEGORIES: Dark Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elf_Executioner
+======================================================================
+
+Dark Elf Executioner
+Level
+3
+Produced by
+Dark Elves
+Cost
+105
+Demographics
+Race
+Dark Elf
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+7
+Damage
+4
+Defense
+5
+Resistance
+6
+Movement
+36
+Health
+10
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+,
+Fearless
+,
+Life Stealing
+,
+Night Vision
+,
+Trail of Darkness
+Veteran
+Unholy Champion
+Dark Elf Executioner
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+Executioners are the elite forces of the Dark Elves, raised by the Storm Priests and disciples of darkest pit. Trained as skilled assassins and warriors, they carry out the will of their Dark Elven Lords with unquestioning obedience, unencumbered by emotion. It is said by some, that the trail of darkness left in an Executioner's wake flows from the dark void where his heart should be.
+Powerful enough in their own right, each Executioner wields a Sword of Life Stealing, which is bound to them by the blackest sorcery. Each strike from this blade drains the life energy from its hapless target and adds vitality to the wielder.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dark Elf Rider
+CATEGORIES: Dark Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elf_Rider
+======================================================================
+
+Dark Elf Rider
+Level
+2
+Produced by
+Dark Elves
+Cost
+32
+Demographics
+Race
+Dark Elf
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+5
+Damage
+2
+Defense
+3
+Resistance
+5
+Movement
+36
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Abilities
+Charge
+,
+Night Vision
+Dark Elf Rider
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+Mounted Dark Elf forces consist primarily of light cavalry. These quick moving units are often used as scouts and messengers or for intimidation. The light cavalry, armed with long swords, are not particularly strong unless in large numbers. Like all of their race, Dark Elf cavalry possess an unnaturally strong resistance to magic.
+Dark Elf horses are trained to obey their master's strict commands, and trust the Dark Elf's night-vision implicitly, though they possess no such talent of their own. It is said that a Dark Elf steed could have its eyes burned from it, and it would still be as sure-footed and nimble with it's Master giving direction.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dark Elf Storm Priest
+CATEGORIES: Dark Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elf_Storm_Priest
+======================================================================
+
+Dark Elf Storm Priest
+Level
+2
+Produced by
+Dark Elves
+Cost
+32
+Demographics
+Race
+Dark Elf
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+6
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Lightning Bolts
+,
+Turn Undead I
+Movement
+Walking
+Enhancement
+Dispel Magic I
+,
+Healing
+,
+Lightning Protection
+,
+Magic Strike
+,
+Night Vision
+,
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Dark Elf Storm Priest
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+Storm Priests are elite members of Dark Elf society. They preach a paradoxical mixture of chaos and control, which to most other races makes little sense. They derive their power from their doctrine, their will and their cruelty --- all of which they claim indicates the truth of their message. Among these powers are the abilities to heal the wounded, dispel magical effects, and the power to keep the dark powers of the undead at bay. In combat, they cast bolts of lightning at foes, and strike with magical energy.
+Like all of their race, Dark Elven Storm Priests shun the daylight and are able to see clearly in the blackness of the underground. Storm Priest warriors are weak in combat, but they do possess an unnaturally strong resistance to magic.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dark Elf Swordsman
+CATEGORIES: Dark Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elf_Swordsman
+======================================================================
+
+Dark Elf Swordsman
+Level
+1
+Produced by
+Dark Elves
+Cost
+14
+Demographics
+Race
+Dark Elf
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Night Vision
+Dark Elf Swordsman
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+The common Dark Elven warrior is proficient in the use of a long sword in melee combat. They are lightly armored. Since all citizens of Dark Elf society must serve in the military, they are also cheap and easy to recruit.
+Like all of their race, Dark Elven swordsmen shun the daylight and are able to see in the darkness of the underground. Due to their fragile bodies, Dark elven warriors are not powerful or particularly devastating, but they do possess an unnaturally strong resistance to magic.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Demon
+CATEGORIES: Creatures, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Demon
+======================================================================
+
+Demon
+Level
+3
+Produced by
+Undead
+Cost
+105
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+6
+Defense
+4
+Resistance
+4
+Movement
+30
+Health
+10
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Death Immunity
+,
+Fearless
+,
+Fire Immunity
+,
+Fire Strike
+,
+Poison Immunity
+,
+Regeneration
+,
+Vision II
+Demon
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Tormentors of souls and servants of hell, Demons are found in the land of the living only in times of great destruction, when worlds teeter on the brink of destruction. Though formidable in combat, Demons are known to be cowardly and prefer to command weaker undead units. Sneaky and conniving, they seek to steal the souls of the living, or entrap them in impossible "bargains." Their touch burns. They regenerate quickly, drawing strength from the many deaths in the living world.
+Demons are most often found fighting among hordes of undead, but are also sometimes employed by other evil races, or conjured by wizards seeking costly favors.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Dire Penguin
+CATEGORIES: Creatures, Frostling Units
+URL: https://ageofwonders.fandom.com/wiki/Dire_Penguin
+======================================================================
+
+Dire Penguin
+Level
+1
+Produced by
+Frostlings
+Cost
+15
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+2
+Defense
+2
+Resistance
+3
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Enhancement
+Cold Protection
+Frostling Archer
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+Dire penguins swarm over their prey and devour them to the bone. A single penguin is not a great threat to a skilled warrior, but a pack of them can make even the bravest warriors' blood run cold with fear. Bred to be more ferocious than your average giant penguin, Dire Penguins battle for their Frostling friends. Though awkward on land, they are quick swimmers and can give Frostlings forces a great tactical advantage.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Djinn
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Djinn
+======================================================================
+
+Djinn
+Level
+3
+Produced by
+Azrac
+Cost
+68
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+4
+Resistance
+6
+Movement
+32
+Health
+10
+Abilities
+Combat
+Magic Bolts
+,
+Strike
+Movement
+Floating
+Enhancement
+Magic Strike
+Djinn
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+The Djinn are thought to be related to Air Elementals. However, these beings take on a more human countenance and seem more magically adept. Though not particularly strong, Djinn are skilled in combat. They are able to fly and can strike with pure magical energy.
+The Djinn are loyal to the Azrac and have at times influenced their social codes and laws. They are revered in Azrac society and sought at times for gifts of wisdom.
+Bards sing of the Djinn, portraying them as clever beings which offer luxurious gifts to the greedy. Invariably the gifts turn out to cause the greedy wisher's destruction. Despite all the tales, treasure hunters still seek the Djinn, thinking they can provide, or hoping for a point in the direction of, untold wealth. The result tends to be a parched skeleton swallowed in the golden desert sands.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Doom Bat
+CATEGORIES: Creatures, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Doom_Bat
+======================================================================
+
+Doom Bat
+Level
+3
+Produced by
+Orcs
+Cost
+55
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+4
+Defense
+3
+Resistance
+3
+Movement
+28
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Cause Fear
+,
+Night Vision
+,
+Poison Protection
+,
+Poison Strike
+,
+Underground Concealment
+Doom Bat
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+The Doom Bat is a particularly odious form of giant bat. They feed upon savagery and are adept at hiding in underground caverns. Their horrible shriek induces fear and panic in those who hear it. Doom Bats strike their prey with a deadly venomous bite.
+Some beings have been able to capitalize on these creatures' slight degree of intelligence and train them to fight in combat. Orc Shamans use them as spies and messengers, and it is thought they are possessed by the most honored Orc dead, given one last chance to wreak havoc before they retire from the world.
+Their ability to fly and navigate in the dark makes the Doom Bat an excellent scout.
+— Description in
+Age of Wonders
+Strategy
+Doom Bats are useful only in certain situations and not on a large proportion of maps. Their usefulness is highly dependent on a map having an underground layer and ideally a depths layer as well. In a map without any Level 4
+cities
+, their ability to
+fly
+may be useful as well in lieu of having
+Red Dragons
+, depending on the layout of the map.
+When used underground they are effective for scouting the map and performing small raids on exposed cities and resources, but their very low combat stats and Health means they shouldn't be used for large-scale fights or against strong units. They lack a
+projectile
+as well, which means they have to engage enemies physically. Their
+underground concealment
+ability makes avoiding combat easier, and can allow you to sneakily steal your enemy's
+structures
+if you play it carefully.
+Essentially any Level 3 or 4 unit in the game with either a projectile or the ability to fly can defeat a Doom Bat in combat quite easily, and even a small army of 2 to 3 basic archers can take one out. Countering them in combat isn't the issue, but rather locating them underground. Having a
+hero
+with
+true seeing
+is important for any race besides the
+Highmen
+, whose units have that ability inherently.
+
+======================================================================
+PAGE: Dragon Ship
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Dragon_Ship
+======================================================================
+
+Dragon Ship
+Level
+2
+Produced by
+Shipyard
+Cost
+66
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+3
+Resistance
+3
+Movement
+32
+Health
+20
+Capacity
+5
+Abilities
+Combat
+Shoot Javelin
+Movement
+Sailing
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+,
+Transport
+,
+Vision II
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Dragon Ship
+is a
+unit
+produced at a Shipyard in
+Age of Wonders
+.
+Description
+“
+Dragon ships are the smallest of the armed ships commonly constructed. Though small, these ships can still withstand quite a lot of damage. Dragon ships are typically outfitted with a standard ballista on deck for protection and can transport up to five units at a time.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Drill
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Drill
+======================================================================
+
+Drill
+Level
+3
+Produced by
+Builder's Guild
+Cost
+75
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+2
+Damage
+6
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+10
+Abilities
+Combat
+Wall Crushing
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+,
+Tunneling
+Drill
+is a
+unit
+produced at a Builder's Guild in
+Age of Wonders
+.
+Description
+“
+Another dwarven invention, the Drill is commonly used by many races to tunnel in the earth. Such machines may be purchased at the Builder's Guild for a reasonable price. They can be used to strike an enemy, but most troops are smart enough to avoid the slowly lumbering machine and find its use in such fashion quite comical.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Druid
+CATEGORIES: Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Druid
+======================================================================
+
+Druid
+Level
+2
+Demographics
+Race
+None
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+26
+Health
+6
+Abilities
+Combat
+Strike
+,
+Lightning Bolts
+,
+Entangle
+Movement
+Walking
+,
+Forestry
+Enhancement
+Dispel Magic I
+,
+Entangle
+,
+Healing
+,
+Lightning Protection
+,
+Magic Strike
+,
+Poison Protection
+Experienced
+Dispel Magic II
+,
+Turn Undead I
+Veteran
+Dispel Magic III
+,
+Turn Undead II
+Druid
+is a
+unit
+in
+Age of Wonders
+. This unit cannot be trained or summoned, but can be encountered on the map.
+Description
+“
+Guardians of Forest Life, the Druids have taken a vow of power to Nature, and must forsake any affiliation with man or race which they may have had prior to entering their covenant. In return, a faithful druid is given the power to heal, resist poison, resist lightning, dispel magic, strike with magic, and project lightning bolts. They may call the forest to allow them quick passage or to entangle an enemy.
+Druids can be called at special places where the forces of life are strong.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Archer
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Archer
+======================================================================
+
+Dwarf Archer
+Level
+1
+Produced by
+Dwarf
+Cost
+16
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+Enhancement
+Poison Protection
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Dwarf Archer
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+Dwarven archers are about average in their ability to use a bow. Although Dwarven bows are smaller in size by necessity, their composite construction allows them to fire with the same power and range as larger bows. With practice and experience, Dwarven archers become more lethal with the bow and arrows. Like other Dwarves, they are able to move easily underground and traverse large mountains. Their inborn hardiness also gives them a natural resistance to many magical effects and poison.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Axeman
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Axeman
+======================================================================
+
+Dwarf Axeman
+Level
+1
+Produced by
+Dwarf
+Cost
+16
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+Enhancement
+Poison Protection
+Dwarf Axeman
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+Dwarves prefer to strike their enemy with an axe. And though it has led to some confusion and misunderstandings among the Elves, Dwarves do not use the battleaxe on trees. They can train to become quite proficient with both axe and shield.
+Like other Dwarves, axemen are able to move easily underground and easily traverse large mountains. Their inborn hardiness also gives them a natural resistance to many magical effects and poison.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Berserker
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Berserker
+======================================================================
+
+Dwarf Berserker
+Level
+1
+Produced by
+Dwarf
+Cost
+17
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+4
+Damage
+4
+Defense
+1
+Resistance
+4
+Movement
+24
+Health
+6
+Abilities
+Combat
+Strike
+,
+Round Attack
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+Enhancement
+Fearless
+,
+Poison Protection
+Dwarf Berserker
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+The Dwarven Berserker does not rely on any sort of formal training to defeat his adversaries so much as he does on sheer rage and strength. Berserkers disdain armor, as it only inhibits their mobility when plowing through the ranks of their enemies. They thrive on combat, and even on being outnumbered (which, to them, means more fighting). Dwarves do not look upon Berserkers as war-crazed deviants, rather they are honored as the bravest warriors among other Dwarves.
+Like other Dwarves, they are resistant to magical and other effects. Berserkers are seldom impeded by the weakening effects of poisons.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Boar Rider
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Boar_Rider
+======================================================================
+
+Dwarf Boar Rider
+Level
+2
+Produced by
+Dwarf
+Cost
+36
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+4
+Movement
+32
+Health
+8
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Mountaineering
+Enhancement
+Charge
+,
+Poison Protection
+Dwarf Boar Rider
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+Dwarven Boar Riders, wielding great axes, are among the fiercest mounted warriors, rivaling the Orcish heavy cavalry. Boars are not able to move as quickly as full-sized horses, but they enable the Dwarven riders to move much faster than foot soldiers. Like other Dwarves, their inborn hardiness also gives them a natural resistance to many magical effects and poison.
+Though mocked by other races as "Pig-lovers" the Dwarves share a strong bond of trust with the formidable swine. The boars are sure-footed, even across rocky mountain passes.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Cleric
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Cleric
+======================================================================
+
+Dwarf Cleric
+Level
+2
+Produced by
+Dwarf
+Cost
+35
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+Enhancement
+Dispel Magic I
+,
+Fearless
+,
+Healing
+,
+Magic Strike
+,
+Poison Protection
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Dwarf Cleric
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+Dwarves cherish the stalwart and firm nature or rock and earth. Dwarven Clerics, in particular, derive their power from the earth and the powers that organized it. They revere the symbolic steadfastness and stability of stone, while still encouraging the inventiveness of the dwarven heart. They possess the power to heal, dispel magic, and turn the Undead. They are resistant to poison, magic, and--like the steady stone--fear nothing. Their deliberate study of the stuff of wisdom has led their people to ally with the Giants and other creatures which were considered too slow to be of value.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf First Born
+CATEGORIES: Creatures, Dwarf Units
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_First_Born
+======================================================================
+
+Dwarf First Born
+Level
+4
+Produced by
+Dwarf
+Cost
+205
+Demographics
+Race
+Dwarf
+Type
+Creature
+Alignment
+Good
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+7
+Defense
+5
+Resistance
+6
+Movement
+24
+Health
+24
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Mountaineering
+Enhancement
+Fearless
+,
+Fire Immunity
+,
+Fire Strike
+,
+Magic Protection
+,
+Poison Immunity
+Dwarf First Born
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+Legend holds that the Dwarves were created from the earth itself, molded from raw earth and molten rock. Some of these ancient fiery primeval Dwarves still exist and are known as the First Born. The First Born are rarely seen and will only appear in battle for the cause of good and justice.
+The First Born possess enormous strength, and typically make very formidable foes in combat. The First Born's composition makes it immune to all fire-based attacks and gives it the ability to ignite flammable materials without the use of any tool.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarf Mole
+CATEGORIES: Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Dwarf_Mole
+======================================================================
+
+Dwarf Mole
+Level
+3
+Produced by
+Dwarf
+Cost
+105
+Demographics
+Race
+Dwarf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+3
+Resistance
+4
+Movement
+32
+Health
+14
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+,
+Tunneling
+Enhancement
+Night Vision
+,
+Poison Protection
+Dwarf Mole
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+The Great Mole is a docile creature which was nearly hunted to extinction by the Goblins as a source of food. Dwarven Clerics, however, discovered the creatures were quite intelligent, for animals, and could be trained by a Dwarf with patience and diligence. With the help of a trainer they learn to be alert and ferocious fighters. Giant Moles, without a trainer are almost completely blind. To compensate, trainers employ devices to enhance their underground vision. Moles have great claws which not only do damage to enemies but are used to rip tunnels through the earth. As with the Wild Boar, with their trainer's expertise Moles have been known to cross high mountains without too much difficulty, but they prefer life underground.
+Moles eat a diet of Big Beetle grubs, and Sandworm Larvae. They are resistant to poison.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Dwarven Balloon
+CATEGORIES: Dwarf Units, Machines
+URL: https://ageofwonders.fandom.com/wiki/Dwarven_Balloon
+======================================================================
+
+Dwarven Balloon
+Level
+3
+Produced by
+Dwarf
+Cost
+55
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+2
+Damage
+8
+Defense
+2
+Resistance
+3
+Movement
+32
+Health
+12
+Capacity
+5
+Abilities
+Combat
+(None)
+Movement
+Flying
+Enhancement
+Poison Immunity
+,
+Transport
+,
+Vision III
+Dwarven Balloon
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+The Dwarven Balloon, or Zeppelin as it eventually came to be known, is an expansive balloon-like structure with a small transport compartment. By utilizing a propeller and sails the ship can carry troops over the all sorts of obstacles.
+It can be used to carry up to five passenger-troops at a time.
+— In-game description in
+Age of Wonders
+Notes
+The Dwarven Balloon is one of the few units in the game that has no attacks. While this unit has attack and damage stats, these stats are unused because the unit itself has no ability to attack.
+
+======================================================================
+PAGE: Earth Elemental
+CATEGORIES: Creatures, Elementals
+URL: https://ageofwonders.fandom.com/wiki/Earth_Elemental
+======================================================================
+
+Earth Elemental
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+8
+Defense
+4
+Resistance
+4
+Movement
+20
+Health
+20
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+,
+Tunneling
+Enhancement
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+Earth Elemental
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Earth Elemental
+spell.
+Description
+“
+The Earth Elemental is a hulking humanoid made of dirt and clay. Their large size and great strength make them extremely powerful in combat. Earth Elementals tunnel through earth effortlessly. With powerful blows they can crush walls. They are highly resistant to lightning and fire. They are immune to the effects of poison.
+Like most Elementals, Earth Elementals are summoned at gates or by powerful wizards.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Elephant
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Elephant
+======================================================================
+
+Elephant
+Level
+1
+Produced by
+Azrac
+Cost
+37
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+30
+Health
+9
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+Elephant
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+Horses are not the only animal first domesticated among the Azracs. Among the more useful breeds, Elephants serve the Azracs in nearly every aspect of Azrac life, including the battlefield as living battering rams. Azrac Elephants are relatively docile creatures, and despite their size, are not easily trained for combat.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Elf Archer
+CATEGORIES: Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Elf_Archer
+======================================================================
+
+Elf Archer
+Level
+1
+Produced by
+Elves
+Cost
+17
+Demographics
+Race
+Elf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+,
+Forestry
+Enhancement
+Marksmanship I
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Elf Archer
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Elves are naturally skilled archers. Experienced Elven Archers are considered magicians to all who wield the bow. Like all of their race, Elven archers feel most at home in the forests and are able to move easily through heavily wooded areas. They also have a naturally high resistance to magical effects.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Elf Cleric
+CATEGORIES: Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Elf_Cleric
+======================================================================
+
+Elf Cleric
+Level
+2
+Produced by
+Elves
+Cost
+32
+Demographics
+Race
+Elf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Entangle
+,
+Magic Bolts
+,
+Turn Undead I
+,
+Movement
+Walking
+,
+Forestry
+Enhancement
+Dispel Magic I
+,
+Forestry
+,
+Healing
+,
+Magic Strike
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Elf Cleric
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Usually the most ancient of Elvenkind, Elven Clerics are bound to nature, from whence their power comes. They are keenly aware of the delicate balance of life and are dedicated to seeing it flourish wherever they may be. They are able to project their life energies in the form of a weapon, or if they choose, they can weave it into powerful spells for healing. Like all elves they can pass the forests effortlessly, and can entangle enemies with equal ease in the limbs and leaves of the forest maze. Elven Clerics stand against the powers of the undead and will sacrifice all to see such abominations destroyed. Elven Clerics do not seek power, and as such, it comes to them freely.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Elf Ranger
+CATEGORIES: Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Elf_Ranger
+======================================================================
+
+Elf Ranger
+Level
+3
+Produced by
+Elves
+Cost
+95
+Demographics
+Race
+Elf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+5
+Movement
+32
+Health
+8
+Abilities
+Combat
+Strike
+,
+Archery
+Movement
+Walking
+,
+Forestry
+,
+Mountaineering
+,
+Swimming
+Enhancement
+Concealment
+,
+Marksmanship II
+Experienced
+Marksmanship III
+Veteran
+Marksmanship IV
+Elf Ranger
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Most Elves possess a fair degree of innate skill in archery and woodland survival, but the Elven Ranger has become a master of both. Elven Rangers prefer to live in the wild, away from civilization. Over time, they have learned not to fight the variety of natural settings, passing effortlessly through forests, crossing mountains, or swimming great expanses of water with ease.
+Rangers are extremely versatile units which can be deployed as scouts, long range support or light infantrymen. In battle, the combination of exceptional archery skills and the ability to ably defend themselves in melee combat makes these fighters quite potent.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Elf Swordsman
+CATEGORIES: Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Elf_Swordsman
+======================================================================
+
+Elf Swordsman
+Level
+1
+Produced by
+Elves
+Cost
+15
+Demographics
+Race
+Elf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Forestry
+Elf Swordsman
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+The common Elven warrior is proficient in the use of a long sword in melee combat. These foot soldiers are lightly armored. Like all elves, Elven swordsmen feel most at home in the forests and are able to move easily through heavily wooded areas. They also possess a slightly higher resistance to magic. Due to their fragile bodies, Elven warriors are not powerful or devastating. But they fight skillfully and nimbly, striking their opponents more often than not with every swing of the blade
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Elven Scout
+CATEGORIES: Elf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Elven_Scout
+======================================================================
+
+Elven Scout
+Level
+2
+Produced by
+Elves
+Cost
+32
+Demographics
+Race
+Elf
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+6
+Damage
+2
+Defense
+3
+Resistance
+4
+Movement
+36
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Forestry
+Enhancement
+Charge
+,
+Vision I
+Elven Scout
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Elves typically deploy mounted scouts instead of heavy cavalry. Elven scouts are trained to move quickly, even through dense forests. Armed with long swords, Elven scouts are very capable of defending themselves, but would not stand up to a heavily armored cavalry, such as that of the Orcs. Like all Elves, Elven scouts have a naturally high resistance to magic.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Fairy
+CATEGORIES: Creatures, Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Fairy
+======================================================================
+
+Fairy
+Level
+3
+Produced by
+Elves
+Cost
+55
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Female
+Stats
+Attack
+3
+Damage
+3
+Defense
+5
+Resistance
+6
+Movement
+32
+Health
+6
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Concealment
+,
+Magic Strike
+Fairy
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Fairies are benevolent magical creatures that hide deep within the forests. These small winged folk are only a foot or two in height and invisible in forests. Fairies are peaceful creatures by nature, but they are able to defend themselves by striking with pure magical energy at speeds that causes most enemies to wish they never provoked its wrath.
+Little is known about Fairy society, but Fairies are usually found associating with Nymphs, Elves, and other good creatures of the forests.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Fire Elemental
+CATEGORIES: Creatures, Elementals
+URL: https://ageofwonders.fandom.com/wiki/Fire_Elemental
+======================================================================
+
+Fire Elemental
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+5
+Defense
+4
+Resistance
+8
+Movement
+26
+Health
+17
+Abilities
+Combat
+Strike
+,
+Call Flames
+Movement
+Walking
+Enhancement
+Fire Immunity
+,
+Fire Strike
+,
+Ignition
+,
+Lightning Immunity
+,
+Physical Protection
+,
+Poison Immunity
+Fire Elemental
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Fire Elemental
+spell.
+Description
+“
+Fire Elementals are composed entirely of flame and appear the size of a large bonfire. A Fire Elemental is able to inflict considerable damage with the intense heat of its flames, but its true power comes from its ability to rapidly spread fire over a wide area, creating a hazardous environment and disorder.They are immune to poison and lightning, and very difficult to harm physically.
+Like most Elementals, Fire Elementals are summoned at gates or by powerful wizards.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Fire Sprite
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Fire_Sprite
+======================================================================
+
+Fire Sprite
+Level
+2
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+3
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Fire Immunity
+,
+Fire Strike
+,
+Ignition
+,
+Lightning Immunity
+,
+Poison Immunity
+Fire Sprite
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Fire Sprite
+spell.
+Description
+“
+The Fire Sprite is a lesser version of the Fire Elemental. They are typically humanoid in form, but they are composed entirely of fire. Fire Sprites delight in igniting flammable objects. They are also immune to many attack forms, including fire, lightning, poison, death and holy damage.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Flame Thrower
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Flame_Thrower
+======================================================================
+
+Flame Thrower
+Level
+2
+Produced by
+Builder's Guild
+Cost
+60
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+8
+Abilities
+Combat
+Flame Throwing
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+Flame Thrower
+is a
+unit
+produced at a Builder's Guild in
+Age of Wonders
+.
+Description
+“
+Originally created by Dwarves for large cooking jobs, other races quickly noticed the possibility of using the Flame Thrower as a weapon of war. The design was quickly copied by the Builders Guild and can be built for a price. Flame Throwers spew flames over a small area, incinerating all in their way.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Frost Queen
+CATEGORIES: Frostling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Frost_Queen
+======================================================================
+
+Frost Queen
+Level
+3
+Produced by
+Frostlings
+Cost
+65
+Demographics
+Race
+Frostling
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Female
+Stats
+Attack
+4
+Damage
+3
+Defense
+3
+Resistance
+6
+Movement
+26
+Health
+8
+Abilities
+Combat
+Strike
+,
+Frost Bolts
+Movement
+Swimming
+,
+Walking
+Enhancement
+Cold Immunity
+,
+Cold Strike
+,
+Path of Frost
+,
+Snow Concealment
+Frost Queen
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+The Frost Queen appears as a tall, slender, beautiful woman with a light bluish skin tone. Little is known for certain about the nature of these beings, but they are often thought of as the nymphs of the frozen tundra. Unlike nymphs, they cannot seduce male humanoids, however, they are revered as goddesses among the Frostlings. "Kissed by the Divine Stillness," (as Frostlings describe her) The Frost Queen freezes everything she touches in fragile jewels of ice crystals.
+Frost Queens live in the snowy wilderness, often in forests, where they can ponder the quiet turnings of seasons, but in rare moments, they seek something other than solitude, and seek the companionship of their friends, the Frostlings.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Frostling Archer
+CATEGORIES: Frostling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Frostling_Archer
+======================================================================
+
+Frostling Archer
+Level
+1
+Produced by
+Frostlings
+Cost
+15
+Demographics
+Race
+Frostling
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+24
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Enhancement
+Cold Protection
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Frostling Archer
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+Frostling archers are about average in their archery abilities. With practice and experience, they may improve. Like all Frostlings, they have an innate resistance to extreme cold and are somewhat limited in movement by their diminutive size.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Frostling Shaman
+CATEGORIES: Frostling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Frostling_Shaman
+======================================================================
+
+Frostling Shaman
+Level
+2
+Produced by
+Frostlings
+Cost
+30
+Demographics
+Race
+Frostling
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+,
+Frost Bolts
+Movement
+Walking
+Abilities
+Cold Immunity
+,
+Dispel Magic I
+,
+Healing
+,
+Magic Strike
+,
+Turn Undead I
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Frostling Archer
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+In Frostling society, the Frostfolk turn to their Shamans to discern the weather and interpret the lights in the sky. While Frostling Shamans are sometimes able to work miracles, their powers are not without limit.
+Frostling Shamans whisper to the powers of the winds and cold. They are completely immune to the effects of cold and possess the power to shoot bolts of frost and ice, or strike freezing mysticism in melee. Frostling Shamans heal the wounded, dispel magical enchantments and turn undead creatures.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Frostling Swordsman
+CATEGORIES: Frostling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Frostling_Swordsman
+======================================================================
+
+Frostling Swordsman
+Level
+1
+Produced by
+Frostlings
+Cost
+15
+Demographics
+Race
+Frostling
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Protection
+Frostling Swordsman
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+The common Frostling infantryman fights with a short sword. Though bundled in furs and leather, their armor is only considered light.  Like all of their race, Frostling warriors have an innate resistance to extreme cold and are somewhat limited in movement because of their diminutive size.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Frostling Wolf Rider
+CATEGORIES: Frostling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Frostling_Wolf_Rider
+======================================================================
+
+Frostling Wolf Rider
+Level
+2
+Produced by
+Frostlings
+Cost
+33
+Demographics
+Race
+Frostling
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+32
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Forestry
+Enhancement
+Charge
+,
+Cold Protection
+Frostling Wolf Rider
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+Frostlings have no cavalry forces, but have compensated for that with the Wolf Riders. Wolves are not able to travel as far in a day as horses, but they are better suited to the frigid climate in which the Frostlings live. Frostling wolves are fiercely loyal to their masters. Wolf Riders wield jagged swords with more skill than infantry.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Galleon
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Galleon
+======================================================================
+
+Galleon
+Level
+4
+Produced by
+Shipyard
+Cost
+212
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+3
+Resistance
+3
+Movement
+40
+Health
+30
+Capacity
+7
+Abilities
+Combat
+Shoot Javelin
+Movement
+Sailing
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Marksmanship I
+,
+Poison Immunity
+,
+Sailing
+,
+Shoot Javelin
+,
+Transport
+,
+Vision II
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Galleon
+is a
+unit
+produced at a Shipyard in
+Age of Wonders
+.
+Description
+“
+Galleons are the largest warships constructed. Their thick wooden hulls enable them to withstand huge amounts of damage and remain seaworthy. Galleons are outfitted with a standard ballista on deck for protection, and can transport up to seven units at a time, making them the toughest warship. Although they are expensive and take a good while to build, they are the safest form of travel upon the sea.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Galley
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Galley
+======================================================================
+
+Galley
+Level
+3
+Produced by
+Shipyard
+Cost
+150
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+3
+Resistance
+3
+Movement
+36
+Health
+25
+Capacity
+6
+Abilities
+Combat
+Shoot Javelin
+Movement
+Sailing
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+,
+Transport
+,
+Vision II
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Galley
+is a
+unit
+produced at a Shipyard in
+Age of Wonders
+.
+Description
+“
+Galleys are large, armed ships. Thick wooden hulls enable them to withstand large amounts of damage and remain seaworthy. Galleys are outfitted with a standard ballista on deck for protection and can transport up to six units at a time.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Giant
+CATEGORIES: Creatures, Dwarf Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Giant
+======================================================================
+
+Giant
+Level
+3
+Produced by
+Dwarf
+Cost
+105
+Demographics
+Race
+None
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+6
+Damage
+7
+Defense
+3
+Resistance
+4
+Movement
+32
+Health
+15
+Abilities
+Combat
+Strike
+,
+Hurl Boulder
+Movement
+Walking
+,
+Mountaineering
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Giant
+is a
+unit
+of the
+Dwarves
+in
+Age of Wonders
+.
+Description
+“
+For reasons forgotten over time, Giants are kindred to Dwarves. Regardless of the validity of that notion, these immense beings maintained good relations with their shorter counterparts. Since Dwarves respect the slow and stalwart, Giants are ideal allies. Giants lack the sophistication of Dwarves and are commonly said to be stupid. Not unlike Trolls, Bards sings tales of simple children outwitting Giants or defeating them with a simple weapon like a sling.
+In combat, Giants wield huge tree-trunk clubs which deal devastation to everything they strike. Giant can hurl boulders at opponents or walls, enabling the Dwarves to avoid complicated siege engines.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Giant Frog
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Giant_Frog
+======================================================================
+
+Giant Frog
+Level
+1
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+1
+Resistance
+2
+Movement
+28
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Giant Frog
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Frog
+spell.
+Description
+“
+Giant Frogs inhabit uncharted swamps in great swarms. Because they tend to be quite numerous in the wild, Lizardmen train Giant Frogs as mounts. They are large enough to swim while transporting a medium-sized humanoid. Giant Frogs will fight when threatened, but tend to be quite weak, lacking any form of weaponry or body armor.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Giant Slug
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Giant_Slug
+======================================================================
+
+Giant Slug
+Level
+1
+Produced by
+Lizardmen
+Cost
+12
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+3
+Damage
+3
+Defense
+1
+Resistance
+2
+Movement
+20
+Health
+5
+Abilities
+Combat
+Strike
+,
+Venemous Spit
+Movement
+Walking
+,
+Cave Crawling
+Abilities
+Poison Protection
+,
+Poison Strike
+Giant Slug
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Giant Slugs are most commonly found in moist climates from temperate to hot, especially swamps. These creatures are vaguely worm-like and have two eyestalks at the front ends of their bodies. Like normal slugs, Giant Slugs are slow moving creatures and are extremely vulnerable with their soft flesh offering no significant protection from weapons. They defend themselves by spitting a caustic substance at predators over a short distance.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Big Beetle
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Big_Beetle
+======================================================================
+
+Goblin Big Beetle
+Level
+3
+Produced by
+Goblins
+Cost
+120
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+3
+Resistance
+4
+Movement
+40
+Health
+13
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+,
+Cave Crawling
+,
+Tunneling
+Enhancement
+Night Vision
+,
+Poison Protection
+,
+Poison Strike
+Goblin Big Beetle
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+Named by one of the more creative Goblin minds, the "Big Beetle" is just that: A very big beetle. Carnivorous and always hungry, the Beetles are cared for by special Goblin tenders from eggs. Big Beetles will eat just about anything, and it is thought that the only food they cannot stomach is Goblin flesh. The Big Beetle is adept at burrowing. It attacks with crushing poisonous mandibles, and ---perhaps because of its diet--- is highly resistant to poison-based attacks.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Bomber
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Bomber
+======================================================================
+
+Goblin Bomber
+Level
+1
+Produced by
+Goblins
+Cost
+11
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+1
+Resistance
+2
+Movement
+24
+Health
+4
+Abilities
+Combat
+Self Destruct
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Poison Protection
+Goblin Bomber
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+In a society of war and struggle, there is no place for the physically weak. Goblin society is especially harsh, as the Goblins have spent hundreds of years losing wars to the good beings such as the Elves, Halflings and Dwarves; and being betrayed and enslaved by the Orcs and Dark Elves.
+In a desperate attempt to utilize all members of Goblin society in the war effort, those Goblins found not fit for regular combat are given large bombs to deliver to their foes' armies or city walls. Though no Goblin volunteers for the job, Bombers are heralded as true heroes.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Darter
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Darter
+======================================================================
+
+Goblin Darter
+Level
+1
+Produced by
+Goblins
+Cost
+11
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+4
+Damage
+1
+Defense
+2
+Resistance
+2
+Movement
+24
+Health
+4
+Abilities
+Combat
+Poison Darts
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Poison Protection
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Goblin Darter
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+Goblins seldom employ archers, opting instead to use blowguns to shoot darts. The darts do little damage themselves, but the poison that coats them can be deadly. Goblins can shoot poisoned darts slightly faster than a normal archer can shoot arrows.
+Like other Goblins, darters are able to move easily underground and see in darkness. Goblins are also less resistant to magic than most creatures, but have an innate resistance to poisons.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Shaman
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Shaman
+======================================================================
+
+Goblin Shaman
+Level
+2
+Produced by
+Goblins
+Cost
+26
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+3
+Movement
+24
+Health
+4
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Dispel Magic I
+,
+Healing
+,
+Magic Strike
+,
+Poison Immunity
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Goblin Shaman
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+Goblin Shaman wield magic amongst a race that fears it greatly, bestowing upon them power, without trust or respect. Goblin Shaman are solitary, although it is not known if this is merely their nature, or if they have been forced into it by the poorly-veiled suspicions of their neighbors. In either case, when wartime comes, the thirst for victory allows the Goblins to set aside their fears, and the Shaman are more than happy to prove those fears well founded by putting their arcane prowess on display.
+Like other Goblins, shaman are able to move easily underground and see in darkness. Goblins are also less resistant to magic than most creatures, but have an innate resistance to poisons.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Spearman
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Spearman
+======================================================================
+
+Goblin Spearman
+Level
+1
+Produced by
+Goblins
+Cost
+12
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+2
+Movement
+24
+Health
+4
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Poison Protection
+,
+First Strike
+Goblin Spearman
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+The common Goblin warrior is proficient in the use of a spear in melee combat. Goblins seldom have the money to afford heavy armor, and are so small that stealing it is pointless. Goblins join infantry quickly, especially if promised their freedom from the slave mines. Their cowardly nature makes the "longest-spear-available," their weapon of choice, and as such they generally get preemptive striking ability in melee combat. Like all of their race, Goblin warriors are able to move easily underground and see in the darkness. Goblins are also less resistant to magic than most creatures, but have an innate resistance to poisons.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Wolf Rider
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Wolf_Rider
+======================================================================
+
+Goblin Wolf Rider
+Level
+2
+Produced by
+Goblins
+Cost
+28
+Demographics
+Race
+Goblin
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+2
+Movement
+32
+Health
+7
+Abilities
+Combat
+Strike
+,
+Movement
+Walking
+,
+Forestry
+Enhancement
+Night Vision
+,
+Poison Protection
+Goblin Wolf Rider
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+"No respectable horse would allow a Goblin upon its back," so say the common folk. Goblins remedy their horselessness by raiding wolf dens and stealing wolf cubs. Raised from pups, the wolves learn to be loyal to their Goblin masters. Although more formidable than regular Goblin foot soldiers, wolf riders are best used as scouts and can be easily overcome by stronger mounted warriors. Like all Goblins, wolf riders are less resistant to magic than most creatures, but have an innate resistance to poisons.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Goblin Wyvern Rider
+CATEGORIES: Goblin Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Goblin_Wyvern_Rider
+======================================================================
+
+{{Unit
+| name        = Goblin Wyvern Rider
+| image       = Goblin-Wyvern-Rider.png
+| level       = 3
+| produced by = Goblins
+| cost        = 55
+| race        = Goblin
+| type        = Humanoid
+| alignment   = Evil
+| gender      = Male
+| attack      = 5
+| damage      = 4
+| defense     = 2
+| resistance  = 2
+| movement    = 32
+| health      = 8
+| capacity    = 
+| abilities_combat =
+Strike
+| abilities_movement =
+Flying
+| abilities_enhancement =
+Night Vision
+,
+Poison Protection
+,
+Vision II
+,
+Poison Strike
+, [[Charge]
+| experienced = 
+| veteran     = 
+}}
+Goblin Wyvern Rider
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+With their natural resistance to poison, Goblins have subdued smaller Wyverns and learned to train them as flying mounts. Goblin Wyvern riders are most effective as armed scouts. Although not much stronger than wolf riders, Wyvern riders take advantage of the poisonous bite and sting of their mounts as well as the ability to fly swiftly and attack fortified cities from above.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Gold Dragon
+CATEGORIES: Creatures, Dragons
+URL: https://ageofwonders.fandom.com/wiki/Gold_Dragon
+======================================================================
+
+Gold Dragon
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+5
+Defense
+7
+Resistance
+8
+Movement
+32
+Health
+20
+Abilities
+Combat
+Strike
+,
+Black Breath
+Movement
+Flying
+Enhancement
+Divine Breath
+,
+Dragon
+,
+Fearless
+,
+Fire Protection
+,
+Holy Immunity
+,
+Vision II
+Gold Dragon
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Gold Dragon
+spell.
+Description
+“
+Gold Dragons are the wisest of all dragonkind. They are patient with the younger races, and protect the sources of life and its power in the realm. They will only serve good and do not tolerate races that ally themselves with the forces of death.
+They have a high resistance to magic, and their bright golden scales are strong armor against physical attack. They are quite hearty and are resistant to fire. With their breath they can channel a cone of holy life energies at an opponent, which burns away all but the pure in heart.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Great Eagle
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Great_Eagle
+======================================================================
+
+Great Eagle
+Level
+2
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+40
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Vision II
+Great Eagle
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Great Eagle
+spell.
+Description
+“
+The Great Eagles are an ancient race, soaring above the world aloof of mortal struggles. They are intelligent and good, and align themselves with the races that best can use their talents and preserve what they judge to be the best in the world. For many centuries they aided Halflings and consider them to be the best friends. They will also come to the aid of wizards, but choose to serve only those who adhere to good principles.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Green Wyvern
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Green_Wyvern
+======================================================================
+
+Green Wyvern
+Level
+3
+Produced by
+Lizardmen
+Cost
+98
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+5
+Defense
+4
+Resistance
+6
+Movement
+36
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Fearless
+,
+Poison Immunity
+,
+Poison Strike
+,
+Vision II
+Green Wyvern
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+The Green Wyvern is a serpentine creature resembling a dragon in form, though not in wits. A bit dimwitted and rejected by other dragonkind as something quite a bit less, these creatures suffer from bouts of inferiority, making them quite nasty to all creatures inferior to them. Because they make their homes in swamps, the Lizardmen are most often the brunt of these creatures' nasty fits. Lizardmen make offerings to Green Wyverns and Green Wyverns generally do not eat Lizardmen, unless the offerings are not satisfactory, and then they only eat a couple Lizardmen (usually a shaman or leader) as an example and to keep the populace devoted to the Wyverns. In return, Wyverns will upon occasion perform feats and protect their worshippers in battle. Green Wyverns are extremely vicious creatures striking their prey with poisonous fangs and snapping jaws, but they lack the breath attack of normal dragons, and their scales are not nearly as strong as armor.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Cleric
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Cleric
+======================================================================
+
+Halfling Cleric
+Level
+2
+Produced by
+Halflings
+Cost
+30
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+Enhancement
+Dispel Magic I
+,
+Healing
+,
+Magic Protection
+,
+Magic Strike
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Halfling Cleric
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+Halfling Clerics are the epitome of joy. Their entire religious philosophy revolves around the notion that life is about having joy and things that bring lasting happiness. While home life is central to halfling life, Halfling Clerics have been known to travel great distances just to learn a new joke that might cause every member of their community to laugh. Other Clerics spend years preparing a single prank, just to make the Satyrs and Leprechauns roll in the grass with guffaws.
+Halfling Clerics can harness magical energies and propel them at their enemies either at a distance or in hand-to-hand striking. They consider the Undead to be an illness, and an assassin of joy, and as such Halfling Clerics will expend all their energies to turn it away. Halfling Clerics excel at healing and have a high resistance to magic, as well.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Eagle Rider
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Eagle_Rider
+======================================================================
+
+Halfling Eagle Rider
+Level
+3
+Produced by
+Halflings
+Cost
+55
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+2
+Resistance
+4
+Movement
+36
+Health
+8
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Charge
+,
+Vision II
+Halfling Eagle Rider
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+The Halflings have maintained a peaceful relationship with the Great Eagles for centuries. During times of war, some of the Great Eagles serve as airborne battle mounts for the Halflings. Eagle Riders are among the most skilled and fearless of all Halfling warriors.
+In combat, Eagle Riders have only a slight advantage over normal mounted Halfling Pony Riders. Tactically, Eagle Riders have the advantage of being able to scout out larger areas quickly, and can also bypass city walls during sieges.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Pony Rider
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Pony_Rider
+======================================================================
+
+Halfling Pony Rider
+Level
+1
+Produced by
+Halflings
+Cost
+28
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+2
+Resistance
+4
+Movement
+32
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+Halfling Pony Rider
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+Halflings hardly have a cavalry, finding full-grown horses difficult to mount, let alone ride. As such, steeds are rare among the Halflings. Halfling Pony Riders generally act as scouts, and as a supplement to their foot soldiers. Pony Riders are trained little better than the foot soldiers and their ponies are not capable of traveling as far as full grown horses in a single day. Like other Halflings, Pony Riders are highly resistant to magic and other effects.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Rogue
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Rogue
+======================================================================
+
+Halfling Rogue
+Level
+3
+Produced by
+Halflings
+Cost
+75
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+4
+Resistance
+4
+Movement
+26
+Health
+6
+Abilities
+Combat
+Strike
+,
+Hurl Stones
+Movement
+Walking
+Enhancement
+Concealment
+,
+Marksmanship I
+,
+Parry
+,
+Wall Climbing
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Halfling Rogue
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+With the capacity for stealth afforded them by their diminutive size, many Halfings have taken up less than honest means of making a living. Becoming a rogue often means mingling with other races and parting from the traditional peaceful Halfling lifestyle. But, it is well known that Halflings enjoy entertainment, and the life of a rogue can be quite lucrative, with no shortage of entertainment and pleasures.
+Halflings rogues master the art of fighting Halfling-style, both with the ability to hurl stones at expert ability, and the ability to strike and parry in melee.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Slinger
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Slinger
+======================================================================
+
+Halfling Slinger
+Level
+1
+Produced by
+Halflings
+Cost
+15
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+5
+Abilities
+Combat
+Hurl Stones
+Movement
+Walking
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Halfling Slinger
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+Slingers are the Halfling basic ranged-attacker. Halflings seem to be naturally gifted with the ability to hurl rocks accurately with a sling. Although these sling stones do very little damage, a skilled Halfling can typically launch twice the number of stones as an archer can fire arrows in the same amount of time.
+Like other Halflings, slingers are highly resistant to magic.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Halfling Swordsman
+CATEGORIES: Halfling Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Halfling_Swordsman
+======================================================================
+
+Halfling Swordsman
+Level
+1
+Produced by
+Halflings
+Cost
+14
+Demographics
+Race
+Halfling
+Type
+Humanoid
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Parry
+Halfling Swordsman
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+The common Halfling warrior is proficient in the use of a short sword in melee combat. These foot soldiers are lightly armored and relatively cheap to train. They are short and quite quick, relying upon their quickness to parry attacks, and then strike where it hurts the most...
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Hell Hound
+CATEGORIES: Creatures, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Hell_Hound
+======================================================================
+
+Hell Hound
+Level
+1
+Produced by
+Undead
+Cost
+20
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+2
+Defense
+3
+Resistance
+3
+Movement
+32
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Death Protection
+,
+Fearless
+,
+Fire Protection
+,
+Fire Strike
+,
+Regeneration
+Veteran
+Fire Immunity
+Hell Hound
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Hell Hounds are vicious canines of flesh and fire, thought to be the souls of men who betrayed their friends for gain. No longer worthy of their former form and with their minds seared in the flames of hell, they are the dogs of the infernal pit, hunters for greater demons, kicked about, tortured and set loose upon wicked worlds to howl remorse for all eternity. They are resistant to fire. Their bite is white hot, and ignites flammable materials. Although these hounds look ferocious and evil and have other-worldly origins, they are not particularly difficult for a trained warrior to dispatch. Still, should they survive a combat they regenerate quickly. Hell hounds are not affected by mind spells and fearlessly do their Master's bidding, without question or conscience. Hell Hounds serve demons or powerful wizards, and live wherever the Undead hold strong dominion.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Highman Archer
+CATEGORIES: Highman Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Highman_Archer
+======================================================================
+
+Highman Archer
+Level
+1
+Produced by
+Highmen
+Cost
+18
+Demographics
+Race
+Highman
+Type
+Humanoid
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+4
+Movement
+30
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Enhancement
+Holy Protection
+,
+True Seeing
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Highman Archer
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Highman archers are about average in their abilities with the possibility of becoming more skilled as they practice and put forth their best efforts. Like all of their race, Highman archers are protected from Holy attacks and are able to spot invisible and concealed creatures as if they were clearly visible to all. The tall and stately Highmen move quickly over the earth, and go about their holy work without distraction.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Highman Avenger
+CATEGORIES: Highman Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Highman_Avenger
+======================================================================
+
+Highman Avenger
+Level
+3
+Produced by
+Highmen
+Cost
+65
+Demographics
+Race
+Highman
+Type
+Humanoid
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+4
+Resistance
+7
+Movement
+32
+Health
+7
+Abilities
+Combat
+Strike
+,
+Holy Bolts
+,
+Turn Undead II
+Movement
+Walking
+,
+Forestry
+,
+Mountaineering
+,
+Swimming
+Enhancement
+Cave Crawling
+,
+Death Immunity
+,
+Fearless
+,
+Holy Champion
+,
+Holy Immunity
+,
+Holy Strike
+,
+Magic Strike
+,
+True Seeing
+Experienced
+Turn Undead III
+Veteran
+Turn Undead IV
+Highman Avenger
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+The sole purpose of the Avenger is to seek out those evil beings who have gravely wronged another. Lightly armed and armored, the Avenger is particularly well trained for quick pursuit in any conditions - through forests or caverns and over mountains or bodies of water. He can see through any deception and easily spot concealed or invisible creatures.
+In combat, the Avenger hurls bolts of holy power and fights impressively in melee combat. Being entirely immune to the effects of fear, death-based magic, and possession, with the ability to turn the undead, he hunts and destroys anything that allies itself with evil.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Highman Paladin
+CATEGORIES: Highman Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Highman_Paladin
+======================================================================
+
+Highman Paladin
+Level
+2
+Produced by
+Highman
+Cost
+50
+Demographics
+Race
+Highman
+Type
+Humanoid
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+5
+Movement
+40
+Health
+8
+Abilities
+Combat
+Strike
+,
+Turn Undead I
+Movement
+Walking
+Enhancement
+Charge
+,
+Healing
+,
+Holy Protection
+,
+True Seeing
+Highman Paladin
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+The Paladin is famed in stories as a fighter possessing the utmost virtue and purity. The Highmen train Paladins from their youth to follow the strict path of obedience. Along that path, they are given a steed which represents the animal inside of every mortal which must be tamed. At first, the animal is wild and unbridled, impossible to control and hardly a thing of use. But the Paladin learns not to destroy the animal, but teaches it to obey and serve him as a trusted Master. Properly bridled, the animal within, just as the warrior's steed, is a thing of great power.
+Paladins learn the fine skill of healing. They can also Turn Undead, which they tend to use when the undead cannot be struck by their long swords.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Highman Saint
+CATEGORIES: Highman Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Highman_Saint
+======================================================================
+
+Highman Saint
+Level
+2
+Produced by
+Highmen
+Cost
+40
+Demographics
+Race
+Highman
+Type
+Humanoid
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+5
+Movement
+30
+Health
+5
+Abilities
+Combat
+Strike
+,
+Holy Bolts
+,
+Turn Undead II
+Movement
+Walking
+Enhancement
+Charm
+,
+Dispel Magic I
+,
+Healing
+,
+Holy Protection
+,
+Holy Strike
+,
+Magic Strike
+,
+True Seeing
+Experienced
+Dispel Magic II
+,
+Turn Undead III
+Veteran
+Dispel Magic III
+,
+Turn Undead IV
+Highman Saint
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Unlike other races, Highmen have no priest class, as traditionally defined in other societies. Responsibilities traditionally held by clergy are distributed throughout all members of the race, with one ruling body called the High Council. As such, the race maintains a higher level of spirituality and a strong focus on "eternal" things. Highmen Saints are watchmen--spiritual laborers--decrying wicked worlds and bringing worlds together under the safe refuge of righteousness. They have strong persuasive abilities, convincing others of the evil of their ways. They provide refuge for their converts, bringing them in harmony with their race. These charismatic Saints are gifted healers, rebuke the Undead, and strike their enemies with the powers of heaven. Saints are not necessarily gifted fighters, but do not fear death and many have rejoiced to die as martyrs.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Highman Swordsman
+CATEGORIES: Highman Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Highman_Swordsman
+======================================================================
+
+Highman Swordsman
+Level
+1
+Produced by
+Highmen
+Cost
+18
+Demographics
+Race
+Highman
+Type
+Humanoid
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+4
+Movement
+30
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Holy Protection
+,
+True Seeing
+Highman Swordsman
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+The common Highman Swordsman' is proficient in the use of a long sword in melee combat. Like all of their race, Highmen Swordsmen are resistant to Holy energies and cannot be deceived by illusions, as they see the truth. Highmen move quickly over the earth, constantly about their holy causes.  Because Highmen are of Pure Good alignment they do not spend much time in diplomacy, and some of the good races may have difficulty adapting to their tactics, luckily the Highmen are relatively powerful and very independent and manage to survive without depending upon alliances alone.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Human Air Galley
+CATEGORIES: Human Units, Machines
+URL: https://ageofwonders.fandom.com/wiki/Human_Air_Galley
+======================================================================
+
+Human Air Galley
+Level
+4
+Produced by
+Humans
+Cost
+230
+Demographics
+Race
+Human
+Type
+Machine
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+5
+Defense
+6
+Resistance
+5
+Movement
+32
+Health
+18
+Capacity
+7
+Abilities
+Combat
+Shoot Javelin
+Movement
+Flying
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Flying
+,
+Marksmanship I
+,
+Poison Immunity
+,
+Transport
+,
+Vision I
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Human Air Galley
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+It is commonly held that the humans stole the idea for their Air Galley from the Dwarves. As usual, the humans took the benign transport and turned it into a powerful weapon. The Air Galley deploys a ballista which fires deadly javelins at a great distance with accuracy. Furthermore, the Air Galley can be used to carry up to seven regular troops, giving it a deadly secondary advantage ---that of flight mobility--- to all human troops.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Human Archer
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Archer
+======================================================================
+
+Human Archer
+Level
+1
+Produced by
+Humans
+Cost
+15
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Human Archer
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Comparitively
+[
+sic
+]
+, human archers are relatively average. With practice and experience, they may increase their proficiency with the bow, but, at best, the highest compliment given to a human archer is, "He has elven blood."
+— Description in
+Age of Wonders
+Strategy
+There really is nothing special about the Human Archer. They will fill their required role adequately, but unlike many of the other races, they boast no additional abilities that are useful for combat, movement or otherwise. While having a number of archers is good early on,
+Human Musketeers
+with their longer range and more powerful attack are a far more effective unit in this role, once you have the gold income to produce and maintain them in large numbers.
+Trivia
+The Human Archer performs the animation for their Archery ability more slowly than any other unit or hero in the game, seeming to take their time between shots. This could be an intentional choice to denote their lack of skill, though they are described as "average" in-game, the same as several other races' archers.
+
+======================================================================
+PAGE: Human Cavalier
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Cavalier
+======================================================================
+
+Human Cavalier
+Level
+3
+Produced by
+Humans
+Cost
+95
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+6
+Damage
+4
+Defense
+6
+Resistance
+4
+Movement
+36
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+,
+Fearless
+,
+Parry
+Human Cavalier
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Heavily armored and extremely skilled with a long sword, the
+Human Cavalier
+charges fearlessly into battle. Cavaliers serve their lord with the utmost loyalty, and maintain an unwavering commitment to the principles of chivalry. They are popular with the people, and are respected by their enemies.
+— Description in
+Age of Wonders
+Strategy
+Cavaliers are the strongest melee unit the Humans have at their disposal. Although their base damage output is not as high as some Level 3 units of other races such as
+Giants
+,
+Trolls
+and
+Warlords
+, they benefit from the
+charge
+ability and have very good Defense as well as
+parry
+to bolster it even further.
+Cavaliers should be produced often whenever access to them is available, as they are an invaluable addition to any Human army. Capable of going toe-to-toe with just about any close-quarters unit in the game, they can protect your ranged units effectively and are good for both defending your
+city
+or raiding a hostile one.
+Dealing with Cavaliers, especially if they are massed in groups, can be troublesome. They lack a
+ranged attack
+, so units which can
+fly
+and shoot a projectile will effortlessly clean them up, but otherwise you'll have to rely on your strongest units to fight them. Even outnumbered by ranged units, Cavaliers can last a long time due to their solid Defense and Health. Magic from a
+hero
+or
+leader
+and projectiles from strong units such as
+Yaka Avatars
+or
+Basilisks
+can be effective, as Cavaliers have less Resistance than Defense. Weaker magic-using units should be careful though, since the Cavaliers will dispatch them easily if they close the distance.
+
+======================================================================
+PAGE: Human Charlatan
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Charlatan
+======================================================================
+
+Human Charlatan
+Level
+3
+Produced by
+Humans
+Cost
+64
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+3
+Resistance
+5
+Movement
+26
+Health
+7
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Charm
+Movement
+Walking
+Enhancement
+Bard's Skills
+,
+Concealment
+Human Charlatan
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Charlatans epitomize the well known Human phrase, "Jack of all trades, master of none." Their legitimate talents are few and far between, but they strive to appear masterful at many arts. In truth, the only art in which Charlatans excel is that of deception. This mastery of deceit enables them to dupe others into believing that they possess more power and knowledge than they do. As a result, Charlatans are frequently found leading human populations, though usually in the guise of being a "servant of the people."
+Charlatans are merely competent in both fighting and magic. Their ability to ruthlessly exploit an opponent's weaknesses makes them a genuine threat to all races. They often use stealth and deception to create and seize "unfair" advantages. The most legendary Charlatans are often given the nickname of "Slick," "Slimy," or "More slippery than a Lizardman."
+— Description in
+Age of Wonders
+Strategy
+Charlatans are a bit of a gamble as far as unit investments go. While
+Cavaliers
+are the more obviously important choice for Level 3 Human units, Charlatans can provide the Humans with interesting and unique strategic advantages in some situations.
+With their
+bard's skills
+ability, shared only by the
+Halfling
+Satyr
+among regular units, a Charlatan can keep any unit of almost any race (except possibly the
+Undead
+) happy as long as you can capture a
+city
+and produce it. Notably, having multiple units with bard's skills in the same party causes the effect to stack, boosting the morale of even hostile units to manageable levels, although having such an abundance of Charlatans just to appease a few enemy units would be a questionable strategy.
+This is even more significant for Humans than for the Halflings since Humans are of neutral alignment and thus do not have terrible relations with any one race by default, meaning only one Charlatan should be needed in an army to prevent almost any unit from deserting. On top of that, a Charlatan can use
+charm
+to attempt to gain control of any enemy unit in battle, though this will not always work and will give the unit a free attack if it doesn't.
+Aside from that they are a little underwhelming, with
+concealment
+being only a little useful without also having the
+ability to scale walls
+, and
+magic bolts
+being a mediocre ranged attack at best. Charlatans are not too hard to deal with when fighting them, since they have fairly unimpressive combat stats. As long as you don't just send one unit with low Resistance against them to be charmed, you should be fine.
+
+======================================================================
+PAGE: Human Medium Cavalry
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Medium_Cavalry
+======================================================================
+
+Human Medium Cavalry
+Level
+2
+Produced by
+Humans
+Cost
+35
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Health
+8
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+Human Medium Cavalry
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Human cavalry units wield a long awl pike tipped with deadly iron. In general, they are more skilled than human infantrymen.
+Humans interact well with horses and have raised their own breeds since they arrive in the Valley of Wonders. The origin of human horses is thought to come from the Azracs, which explains why their steeds are so hearty.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Human Musketeer
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Musketeer
+======================================================================
+
+Human Musketeer
+Level
+3
+Produced by
+Humans
+Cost
+45
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Fire Musket
+Movement
+Walking
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Human Musketeer
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+While Dwarves far excel humans in feats of sophisticated invention, they do not possess the raw brutality to create inventions of mass destruction. Humans, by contrast, excel at it.
+Musketeers wield the devastating human invention, the musket. These handheld cannons, while not very accurate, are powerful enough to pierce even a Dragon's scaly hide with their heavy metal shots. Musketeers are not masters of hand-to-hand combat, instead trusting in their ability to reload quickly.
+— Description in
+Age of Wonders
+Strategy
+Musketeers are a situational investment that don't always do very well on their own but can be an effective supplement to an army of
+Cavaliers
+or other strong melee units. They are the only race-specific Level 3 unit besides the
+Dwarven Balloon
+to not have the
+Strike
+ability, putting them at a unique disadvantage against other high-level units.
+Possibly the best use for Musketeers is defense of a
+city
+, since their
+long range and powerful shot
+(5 attack and 7 damage) can pick off even most cavalry units in a single hit. Keeping them behind your city walls and protecting them with melee units is key, since the Musketeers are helpless in close quarters. Fighting with them in an open area with no walls for cover is dangerous, since enemy units can approach more easily.
+Although they can deal a lot of damage, their accuracy leaves something to be desired and they will have trouble hitting units with high Defense. Nearly any unit that manages to successfully close the gap with a Musketeer will have no problem dispatching it. With only 2 defense, 5 health and no ability to fight back, a Musketeer becomes just another cheap archer when under attack.
+The usefulness of Musketeers in general is questionable at best. Two
+archers
+would cost less initially and the same as one Musketeer to upkeep, and they would produce faster from a Level 3 city. That would also provide 4 ranged attacks per turn (since
+Archery
+attacks twice) for a total potential 8 damage and more chances of at least some damage, versus just one attack from the Musketeer which could miss.
+Ballistas
+can fill the role of the Musketeer quite well, with the same range and a two-piece attack which can end up dealing more damage if both hits connect. They are more expensive up front and less maneuverable, however.
+
+======================================================================
+PAGE: Human Pikeman
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Pikeman
+======================================================================
+
+Human Pikeman
+Level
+1
+Produced by
+Humans
+Cost
+17
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+First Strike
+Human Pikeman
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Pikemen, in general, tend to be a tad more intelligent than the average human footsoldier. Not as eager to die in battle, they adhere to the combat principle, "Stab your opponent before he can stab you." The long pikes they hold permit them the ability of retaliation before the enemy can draw a shorter weapon and strike.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Human Priest
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Priest
+======================================================================
+
+Human Priest
+Level
+2
+Produced by
+Humans
+Cost
+30
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+Enhancement
+Dispel Magic I
+,
+Healing
+,
+Magic Strike
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Human Priest
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+Priests are key figures in human society. They serve a single diety from a diverse pantheon of spirits and gods who grant them special powers, in return for their faith and devotion. Among these powers are the abilities to heal the wounded, dispel magical effects, and turn undead creatures. Human priests are not trained for combat, but they are able to conjure magical energy to strike at their foes from a distance or by touch.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Human Swordsman
+CATEGORIES: Human Units, Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Human_Swordsman
+======================================================================
+
+Human Swordsman
+Level
+1
+Produced by
+Humans
+Cost
+15
+Demographics
+Race
+Human
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Human Swordsman
+is a
+unit
+of the
+Humans
+in
+Age of Wonders
+.
+Description
+“
+The common Human warrior is proficient in the use of a long sword in melee combat. These foot soldiers are lightly armored and relatively cheap to train and pay, making them the foundation for most military exploits.
+Because many humans aspire to knighthood, training in swordsmanship is widespread. The vast majority of human swordsmen are average in their abilities, but each is eager to prove himself in battle.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Ice Drake
+CATEGORIES: Creatures, Dragons, Frostling Units
+URL: https://ageofwonders.fandom.com/wiki/Ice_Drake
+======================================================================
+
+Ice Drake
+Level
+4
+Produced by
+Frostlings
+Cost
+225
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+4
+Defense
+5
+Resistance
+4
+Movement
+36
+Health
+17
+Abilities
+Combat
+Strike
+,
+Cold Breath
+Movement
+Flying
+Enhancement
+Cold Immunity
+,
+Dragon
+,
+Fearless
+,
+Vision II
+Ice Drake
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+The Ice Drake is one of the smaller members of the great race of Dragons. They make their homes in the icy mountaintops of the coldest regions of the land. As a result, they have learned to coexist with the Frostlings, and will fight for them when it serves their interests.
+Ice Drakes are not particularly powerful in combat, but their breath weapon can be devastating. The Ice Drake exhales great blasts of jagged ice and sub-zero breath, freezing solid anything unfortunate enough to be caught in its path.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Incarnate
+CATEGORIES: Creatures, Dark Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Incarnate
+======================================================================
+
+Incarnate
+Level
+4
+Produced by
+Dark Elves
+Cost
+200
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+2
+Damage
+1
+Defense
+5
+Resistance
+5
+Movement
+36
+Health
+10
+Abilities
+Combat
+Strike
+,
+Possess
+Movement
+Floating
+Enhancement
+Cold Immunity
+,
+Death Immunity
+,
+Fire Immunity
+,
+Lightning Immunity
+,
+Magic Strike
+,
+Physical Immunity
+,
+Poison Immunity
+Incarnate
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+The Incarnate is a truly evil being of unknown origin. In its natural state, it appears to be a figureless mass of energy. The Incarnate possesses another creature's body, and is most frequently encountered as a host creature. A possessed host has its soul driven from its body, but retains all of its natural abilities. Incarnates start by taking over lowly life forms and gradually progress to more and more powerful creatures. There are stories that even heroes have fallen victim to Incarnates.
+After an Incarnate leaves its host by a successful transfer, the former host dies instantly as its soul has already left its body. If a still-possessed host body is killed, the Incarnate is freed and returns to its natural form, revealing its true nature.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Karagh
+CATEGORIES: Creatures, Goblin Units
+URL: https://ageofwonders.fandom.com/wiki/Karagh
+======================================================================
+
+Karagh
+Level
+4
+Produced by
+Goblins
+Cost
+195
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+8
+Defense
+4
+Resistance
+7
+Movement
+44
+Health
+21
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Poison Protection
+,
+Cause Fear
+,
+Charge
+,
+Fearless
+Veteran
+Poison Immunity
+Goblin Karagh
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+Karagh are powerful beasts that rampage through the depths of the underground, terrorizing the inhabitants. They run screaming through twisting subterranean passageways, waving great iron blades as though unquenchably angry. The Karagh have no known society, and it is unknown as to whether they are intelligent, for no one has figured out how to get them to remain still long enough to attempt communication. These creatures are sometimes caged and unleashed by Goblins in times of war upon the battlefield.
+Karagh are extremely agile for their size and move swiftly through underground passages. They are strong combatants. The mere sight of a Karagh causes fear in all but the most brave beings.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Kobold
+CATEGORIES: Creatures, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Kobold
+======================================================================
+
+Kobold
+Level
+1
+Produced by
+Orcs
+Cost
+15
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+3
+Movement
+24
+Health
+4
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Cave Crawling
+Enhancement
+Night Vision
+,
+Poison Immunity
+,
+Poison Strike
+Kobold
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Kobolds are small, sinewy, reptilian beings who inhabit the underground caverns. The most notable characteristic of these creatures is their large round eyes which emit a soft amber glow. Similar in size to the Goblins, Kobolds are even more primitive and savage. Kobolds live cooperatively with Orcs, obtaining shelter, food and protection from the great garbage mounds found within all Orc settlements. In return Kobolds devour any toxic substances and refuse which might harm the Orcs. Kobolds salvage old, lost weapons from the garbage, which they foul with poisons.
+Their small size and ability to see clearly in the dark makes Kobolds effective underground scouts.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lady of Pain
+CATEGORIES: Creatures, Dark Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Lady_of_Pain
+======================================================================
+
+Lady of Pain
+Level
+1
+Produced by
+Dark Elves
+Cost
+14
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Female
+Stats
+Attack
+4
+Damage
+2
+Defense
+1
+Resistance
+2
+Movement
+26
+Health
+5
+Abilities
+Combat
+Seduce
+,
+Strike
+Movement
+Walking
+Lady of Pain
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+The Lady of Pain is similar to the Nymph in that she preys primarily on male beings by means of seduction. However, far from the seemingly demure Nymph, the Lady of Pain is twisted and cruel. She attracts her prey with her beguiling beauty and keeps them in servitude with threats of physical punishment and torture --- threats she is all too pleased to make good on if necessary.
+The Lady of Pain is often employed by Dark Elves to lure good and neutral beings to the side of evil.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Leprechaun
+CATEGORIES: Creatures, Halfling Units
+URL: https://ageofwonders.fandom.com/wiki/Leprechaun
+======================================================================
+
+Leprechaun
+Level
+4
+Produced by
+Halflings
+Cost
+200
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Good
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+10
+Resistance
+10
+Movement
+26
+Health
+8
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+Movement
+Walking
+,
+Forestry
+Enhancement
+Death Protection
+,
+Dispel Magic I
+,
+Fearless
+,
+Invisibility
+,
+Magic Strike
+,
+Parry
+,
+Poison Protection
+,
+Regeneration
+Experienced
+Dispel Magic II
+Veteran
+Death Immunity
+,
+Dispel Magic III
+Leprechaun
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+Leprechauns are benevolent creatures most often associated with good luck. Because they can become invisible at will, they are rarely seen. Many people take the sighting of a leprechaun to be a harbinger of extremely good luck. Those who press their luck and decide it would be amusing to try to capture a leprechaun are usually in for a surprise, however, as leprechauns can play very nasty practical jokes on those who disturb them.
+When the dwellers of the forests or other good beings are in danger, leprechauns have been known to side with the forces of good to defeat the evil threat. They are most likely to join the Halflings in battle, as these small folk share a liking for fun and humor. Together, they can make the best of grim situations and lighten the desperate nature of war.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lizardman Archer
+CATEGORIES: Humanoids, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Lizardman_Archer
+======================================================================
+
+Lizardman Archer
+Level
+1
+Produced by
+Lizardmen
+Cost
+15
+Demographics
+Race
+Lizardman
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+2
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+,
+Swimming
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Lizardman Archer
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Lizardmen archers wield the bow with average competency, but they possess great tactical advantage, because they can swim. They excel at striking distant targets from the safety of the water.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lizardman Frog Rider
+CATEGORIES: Humanoids, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Lizardman_Frog_Rider
+======================================================================
+
+Lizardman Frog Rider
+Level
+2
+Produced by
+Lizardmen
+Cost
+35
+Demographics
+Race
+Lizardman
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+2
+Movement
+32
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Enhancement
+Charge
+Lizardman Frog Rider
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Mounted Lizardmen ride giant frogs. The Frog Riders can swim across large bodies of water but cannot travel as far or as fast as by horse. Lizardman attempts to domesticate horses have always ended in almost comical failure. Frog Riders are usually armed with large tridents. Like all Lizardmen, Frog Riders are somewhat more susceptible to magic than other races, but gain great advantages due to their aquatic mobility.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lizardman Shaman
+CATEGORIES: Humanoids, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Lizardman_Shaman
+======================================================================
+
+Lizardman Shaman
+Level
+2
+Produced by
+Lizardmen
+Cost
+30
+Demographics
+Race
+Lizardman
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+,
+Swimming
+Enhancement
+Dispel Magic I
+,
+Healing
+,
+Magic Bolts
+,
+Magic Strike
+,
+Poison Protection
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Lizardman Shaman
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+In a society where hatchlings are consumed by large snapping things in the swamps, Lizardmen Shamans possess considerable power over life and death in the Lizardman society.
+Lizard Shamans draw their abilities from the energy of the sea, and the constant cycle of life and death present in Lizardman habitats. These Shamans possess the power to wield magical energy, heal the wounded, dispel magical enchantments, and turn Undead creatures. They are completely immune to the effects of poison.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lizardman Swordsman
+CATEGORIES: Humanoids, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Lizardman_Swordsman
+======================================================================
+
+Lizardman Swordsman
+Level
+1
+Produced by
+Lizardmen
+Cost
+15
+Demographics
+Race
+Lizardman
+Type
+Humanoid
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+2
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Lizardman Swordsman
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Lizardmen warriors fight with long toothy blades carved from shark's teeth, shards of obsidian and the bones of swamp creatures. Due to their aquatic realm, metal is scarce and seldom lasts to be worth the purchasing price. Like all of their race, Lizardmen warriors can swim across large bodies of water and are somewhat more susceptible to magic effects than other races.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Lurker
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Lurker
+======================================================================
+
+Lurker
+Level
+3
+Produced by
+Lizardmen
+Cost
+65
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+6
+Defense
+3
+Resistance
+3
+Movement
+24
+Health
+10
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Enhancement
+Poison Protection
+,
+Water Concealment
+Lurker
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+The Lurker is a large flat-bodied creature vaguely resembling a giant frog. This creature lives in murky waters and swamps, where it can easily hide and surprise its prey. The bite of a Lurker carries a weak poison which is often enough to subdue smaller prey without further effort. The Lizardmen often use these creatures to surprise enemies encroaching upon their territory.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Mermaid
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Mermaid
+======================================================================
+
+Mermaid
+Level
+1
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Female
+Stats
+Attack
+3
+Damage
+2
+Defense
+1
+Resistance
+6
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Swimming
+Mermaid
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Mermaid
+spell.
+Description
+“
+Mermaids are a strictly aquatic race, appearing as beautiful women from the waist up, and below as a fish. They are fine swimmers. They seldom concern themselves with the affairs of the surface world. Sailors consider the sight of a mermaid a good omen, though some men have been lost at sea, swimming after these beautiful water nymphs.
+When provoked mermaids attack with the slap of their powerful tail. If they can, they will attempt to drown an enemy. They can be summoned by water magic to serve, but only for causes they deem worthy.
+— Description in
+Age of Wonders
+Notes
+The Mermaid is one of two creatures that cannot travel over land, the other being the
+Sea Serpent
+.
+
+======================================================================
+PAGE: Nature Elemental
+CATEGORIES: Creatures, Elementals, Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Nature_Elemental
+======================================================================
+
+Nature Elemental
+Level
+4
+Produced by
+Elves
+Cost
+210
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+5
+Defense
+7
+Resistance
+8
+Movement
+32
+Health
+15
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Forestry
+Enhancement
+Cold Protection
+,
+Entangle Strike
+,
+Fire Protection
+,
+Healing
+,
+Lightning Protection
+,
+Path of Life
+,
+Poison Immunity
+,
+Regeneration
+Experienced
+Lightning Immunity
+Veteran
+Cold Immunity
+Nature Elemental
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+The Nature Elemental is revered by Elves as a sacred incarnation of the earth's energy, as an avatar of Mother Nature herself. This being is most powerful in densely wooded forests and areas where life abounds. With a tree-like form that allows her to blend seamlessly into the woods around her, the Nature Elemental frequently beckons wildlife to represent her in battle. Resistance to many of nature's natural forces, such as fire, cold, lightning and poison, make the Elemental particularly difficult to destroy.
+In battle, Nature Elementals will align themselves only with other good races such as the Elves, Dwarves, Halflings and High Men. In such situations, Elementals do not fear death, as their destruction will merely return their organic energy to the earth from which it came, giving birth to life anew.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Nordic Glow
+CATEGORIES: Creatures, Frostling Units
+URL: https://ageofwonders.fandom.com/wiki/Nordic_Glow
+======================================================================
+
+Nordic Glow
+Level
+3
+Produced by
+Frostlings
+Cost
+98
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+4
+Defense
+5
+Resistance
+6
+Movement
+36
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Cold Immunity
+,
+Fearless
+,
+Fire Immunity
+,
+Magic Strike
+,
+Physical Protection
+,
+Poison Immunity
+Nordic Glow
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+Many a wary traveler knows not to stray from the path to follow the Northern Lights. Though beautiful and haunting, they may be a more deadly creature, known simply as a Nordic Glow. Very little is known of this creature of frozen light. Their existence is reverenced by the Frostlings, who will not give any details as to how they are able to entice the creatures to frequent their larger dwellings. Bards sing that the Nordic Glow is really the spirit--perhaps like the Magic Spirits of the Highmen--of one who sought the love of a Frost Queen, following her only to freeze to death in her icy wake.
+Nordic Glows are immune to fire, cold, fear, and poison. They fly about the frozen sky with ease. They are resistant to the effects of physical attacks, but not immune.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Nymph
+CATEGORIES: Creatures, Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Nymph
+======================================================================
+
+Nymph
+Level
+1
+Produced by
+Elves
+Cost
+22
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Female
+Stats
+Attack
+4
+Damage
+2
+Defense
+1
+Resistance
+5
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Seduce
+Movement
+Walking
+,
+Forestry
+Nymph
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+Nymphs are timid, good-natured magical creatures who bear the appearance of the ideal female. They are at home in the woods and frequently ally themselves with other benevolent creatures of the forest, most often the Elves. While not at all warlike by nature, Nymphs will fight bravely if the welfare of their woodland home is threatened.
+In combat, Nymphs are very weak. Their main strength is their ability to seduce male humanoids into servitude. Magical in nature themselves, Nymphs have a naturally high resistance to magic.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Orc Archer
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Archer
+======================================================================
+
+Orc Archer
+Level
+1
+Produced by
+Orcs
+Cost
+15
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Orc Archer
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Orcish archers are about average in their skills, but can improve to be quite deadly. Most Orcs do not choose to be archers because it is commonly held to be cowardly, and so only clans in disgrace are forced to kill at great distances.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Orc Assassin
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Assassin
+======================================================================
+
+Orc Assassin
+Level
+3
+Produced by
+Orcs
+Cost
+75
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+28
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Concealment
+,
+Marksmanship I
+,
+Poison Darts
+,
+Poison Strike
+,
+Wall Climbing
+Experienced
+Marksmanship II
+Veteran
+Marksmanship III
+Orc Assassin
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+The Orcish assassins are some of the best trained Orcs alive, but they live in secret and not a part of normal Orc society. They come from families hopelessly disgraced and without honor, not afraid to use the subtle arts of concealment, to accomplish their means. As brute strength and savage fighting tactics come naturally to Orcs, assassins are carefully trained in the art of stealth and agility and the use of poison. In addition, the assassin can easily climb city walls to infiltrate and conquer unguarded towns.
+Among Orc warriors, the ultimate insult is to be called an "Assassin," though they are quick to hold their tongue when one is present. Many an Orc warrior has disappeared after making disparaging remarks about the cowardly ways of the Orc Assassin.
+— Description in
+Age of Wonders
+Strategy
+Orc Assassins are a useful supporting unit for an Orc army. Their stats are somewhat comparable to an
+Orc Swordsman
+, with 1 less Damage, 1 more Defense and 2 more Health. Their primary benefit comes from their ability to shoot
+poison darts
+with
+marksmanship
+proficiency, while also being able to
+defend themselves from physical attackers
+.
+When paired up with
+Warlords
+, Assassins become much more effective, since they can
+poison
+approaching enemy units from afar, thus weakening them for the Warlords to easily finish off. Their
+ability to climb walls
+is of questionable usefulness for large
+city
+battles, since they lack the physical combat strength to assault a well-defended city alone. However, in combination with their
+concealment
+, it means they can be used to raid poorly-defended cities by surprise if there is sufficient cover nearby.
+Assassins are very squishy and will easily die to an attack from many Level 3 or 4 units and even Level 2 cavalry units. Even if they go down though, they may poison the attacker as a parting gift. Killing them as quickly as possible (with a single hit from a powerful unit) or with a
+ranged attack
+is therefore the best option to deal with them.
+
+======================================================================
+PAGE: Orc Heavy Cavalry
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Heavy_Cavalry
+======================================================================
+
+Orc Heavy Cavalry
+Level
+2
+Produced by
+Orcs
+Cost
+39
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+5
+Damage
+4
+Defense
+3
+Resistance
+3
+Movement
+32
+Health
+8
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+Orc Heavy Cavalry
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+The Orcish heavy cavalry are some of the most fearsome and intimidating mounted warriors known. Even more so than their infantrymen, Orcish cavalry are known for their brutality and strength in combat.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Orc Shaman
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Shaman
+======================================================================
+
+Orc Shaman
+Level
+2
+Produced by
+Orcs
+Cost
+30
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Turn Undead I
+Movement
+Walking
+Enhancement
+Charge
+Abilities
+Dispel Magic I
+,
+Healing
+,
+Magic Strike
+,
+Night Vision
+Experienced
+Dispel Magic II
+,
+Turn Undead II
+Veteran
+Dispel Magic III
+,
+Turn Undead III
+Orc Shaman
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Orc Shamans rule the tribe by meting out honor upon the bravest and most barbaric tribesmen. They determine who will be punished in the clan by becoming archers and who will have the honor of swinging "chopping blades". They are of the few who can actually motivate Orcs to refrain from laziness long enough to work or go to war. They may withhold healing to any soldier they view has not suffered enough for honor. Since they are the givers of honor, it is not seen as cowardly that they wield magic bolts at a distance. Orc Shaman can also dispel magic, rebuke the undead and their gaze can penetrate the darkest shadows.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Orc Swordsman
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Swordsman
+======================================================================
+
+Orc Swordsman
+Level
+1
+Produced by
+Orcs
+Cost
+17
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+4
+Damage
+4
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Orc Swordsman
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Orcs, in general, are quite lazy and unmotivated. About the only thing that they can be convinced to do is fight. Fighting comes naturally to Orcs, and it is considered the utmost honor to swing a sword. Orcish warriors are renowned for their brute strength. They make especially tough foes for the average warrior.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Orc Warlord
+CATEGORIES: Humanoids, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Orc_Warlord
+======================================================================
+
+Orc Warlord
+Level
+3
+Produced by
+Orcs
+Cost
+105
+Demographics
+Race
+Orc
+Type
+Humanoid
+Alignment
+Evil
+Gender
+Male
+Stats
+Attack
+7
+Damage
+6
+Defense
+6
+Resistance
+5
+Movement
+26
+Health
+14
+Abilities
+Combat
+Strike
+,
+Round Attack
+Movement
+Walking
+Orc Archer
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Orc warlords
+are usually of an elite class of Orcs. These Orcs are typically stronger than others and are trained from childhood in the art of war and hand to hand combat. If Orcs were not so inherently lazy, it has been suggested that perhaps all Orcs could be as powerful as the Warlord. Thankfully for the world's sake, Orcs show no sign of becoming motivated anytime soon.
+Once deemed ready for battle by their masters, Warlords are given a heavy suit of armor and sent to decimate the enemy's ranks. With their huge two-handed swords, they can take on any opponent in a melee and execute a number of maneuvers to defeat their foes. Even when severely outnumbered, Orc warlords can execute the round attack, swinging their great blade in a wide arc in an attempt to cut down many opponents in a single swing.
+— Description in
+Age of Wonders
+Strategy
+Warlords are one of the most powerful Level 3 units in the game. Their high, well-balanced stats and ability to use
+round attack
+make for a force to be reckoned with, especially in large numbers. A Warlord will pay for its upkeep cost far more efficiently than lower Level units, so Orc
+cities
+with upgrade level 3 should be producing them almost exclusively in most situations.
+Although the Warlord is unmatched in close combat with all but some
+Level 4 units
+and possibly
+Titans
+, they are at a disadvantage when greatly outnumbered by ranged units due to their average
+movement
+speed. They also have no answer to
+flying units
+with
+ranged attacks
+, so mustering an army of only Warlords when your enemy may have those types of units at their disposal is a bad idea.
+Warlords make for excellent defenders to fortify a location and deter enemy raids, since there are few units or armies that would risk the losses of going up against one or more of them. They would need to be paired with
+Rams
+or
+Catapults
+to raid cities, lacking a way to
+scale
+or
+batter down
+walls themselves.
+
+======================================================================
+PAGE: Red Dragon
+CATEGORIES: Creatures, Dragons, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Red_Dragon
+======================================================================
+
+Red Dragon
+Level
+4
+Produced by
+Orcs
+Cost
+235
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+5
+Defense
+7
+Resistance
+8
+Movement
+32
+Health
+18
+Abilities
+Combat
+Strike
+Movement
+Flying
+Enhancement
+Dragon
+,
+Fearless
+,
+Fire Breath
+,
+Fire Immunity
+,
+Vision II
+Red Dragon
+is a
+unit
+of the
+Orcs
+in
+Age of Wonders
+.
+Description
+“
+Of all Dragonkind the Red Dragon is the most devious. Unquestionably powerful among dragons, and a thing of legend, Red Dragons live to pour chaos upon the world. Orcs regard the Red Dragon as a god. They build entire cities around their lair, which amuses the dragon and provides no end of free entertainment. Red Dragons are notoriously greedy and demand absurd tributes for their services.
+At diverse times, when it suits their fancy, Red Dragons will fly out and burn down the countryside with its searing breath. Such attacks are usually accompanied by a mob of adoring Orcs which take the Dragon's movements as an Omen that the time to conquer has arrived.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Salamander
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Salamander
+======================================================================
+
+Salamander
+Level
+3
+Produced by
+Lizardmen
+Cost
+75
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+4
+Defense
+4
+Resistance
+5
+Movement
+26
+Health
+10
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Fire Immunity
+,
+Fire Strike
+,
+Parry
+Salamander
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Lizardmen are creatures of water, so much so that they fear and despise fire. But once in a generation from a clutch of lizardman eggs, a creature of fire, known as a Salamander, is born into the world Burning bright with golden scales it is seen as an ill omen. Often shunned by other Lizardmen the creature is not one of water, but of fire. Whether a freak of nature or an otherworldly creature mimicking the feral Lizardmen, Salamanders are naturally gifted at combat and delight in igniting things aflame. Their incendiary nature makes them outcasts, and as such, they will ally with other neutral beings, but for some inexplicable reason, they remain fiercely loyal to the Lizardmen and will fight for them, when given the chance.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Sandworm
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Sandworm
+======================================================================
+
+Sandworm
+Level
+3
+Produced by
+Azrac
+Cost
+65
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+5
+Defense
+3
+Resistance
+4
+Movement
+26
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Cave Crawling
+,
+Tunneling
+,
+Walking
+Enhancement
+Desert Concealment
+,
+Fire Protection
+,
+Fire Strike
+Sandworm
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+The Sandworm is a huge annelid indigenous to the desert. These creatures have a rough muscular skin that protects them from hot sands and other dangers. Sandworms move easily through the desert sands and burrow in the deep earth. Concealed Sandworms can easily ambush unsuspecting desert travelers.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Satyr
+CATEGORIES: Creatures, Halfling Units
+URL: https://ageofwonders.fandom.com/wiki/Satyr
+======================================================================
+
+Satyr
+Level
+2
+Produced by
+Halflings
+Cost
+35
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+6
+Movement
+26
+Health
+6
+Abilities
+Combat
+Strike
+,
+Charm
+Movement
+Walking
+,
+Forestry
+Enhancement
+Bard's Skills
+Satyr
+is a
+unit
+of the
+Halflings
+in
+Age of Wonders
+.
+Description
+“
+The Satyr is a magical woodland humanoid with the pointed ears, short horns and legs of a goat. These benign beings dwell in the forests and serve as protectors of other natural wildlife. They are able to move unhindered through even the densest of forests. With the music of their flutes, Satyrs can charm common animals and humanoids alike.
+In peace times, the Halflings and Satyrs swap stories and share a strong love of folk music. In times of war, Satyrs will align themselves with the Halflings, or beings of good to neutral alignment willing to preserve their forestlands.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Scorpion
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Scorpion
+======================================================================
+
+Scorpion
+Level
+1
+Produced by
+Azrac
+Cost
+15
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+2
+Movement
+24
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Fire Protection
+,
+Poison Immunity
+,
+Poison Strike
+Scorpion
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+Perhaps the strangest animal employed by the Azracs are the giant scorpions. Not nearly as venomous as some smaller scorpions, they still may sting their opponents with a nasty toxin. Their hard exoskeletons and huge gnashing pincers make them quite dangerous.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Sea Serpent
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Sea_Serpent
+======================================================================
+
+Sea Serpent
+Level
+3
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+8
+Defense
+3
+Resistance
+3
+Movement
+40
+Health
+15
+Abilities
+Combat
+Strike
+Movement
+Swimming
+Sea Serpent
+is a
+unit
+in
+Age of Wonders
+. This unit cannot be trained or summoned, but can be encountered on the map.
+Description
+“
+Sailors tell many tales, but none so numerous as those about Sea Serpents. Sea Serpents live strictly in the water and have been known to attack ships for a quick sailor meal. It is unknown whether they are intelligent, and though they resemble dragons, it is commonly held that they are not closely related.
+Sea Serpents have a devastating attack, but are not so nearly well defended, and so they tend to attack ships and swimmers they know they can make into an easy meal. Sea Serpents can be coerced, via powerful water magic, to serve, but such a feat is costly and seldom worth the effort.
+— Description in
+Age of Wonders
+Notes
+The Sea Serpent is one of two creatures that cannot travel over land, the other being the
+Mermaid
+.
+
+======================================================================
+PAGE: Shadow
+CATEGORIES: Creatures, Dark Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Shadow
+======================================================================
+
+Shadow
+Level
+3
+Produced by
+Dark Elves
+Cost
+95
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+4
+Defense
+4
+Resistance
+5
+Movement
+26
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cause Fear
+,
+Cold Immunity
+,
+Concealment
+,
+Death Immunity
+,
+Fearless
+,
+Night Vision
+,
+Pass Wall
+,
+Poison Immunity
+Shadow
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+Shadows are evil creatures which feed upon the fear of the dark and unknown. It is unclear as to how Shadows originate in this world. Some say they come from a place of shadow, while others claim they have always been here. Some believe they are the most hated and wicked of Dark Elves transformed into a truer form. Whatever they case, they have strong influence over Dark Elf society and religion.
+A Shadow's ability to move undetected is most effective underground where there are no natural light sources.,A being of pure darkness, Shadows reign through use of sheer terror.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Shredder Bolt
+CATEGORIES: Machines, Orc Units
+URL: https://ageofwonders.fandom.com/wiki/Shredder_Bolt
+======================================================================
+
+Shredder Bolt
+Level
+2
+Produced by
+Orc
+Cost
+75
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+7
+Abilities
+Abilities
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+,
+Shoot Black Javelin
+,
+Walking
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+The
+Shredder Bolt
+, like the
+ballista
+, functions similarly to a crossbow. The Shredder Bolt is an Orcish modification of the standard ballista, which is primarily deployed at long ranges against other units. A dark enchantment placed on each javelin amplifies the lethalness of the Shredder Bolt.
+Because of their heavy wooden construction, they are slow to move from place to place and not near as sturdy as most siege machines.
+
+======================================================================
+PAGE: Spider Queen
+CATEGORIES: Creatures, Dark Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Spider_Queen
+======================================================================
+
+Spider Queen
+Level
+3
+Produced by
+Dark Elves
+Cost
+70
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Evil
+Gender
+Female
+Stats
+Attack
+4
+Damage
+4
+Defense
+3
+Resistance
+6
+Movement
+36
+Health
+8
+Abilities
+Combat
+Strike
+,
+Magic Bolts
+,
+Seduce
+,
+Web
+Movement
+Walking
+Abilities
+Cave Crawling
+,
+Night Vision
+,
+Poison Immunity
+,
+Poison Strike
+,
+Strike
+,
+Wall Climbing
+,
+Spider Queen
+is a
+unit
+of the
+Dark Elves
+in
+Age of Wonders
+.
+Description
+“
+She wove a web of sticky steel in shadow did she lurk.
+And when my heart beheld her I gave my life to her.
+The alluring Spider Queen lives as the goddess of the underworld. A seductive and comely creature from the waist up, she bulges below the torso with the hideous form of a giant spider. Among Dark Elves, it is considered an honor to die by her poisonous bite. They are exclusively female and all possess the ability to wield magical powers, which leads some Dark Elves to speculate that they serve a common dark goddess, unknown to the waking world.
+Spider Queens also retain many of the abilities of their spider half. In addition to their poisonous bite, they are able to naturally scale walls, spin webs, and move through rough underground caverns.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Spirit Puppet
+CATEGORIES: Creatures, Highman Units
+URL: https://ageofwonders.fandom.com/wiki/Spirit_Puppet
+======================================================================
+
+Spirit Puppet
+Level
+1
+Produced by
+Highmen
+Cost
+20
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+30
+Health
+4
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Immunity
+,
+Death Immunity
+,
+Holy Immunity
+,
+Lightning Immunity
+,
+Magic Protection
+,
+Magic Strike
+,
+Poison Immunity
+Spirit Puppet
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Spirit Puppets are entities where Spirit and Life energies combine in the mortal realm. They can be summoned by spell casters allied strongly with the forces of Life, and seem to be attracted to Highmen settlements where the veil between the mortal realm and the spirit world is thin.
+The body of a Spirit Puppet resembles that of a small humanoid streaming light. As such, they are immune to many types of damage, but are not ethereal in nature and matter can disperse them through strong physical strikes. The strike of a Spirit Puppet is not particularly powerful, but is magic-based and able to affect creatures immune to physical damage.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Syron
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Syron
+======================================================================
+
+Syron
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Neutral
+Gender
+Neuter
+Stats
+Attack
+8
+Damage
+5
+Defense
+6
+Resistance
+10
+Movement
+28
+Health
+20
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Immunity
+,
+Death Immunity
+,
+Holy Immunity
+,
+Lightning Immunity
+,
+Magic Immunity
+,
+Parry
+,
+Poison Immunity
+Syron
+is a
+unit
+in
+Age of Wonders
+. This unit can be summon by the
+Summon Syron
+spell, and can also be acquired from map locations.
+Description
+“
+The Syron is a mystical being of unknown origin. Very few have ever been spotted, and none are known to have ever been slain. A Syron's appearance resembles that of a tall, muscular humanoid, draped in clothing of the same blue hue as their complexion.
+Syrons are completely immune to the effects of magic, and it is thought that their collective mission is to seek out and destroy those who abuse the powers of magic. However, they appear to seek out not only evil wizards, but also good ones.
+— Description in
+Age of Wonders
+Notes
+Age of Wonders: Shadow Magic
+later introduced the
+Syrons
+as a full-feature race. The specific concept and background lore of the Syron in
+Age of Wonders
+was used for the Syrons'
+Giant Warrior
+.
+
+======================================================================
+PAGE: Titan
+CATEGORIES: Creatures, Highman Units
+URL: https://ageofwonders.fandom.com/wiki/Titan
+======================================================================
+
+Titan
+Level
+3
+Produced by
+Highmen
+Cost
+105
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Male
+Stats
+Attack
+6
+Damage
+6
+Defense
+5
+Resistance
+5
+Movement
+36
+Health
+15
+Abilities
+Combat
+Strike
+,
+Round Attack
+Movement
+Walking
+Enhancement
+Fire Immunity
+,
+First Strike
+,
+Holy Protection
+Titan
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Titans are thought to have walked upon the earth before any of the other ancient races. Some human myths suggest Titans created humanity and then were punished for doing so. Unlike in mythos, Titans do not war among themselves and are of pure good alignment. These beings stand several times taller than the average human and even tower over giants. Titans are adept at fighting able to strike multiple opponents in a single attack with metal weaponry and armor. By their size alone they make formidable opponents.
+Titans avoid contact with other races, having spent aeons alone, they don't mind the solitude. They fight for just causes and know the Highmen to be trustworthy of such.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Transport Ship
+CATEGORIES: Machines
+URL: https://ageofwonders.fandom.com/wiki/Transport_Ship
+======================================================================
+
+Transport Ship
+Level
+1
+Produced by
+Builder's Guild
+Cost
+45
+Demographics
+Race
+None
+Type
+Machine
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+3
+Resistance
+3
+Movement
+28
+Health
+20
+Capacity
+7
+Abilities
+Combat
+(None)
+Movement
+Sailing
+Enhancement
+Cold Protection
+,
+Fearless
+,
+Poison Immunity
+,
+Transport
+,
+Vision II
+Transport Ship
+is a
+unit
+produced at a Shipyard in
+Age of Wonders
+.
+Description
+“
+Transports are large unarmed ships used to move troops across bodies of water. These ships are fairly inexpensive and can be built quickly. A transport can hold up to seven other units at one time. Because Transports are unarmed, passengers take a high risk traveling within them. Many a soldier has lost his life, not in battle, but at the bottom of the sea after taking a boat ride.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Troll
+CATEGORIES: Creatures, Goblin Units
+URL: https://ageofwonders.fandom.com/wiki/Troll
+======================================================================
+
+Troll
+Level
+3
+Produced by
+Goblins
+Cost
+75
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Male
+Stats
+Attack
+6
+Damage
+7
+Defense
+3
+Resistance
+4
+Movement
+28
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Night Vision
+,
+Regeneration
+Troll
+is a
+unit
+of the
+Goblins
+in
+Age of Wonders
+.
+Description
+“
+Once a great race, Trolls are solitary creatures in decline. They roam the dark recesses of the earth, ever more perturbed at the loss of their underground realm to the growing masses of other races which have come since the Human invasion. As they lose more and more ground, they occasionally seek to drive out the intruders, and so they enlist the aid of the
+Goblins
+. The Goblins have learned to exploit Trolls to fight for them, often using great flattery and exaggerated stories about other races inhabiting the subterranean world. Trolls put great effort into being clever, though sadly they are still quite slow-witted, as evidenced by the fact that they use no weapon in battle. Many stories have been written of heroes, common folk, and even animals that outwitted a Troll or used a Troll's own trap against it. Among common folk Trolls are frequently the butt of jokes.
+Even so, Trolls are very strong. They have strong regenerative abilities and can see in the dark.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Turtle Ballista
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Turtle_Ballista
+======================================================================
+
+Turtle Ballista
+Level
+2
+Produced by
+Lizardmen
+Cost
+68
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+5
+Defense
+3
+Resistance
+3
+Movement
+20
+Health
+7
+Abilities
+Combat
+Shoot Javelin
+Movement
+Walking
+,
+Swimming
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Turtle Ballista
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Lizardmen ballistas function similarly to other ballistas. However, the Lizardmen have modified the standard ballista to be strapped to the back of a giant turtle. This modification allows for easy transport through the treacherous swamps and over bodies of water. Like all ballistas, the Turtle Ballista provides greater range of attack to individual enemy units.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Turtle Catapult
+CATEGORIES: Creatures, Lizardman Units
+URL: https://ageofwonders.fandom.com/wiki/Turtle_Catapult
+======================================================================
+
+Turtle Catapult
+Level
+2
+Produced by
+Lizardmen
+Cost
+50
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+8
+Defense
+3
+Resistance
+3
+Movement
+20
+Health
+8
+Abilities
+Combat
+Hurl Boulder
+Movement
+Walking
+,
+Swimming
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Turtle Catapult
+is a
+unit
+of the
+Lizardmen
+in
+Age of Wonders
+.
+Description
+“
+Lizardmen designed a specialized catapult to be strapped to the backs of giant turtles. This modification allows for easy transport through the treacherous swamps in which the Lizardmen often dwell, seeing as how horses and other beasts of burden were not nearly as mobile and far too edible in the swamp.
+Like normal catapults, these constructions are primarily used in sieges to breach a city's outer wall. The huge boulders hurled by these machines are ideal for such attacks. However, they are occasionally employed, with less accuracy, to attack individual units. If a catapult's stone does find its target, the damage caused is devastating to almost any creature.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Archer
+CATEGORIES: Humanoids, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Archer
+======================================================================
+
+Undead Archer
+Level
+1
+Produced by
+Undead
+Cost
+18
+Demographics
+Race
+Undead
+Type
+Humanoid
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Archery
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Undead Archer
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Resembling the machine that creates the most death in the mortal realm, the Undead Army employs archers to destroy life at a distance. Undead archers wield the bow with average proficiency, as they did in life. Some have uncanny mastery, while others lack. As Undead, they are immune to many forms of attacks, such as poison, and highly resistant to cold, fire, and lightning. Undead Archers are but shadows of their prior lives and lack feeling or emotion which might cause them to cower in fear or follow after the charming creatures of the earth. Being animated they possess the power to pull themselves together if they are not completely destroyed in combat. These skeletal archers also move at a slower rate than similarly sized humanoids due to their age and rigidity.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Bone Horror
+CATEGORIES: Creatures, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Bone_Horror
+======================================================================
+
+Undead Bone Horror
+Level
+3
+Produced by
+Undead
+Cost
+104
+Demographics
+Race
+Undead
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+5
+Defense
+3
+Resistance
+4
+Movement
+26
+Health
+19
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Death Strike
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Undead Bone Horror
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+The Bone Horror is a mass of jagged bones from the Undead victims of all once-living things. The creature resembles a great beast, but the bones of the creature is a mass of natural animals and any other thing it can kill and gather into itself.  Animated by the most powerful death magic, these ferocious tangles of death scavenge graveyards, and wherever dead things can be found. They are extremely difficult to destroy for the fact that they regenerate quickly, literally pulling themselves back together after each battle. They move slowly but are so massive that they can crush even the largest walls. Like all undead they are resistant to fire, cold and lightning attacks, immune to fear-based attacks, poison and death magic.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Bone Ram
+CATEGORIES: Machines, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Bone_Ram
+======================================================================
+
+Undead Bone Ram
+Level
+1
+Produced by
+Undead
+Cost
+25
+Demographics
+Race
+Undead
+Type
+Machine
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+2
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+8
+Abilities
+Combat
+Wall Crushing
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Undead Bone Ram
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+The bone-based battering ram can withstand about as much damage as its wooden counterpart. The Ram serves to destroy walls for the Undead with the bodies of their victims. The Bone Ram is indistinguishable from other Undead units, held together by the forces of death. They are superior to machines in that they repair themselves after every combat by literally pulling themselves back together. But, as such, they are affected by a Cleric's Turn Undead ability.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Doom Priest
+CATEGORIES: Humanoids, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Doom_Priest
+======================================================================
+
+Undead Doom Priest
+Level
+2
+Produced by
+Undead
+Cost
+42
+Demographics
+Race
+Undead
+Type
+Humanoid
+Alignment
+Pure Evil
+Gender
+Male
+Stats
+Attack
+3
+Damage
+2
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+,
+Black Bolts
+,
+Dominate
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Death Strike
+,
+Dispel Magic I
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Experienced
+Dispel Magic II
+Veteran
+Dispel Magic III
+Undead Doom Priest
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Doom Priests exist because of the Mortal obsession with and inability to reconcile death. The eventual fate of all mortals being death, these men (almost entirely human) prophesy the end of all things and the eventual death of the world, they share a common dogma with the Undead and in so doing they too become imbued with Undead abilities. They trade their living breath for the powers of darkness and a chance at immortality among the world of decay. Doom Priests are very persuasive in their preaching, often convincing entire groups of living to join with and submit to the powers of darkness. Doom Priests are immune to poison and often take up snakes or drink venom in an effort to impress upon others their godlike power, their followers who attempt the same often end up joining the undead in fully dead form. Doom Priests are resistant to fire, lightning and cold. They are immune to death magic and are so convinced of their cause that they are fearless in their cause.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Knight
+CATEGORIES: Humanoids, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Knight
+======================================================================
+
+Undead Knight
+Level
+2
+Produced by
+Undead
+Cost
+40
+Demographics
+Race
+Undead
+Type
+Humanoid
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+5
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Health
+7
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Charge
+,
+Cold Protection
+,
+Death Immunity
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Undead Knight
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Some corpses which are called back from the dead had strong attachments to their steeds, so the Undead raise their dead steeds. These haunted riders feed a steady stream of stories among common folk, telling of silent riders, missing travelers and the dead speeding along the highways at night. These Undead knights make a solid addition to any Undead army, but are not as powerful as tales would tell. Like most Undead, they are immune to many attacks, such as poison, and highly resistant to cold, fire, and lightning. They are fearless, interested only in terror upon the highways. If they survive combat, they regenerate quickly gathering the body parts of their victims to replace their damaged bodies.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Mummy
+CATEGORIES: Humanoids
+URL: https://ageofwonders.fandom.com/wiki/Undead_Mummy
+======================================================================
+
+Undead Mummy
+Level
+2
+Demographics
+Race
+Undead
+Type
+Humanoid
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+4
+Defense
+1
+Resistance
+5
+Movement
+24
+Health
+12
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Death Strike
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Undead Mummy
+is a
+unit
+in
+Age of Wonders
+. This unit cannot be trained or summoned, but can be encountered on the map.
+Description
+“
+Mummies are the animated corpses of kings and priests prepared for journey to the underworld by powerful enchantment. When a tomb is desecrated, the enchantment creates a rift between the mortal lands and the realm of the dead, wherein the King or priests are called back from the dead to protect their earthly abode. A mummy's touch brings death, sapping the life from those living to bring a Mummy vitality. They are resistant to cold, lightning, and immune to death magic and poison. Unless completely destroyed, a mummy quickly regenerates between encounters as do all Undead. Mummies are rare, found mostly in ancient crypts, and do not walk with the undead, because the price of creating them is far too high and time consuming, but they can be turned by clerics of power as any Undead creature.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Reaper
+CATEGORIES: Creatures, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Reaper
+======================================================================
+
+Undead Reaper
+Level
+4
+Produced by
+Undead
+Cost
+210
+Demographics
+Race
+Undead
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+7
+Damage
+6
+Defense
+5
+Resistance
+10
+Movement
+26
+Health
+15
+Abilities
+Combat
+Strike
+,
+Invoke Death
+Movement
+Walking
+Abilities
+Cause Fear
+,
+Cold Protection
+,
+Death Immunity
+,
+Death Strike
+,
+Fearless
+,
+Life Stealing
+,
+Lightning Protection
+,
+Path of Decay
+,
+Poison Immunity
+,
+Regeneration
+Undead Reaper
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+The very embodiment of death, The Reaper visits those who are about to die. However, since the Undead have walked the Earth, sightings of the Reaper have occurred more and more frequently, causing many to claim that the entire world is condemned to death. The mere sight of a Reaper inspires terror. This fear is not unwarranted; The Reaper's withering touch kills anything from plant, animal life and higher forms of life. In combat a Reaper may steal the very life from the living to sustain itself.
+It is a rare individual who survives an encounter with death, but Reapers are beatable. Little is known to affect the Reaper as well, as it is immune to fear, poison, and death attacks and highly resistant to cold and lightning. A damaged Reaper regenerates quickly, giving it ungodly advantages and ability to enter and harvest the living as grain.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Skull Thrower
+CATEGORIES: Machines, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Skull_Thrower
+======================================================================
+
+Undead Skull Thrower
+Level
+2
+Produced by
+Undead
+Cost
+60
+Demographics
+Race
+Undead
+Type
+Machine
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+1
+Damage
+1
+Defense
+2
+Resistance
+3
+Movement
+20
+Health
+7
+Abilities
+Combat
+Hurl Boulder
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+Experienced
+Marksmanship I
+Veteran
+Marksmanship II
+Undead Skull Thrower
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+The Undead Skull Thrower serves as a Catapult in the armies of the dead. But instead of hurling boulders it flings the skulls of undead enemies, enchanted to impact with similar force. Otherwise the Thrower is a catapult, but due to the rigidity of it's make, it is not nearly as sturdy. However if not completely destroyed in combat they will regenerate quickly, pulling themselves together to be ready for the next combat. Being Undead masses of dead wood and bone, assembled by the dark powers of the Undead, they are likewise susceptible to a Cleric's power to Turn Undead.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Swordsman
+CATEGORIES: Humanoids, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Swordsman
+======================================================================
+
+Undead Swordsman
+Level
+1
+Produced by
+Undead
+Cost
+18
+Demographics
+Race
+Undead
+Type
+Humanoid
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+26
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Protection
+,
+Death Immunity
+,
+Fearless
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Regeneration
+,
+Undead Swordsman
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Most corpses which rise from the dead, do so in the form of the common Undead soldier. Being dead, they rise and grab whatever weapon they may find. Most commonly, this weapon is a longsword, but hordes have been known to grab the limbs of other dead, sticks or anything with which they can smash things. Undead feel no emotion and it is debatable whether they are truly sentient or reasonable, but they inspire fear and dread wherever they go. Like most of their race, Undead warriors are immune to many attacks, such as poison, charm, and fear. They are highly resistant to cold, fire, and lightning. Being animated, they can take considerable damage and if not completely destroyed, will pull themselves back together after each combat. Skeletal warriors move at a slower rate than similarly sized humanoids due to their age and rigidity. For the same reason, Undead warriors typically have less power behind each blow than other humanoids.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Undead Wraith
+CATEGORIES: Creatures, Undead Units
+URL: https://ageofwonders.fandom.com/wiki/Undead_Wraith
+======================================================================
+
+Undead Wraith
+Level
+3
+Produced by
+Undead
+Cost
+75
+Demographics
+Race
+Undead
+Type
+Creature
+Alignment
+Pure Evil
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+4
+Movement
+26
+Health
+6
+Abilities
+Combat
+Strike
+Movement
+Walking
+Enhancement
+Cold Immunity
+,
+Death Immunity
+,
+Death Strike
+,
+Fearless
+,
+Fire Immunity
+,
+Life Stealing
+,
+Lightning Protection
+,
+Pass Wall
+,
+Physical Immunity
+,
+Poison Immunity
+,
+Regeneration
+Undead Wraith
+is a
+unit
+of the
+Undead
+in
+Age of Wonders
+.
+Description
+“
+Wraiths are thought to be powerful spirits, which are of such power as to enter the world of the living, even without a rift. Often these are spirits of great malevolence, slighted by the realm of the living and obsessed with need for vengeance. Even so, being long dead, they may only enter the life realm partially and, as such, are ethereal in nature. They can not be harmed by most forms of attack, and feed upon the living to gain strength in the physical realm. They leech living souls, drawing in their life energies to continue their murderous work upon the world. Wraiths are susceptible to a Cleric's power to Turn Undead, or to magic based attacks.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Unicorn
+CATEGORIES: Creatures, Elf Units
+URL: https://ageofwonders.fandom.com/wiki/Unicorn
+======================================================================
+
+Unicorn
+Level
+3
+Produced by
+Elves
+Cost
+90
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Good
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+4
+Defense
+4
+Resistance
+8
+Movement
+36
+Health
+10
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Forestry
+Enhancement
+Charge
+,
+Healing
+,
+Magic Strike
+Unicorn
+is a
+unit
+of the
+Elves
+in
+Age of Wonders
+.
+Description
+“
+The fabled is a secretive creature that dwells deep within the forests, far from mankind. Unicorns can be vain creatures for more than any other mythical beast they are the subject of the most legends and fanciful tales. They are sought by fair maidens before their weddings, and wise wizards seeking enlightenment. A Unicorn resembles a white mare with a large, straight horn protruding from its head. According to legend, a Unicorn's horn has magical powers. One such legend states that the horn enables it to disappear and appear elsewhere in the blink of an eye. Another legend claims the horn gives the creature the ability to heal. For this reason, unicorns are frequently hunted by Shamans of greedy races, hoping to obtain the horn for potions.
+Unicorns have a naturally high resistance to magic and are able to defend themselves aptly in combat.They are also able to move quickly over long distances and through forests.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Valkyrie
+CATEGORIES: Creatures, Highman Units
+URL: https://ageofwonders.fandom.com/wiki/Valkyrie
+======================================================================
+
+Valkyrie
+Level
+3
+Produced by
+Highmen
+Cost
+85
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Pure Good
+Gender
+Female
+Stats
+Attack
+7
+Damage
+3
+Defense
+4
+Resistance
+5
+Movement
+36
+Health
+8
+Abilities
+Combat
+Strike
+,
+Movement
+Flying
+Enhancement
+Charge
+,
+Fearless
+,
+Holy Immunity
+,
+Holy Strike
+,
+Vision II
+Valkyrie
+is a
+unit
+of the
+Highmen
+in
+Age of Wonders
+.
+Description
+“
+Valkyries are female, armor-clad mounted warriors who escort the souls of fallen mortal warriors to the heavens. They wield either swords or spears and their mounts gallop on the winds.
+In recent times, Valkyries have been seen fighting on the battlefields on the side of good. It is speculated that the sudden appearance of the Undead in the realm of the living has prompted the Valkyries to come forth and dispatch these lost souls back from whence they came. Yet, Valkyries have been seen fighting other evil beings--perhaps in response to these beings' dishonorable tactics on the battlefield and the undue deaths they have delivered to honorable men.
+The connection between the Highmen and the Valkyrie is unknown, save that both races are interested in the well-being and destination of the soul.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Water Elemental
+CATEGORIES: Creatures, Elementals
+URL: https://ageofwonders.fandom.com/wiki/Water_Elemental
+======================================================================
+
+Water Elemental
+Level
+4
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+4
+Defense
+3
+Resistance
+3
+Movement
+30
+Health
+14
+Abilities
+Combat
+Strike
+Movement
+Walking
+,
+Swimming
+Enhancement
+Physical Protection
+,
+Water Concealment
+Water Elemental
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Water Elemental
+spell.
+Description
+“
+Water Elementals assume many forms, as they are composed entirely of water. They hide undetected in bodies of water. Due to their composition, these Elementals are nearly invulnerable to physical attack, but are vulnerable to various types of environmental damage including fire, cold and lightning. They strike with great force of water bashing their enemies with the torrents of force and water.
+Like most Elementals, Water Elementals are summoned at gates or by powerful wizards.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Wild Boar
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Wild_Boar
+======================================================================
+
+Wild Boar
+Level
+1
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Health
+5
+Abilities
+Combat
+Strike
+Movement
+Charge
+Wild Boar
+is a
+unit
+in
+Age of Wonders
+that can be summoned by the
+Summon Boar
+spell.
+Description
+“
+Wild Boars are hearty animal employed as mounts by Dwarves. Easily domesticated, Wild Boar make loyal and ferocious war mounts. In their natural habitat, they maintain family structures and are very territorial animals.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Wolf
+CATEGORIES: Creatures
+URL: https://ageofwonders.fandom.com/wiki/Wolf
+======================================================================
+
+Wolf
+Level
+1
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+None
+Gender
+Neuter
+Stats
+Attack
+4
+Damage
+2
+Defense
+2
+Resistance
+2
+Movement
+36
+Health
+4
+Abilities
+Combat
+Strike
+,
+Movement
+Walking
+,
+Forestry
+Wolf
+is a
+unit
+in
+Age of Wonders
+. This unit cannot be trained or summoned, but can be encountered on the map.
+Description
+“
+Wolves are natural predators. Because of their innate fighting instincts, agility, and ability to adapt to extreme climates, they are often used as mounts by both Goblins and Frostlings. Whether in temperate or cold climates, Wolves tend to hunt in packs in thick forests where they can team up on prey and bring it down for a quick meal.
+— Description in
+Age of Wonders
+
+======================================================================
+PAGE: Yaka Avatar
+CATEGORIES: Azrac Units, Creatures
+URL: https://ageofwonders.fandom.com/wiki/Yaka_Avatar
+======================================================================
+
+Yaka Avatar
+Level
+4
+Produced by
+Azrac
+Cost
+200
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Male
+Stats
+Attack
+8
+Damage
+6
+Defense
+5
+Resistance
+8
+Movement
+32
+Health
+20
+Abilities
+Combat
+Dominate
+,
+Magic Bolts
+,
+Strike
+Movement
+Walking
+Enhancement
+Fearless
+,
+Fire Immunity
+,
+Magic Strike
+,
+Vision II
+Yaka Avatar
+is an
+Azrac
+unit
+in
+Age of Wonders
+.
+Description
+“
+According to legend, should
+Yaka
+, the Azrac god, set foot on the world, it would melt with such intense heat that it would melt and fold together like a scroll. Since this has not yet happened yet, it is presumed that Yaka has not stepped upon this world. However, in times of war the Yakamajal call upon their God's aid in the form of the Yaka Avatar.
+Avatars under Yaka's possession can be killed, but not easily. They generally possess a strong resistance to magic and formidable fighting skills. Yaka may also exert his irresistible influence upon other humanoids, making them his disciples to do his bidding.
+— In-game description in
+Age of Wonders
+
+======================================================================
+PAGE: Yeti
+CATEGORIES: Creatures, Frostling Units
+URL: https://ageofwonders.fandom.com/wiki/Yeti
+======================================================================
+
+Yeti
+Level
+3
+Produced by
+Frostlings
+Cost
+95
+Demographics
+Race
+None
+Type
+Creature
+Alignment
+Neutral
+Gender
+Neuter
+Stats
+Attack
+6
+Damage
+6
+Defense
+4
+Resistance
+4
+Movement
+28
+Health
+13
+Abilities
+Combat
+Strike
+,
+Wall Crushing
+Movement
+Walking
+,
+Mountaineering
+Enhancement
+Cold Immunity
+,
+Cold Strike
+Yeti
+is a
+unit
+of the
+Frostlings
+in
+Age of Wonders
+.
+Description
+“
+The Yeti is a large, thick-furred creature that lives in the snowy mountaintops of the coldest regions. Little is known for certain about this creature as it is rarely seen. Tales surely exaggerate its strength, but stories tell of a single Yeti breaking through city walls by brute force before wreaking havoc on the townsfolk.
+Yetis are immune to the effects of cold. A Yeti strikes with a blast of supernatural cold, which has earned it the nickname, "Abominable Snowman."
+— Description in
+Age of Wonders

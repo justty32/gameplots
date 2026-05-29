@@ -1,0 +1,3093 @@
+{
+  "fetched": 341,
+  "failed": [],
+  "pages": [
+    {
+      "title": "Auriga",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 857
+    },
+    {
+      "title": "Agi Kinztak",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 5487
+    },
+    {
+      "title": "Ahote Zaltana",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 4657
+    },
+    {
+      "title": "Andom the Seer",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4416
+    },
+    {
+      "title": "Archivist Jiraduveja",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5353
+    },
+    {
+      "title": "Archivist Mukangung",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5753
+    },
+    {
+      "title": "Archivist Nachampassesa",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5357
+    },
+    {
+      "title": "Argbadh Bose Falhala",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4682
+    },
+    {
+      "title": "Arla Sabor",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5307
+    },
+    {
+      "title": "Avara Lasmak",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mezari",
+        "Units"
+      ],
+      "chars": 4856
+    },
+    {
+      "title": "Baron Joslyn Deyval",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5917
+    },
+    {
+      "title": "Bazi Safar Bahas",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 4827
+    },
+    {
+      "title": "Bela The Bat Syrav",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 4956
+    },
+    {
+      "title": "Bishop Julian",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4760
+    },
+    {
+      "title": "Breyos Master Icespear",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4866
+    },
+    {
+      "title": "Cetassa",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5291
+    },
+    {
+      "title": "Chief Sapper Liszt Ajandek",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 4702
+    },
+    {
+      "title": "Citli Owaci",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 3892
+    },
+    {
+      "title": "Commander Irjsko Lasmak",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mezari",
+        "Units"
+      ],
+      "chars": 6186
+    },
+    {
+      "title": "Consecrate Mawusi Boakye",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4778
+    },
+    {
+      "title": "Custodian Tua",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 5223
+    },
+    {
+      "title": "Difore",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5714
+    },
+    {
+      "title": "Duke Leofric Whitechapel",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5271
+    },
+    {
+      "title": "Duke Unwin Weybridge",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4644
+    },
+    {
+      "title": "Eayos Sniffer Redpoint",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5014
+    },
+    {
+      "title": "Edra the Listener",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4391
+    },
+    {
+      "title": "Efalo Tegret",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4917
+    },
+    {
+      "title": "Empty Belly",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 5164
+    },
+    {
+      "title": "Exid the Chosen",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4405
+    },
+    {
+      "title": "Faresh Zima",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5054
+    },
+    {
+      "title": "Feeds on Bones",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 4822
+    },
+    {
+      "title": "Grand Cleric Akuma",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4719
+    },
+    {
+      "title": "Haukea Wai",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4965
+    },
+    {
+      "title": "High Inquisitor Asalah Arca",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5057
+    },
+    {
+      "title": "High Protector Toth Istvanka",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 5059
+    },
+    {
+      "title": "Illegra Mordicant",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 4592
+    },
+    {
+      "title": "Ipsa Wacha",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 4717
+    },
+    {
+      "title": "Iracu",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5366
+    },
+    {
+      "title": "Jasah Murdap",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 5058
+    },
+    {
+      "title": "John Port, The Shadow",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4666
+    },
+    {
+      "title": "Ka-Riss",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 4847
+    },
+    {
+      "title": "Long Fangs",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 4708
+    },
+    {
+      "title": "Lord Peyton Quinn",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4773
+    },
+    {
+      "title": "Lorekeeper Lakaspassar",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5378
+    },
+    {
+      "title": "Lorekeeper Masargaka",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5348
+    },
+    {
+      "title": "Loremaster Jayawardene",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5222
+    },
+    {
+      "title": "Loremaster Semsanitnwona",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5212
+    },
+    {
+      "title": "Makani Chay",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4733
+    },
+    {
+      "title": "Martin de Ildan de Suluzzo",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5916
+    },
+    {
+      "title": "Master Neqra Zeban",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 4860
+    },
+    {
+      "title": "Nadjne Zolya",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 4879
+    },
+    {
+      "title": "Nahla Al-Jazar, Argbadh of the Phoenix",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4909
+    },
+    {
+      "title": "Never Rests",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 5626
+    },
+    {
+      "title": "Ozek the Chosen",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4378
+    },
+    {
+      "title": "Pali Inoa",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4654
+    },
+    {
+      "title": "Pecs Kerre",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 4894
+    },
+    {
+      "title": "Petrov Judit",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 4506
+    },
+    {
+      "title": "Ploria",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5355
+    },
+    {
+      "title": "Queenslayer",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 5281
+    },
+    {
+      "title": "Rabos Rockstriker Highridge",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4981
+    },
+    {
+      "title": "Researcher Namkang",
+      "bucket": "heroes",
+      "categories": [
+        "Drakken",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5112
+    },
+    {
+      "title": "Rill Kata",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 4437
+    },
+    {
+      "title": "Sable Blade Ayou Addo",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4931
+    },
+    {
+      "title": "Sable Deceiver Bayari Kulaa",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mezari",
+        "Units"
+      ],
+      "chars": 6282
+    },
+    {
+      "title": "Sable Deceiver Napog Dauda",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4823
+    },
+    {
+      "title": "Samhane Haligtide",
+      "bucket": "heroes",
+      "categories": [
+        "Broken Lords",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5059
+    },
+    {
+      "title": "Samos Leaper Greenblade",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4910
+    },
+    {
+      "title": "Sclera",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5513
+    },
+    {
+      "title": "Shaman Rawiri",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4419
+    },
+    {
+      "title": "Siryi Alastra",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 4860
+    },
+    {
+      "title": "Skya Keeper Dabuo Ofosu",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4954
+    },
+    {
+      "title": "Soyala Tocho",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 3947
+    },
+    {
+      "title": "Specialized Polyp 2D",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4395
+    },
+    {
+      "title": "Specialized Polyp 3G",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4480
+    },
+    {
+      "title": "Specialized Polyp 5X",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4716
+    },
+    {
+      "title": "Specialized Polyp 9S",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4477
+    },
+    {
+      "title": "Specialized Polyp A7",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4810
+    },
+    {
+      "title": "Specialized Polyp Q9",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4665
+    },
+    {
+      "title": "Specialized Polyp Z4",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 4582
+    },
+    {
+      "title": "Strikes Far",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 5328
+    },
+    {
+      "title": "Strio",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Morgawr",
+        "Units"
+      ],
+      "chars": 5311
+    },
+    {
+      "title": "Sunseeker Zakiya Eli",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4767
+    },
+    {
+      "title": "Takari Mu",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4636
+    },
+    {
+      "title": "Third Builder Gula Yawa",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5276
+    },
+    {
+      "title": "Tinu the Chosen",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4441
+    },
+    {
+      "title": "Tlato Mosi Pakwa",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 5852
+    },
+    {
+      "title": "Témoc Rayen",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 3996
+    },
+    {
+      "title": "Ululani Raui",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 4582
+    },
+    {
+      "title": "Urol the Speaker",
+      "bucket": "heroes",
+      "categories": [
+        "Cultists",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4393
+    },
+    {
+      "title": "Valete Sapiri Kugua",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units"
+      ],
+      "chars": 6970
+    },
+    {
+      "title": "Wadeha Hakan",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4615
+    },
+    {
+      "title": "Wayra Sigo",
+      "bucket": "heroes",
+      "categories": [
+        "Heroes",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 3998
+    },
+    {
+      "title": "Xoyos Brightslash",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4922
+    },
+    {
+      "title": "Ystros Watcher Firespike",
+      "bucket": "heroes",
+      "categories": [
+        "Allayi",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4806
+    },
+    {
+      "title": "Zarcha Attinul",
+      "bucket": "heroes",
+      "categories": [
+        "Ardent Mages",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 4753
+    },
+    {
+      "title": "Ziema Adya",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5149
+    },
+    {
+      "title": "Ziema Adya (2nd Form)",
+      "bucket": "heroes",
+      "categories": [
+        "Forgotten",
+        "Heroes",
+        "Units"
+      ],
+      "chars": 5059
+    },
+    {
+      "title": "Atmos",
+      "bucket": "guardians",
+      "categories": [
+        "Guardians",
+        "Units"
+      ],
+      "chars": 2429
+    },
+    {
+      "title": "Fotios",
+      "bucket": "guardians",
+      "categories": [
+        "Guardians",
+        "Units"
+      ],
+      "chars": 1872
+    },
+    {
+      "title": "Gios",
+      "bucket": "guardians",
+      "categories": [
+        "Guardians",
+        "Units"
+      ],
+      "chars": 1923
+    },
+    {
+      "title": "Neros",
+      "bucket": "guardians",
+      "categories": [
+        "Guardians",
+        "Units"
+      ],
+      "chars": 1937
+    },
+    {
+      "title": "Skoros",
+      "bucket": "guardians",
+      "categories": [
+        "Guardians",
+        "Units"
+      ],
+      "chars": 1839
+    },
+    {
+      "title": "Berserker Blood",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 680
+    },
+    {
+      "title": "Chaka",
+      "bucket": "urkans",
+      "categories": [
+        "Support Units",
+        "Units",
+        "Urkans"
+      ],
+      "chars": 3396
+    },
+    {
+      "title": "Chymical Warfare",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 643
+    },
+    {
+      "title": "Coordinated Tremors",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 833
+    },
+    {
+      "title": "Dust Leecher",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 633
+    },
+    {
+      "title": "Endurance Training",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 603
+    },
+    {
+      "title": "Fakir",
+      "bucket": "urkans",
+      "categories": [
+        "Cavalry Units",
+        "Units",
+        "Urkans"
+      ],
+      "chars": 3524
+    },
+    {
+      "title": "Fecund Brood",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 402
+    },
+    {
+      "title": "Healing Secretion",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 658
+    },
+    {
+      "title": "Kazar",
+      "bucket": "urkans",
+      "categories": [
+        "Cavalry Units",
+        "Units",
+        "Urkans"
+      ],
+      "chars": 3203
+    },
+    {
+      "title": "Monstrous Watchtower",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 508
+    },
+    {
+      "title": "Reinforced Carapace",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 532
+    },
+    {
+      "title": "Twitch Aura",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 586
+    },
+    {
+      "title": "Urkan Agriculture",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 611
+    },
+    {
+      "title": "Urkan Conditioning",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 458
+    },
+    {
+      "title": "Urkan Lice",
+      "bucket": "urkans",
+      "categories": [
+        "Infantry Units",
+        "Units",
+        "Urkans"
+      ],
+      "chars": 1157
+    },
+    {
+      "title": "Urkan Power",
+      "bucket": "urkans",
+      "categories": [
+        "Urkans"
+      ],
+      "chars": 777
+    },
+    {
+      "title": "Allayi",
+      "bucket": "factions_overview",
+      "categories": [
+        "Allayi",
+        "Major Factions"
+      ],
+      "chars": 25908
+    },
+    {
+      "title": "Ardent Mages",
+      "bucket": "factions_overview",
+      "categories": [
+        "Ardent Mages",
+        "Major Factions"
+      ],
+      "chars": 35397
+    },
+    {
+      "title": "Arpuja",
+      "bucket": "factions_overview",
+      "categories": [
+        "Flying Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 1160
+    },
+    {
+      "title": "Bos",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2190
+    },
+    {
+      "title": "Broken Lords",
+      "bucket": "factions_overview",
+      "categories": [
+        "Broken Lords",
+        "Major Factions"
+      ],
+      "chars": 31327
+    },
+    {
+      "title": "Burdeki",
+      "bucket": "factions_overview",
+      "categories": [
+        "Cavalry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 1109
+    },
+    {
+      "title": "Caecator",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 2285
+    },
+    {
+      "title": "Centaur",
+      "bucket": "factions_overview",
+      "categories": [
+        "Cavalry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 647
+    },
+    {
+      "title": "Ceratan",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2064
+    },
+    {
+      "title": "Cultists",
+      "bucket": "factions_overview",
+      "categories": [
+        "Cultists",
+        "Major Factions"
+      ],
+      "chars": 29395
+    },
+    {
+      "title": "Daemon",
+      "bucket": "factions_overview",
+      "categories": [
+        "Flying Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 971
+    },
+    {
+      "title": "Delvers",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 3683
+    },
+    {
+      "title": "Dorgeshi",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 3809
+    },
+    {
+      "title": "Drakken",
+      "bucket": "factions_overview",
+      "categories": [
+        "Drakken",
+        "Major Factions"
+      ],
+      "chars": 26253
+    },
+    {
+      "title": "Dredge",
+      "bucket": "factions_overview",
+      "categories": [
+        "Infantry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 691
+    },
+    {
+      "title": "Drider",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 4206
+    },
+    {
+      "title": "Ended",
+      "bucket": "factions_overview",
+      "categories": [
+        "Flying Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 960
+    },
+    {
+      "title": "Erycis",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2136
+    },
+    {
+      "title": "Eyeless Ones",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2582
+    },
+    {
+      "title": "Forgotten",
+      "bucket": "factions_overview",
+      "categories": [
+        "Forgotten",
+        "Major Factions"
+      ],
+      "chars": 33586
+    },
+    {
+      "title": "Gauran",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 1690
+    },
+    {
+      "title": "Geldirus",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 999
+    },
+    {
+      "title": "Harmonite",
+      "bucket": "factions_overview",
+      "categories": [
+        "Infantry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 806
+    },
+    {
+      "title": "Haunts",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 1961
+    },
+    {
+      "title": "Hurnas",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 3590
+    },
+    {
+      "title": "Ice Warg",
+      "bucket": "factions_overview",
+      "categories": [
+        "Cavalry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 602
+    },
+    {
+      "title": "Jotus",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2505
+    },
+    {
+      "title": "Justicere",
+      "bucket": "factions_overview",
+      "categories": [
+        "Infantry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 841
+    },
+    {
+      "title": "Kapaku",
+      "bucket": "factions_overview",
+      "categories": [
+        "Kapaku",
+        "Major Factions"
+      ],
+      "chars": 41905
+    },
+    {
+      "title": "Kazanji",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 1787
+    },
+    {
+      "title": "Magtay",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 1681
+    },
+    {
+      "title": "Mezari",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Mezari",
+        "Vaulters"
+      ],
+      "chars": 3573
+    },
+    {
+      "title": "Minor Factions",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2282
+    },
+    {
+      "title": "Minotaur",
+      "bucket": "factions_overview",
+      "categories": [
+        "Cavalry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 934
+    },
+    {
+      "title": "Morgawr",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Morgawr"
+      ],
+      "chars": 24468
+    },
+    {
+      "title": "Mykara",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Mykara"
+      ],
+      "chars": 37670
+    },
+    {
+      "title": "Necrophages",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Necrophages"
+      ],
+      "chars": 26534
+    },
+    {
+      "title": "Nidya",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2084
+    },
+    {
+      "title": "Orc",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 760
+    },
+    {
+      "title": "Roving Clans",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Roving Clans"
+      ],
+      "chars": 27958
+    },
+    {
+      "title": "Rumbler",
+      "bucket": "factions_overview",
+      "categories": [
+        "Infantry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 1248
+    },
+    {
+      "title": "Silics",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2709
+    },
+    {
+      "title": "Sisters Of Mercy",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 3585
+    },
+    {
+      "title": "Tetike",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 772
+    },
+    {
+      "title": "Urces",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions"
+      ],
+      "chars": 2876
+    },
+    {
+      "title": "Vaulters",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Vaulters"
+      ],
+      "chars": 32517
+    },
+    {
+      "title": "Vinesnake",
+      "bucket": "factions_overview",
+      "categories": [
+        "Infantry Units",
+        "Minor Factions",
+        "Units"
+      ],
+      "chars": 902
+    },
+    {
+      "title": "Wild Walkers",
+      "bucket": "factions_overview",
+      "categories": [
+        "Major Factions",
+        "Wild Walkers"
+      ],
+      "chars": 22854
+    },
+    {
+      "title": "Zujajun",
+      "bucket": "factions_overview",
+      "categories": [
+        "Minor Factions",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 1161
+    },
+    {
+      "title": "Monk",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi",
+        "Flying Units",
+        "Units"
+      ],
+      "chars": 2824
+    },
+    {
+      "title": "Pearl Replication",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi"
+      ],
+      "chars": 490
+    },
+    {
+      "title": "Pilgrims of the End",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi"
+      ],
+      "chars": 441
+    },
+    {
+      "title": "Seeker",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi",
+        "Cavalry Units",
+        "Units"
+      ],
+      "chars": 1051
+    },
+    {
+      "title": "Settler",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi",
+        "Ardent Mages",
+        "Broken Lords",
+        "Cultists",
+        "Drakken",
+        "Forgotten",
+        "Kapaku",
+        "Morgawr",
+        "Mykara",
+        "Necrophages",
+        "Roving Clans",
+        "Support Units",
+        "Units",
+        "Vaulters",
+        "Wild Walkers"
+      ],
+      "chars": 2016
+    },
+    {
+      "title": "Skyfin",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 1545
+    },
+    {
+      "title": "Ward of Vros Therman",
+      "bucket": "faction_allayi",
+      "categories": [
+        "Allayi"
+      ],
+      "chars": 547
+    },
+    {
+      "title": "Altar of Transcendence",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages"
+      ],
+      "chars": 1100
+    },
+    {
+      "title": "Altar of Transcendence (Technology)",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages"
+      ],
+      "chars": 650
+    },
+    {
+      "title": "Ateshi Zealot",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 814
+    },
+    {
+      "title": "Eneqa Wing",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages",
+        "Flying Units",
+        "Units"
+      ],
+      "chars": 828
+    },
+    {
+      "title": "Telsem Warlock",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages",
+        "Infantry Units",
+        "Units"
+      ],
+      "chars": 749
+    },
+    {
+      "title": "Transcendent Rod of Verda",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages"
+      ],
+      "chars": 770
+    },
+    {
+      "title": "Verda's Temple",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages"
+      ],
+      "chars": 683
+    },
+    {
+      "title": "Verda's Temple (Technology)",
+      "bucket": "faction_ardent_mages",
+      "categories": [
+        "Ardent Mages"
+      ],
+      "chars": 1017
+    },
+    {
+      "title": "Altar of Channeling",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 652
+    },
+    {
+      "title": "Altar of Channeling (Technology)",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 588
+    },
+    {
+      "title": "Archaeologist",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 789
+    },
+    {
+      "title": "Dust Bishop",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 1019
+    },
+    {
+      "title": "Dust Crematorium",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 964
+    },
+    {
+      "title": "Endless Lode Crystal",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 724
+    },
+    {
+      "title": "Pendant of Judgement",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 863
+    },
+    {
+      "title": "Penitent Chapel",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 1084
+    },
+    {
+      "title": "Quivering Circlet",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 754
+    },
+    {
+      "title": "Ryder",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords",
+        "Cavalry Units",
+        "Units"
+      ],
+      "chars": 1100
+    },
+    {
+      "title": "Sighing Scepter of Auir",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 1372
+    },
+    {
+      "title": "Stalwarts",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords",
+        "Infantry Units",
+        "Units"
+      ],
+      "chars": 922
+    },
+    {
+      "title": "Synchronic Temple",
+      "bucket": "faction_broken_lords",
+      "categories": [
+        "Broken Lords"
+      ],
+      "chars": 591
+    },
+    {
+      "title": "All Beings Are Siblings",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 550
+    },
+    {
+      "title": "Destructive Analysis",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 757
+    },
+    {
+      "title": "Fanatic",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cavalry Units",
+        "Cultists",
+        "Units"
+      ],
+      "chars": 515
+    },
+    {
+      "title": "Hand of the Unspoken",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 596
+    },
+    {
+      "title": "Nameless Guard",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 599
+    },
+    {
+      "title": "Order of Isiver",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 854
+    },
+    {
+      "title": "Preacher",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 971
+    },
+    {
+      "title": "Shrine of Whispers",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 652
+    },
+    {
+      "title": "Shrine of Whispers (Technology)",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 563
+    },
+    {
+      "title": "The Wordless Will",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 959
+    },
+    {
+      "title": "We Are Legion",
+      "bucket": "faction_cultists",
+      "categories": [
+        "Cultists"
+      ],
+      "chars": 455
+    },
+    {
+      "title": "Ancient",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 734
+    },
+    {
+      "title": "Aura of Leadership",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 589
+    },
+    {
+      "title": "Auriga Institute",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 718
+    },
+    {
+      "title": "Auriga Institute (Technology)",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 576
+    },
+    {
+      "title": "Drakkenling",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken",
+        "Infantry Units",
+        "Units"
+      ],
+      "chars": 665
+    },
+    {
+      "title": "Eye of the Endless",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 533
+    },
+    {
+      "title": "Oologic Nursery",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 671
+    },
+    {
+      "title": "Oologic Nursery (Technology)",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 542
+    },
+    {
+      "title": "Protectors of Auriga",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 534
+    },
+    {
+      "title": "Spheroid of Drakken Lore",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 658
+    },
+    {
+      "title": "Tribal Council",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken"
+      ],
+      "chars": 540
+    },
+    {
+      "title": "Wyvern",
+      "bucket": "faction_drakken",
+      "categories": [
+        "Drakken",
+        "Flying Units",
+        "Units"
+      ],
+      "chars": 594
+    },
+    {
+      "title": "Assassin",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten",
+        "Infantry Units",
+        "Units"
+      ],
+      "chars": 1480
+    },
+    {
+      "title": "Commercial Espionage",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 766
+    },
+    {
+      "title": "Dust Sense",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 424
+    },
+    {
+      "title": "High Seminary",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 690
+    },
+    {
+      "title": "Learn from Others",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 566
+    },
+    {
+      "title": "Master Deceivers",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 687
+    },
+    {
+      "title": "Myst",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Flying Units",
+        "Forgotten",
+        "Units"
+      ],
+      "chars": 948
+    },
+    {
+      "title": "Predatore",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 1085
+    },
+    {
+      "title": "Shadowbinder",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 1183
+    },
+    {
+      "title": "Shadowbrand",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 1155
+    },
+    {
+      "title": "Surreptitious Research",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 741
+    },
+    {
+      "title": "Tower of the Consecrate",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 1026
+    },
+    {
+      "title": "Tower of the Consecrate (Technology)",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 629
+    },
+    {
+      "title": "What's Mine is Mine",
+      "bucket": "faction_forgotten",
+      "categories": [
+        "Forgotten"
+      ],
+      "chars": 491
+    },
+    {
+      "title": "Aurigan Archive",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 692
+    },
+    {
+      "title": "Aurigan Archive (Technology)",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 564
+    },
+    {
+      "title": "Geomancer",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 1118
+    },
+    {
+      "title": "Golem Camp",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 1024
+    },
+    {
+      "title": "Golem Camp (Technology)",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 423
+    },
+    {
+      "title": "Golem Rider",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Cavalry Units",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 988
+    },
+    {
+      "title": "Inner Peace",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 496
+    },
+    {
+      "title": "Koni School of Elite Riders",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 840
+    },
+    {
+      "title": "Koni School of Elite Riders (Technology)",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 662
+    },
+    {
+      "title": "Rubble Stockpile",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 1048
+    },
+    {
+      "title": "Shaman's Insight",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 454
+    },
+    {
+      "title": "Siege Engineering",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 1488
+    },
+    {
+      "title": "Stone Sentinel",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Infantry Units",
+        "Kapaku",
+        "Units"
+      ],
+      "chars": 787
+    },
+    {
+      "title": "Sway of the Master",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 591
+    },
+    {
+      "title": "Tua's Hammer",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 651
+    },
+    {
+      "title": "Volcanoforming Device",
+      "bucket": "faction_kapaku",
+      "categories": [
+        "Kapaku"
+      ],
+      "chars": 1344
+    },
+    {
+      "title": "Dawn Officer (Mezari)",
+      "bucket": "faction_mezari",
+      "categories": [
+        "Cavalry Units",
+        "Mezari",
+        "Units"
+      ],
+      "chars": 871
+    },
+    {
+      "title": "Marine (Mezari)",
+      "bucket": "faction_mezari",
+      "categories": [
+        "Mezari",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 902
+    },
+    {
+      "title": "Titan (Mezari)",
+      "bucket": "faction_mezari",
+      "categories": [
+        "Infantry Units",
+        "Mezari",
+        "Units"
+      ],
+      "chars": 839
+    },
+    {
+      "title": "Breaching Wave",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr"
+      ],
+      "chars": 449
+    },
+    {
+      "title": "Dust-Mind Decoupling",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr"
+      ],
+      "chars": 1648
+    },
+    {
+      "title": "Leviathan",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr",
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 1089
+    },
+    {
+      "title": "Main Maritime Academy",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr"
+      ],
+      "chars": 680
+    },
+    {
+      "title": "Main Maritime Academy (Technology)",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr"
+      ],
+      "chars": 544
+    },
+    {
+      "title": "Mastermind",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 1132
+    },
+    {
+      "title": "No More Ties",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr"
+      ],
+      "chars": 560
+    },
+    {
+      "title": "Vore",
+      "bucket": "faction_morgawr",
+      "categories": [
+        "Morgawr",
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 761
+    },
+    {
+      "title": "Gorgon",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Cavalry Units",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 843
+    },
+    {
+      "title": "Ipotane",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara",
+        "Ranged Units",
+        "Units"
+      ],
+      "chars": 748
+    },
+    {
+      "title": "Iron Veins",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 553
+    },
+    {
+      "title": "Kernel of Plentitude",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 737
+    },
+    {
+      "title": "Kernel of Plentitude (Technology)",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 567
+    },
+    {
+      "title": "Mykaran Lookout Tower",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 886
+    },
+    {
+      "title": "Mykaran Luxury Resource Extractor",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 925
+    },
+    {
+      "title": "Mykaran Minor Faction Village",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 2194
+    },
+    {
+      "title": "Mykaran Remotuscope Factory",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 1023
+    },
+    {
+      "title": "Mykaran Ruin",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 801
+    },
+    {
+      "title": "Mykaran Strategic Resource Extractor",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 980
+    },
+    {
+      "title": "Mykaran Tower of Fidelity",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 1329
+    },
+    {
+      "title": "Mykaran Tower of Fidelity (Blessing)",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 710
+    },
+    {
+      "title": "Mykaran Tower of Truth",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 1473
+    },
+    {
+      "title": "Mykaran Tower of Truth (Blessing)",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 493
+    },
+    {
+      "title": "Mykaran Watchtower",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 876
+    },
+    {
+      "title": "Shambler",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Infantry Units",
+        "Mykara",
+        "Units"
+      ],
+      "chars": 652
+    },
+    {
+      "title": "Talisman of Courage",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 431
+    },
+    {
+      "title": "Testament of the Urkans",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 647
+    },
+    {
+      "title": "Urkan Encampment",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 509
+    },
+    {
+      "title": "Urkan Politics",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 509
+    },
+    {
+      "title": "Wild Urkans Guidebook",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 555
+    },
+    {
+      "title": "Zolya's Blade",
+      "bucket": "faction_mykara",
+      "categories": [
+        "Mykara"
+      ],
+      "chars": 664
+    },
+    {
+      "title": "Battle Born",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Infantry Units",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 2038
+    },
+    {
+      "title": "Cannon Fodder",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 366
+    },
+    {
+      "title": "Demanding Gods",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 1327
+    },
+    {
+      "title": "Forager",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Infantry Units",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 848
+    },
+    {
+      "title": "Fungal Laboratory",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 825
+    },
+    {
+      "title": "Fungal Laboratory (Technology)",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 564
+    },
+    {
+      "title": "Givers of Remembrance",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 677
+    },
+    {
+      "title": "Givers of Remembrance (Technology)",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 376
+    },
+    {
+      "title": "Incubation Orb",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 548
+    },
+    {
+      "title": "Mindless Slaughter",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages"
+      ],
+      "chars": 390
+    },
+    {
+      "title": "Necrodrone",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Flying Units",
+        "Necrophages",
+        "Units"
+      ],
+      "chars": 823
+    },
+    {
+      "title": "Proliferator",
+      "bucket": "faction_necrophages",
+      "categories": [
+        "Necrophages",
+        "Support Units",
+        "Units"
+      ],
+      "chars": 1452
+    },
+    {
+      "title": "Dervish",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Cavalry Units",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 725
+    },
+    {
+      "title": "Freelance Guards",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 1579
+    },
+    {
+      "title": "Happy Decampers",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 952
+    },
+    {
+      "title": "High Towers",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 883
+    },
+    {
+      "title": "High Towers (Technology)",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 540
+    },
+    {
+      "title": "Kassai",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Ranged Units",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 850
+    },
+    {
+      "title": "Money Talks",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 1047
+    },
+    {
+      "title": "Roads of Dust",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 958
+    },
+    {
+      "title": "Setseke",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Cavalry Units",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 1412
+    },
+    {
+      "title": "Setseke Ho!",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 1624
+    },
+    {
+      "title": "Traders' Tents",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 517
+    },
+    {
+      "title": "Well of Dust",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 877
+    },
+    {
+      "title": "Well of Dust (Technology)",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Roving Clans"
+      ],
+      "chars": 632
+    },
+    {
+      "title": "Yirmak",
+      "bucket": "faction_roving_clans",
+      "categories": [
+        "Infantry Units",
+        "Roving Clans",
+        "Units"
+      ],
+      "chars": 691
+    },
+    {
+      "title": "Dawn Officer",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Cavalry Units",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 763
+    },
+    {
+      "title": "Deep Diviner",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 695
+    },
+    {
+      "title": "Deep Generator",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 549
+    },
+    {
+      "title": "Deep Generator (Technology)",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 477
+    },
+    {
+      "title": "Endless Recycling",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 525
+    },
+    {
+      "title": "Endless Recycling (Technology)",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 436
+    },
+    {
+      "title": "Extreme Yields",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 567
+    },
+    {
+      "title": "Marine",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Ranged Units",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 802
+    },
+    {
+      "title": "Resource Magnetron",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 741
+    },
+    {
+      "title": "Resource Magnetron (Technology)",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 584
+    },
+    {
+      "title": "Strength of the Vault",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 622
+    },
+    {
+      "title": "Strength of the Vault (Technology)",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 493
+    },
+    {
+      "title": "Titan",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Infantry Units",
+        "Units",
+        "Vaulters"
+      ],
+      "chars": 738
+    },
+    {
+      "title": "Winter Shelters",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 616
+    },
+    {
+      "title": "Winter Shelters (Technology)",
+      "bucket": "faction_vaulters",
+      "categories": [
+        "Vaulters"
+      ],
+      "chars": 535
+    },
+    {
+      "title": "Agache Shaman",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Support Units",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 732
+    },
+    {
+      "title": "Arc of the Builders",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 793
+    },
+    {
+      "title": "Dekari Ranger",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Ranged Units",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 849
+    },
+    {
+      "title": "Growing Buildings",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 462
+    },
+    {
+      "title": "Survival Instinct",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 1045
+    },
+    {
+      "title": "Tenei Walker",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Infantry Units",
+        "Units",
+        "Wild Walkers"
+      ],
+      "chars": 692
+    },
+    {
+      "title": "The Ogmakwan",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 874
+    },
+    {
+      "title": "The Ogmakwan (Technology)",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 800
+    },
+    {
+      "title": "Visions of Glory",
+      "bucket": "faction_wild_walkers",
+      "categories": [
+        "Wild Walkers"
+      ],
+      "chars": 786
+    },
+    {
+      "title": "Pearl Sensitive",
+      "bucket": "traits",
+      "categories": [
+        "Traits"
+      ],
+      "chars": 303
+    },
+    {
+      "title": "Artillery Ship",
+      "bucket": "units_other",
+      "categories": [
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 1490
+    },
+    {
+      "title": "Bathysphere",
+      "bucket": "units_other",
+      "categories": [
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 1531
+    },
+    {
+      "title": "Boarding Vessel",
+      "bucket": "units_other",
+      "categories": [
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 1331
+    },
+    {
+      "title": "Fire Ship",
+      "bucket": "units_other",
+      "categories": [
+        "Naval Units",
+        "Units"
+      ],
+      "chars": 1210
+    },
+    {
+      "title": "Militia",
+      "bucket": "units_other",
+      "categories": [
+        "Units"
+      ],
+      "chars": 1399
+    },
+    {
+      "title": "Scyther",
+      "bucket": "units_other",
+      "categories": [
+        "Units"
+      ],
+      "chars": 1651
+    },
+    {
+      "title": "Taskol",
+      "bucket": "units_other",
+      "categories": [
+        "Units"
+      ],
+      "chars": 890
+    }
+  ]
+}

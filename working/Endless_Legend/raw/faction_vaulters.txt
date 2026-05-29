@@ -1,0 +1,588 @@
+
+======================================================================
+PAGE: Dawn Officer
+CATEGORIES: Cavalry Units, Units, Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Dawn_Officer
+======================================================================
+
+Dawn Officer
+Faction
+Vaulters
+Unit Type
+Cavalry
+Base Attributes:
+Life
+116
+Attack
+18
+Initiative
+32
+Speed
+6
+Defense
+34
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Dawn Officer is a cavalry unit for the
+Vaulters
+. The Dawn Officer can be researched in the first
+Technology Era
+.
+Lore
+Training, magic, and partially powered armor allows the Dawn Officer to leap into battle and strike from afar.
+Capacities
+Icon
+Name
+Effect
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Fast 2
++2 battle movement
+.
+Equipment Slots
+Weapons
+Axe
+Battle Axe
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Deep Diviner
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Deep_Diviner
+======================================================================
+
+Deep Diviner
+Faction
+Vaulters
+Obtained
+Faction Quest
+Type
+Insignia
+Effects:
++6
+on Units
+Can be equipped by Vaulters heroes only
+Capacities:
+No capacities
+Costs:
+Resource
+30
+The Deep Diviner is an
+Insignia
+exclusive to the
+Vaulters
+, received for completing Chapter 2 part 1 of their faction quest. The Deep Diviner is required to complete Chapter 4 of the Vaulters faction quest, as it needs to be equipped on a hero that inspects the ruins in part 2 of the chapter.
+Lore
+The size of a scepter, this gleaming blue cylinder is clearly the work of ancient peoples - or gods - in that it drains the influences of cold and ice from the armies of the empire and imprisons those effects within itself.
+
+======================================================================
+PAGE: Deep Generator
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Deep_Generator
+======================================================================
+
+Deep Generator
+Faction
+Vaulters
+Obtained
+Research Era II
+Type
+City Improvement
+Focus
+Holy Resource
+Effects:
++10%
+on city
++10%
+on city
++10%
+on city
++10%
+on city
+The
+Cost indicates that the holy resource has to be chosen.
+Costs:
+Production
+250
+Resource
+20
+A
+city improvement
+exclusive to the
+Vaulters
+obtained from the
+Deep Generator
+tech in Research Era II.
+Lore
+Harnessing the mighty power of the timeless fires of the deep, Vaulter backup generators provide sustainable and reliable energy that is missing on the surface. All resources are boosted.
+
+======================================================================
+PAGE: Deep Generator (Technology)
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Deep_Generator_(Technology)
+======================================================================
+
+Deep Generator (Technology)
+Faction
+Vaulters
+Obtained
+Research Era II
+Category
+Empire and Expansion
+Type
+City Improvement
+Focus
+Holy Resource
+Effects:
+Unlocks Deep Generator for construction.
+An Era II
+technology
+exclusive to the
+Vaulters
+that unlocks
+Deep Generator
+for construction.
+Lore
+Harnessing the mighty power of the timeless fires of the deep, Vaulter backup generators provide sustainable and reliable energy that is missing on the surface. All resources are boosted.
+
+======================================================================
+PAGE: Endless Recycling
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Endless_Recycling
+======================================================================
+
+Endless Recycling
+Faction
+Vaulters
+Obtained
+Research Era III
+Type
+City Improvement
+Focus
+Science
+Effects:
++14
+on city center Level 2
++14
+on district Level 2
+The
+cost indicates that the holy resources has to be chosen.
+Costs:
+Production
+400
+Resource
+20
+Upkeep
+4
+per turn
+A
+city improvement
+exclusive to the
+Vaulters
+obtained from  the
+Endless Recycling
+tech in Research Era III.
+Lore
+Clever engineers and nimble fingers combine to get maximum use out of any sort of artifact or scrap coming from the ruins that litter
+Auriga
+.
+
+======================================================================
+PAGE: Endless Recycling (Technology)
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Endless_Recycling_(Technology)
+======================================================================
+
+Endless Recycling (Technology)
+Faction
+Vaulters
+Obtained
+Research Era III
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks Endless Recycling for construction.
+An Era III
+technology
+exclusive to the
+Vaulters
+that unlocks
+Endless Recycling
+for construction.
+Lore
+Clever engineers and nimble fingers combine to get maximum use out of any sort of artifact or scrap coming from the ruins that litter Auriga.
+
+======================================================================
+PAGE: Extreme Yields
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Extreme_Yields
+======================================================================
+
+Extreme Yields
+Faction
+Vaulters
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Holy Resource
+Effects:
++200% Holy Resource on empire.
+An Era IV technology exclusive to the
+Vaulters
+that increases the production of the Holy Resource by 200%. This effect stacks with the increased Holy Resource production during
+winter
+, leading to a 400% increase in Holy Resource production. It is unlocked by completing Chapter 8 of the Vaulters faction quest.
+Lore
+A combination of science, concentration, attention to detail, and parsimony can work wonders.
+
+======================================================================
+PAGE: Marine
+CATEGORIES: Ranged Units, Units, Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Marine
+======================================================================
+
+Marine
+Faction
+Vaulters
+Unit Type
+Ranged
+Base Attributes:
+Life
+68
+Attack
+38
+Initiative
+20
+Speed
+4
+Defense
+18
+Damage
+34
+Range
+3
+Sight
+3
+Cost:
+Production
+80
+The Marine is a ranged unit for the
+Vaulters
+. Two Marines constitute the starting force for the Vaulters. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Trained through years of warfare in the freezing depths of Auriga, Marines do not fear the cold, the dark, or the enemy.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Equipment Slots
+Weapons
+Longbow
+Crossbow
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Resource Magnetron
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Resource_Magnetron
+======================================================================
+
+Resource Magnetron
+Faction
+Vaulters
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Holy Resource
+Effects:
++10 Holy Resource on city
+Limited to one copy in your empire
+The
+cost indicates that the holy resource has to be chosen.
+Costs:
+Production
+1200
+Resource
+60
+Upkeep
+4
+per turn
+A
+city improvement
+exclusive to the
+Vaulters
+obtained from the
+Resource Magnetron
+tech, which is unlocked by completing Chapter 7 of the Vaulters faction quest. Constructing it is required to complete Chapter 8 of the Vaulters faction quest.
+Lore
+This discovery uses alchemical principles of attraction between different nodes of identical resources. It can be used to leech any resource from the air and ground, given the right materials and enough energy.
+
+======================================================================
+PAGE: Resource Magnetron (Technology)
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Resource_Magnetron_(Technology)
+======================================================================
+
+Resource Magnetron (Technology)
+Faction
+Vaulters
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Holy Resource
+Effects:
+Unlocks Resource Magnetron for construction.
+An Era IV
+technology
+exclusive to the
+Vaulters
+that unlocks the
+Resource Magnetron
+for construction. It is unlocked by completing Chapter 7 of the Vaulters faction quest.
+Lore
+This discovery uses alchemical principles of attraction between different nodes of identical resources. It can be used to leech any resource from the air and ground, given the right materials and enough energy.
+
+======================================================================
+PAGE: Strength of the Vault
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Strength_of_the_Vault
+======================================================================
+
+Strength of the Vault
+Faction
+Vaulters
+Obtained
+Research Era III
+Type
+City Improvement
+Focus
+Military
+Effects:
++100 Fortification
+on City
++5 (+15 with
+ELCP
+) Fortification Recovery
+per turn on City
+The
+cost indicates that the Holy Resource has to be chosen
+Costs:
+Production
+250
+Resource
+10
+Upkeep
+1
+per turn
+A
+city improvement
+exclusive to the
+Vaulters
+obtained from the
+Strength of the Vault
+tech in Research Era III.
+Lore
+The coming together of the Vaulter clans has led to unprecedented cooperation. Bringing together all their knowledge of defensive hexes, spells, tactics, and weapons, city defenses greatly improve.
+
+======================================================================
+PAGE: Strength of the Vault (Technology)
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Strength_of_the_Vault_(Technology)
+======================================================================
+
+Strength of the Vault (Technology)
+Faction
+Vaulters
+Obtained
+Research Era III
+Category
+Military
+Type
+City Improvement
+Focus
+Military
+Effects:
+Unlocks Strength of the Vault for construction.
+An Era III
+technology
+exclusive to the
+Vaulters
+that unlocks
+Strength of the Vault
+for construction.
+Lore
+The coming together of the Vaulter clans has led to unprecedented cooperation. Bringing together all their knowledge of defensive hexes, spells, tactics, and weapons, city defenses greatly improve.
+
+======================================================================
+PAGE: Titan
+CATEGORIES: Infantry Units, Units, Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Titan
+======================================================================
+
+Titan
+Faction
+Vaulters
+Unit Type
+Infantry
+Base Attributes:
+Life
+156
+Attack
+24
+Initiative
+14
+Speed
+4
+Defense
+50
+Damage
+30
+Range
+1
+Sight
+3
+Cost:
+Production
+140
+The Titan is an infantry unit for the
+Vaulters
+. The Titan can be researched in the second
+Technology Era
+.
+Lore
+A giant construct of relics, machines, and magic, the Titan is a formidable melee warrior on offense or defense.
+Capacities
+Icon
+Name
+Effect
+Defensive Impulse
+Deals 50% damage to adjacent units when attacked.
+Slow 1
+-1 battle Movement
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Equipment Slots
+Weapons
+Sword
+Claws
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Winter Shelters
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Winter_Shelters
+======================================================================
+
+Winter Shelters
+Faction
+Vaulters
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Food
+Effects:
+Winter food reduction immunity
+Winter approval reduction immunity
+The
+cost indicates that the holy resource has to be chosen.
+Costs:
+Production
+250
+Resource
+20
+Upkeep
+1
+per turn
+A
+city improvement
+exclusive to the
+Vaulters
+obtained from the
+Winter Shelters
+tech, which is unlocked by completing Chapter 2 of the Vaulters faction quest.
+Lore
+By resurrecting the dormant, though not forgotten, arts of subterranean architecture and horticulture, the Vaulters can construct shelters to negate the worst effects of winter.
+
+======================================================================
+PAGE: Winter Shelters (Technology)
+CATEGORIES: Vaulters
+URL: https://endlesslegend.fandom.com/wiki/Winter_Shelters_(Technology)
+======================================================================
+
+Winter Shelters (Technology)
+Faction
+Vaulters
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+City Improvement
+Focus
+Food
+Effects:
+Unlocks Winter Shelters for construction.
+An Era II
+technology
+exclusive to the
+Vaulters
+that unlocks the
+Winter Shelters
+for construction. It is unlocked by completing Chapter 2 of the Vaulters faction quest.
+Lore
+By resurrecting the dormant, though not forgotten, arts of subterranean architecture and horticulture, the Vaulters can construct shelters to negate the worst effects of winter.

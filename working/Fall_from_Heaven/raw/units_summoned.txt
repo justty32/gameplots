@@ -1,0 +1,94 @@
+
+======================================================================
+PAGE: Floating Eye
+CATEGORIES: Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Floating_Eye
+======================================================================
+
+Floating Eye
+Race:
+N/A
+Unit Class:
+No Unit Class
+Requires:
+Unit Casting
+Floating Eye
+Starts With:
+Can see
+Invisible
+Units
+Recon Range: 4
+Info:
+N/A
+N/A
+Cost:
+N/A
+Kraken are a rare but terrifying sight for any sailor, and a potent weapon when commanded by an Overlord's priest. Even in death, their bodies contain potent magics and can be used in a variety of minor spells. The massive eyes are especially useful, able to be enchanted to give a priest vision of a large area nearby.
+Strategy
+Compared to
+Hawks
+, the Floating Eye has several benefits:
+It can see invisible units.
+It can scout at a distance of 4 tiles rather than 3 from the base tile.
+Being a summon, it incurs no maintenance cost.
+
+======================================================================
+PAGE: Mistform
+CATEGORIES: Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Mistform
+======================================================================
+
+Mistform
+Race:
+Unknown
+Unit Class:
+None
+Requires:
+Summoned
+by the
+Summon Mistform
+spell.
+May spawn in a
+Smoke
+area.
+Special:
+Ignores Building Defenses
+Starts With:
+Hidden Nationality
+Invisibility
+Strength:
+6
++1
+Shadow Affinity
+Movement:
+2
+Cost:
+N/A
+Mistform may prove quite unsettling. Smoking woods sometimes spawn mistforms, who may infest your empire, running around, killing  the workers and pillaging the improvements.
+This is a rare, one time event, and the game advise you with a message about something you see in the smoke.
+Troubles come form the
+invisibility
+of the Mistform: you don't see it, you may not attack it, and workers are not aware of the presence and continue working, stupidly, as other workers around them fall killed by the mist.
+Moreover the Mistorm are quite smart and seem disinclined to suicide themselves against the walls of the cities.
+You have to immediately retreat the workers in the cities and move any unit under heavy guard, and organize a mean to see the invisible, like training a
+hawk
+.
+See
+https://forums.civfanatics.com/threads/how-to-stop-mistforms-from-spawning.310224/
+
+======================================================================
+PAGE: Summon Pit Beast
+CATEGORIES: Summons
+URL: https://fallfromheaven.fandom.com/wiki/Summon_Pit_Beast
+======================================================================
+
+Summon Pit Beast
+Requires:
+Entropy II
+Short Description:
+Summons a
+Pit Beast
+.
+Full Description
+:
+They love naught but combat, these fell beasts.  They exist to destroy and have no concern for what.  The embodiment of chaos, Pit Beasts will remain in the mortal realm as long as they have something to fight.  Oh, you might want to stand back, I'd hate to lose ANOTHER apprenctice.,

@@ -1,0 +1,4502 @@
+
+======================================================================
+PAGE: Arreat Plateau
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Arreat_Plateau
+======================================================================
+
+Arreat Plateau
+Act
+Act V
+Quests
+None
+NPCs
+Barbarian Combatants
+Monsters
+Lasher
+,
+Slayer
+,
+Preset:
+Demon Imp
+,
+Catapult
+Uniques
+on
+Normal
+Lasher
+Monsters
+-
+Nightmare
+,
+Hell
+Hell Whip
+,
+Fire Boar
+,
+Demon Gremlin
+,
+Blood Bringer
+,
+Death Slasher
+Minions:
+Hell Spawn
+Preset:
+Catapult
+Guest Monsters
+Slinger
+,
+Returned Mage L
+,
+Returned Mage F
+,
+Night Clan
+,
+Carver Shaman
+Minions:
+Carver
+Uniques
+and
+Champions
+Quantity
+1-2 (Normal)
+6-7 (Nightmare)
+9-11 (Hell)
+Super Unique Monsters
+Thresh Socket
+Adjacent Zones
+Frigid Highlands
+,
+Pit of Acheron
+,
+Crystalline Passage
+Area Level
+Normal
+26
+Area Level
+Nightmare
+60
+Area Level
+Hell
+81
+Waypoint
+Yes
+The
+Arreat Plateau
+is a large wilderness area between the
+Frigid Highlands
+and the
+Crystalline Passage
+.
+This area is the first place where overseers appear as normal monsters. Other than that, it bears a close resemblance to the Frigid Highlands. The only way forward is an entrance to the
+Crystalline Passage
+that's guarded by
+Thresh Socket
+, a super unique monster.
+Within this area is a
+waypoint
+and an hellish portal gate to the optional dungeon
+Pit of Acheron
+.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Arreat Plateau may sometimes become
+terrorized
+. When this happens, the
+Pit of Acheron
+also becomes terrorized. Both areas have decent density, though the total number of bosses is unremarkable compared to other terror zones.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Arreat Summit
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Arreat_Summit
+======================================================================
+
+Arreat Summit
+Act
+Act V
+Quests
+Rite of Passage
+Monsters
+Talic
+,
+Madawc
+,
+Korlic
+Adjacent Zones
+The Ancients' Way
+,
+Worldstone Keep
+Area Level
+Normal
+37
+Area Level
+Nightmare
+68
+Area Level
+Hell
+87
+Waypoint
+No
+for the official Blizzard website for the expansion, see
+The Arreat Summit
+Arreat Summit
+Background
+The
+Arreat Summit
+is the peak of
+Mount Arreat
+and the location of both
+the Ancients
+and the entrance to the
+Worldstone Keep
+. Reaching it requires navigating through numerous frozen tunnels carved long ago into the mountains by the
+Barbarians
+.
+Before being allowed entrance into the Worldstone Keep, any traveler must first face the Ancients on the Arreat Summit in combat. Only by defeating the three guardians can any adventurer prove their worth and gain entrance. The sole exception to this rule is the
+Relic of the Ancients
+, which allows anyone to enter the Keep without facing the Ancients.
+In-game
+At the center of the summit area is the
+Altar of the Heavens
+- when touched, it will awaken the three guardians so that they may challenge the one who seeks to enter the Worldstone Keep. For more information on fighting the ancients, see
+Rite of Passage
+.
+In
+Diablo II: Resurrected
+and
+Diablo II: Resurrected – Reign of the Warlock
+, the Arreat Summit is one of the very few non-town areas in the game that cannot be
+terrorized
+. This is of no loss as enemies outside of the Ancients never spawn here.
+Development
+This area is called "
+Rocky Summit
+" in the files.
+Trivia
+This section contains facts and trivia relevant to this article.
+"
+The Arreat Summit
+" is also the name of a section of Battle.net, which acts as an official guide for
+Diablo II: Lord of Destruction
+(the expansion set).
+Arreat Summit, along with Arcane Sanctuary and Canyon of the Magi, is one of the two locations in the game where video Perspective does not work. This is because Perspective requires two layers to work with, one usually being the ground and the other for the objects that move relatively to it, but Arreat Summit has one layer reserved for the background that shows the areas below the peak.
+
+======================================================================
+PAGE: Battlefields of Eternity
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Battlefields_of_Eternity
+======================================================================
+
+"The armies of Light and Shadow shall clash across the fields of eternity..."
+-
+Prophecy of the End of Days
+(
+src
+)
+The
+Battlefields of Eternity
+(a.k.a. Forgotten Battlefield
+) are a massive ancient battleground in
+Pandemonium
+, adjacent to the
+Pandemonium Fortress
+. Over the ages of fighting,
+Demonic Legions
+and
+Angelic
+Host
+clashed across it again and again.
+In-game
+Battlefields of Eternity is visited in
+Act V
+of
+Diablo III
+as a playable location.
+The Nephalem
+'s task is to find the
+Timeless Prisons
+, set the demons trapped inside free and retrieve their Siege Runes to power the colossal battering ram. While doing so, they will encounter
+Ancient Beasts
+scouring and scavenging the battlefield, as well as remnants of demonic armies and even some angels sent by
+Imperius
+to assist in distracting
+Malthael
+'s forces.
+Events found in this zone:
+A Diversion
+The Demonic Prisoner
+The Great Weapon
+The Hive
+The Time Trap
+The War that Time Forgot
+Realmwalker
+roams the battlefields, wandering across the wasteland.
+Visually, Battlefields of Eternity are a warscarred barren covered with crumbled fortifications, ruined siege weapons, piles of armor and weapons of dead warriors, impaled corpses, dead
+Siegebreakers
+, as well as ruins and bunkers, many of which are still inhabited (for instance,
+Hideout of the Lost Legion
+, where the
+Fallen
+hide). It is a very large zone, with many unmarked events, such as a
+Resplendent Chest
+that spawns a hundred
+Scouring Chargers
+when opened.
+Shock Towers
+may be found across the battlefields. Minefields can also be encountered, similar to those found in
+Act III
+, but smaller and without
+Knockback
+. From time to time, players may find themselves close to a falling meteor, which deals
+Physical
+damage and Knockback and causes some
+Scouring Chargers
+to emerge. Some meteors are molten, therefore leaving a pool of
+Fire
+-damage dealing magma.
+For players who need a large amount of
+Reusable Parts
+, farming piles of Decaying Armor and Decaying Weapons in this zone is probably the best way to obtain poor and common quality items.
+Gallery
+The Battlefields
+The ram waiting below
+A closer look
+Entrance portal and countless fortifications seen in the distance
+Overlook of the Fortress entrance
+A decaying corpse of a massive demon beast
+A shattered angelic siege weapon
+The original artwork with
+Titans
+Abandoned Demonic Ballista
+Dead Siegebreaker
+References
+
+======================================================================
+PAGE: Black Canyon Mines
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Black_Canyon_Mines
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The
+Black Canyon Mines
+are a location in
+Act II
+of
+Diablo III
+. The player has to head through them to reach
+Stinging Winds
+. A
+Waypoint
+is also located here.
+
+======================================================================
+PAGE: Blood Cellar
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Blood_Cellar
+======================================================================
+
+The
+Blood Cellar
+is a small dungeon in the
+Black Canyon Mines
+in
+Act II
+of
+Diablo III
+.
+It contains an unmarked
+event
+: a dozen of
+Fallen Hounds
+feasting on corpses. They will not attack you first, but if you kill them all, a survivor will climb from beneath the rotten bodies, telling you that
+cultists
+threw him here to be a plaything for the hounds. He will reward you with a
+magic item
+and then leaves.
+
+======================================================================
+PAGE: Bridge Stores
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Bridge_Stores
+======================================================================
+
+Bridge Stores
+is a small dungeon that can be found in
+Rakkis Crossing
+in
+Act III
+of
+Diablo III
+.
+It can roll an unmarked event: 
+a dying Guard of the Keep crawling out of the opened doors, only to be surrounded by
+Demonic Hellflyers
+. In the stores itself, players will find an
+elite monster
+pack.
+If that event is not rolled, a vendor (
+Vidar the Collector
+) will spawn in the stores, and the doors will be closed.
+
+======================================================================
+PAGE: Cain's House
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Cain's_House
+======================================================================
+
+Cain's House
+is a location in
+Act I
+of
+Diablo III
+. The house can be found in southern
+New Tristram
+. It is inhabited by
+Deckard Cain
+,
+Leah
+'s uncle. Both parts of
+Deckard Cain's Journal
+can be found here.
+Cain's House can be accessed at any point during the first parts of Act I, but is closed off for good at the end of
+The Doom of Wortham
+quest after Cain's death at the hands of
+Maghda
+.
+
+======================================================================
+PAGE: Cairn Stones
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Cairn_Stones
+======================================================================
+
+The
+Cairn Stones
+are a mysterious circle of stones located in
+Stony Field
+in
+Diablo II
+.
+Five standing stones make up the circle, each marked with a glyph that must be touched in a particular order to activate the stone. A sixth stone sits apart from the rest, unmarked. A
+Super Unique
+Carver
+named
+Rakanishu
+also guards these stones.
+The player will be required to visit these stones during the
+Search for Cain
+quest. The circle of stones must be touched in a specific order, which will activate them, opening a portal to
+Tristram
+. There, the player must find and rescue
+Deckard Cain
+from the hordes of demons that remained in the town.
+Trivia
+The term "
+cairn
+" normally refers to piles of small stones, while "
+stone circle
+" would be more appropriate for the style of the Cairn Stones seen in the game.
+
+======================================================================
+PAGE: Catacomb
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Catacomb
+======================================================================
+
+For the
+Diablo II
+location, see
+Catacombs
+.
+This page contains obsolete content
+This article contains information that is no longer relevant to gameplay.
+A
+Crusader
+in the Catacomb
+The
+Catacomb
+was an early name for
+Ruins of Corvus
+and same layout areas in
+Act V
+of
+Diablo III
+.
+
+======================================================================
+PAGE: Cells of the Condemned
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Cells_of_the_Condemned
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Cells of the Condemned
+Act
+Act I
+Quests
+The Imprisoned Angel
+NPCs
+The Stranger
+Monsters
+Dark Berserker
+,
+Dark Cultist
+,
+Dark Ritualist
+,
+Dark Wizard
+Adjacent Zones
+Chamber of Suffering
+Waypoint
+No
+The
+Cells of the Condemned
+is the last location in
+Act I
+of
+Diablo III
+found after the
+Chamber of Suffering
+in the
+Halls of Agony
+.
+Maghda
+imprisoned
+the Stranger
+here.
+
+======================================================================
+PAGE: Chamber of Queen Araneae
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Chamber_of_Queen_Araneae
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Chamber of Queen Araneae
+Act
+Act I
+Quests
+Trailing the Coven
+NPCs
+Karyna
+Uniques
+Queen Araneae
+,
+Spawn:
+Brood Daughter
+Adjacent Zones
+Caverns of Araneae
+,
+Highlands Crossing
+Waypoint
+No
+The
+Chamber of Queen Araneae
+is a location in
+Act I
+of
+Diablo III
+within the
+Caverns of Araneae
+. The boss battle with
+Queen Araneae
+happens here.
+Outside of the Quest this area is devoid of enemies.
+
+======================================================================
+PAGE: Chancellor's Tomb
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Chancellor's_Tomb
+======================================================================
+
+Chancellor's Tomb
+Act
+Act I
+Quests
+A Shattered Crown
+Monsters
+Skeleton
+,
+Tomb Guardian
+Uniques
+Chancellor Eamon
+Adjacent Zones
+Defiled Crypt
+Waypoint
+No
+The
+Chancellor's Tomb
+is a location in
+Act I
+of
+Diablo III
+, in which the players visits during the quest
+A Shattered Crown
+.
+It is the tomb of
+Chancellor Eamon
+,
+King Leoric
+'s former chancellor. After Leoric's betrayal, Eamon locked himself in his tomb with
+Leoric's Crown
+, to protect the citizens of
+Tristram
+.
+The player must visit the tomb in order to retrieve Leoric's Crown, which is needed to defeat the
+Skeleton King
+for the last time.
+
+======================================================================
+PAGE: Command Post
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Command_Post
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The
+Command Post
+is a location in
+Act II
+of
+Diablo III
+.
+Maghda
+set up a trap in this area in an attempt to kill
+The Nephalem
+.
+
+======================================================================
+PAGE: Crystalline Passage
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Crystalline_Passage
+======================================================================
+
+Crystalline Passage
+Act
+Act V
+Quests
+None
+Monsters
+Frozen Creeper
+,
+Stygian Harlot
+,
+Moon Lord
+Uniques
+on
+Normal
+Moon Lord
+,
+Snow Drifter
+Monsters
+-
+Nightmare
+,
+Hell
+Frozen Creeper
+,
+Succubus
+,
+Blood Lord
+,
+Snow Drifter
+Guest Monsters
+Infidel
+,
+Cave Leaper
+,
+Bone Mage C
+,
+Dark Archer
+,
+Ghost
+,
+Claw Viper
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+4-5 (Nightmare)
+7-9 (Hell)
+Adjacent Zones
+Arreat Plateau
+,
+Frozen River
+,
+Glacial Trail
+Area Level
+Normal
+29
+Area Level
+Nightmare
+61
+Area Level
+Hell
+82
+Waypoint
+Yes
+The
+Crystalline Passage
+is an icy cavern connecting the
+Arreat Plateau
+and the
+Glacial Trail
+. Within it is the entrance to the
+Frozen River
+where
+Anya
+can be found. This is the first indoor location in
+Act V
+and it introduces the Frozen Horrors.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Crystalline Passage may sometimes become
+terrorized
+. When it does, the
+Frozen River
+also becomes terrorized. Both have decent monster density, though the Frozen River's dangerous mobs in Hell difficulty can make it less desirable to farm.
+Development
+This area is called "
+Crystalized Cavern Level 1
+" in the files.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Cyrangar Depths
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Cyrangar_Depths
+======================================================================
+
+"I wouldn't go down there without other members of the
+warband
+. Unless you can handle it."
+-
+Valstus
+(
+src
+)
+The
+Cyrangar Depths
+, also called
+Depths of Cyrangar
+, is the dark underbelly of
+Castle Cyrangar
+.
+Lore
+Cyrangar's Depths is filled with
+undead
+half-rotted with age, and
+restless spirits
+bound to the castle for all eternity.
+In-game
+The central hall of the Depths of Cyrangar
+Cyrangar Depths is the site of
+Purge the Depths
+gameplay. It has a central hall which contains the Accursed Altar. The hall is connected to three wings whose interior are randomized. There's a chance to come across special rooms (Bunkroom, Cellar, Library, Scroll Room, Well etc) whose doors are closed. These rooms have been infested with evil and filled with darkness. The player has to complete a specific task to dispel the darkness. Once finished the rooms will contain at least one Timeworn Chest.
+References
+
+======================================================================
+PAGE: Deluged Plane
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Deluged_Plane
+======================================================================
+
+"Trouble is brewing,
+adventurers
+, and the seas are rough. To harness the storm and try out different combinations and builds, enter the Deluged Plane: a limited-time event where you can try playing the
+Tempest
+with no
+Class
+Change required."
+- Event description
+(src)
+The Deluged Plane
+The
+Deluged Plane
+is a limited-time event in
+Diablo Immortal
+. It ran from May 23 to June 6, 2024. It is a variant of
+Fractured Plane
+.
+Completing a certain number of tasks granted players rewards:
+2 tasks – 3 enchanted dust,
+Tempest
+class-bound,
+Horadrim
+armor cosmetic
+4 tasks – 100k
+gold
+, Tempest class-bound, Horadrim weapon cosmetic
+6 tasks – 1
+Telluric Pearl
+, 3 normal gems
+7 tasks – 1 bound
+Legendary Crest
+, 10
+Aspirant's Keys
+.
+References
+Locations in
+the Diablo universe
+Astral Realm
+•
+Burning Hells
+•
+Cage of Creation
+•
+Deluged Plane
+•
+Ether
+•
+Fractured Plane
+•
+High Heavens
+•
+Limbo
+•
+Mirrored World
+•
+Nephalem Rifts
+•
+Obliterated Realm
+•
+Pandemonium
+•
+Realm of Memories
+•
+Realm of the Abhorrent
+•
+Realm of the Banished
+•
+Realm of Shadow
+•
+Realms of Fate
+•
+Spirit Realm
+•
+Void
+•
+Wastelands
+Sanctuary
+—
+Ancients' Cradle
+•
+Aranoch
+•
+Bakuli Jungle
+•
+Bilefen
+(
+Valostre
+, defunct) •
+Cold Isles
+(
+Pelghain
+, defunct) •
+Dreadlands
+•
+Dry Steppes
+•
+Eastern Steppes
+•
+Fractured Peaks
+•
+Greyhollow Island
+•
+Hawezar
+•
+Hedgelands
+•
+Ivgorod
+(defunct) •
+Kehjistan
+(defunct) •
+Marshland
+•
+Nahantu
+•
+Samauren Empire
+(defunct) •
+Scosglen
+•
+Shassar Sea
+(
+Fahiran Empire
+, defunct) •
+Shimmering Tropic
+•
+Skovos Isles
+•
+Stormpoint
+•
+Uie
+•
+Western Kingdoms
+(
+Entsteig
+•
+Khanduras
+•
+Westmarch
+) •
+Wojahn
+•
+World's Crown
+•
+Xiansai
+Related —
+Towns
+
+======================================================================
+PAGE: Demon Road
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Demon_Road
+======================================================================
+
+The
+Demon Road
+is a location, either in
+Sanctuary
+or beyond. Only one student has ever survived this path, and even then, she lost a hand in the process.
+References
+
+======================================================================
+PAGE: Drifter Cavern
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Drifter_Cavern
+======================================================================
+
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Drifter Cavern
+Act
+Act V
+Quests
+None
+Monsters
+Snow Drifter
+,
+Vile Tempress
+Uniques
+on
+Normal
+Stygian Harlot
+,
+Frozen Scourge
+Monsters
+-
+Nightmare
+,
+Hell
+Abominable
+,
+Vile Tempress
+,
+Frozen Terror
+Guest Monsters
+Succubus
+,
+Afflicted
+,
+Night Clan
+,
+Dark Archer
+,
+Bone Mage C
+,
+Ghost
+,
+Moon Lord
+,
+Infidel
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+3-4 (Nightmare)
+6-8 (Hell)
+Adjacent Zones
+Glacial Trail
+Area Level
+Normal
+29
+Area Level
+Nightmare
+61
+Area Level
+Hell
+Original 84
+Resurrect 85
+Waypoint
+No
+The
+Drifter Cavern
+is an optional dungeon accessible from the
+Glacial Trail
+.
+It's an square-shaped area with icy water that is lot smaller than
+Frozen River
+, but still has the same amount of Uniques and Champions.
+Development
+This area is called "
+Echo Chamber
+" in the files.
+
+======================================================================
+PAGE: Farmer's Cellar
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Farmer's_Cellar
+======================================================================
+
+The
+Farmer's Cellar
+is a small zone that can appear in
+Act I
+of
+Diablo III
+after completing
+A Farm Besieged
+, an unmarked
+event
+at the
+Forlorn Farm
+within the
+Fields of Misery
+.
+A Terrified Farmer welcomes
+The Nephalem
+into his cellar to meet his wife. The cellar also contains a
+Resplendent Chest
+and several
+Sturdy Barrels
+. The farmer's wife is sitting in a rocking chair by the fireplace, but is somewhat unprepared to receive guests. The player can talk to the farmer, each time prompting a punny comment about his wife.
+Dialogue
+See
+A Farm Besieged
+for dialogue that takes place
+during
+the event.
+On event completion
+Terrified Farmer:
+"Those scavengers trapped my poor wife and me down there for hours! I'm sure she'd love to meet you and thank you for your help."
+On entrance to the cellar
+Terrified Farmer:
+"My love, this is the woman who saved our farm."
+Monk (M):
+"This is..."
+Terrified Farmer:
+"No need to be shy. We owe all of this to you."
+Monk (M):
+"I... must be going."
+Witch Doctor (F):
+"Listen to me now. Your wife's spirit is gone."
+Terrified Farmer:
+"Oh I know, I know. She's been glum ever since the weather turned last week.
+Witch Doctor (F):
+"Ah, it pleases you to stay with her. So be it."
+<The farmer's wife's skull falls off her skeleton onto the floor.>
+Terrified Farmer:
+"Oh, she's nodded off..."
+On talking to the Terrified Farmer
+"My wife can't help with the planting and harvesting. She's nothing but skin and bones!"
+"It can be dangerous in the wilderness. Being out this far scares my wife to death!"
+"You wouldn't know it, but this basement gets right chilly at night! Cold as the grave."
+"You should have been there when I met my wife. I lost my heart and she lost her head."
+[
+Nephalem
+]
+: "You must stop this now."
+"I can't take all the credit. My wife handles the business side of things. She has a good head on her shoulders!"
+[Nephalem]
+: "Hmm... really?"
+<further interactions repeat the last exchange>
+
+======================================================================
+PAGE: Flayer Dungeon
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Flayer_Dungeon
+======================================================================
+
+Flayer Dungeon
+Act
+Act III
+Quests
+Khalim's Will
+Levels
+3
+Monsters
+[All Flayers on Lvl 3 are preset]
+Flayer
+,
+Flayer Blowdart
+,
+Flayer Shaman
+,
+Lvl 1-2 only:
+Soul Killer
+,
+Soul Killer Shaman
+,
+Gloom Bat
+,
+Dark Shape
+,
+Undead Flayer
+,
+Minions: (Lvl 1-2)
+Soul Killer Blowdart
+,
+Preset:
+Water Watcher
+Super Unique Monsters
+Witch Doctor Endugu
+(Lvl3)
+Adjacent Zones
+Flayer Jungle
+Area Level
+Normal
+22
+Area Level
+Nightmare
+51
+Area Level
+Hell
+81, 82, 83
+Waypoint
+No
+The
+Flayer Dungeon
+is the location where you will find
+Khalim's Brain
+. It is found in the middle of the small Flayer village in the
+Flayer Jungle
+, where
+The Gidbinn
+can be found.
+This area is a dungeon style location found in the Flayer Jungle. The corridors are cramped, and it is usually packed with monsters. While the Flayer Dungeon thankfully does not have
+Gloams
+, the stygian dolls often present can spell instant death for unwary adventurers.
+The Flayer Dungeon consists of three levels. The last level is odd in that it is nearly devoid of enemy monsters. It contains a
+golden chest
+with
+Khalim's Heart
+inside. The chest is guarded by the
+Fire Enchanted
+Witch Doctor Endugu
+and his
+cohorts
+. Once the Brain is taken, the chest will contain random magic items the next time it is opened.
+In
+Diablo II: Resurrected
+and
+Diablo II: Resurrected – Reign of the Warlock
+, the Flayer Dungeon may sometimes be
+terrorized
+. When this happens, the
+Swampy Pit
+and
+Flayer Jungle
+also become terrorized. This set of terror zones can be high-risk and high reward: the total number of bosses ranges from 36-48, much higher than average, and with good monster density. Additionally, there is a high chance of
+Fetish Shamans
+spawning as bosses, which are literally two bosses stacked on top of each other for double the drops, experience, and chance of spawning
+heralds
+. However, there is significant potential danger in the forms of
+Gloams
+and
+bone fetishes
+lurking in the dungeons.
+
+======================================================================
+PAGE: Forgotten Sands
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Forgotten_Sands
+======================================================================
+
+A barbarian battles Uber Duriel in the Forgotten Sands
+The
+Forgotten Sands
+is a hidden area, accessed during the
+Pandemonium Event
+. It is also where the ultimate boss
+Über Duriel
+resides and the only place where he can be battled.
+The area is accessed by transmuting the Keys of Terror, Hate, and Destruction in the
+Horadric Cube
+.
+Background
+Forgotten Sands
+Act
+Act V
+Quests
+Pandemonium Event
+Monsters
+Hell Swarm
+,
+Blood Maggot
+,
+Arach
+,
+Steel Scarab 2
+Minions:
+Steel Scarab 1
+Uniques
+and
+Champions
+Quantity
+7-9
+Super Unique Monsters
+Über Duriel
+Adjacent Zones
+Matron's Den
+,
+Furnace of Pain
+Area Level
+Normal
+50
+Area Level
+Nightmare
+75
+Area Level
+Hell
+83
+Waypoint
+No
+This hidden realm is part of
+Lilith
+'s plot to revive the
+Prime Evils
+. Lilith masterminded the revival of
+Diablo
+by manifesting herself in the mortal realm and performing a ritual of Dark Summoning. This ritual, long thought to be impossible by the most powerful mortal wizards, allowed Lilith to link with Diablo across realms, strengthening him until he was finally able to once again reincarnate himself in the mortal plane. Rage and a deep yearning for revenge boiled within the eyes of the Lord of Terror, and together he and Lilith resurrected the two remaining Prime Evils as well as
+Duriel
+and
+Izual
+, two of their strongest agents.
+The Forgotten Sands are a particularly barren and ancient part of the
+Aranoch
+deserts. It is here where the last remaining relic of the Lord of Destruction -
+Baal's Eye
+- can be found. However, it is fiercely guarded by Über Duriel, Baal's most powerful servant.
+Appearance
+The Forgotten Sands appear exactly like the
+Canyon of the Magi
+, without the waypoint in its center. It monsters some insect monsters and Uber Duriel. Exploration of the area reveals that there are piles of
+gold
+all around the map.
+The Forgotten Sands area is considerably larger than
+Tal Rasha's Chamber
+(where the original Duriel could be fought), making it somewhat easier to manoeuvre during the fight.
+Trivia
+This area's appearance is consistent with Act II, which is where Duriel originally appears.
+This is the only area where the Baal's Eye is dropped.
+Pandemonium Event
+Locations
+—
+Forgotten Sands
+•
+Furnace of Pain
+•
+Matron's Den
+•
+Über Tristram
+Bosses
+Keywardens —
+The Countess
+•
+Summoner
+•
+Nihlathak
+Sub-bosses —
+Über Duriel
+•
+Über Izual
+•
+Lilith
+Über Tristram
+bosses
+—
+Über Baal
+•
+Pandemonium Diablo
+•
+Über Mephisto
+Items
+Keys —
+Key of Hate
+•
+Key of Terror
+•
+Key of Destruction
+Organs —
+Mephisto's Brain
+•
+Diablo's Horn
+•
+Baal's Eye
+Rewards —
+Hellfire Torch
+•
+Standard of Heroes
+Special Zones
+Diablo II
+Pandemonium Event Zones
+—
+Matron's Den
+•
+Forgotten Sands
+•
+Furnace of Pain
+•
+Über Tristram
+Easter Egg Zones
+—
+The Secret Cow Level
+Diablo III
+Easter Egg Zones
+—
+Whimsyshire
+(
+Whimsydale
+) •
+Development Hell
+•
+Not The Cow Level
+•
+The Vault
+•
+Kanai's Stomping Grounds
+
+======================================================================
+PAGE: Frozen River
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Frozen_River
+======================================================================
+
+Frozen River
+Act
+Act V
+Quests
+Prison of Ice
+NPCs
+Anya
+Monsters
+Abominable
+,
+Rot Walker
+,
+Blood Tempress
+Uniques
+on
+Normal
+Frozen Terror
+,
+Death Slasher
+,
+Moon Lord
+Monsters
+-
+Nightmare
+,
+Hell
+Snow Drifter
+,
+Rot Walker
+,
+Frozen Creeper
+Guest Monsters
+Succubus
+,
+Siren
+,
+Gloam
+,
+Bone Mage C
+,
+Dark Lancer
+,
+Ghost
+,
+Claw Viper
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+3-4 (Nightmare)
+6-8 (Hell)
+Super Unique Monsters
+Frozenstein
+Adjacent Zones
+Crystalline Passage
+Area Level
+Normal
+29
+Area Level
+Nightmare
+61
+Area Level
+Hell
+83
+Waypoint
+No
+The
+Frozen River
+is a quest related sub-area, accessible from the
+Crystalline Passage
+.
+It is a moderately large area with many streams, and can be difficult for short range characters when confronted by the ranged monster clusters inside, such as Harpies.
+It contains the first undead of this act and the super unique monster
+Frozenstein
+and his minions, guarding
+Anya
+.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Frozen River may sometimes become
+terrorized
+. When it does, the
+Crystalline Passage
+also becomes terrorized. Both have decent monster density, though the Frozen River's dangerous mobs in Hell difficulty can make it less desirable to farm.
+Development
+This area is called "
+Cellar of Pity
+" in the files.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Glacial Trail
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Glacial_Trail
+======================================================================
+
+Glacial Trail
+Act
+Act V
+Quests
+None
+Monsters
+Death Slasher
+,
+Reanimated Horde
+,
+Frozen Terror
+Uniques
+on
+Normal
+Death Slasher
+,
+Abominable
+Monsters
+-
+Nightmare
+,
+Hell
+Rot Walker
+,
+Frozen Creeper
+,
+Snow Drifter
+Guest Monsters
+Bone Warrior
+,
+Wraith
+,
+Gloombat
+,
+Bone Mage C
+,
+Moon Lord
+,
+Pit Viper
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+4-5 (Nightmare)
+7-9 (Hell)
+Super Unique Monsters
+Bonesaw Breaker
+Adjacent Zones
+Crystalline Passage
+,
+Drifter Cavern
+,
+Frozen Tundra
+Area Level
+Normal
+29
+Area Level
+Nightmare
+61
+Area Level
+Hell
+83
+Waypoint
+Yes
+The
+Glacial Trail
+is a frozen cavern connecting the
+Crystalline Passage
+and the
+Frozen Tundra
+.
+Within it is the entrance into an optional dungeon - the
+Drifter Cavern
+. Also within it is an stone-floor area with ice spirals containing gold chest guarded by the
+Super Unique
+monster
+Bonesaw Breaker
+.
+Development
+This area is called "
+Crystalized Cavern Level 2
+" in the files.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Grasslands
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Grasslands
+======================================================================
+
+Located between central and northern
+Kehjistan
+, the grasslands is a massive prairie biome that is covered entirely by grass. The only sign of civilization there is a road which was constructed thousands of years before the rise of the
+second Prime Evil
+. Pilgrims and members of the
+Cathedral of Light
+used the road to travel between
+Kehjan
+and the Cathedral.
+
+======================================================================
+PAGE: Griswold's Fine Weapons
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Griswold's_Fine_Weapons
+======================================================================
+
+Griswold's Fine Weapons
+was the smithy of
+Griswold
+. Situated in
+Tristram
+during its years of operation, Griswold occupied a small room just off the main smithy, so heroes could find him on the smithy premises more often than not. He employed three young apprentices as well.
+Along with the rest of Tristram, the smithy fell into ruin in the aftermath of the
+demon
+attack on it.
+Game Location
+The smithy can be found in
+The Old Ruins
+in the
+first act
+of
+Diablo III
+, its name finally revealed. The player can sometimes find weapons inside from the weapon rack.
+Rarely, the
+Anvil of Fury
+can be found sitting in Griswold's shop, acting as a weapon rack.
+References
+
+======================================================================
+PAGE: Guardian Tower
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Guardian_Tower
+======================================================================
+
+"Why build a Tower to place the beast below ground? At times I believe the Horadrim lacked common sense."
+-
+Hratli
+The
+Guardian Tower
+was built in
+Kehjistan
+to contain
+Mephisto
+. The Lord of Hatred himself was actually imprisoned three levels underground within the
+Durance of Hate
+, while the tower is said to have risen three levels high.
+The tower was formerly known as the Temple of Light, but after being tainted by Mephisto, it became known as the Blackened Temple.
+The tower marks the spot where Mephisto was buried. The
+Horadrim
+built it with the intention to keep Mephisto there until the end of time, allowing the
+Skatsim
+to guard him. The Horadrim didn't plan on
+Diablo
+escaping or the
+Zakarum
+taking over.
+
+======================================================================
+PAGE: Halls of Anguish
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Halls_of_Anguish
+======================================================================
+
+Halls of Anguish
+Act
+Act V
+Quests
+Betrayal of Harrogath
+Monsters
+Prowling Dead
+,
+Night Lord
+Uniques
+on
+Normal
+Reanimated Horde
+,
+Night Lord
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Prowling Dead
+,
+Night Lord
+,
+Death Brigadier
+Guest Monsters
+Returned
+,
+Tomb Creeper
+,
+Devilkin Shaman
+,
+Scarab
+,
+Flayer
+,
+Horror Mage P
+,
+Temple Guard
+Minions:
+Devilkin
+Uniques
+and
+Champions
+Quantity
+0 (Normal)
+2-3 (Nightmare)
+6-7 (Hell)
+Adjacent Zones
+Nihlathak's Temple
+,
+Halls of Pain
+Area Level
+Normal
+33
+Area Level
+Nightmare
+63
+Area Level
+Hell
+83
+Waypoint
+No
+The
+Halls of Anguish
+is a subterranean dungeon, the first of three sub-levels of
+Nihlathak's Temple
+. The area's exit leads into the
+Halls of Pain
+.
+These brown halls have drawings of red eyes on the walls, are filled with many bones, macabre views and are full of
+Reanimated Horde
+types, and various other
+Baal's
+minions in the
+Nihlathak's
+command.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Halls of Anguish may sometimes become
+terrorized
+. When it does,
+Nihlathak's Temple
+, the
+Halls of Vaught
+, and the
+Halls of Pain
+also become terrorized. All three levels have great monster density so it may be worth clearing all of them. However, for players specifically hunting for
+keys of destruction
+, it may be better to start with the Halls of Pain waypoint to save time.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Halls of Pain
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Halls_of_Pain
+======================================================================
+
+Halls Of Pain in the original version of the game.
+Halls of Pain
+Act
+Act V
+Quests
+Betrayal of Harrogath
+Monsters
+Unholy Corpse
+,
+Death Brawler
+,
+Putrid Defiler
+Spawn:
+Torment Worm
+Uniques
+on
+Normal
+Prowling Dead
+,
+Death Brawler
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Unholy Corpse
+,
+Night Lord
+Guest Monsters
+Infidel
+,
+Temple Guard
+,
+Blood Clan
+,
+Razor Spine
+,
+Guardian
+,
+Flayer Blowdart
+,
+Hierophant
+,
+Grotesque
+,
+Blood Maggot
+Minions:
+Zealot
+Spawn:
+Grotesque Wyrm
+Uniques
+and
+Champions
+Quantity
+0 (Normal)
+2-3 (Nightmare)
+6-7 (Hell)
+Adjacent Zones
+Halls of Anguish
+,
+Halls of Vaught
+Area Level
+Normal
+34
+Area Level
+Nightmare
+64
+Area Level
+Hell
+84
+Waypoint
+Yes
+Halls of Pain
+is the middle level of
+Nihlathak's Temple
+.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Halls of Anguish may sometimes become
+terrorized
+. When it does,
+Nihlathak's Temple
+, the
+Halls of Vaught
+, and the
+Halls of Anguish
+also become terrorized. All three levels have great monster density so it may be worth clearing all of them. However, for players specifically hunting for
+keys of destruction
+, it may be better to start with the Halls of Pain waypoint to save time.
+Development
+This area is called "
+Halls of Death's Calling
+" in the files.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Halls of Vaught
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Halls_of_Vaught
+======================================================================
+
+Halls of Vaught
+Halls of Vaught
+Act
+Act V
+Quests
+Betrayal of Harrogath
+Monsters
+Ice Spawn
+,
+Hell Tempress
+,
+Wretched Defiler
+Spawn:
+Menace Worm
+Uniques
+on
+Normal
+Ice Spawn
+,
+Hell Tempress
+,
+Putrid Defiler
+(Uniques are disabled on all difficulties)
+Monsters
+-
+Nightmare
+,
+Hell
+Hell Tempress
+,
+Wretched Defiler
+,
+Prowling Dead
+,
+Night Marauder
+Spawn:
+Menace Worm
+Guest Monsters
+Slayer
+,
+Ghost
+,
+Arach
+,
+Returned Archer
+,
+Flayer Shaman
+,
+Tomb Viper
+Minions:
+Flayer
+,
+Flayer Blowdart
+Super Unique Monsters
+Nihlathak
+Adjacent Zones
+Halls of Pain
+Area Level
+Normal
+36
+Area Level
+Nightmare
+64
+Area Level
+Hell
+84
+Waypoint
+No
+The
+Halls of Vaught
+is the third and final level of
+Nihlathak
+'s temple, where he is found.
+The area is divided into four identical branches. Nihlathak is in one of them. One of the other three branches will always contain an
+Evil Urn
+at its end.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Halls of Anguish may sometimes become
+terrorized
+. When it does,
+Nihlathak's Temple
+, the
+Halls of Anguish
+, and the
+Halls of Pain
+also become terrorized. All three levels have great monster density so it may be worth clearing all of them. However, for players specifically hunting for
+keys of destruction
+, it may be better to start with the Halls of Pain waypoint to save time.
+Trivia
+The area is possibly named after Fred Vaught, a background artist for both
+Diablo II
+and its expansion
+Diablo II: Lord of Destruction
+.
+It commonly has the dreaded
+Tomb Vipers
+on
+Nightmare
+and
+Hell
+, maybe they are the reason the unique monsters are disabled in this area.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Hidden Conclave
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Hidden_Conclave
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The
+Hidden Conclave
+is a dungeon in
+Act II
+of
+Diablo III
+. Several of
+Maghda
+'s cultists are hiding here, and player is tasked with getting rid of them.
+
+======================================================================
+PAGE: Highlands Crossing
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Highlands_Crossing
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Highlands Crossing
+Act
+Act I
+Quests
+Trailing the Coven
+NPCs
+Karyna
+Monsters
+Dark Moon Clan Warrior
+Environment:
+Withermoth
+Champions
+and
+Rares
+Burrowing Leaper
+Uniques
+Logrut the Warrior
+Adjacent Zones
+Chamber of Queen Araneae
+,
+Southern Highlands
+Waypoint
+Yes
+The
+Highlands Crossing
+is an area connecting the
+Caverns of Araneae
+to the
+Southern Highlands
+in
+Act I
+of
+Diablo III
+. It consists of a small plateau connected by a bridge to the northwest to the main Highlands area. A river flows northward under the bridge, then falls down the cliffs to the farmland below.
+Karyna
+stays at the Crossing after being rescued from
+Queen Araneae
+and explaining her theft of the Khazra staff for the
+Trailing the Coven
+quest.
+Apart from hidden Withermoths which emerge from the bushes if one gets too close, the area may be completely empty of monsters. Occasionally a few can be found, especially in the form of an
+Elite pack
+. A
+Khazra Shaman
+stands at the end of the bridge just before crossing into the Southern Highlands proper.
+Highlands Crossing is a distinct zone only in
+Campaign Mode
+. In
+Adventure Mode
+, it is simply part of the Southern Highlands, and the
+waypoint
+located there is labeled accordingly.
+
+======================================================================
+PAGE: Highlands Passage
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Highlands_Passage
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Highlands Passage
+Act
+Act I
+Quests
+The Imprisoned Angel
+NPCs
+Radek the Fence
+Monsters
+Dark Berserker
+,
+Dark Moon Clan Warrior
+,
+Dark Moon Clan Impaler
+,
+Dark Cultist
+Preset:
+Dark Moon Clan Shaman
+x1
+Adjacent Zones
+Halls of Agony
+Lvl 2,
+The Cursed Hold
+Waypoint
+No
+The
+Highlands Passage
+is a location in
+Act I
+of
+Diablo III
+. The player enters this area after traversing through the first two levels of the
+Halls of Agony
+.
+Radek the Fence
+can appear here who can buys, sells and repairs items.
+
+======================================================================
+PAGE: Icy Cellar
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Icy_Cellar
+======================================================================
+
+Icy Cellar
+Icy Cellar
+Act
+Act V
+Quests
+None
+Monsters
+Frozen Abyss
+,
+Stygian Harlot
+,
+Prowling Dead
+Uniques
+on
+Normal
+Frozen Abyss
+,
+Blood Tempress
+,
+Death Brigadier
+Monsters
+-
+Nightmare
+,
+Hell
+Abominable
+,
+Hell Tempress
+,
+Death Brigadier
+,
+Frozen Terror
+,
+Undead Stygian Doll
+Guest Monsters
+Hell Lord
+,
+Pit Viper
+,
+Gloam
+,
+Gloombat
+,
+Ghost
+,
+Siren
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+3-4 (Nightmare)
+6-8 (Hell)
+Super Unique Monsters
+Snapchip Shatter
+Adjacent Zones
+The Ancients' Way
+Area Level
+Normal
+29
+Area Level
+Nightmare
+62
+Area Level
+Hell
+Original 83
+Resurrect 85
+Waypoint
+No
+The
+Icy Cellar
+is a dungeon reachable from
+The Ancients' Way
+.
+It contains the
+Super Unique
+monster
+Snapchip Shatter
+. The entrance to it is guarded by
+champion
+monsters.
+While Icy Cellar has decent monster density, the potential to spawn
+Stygian Dolls
+,
+Succubi
+and
+Gloams
+make it a potentially extremely dangerous area to farm, particularly for hardcore characters.
+Development
+This area is called "
+Glacial Caves Level 2
+" in the files.
+
+======================================================================
+PAGE: Infernal Pit
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Infernal_Pit
+======================================================================
+
+Infernal Pit
+Act
+Act V
+Quests
+None
+Monsters
+Blood Boss
+,
+Demon Trickster
+Minions:
+Fire Boar
+Uniques
+on
+Normal
+Blood Boss
+,
+Death Lord
+Monsters
+-
+Nightmare
+,
+Hell
+Blood Boss
+,
+Night Lord
+,
+Hell Witch
+Minions:
+Fire Boar
+Guest Monsters
+Demon Trickster
+,
+Balrog
+,
+Salamander
+,
+Blood Lord
+,
+Stygian Doll Blowdart
+,
+Unholy Corpse
+,
+Oblivion Knight
+Minions:
+Doom Knight
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+1-2 (Nightmare)
+3-4 (Hell)
+Adjacent Zones
+Frozen Tundra
+Area Level
+Normal
+39
+Area Level
+Nightmare
+62
+Area Level
+Hell
+Original 83
+Resurrected 85
+Waypoint
+No
+The
+Infernal Pit
+is a
+Hell
+-like optional area accessible from the
+Frozen Tundra
+. It is very similar to
+Abaddon
+and the
+Pit of Acheron
+.
+This is the last hell-like area in the game.
+Development
+In the "level.txt" file located within the "data/local/UI/ENG/Expansion" path of the d2exp.mpq there are two location names after the three Hell-like areas of Act V. They are named: "Depths of Hell" and "Pits of Hell".
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Istani
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Istani
+======================================================================
+
+Istani
+was a small city in the eastern lands of
+Sanctuary
+. It lay near the regional capital of
+Kehjan
+. The
+Triune
+had a minor temple in Istani.
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Kalinash
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Kalinash
+======================================================================
+
+Kalinash
+was a city in the Eastern lands of
+Sanctuary
+. The region capital of
+Kehjan
+lay nearby. Therefore the temple of the
+Triune
+in Kalinash was supposed to be quite powerful.
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: King Leoric's Tomb
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/King_Leoric's_Tomb
+======================================================================
+
+King Leoric's Tomb
+is a sub-level of
+Level 3
+that will appear when the
+Skeleton King quest
+is active. It contains the
+Skeleton King
+, the remains of
+King Leoric
+, and a mass of skeletons.
+First Antechamber
+After going from the stairway room to the first antechamber, there will be two rooms to your left and right. Both rooms will have a lever and some treasure chests with
+enchanted items
+. Pulling one lever will open an extension to another room, and pulling another in that extension room will lift the cage that separates the first antechamber from the hallway to the second antechamber, where the Skeleton King awaits.
+Second Antechamber
+In the second antechambery is an elaborate structure that is supposed to contain Leoric's body, and three rooms to the front, right, and left. There are corner nooks with
+Crucified Skeletons
+, where if you attack enough of them, they will act like a one-way lever and some more room extensions will open up, where you can find extra treasure from
+chests
+.
+Infinite Opportunities
+Since the Skeleton King constantly resurrects fallen skeletons (or apparently generates new ones out of the ground on which he stands), they are a constant source of income. Along with the newly raised skeletons come the gold, items, and occasionally even enchanted items. Going at this for many hours can yield you tens of thousands of gold.
+Level Bestiary
+The following monsters can be found in
+King Leoric's Tomb
+, also
+Skeleton King
+summons all of them:
+Corpse Bow
+Burning Dead
+Burning Dead Captain
+Burning Dead Archer
+Horror Archer
+Unique Monsters
+Skeleton King
+See also
+King Leoric
+Skeleton King
+Skeleton King (quest)
+
+======================================================================
+PAGE: Level 8 (Diablo I)
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Level_8_(Diablo_I)
+======================================================================
+
+Level 8
+is the fourth and the last of the
+Catacombs
+-style level in the original
+Diablo
+. The player(s) reaches Level 8 after from a stairway in
+Level 7
+. Somewhere in Level 8 there is a stairway to
+Level 9
+.
+Accesses
+Level 7
+Level 9
+Quests
+If available, a quest called
+Zhar the Mad
+can be obtained by talking to a
+Unique
+Counselor
+Mage
+called...
+Zhar the Mad
+. Speaking to him will activate his namesake quest.
+He will wonder why the player is there and says that all these interruptions are enough to make one insane (and then laughs madly). He will then give the player a spell book and asks to be left alone to do his work in peace. If the player then tries to grab a spell book from his bookcase, he will be infuriated and he will then attack the player.
+Level Beastiary
+The following monsters can be found in
+Level 8
+:
+Familiar
+Acid Beast
+Poison Spitter
+Horned Demon
+Mud Runner
+Unseen
+Illusion Weaver
+Fire Clan
+Fire Clan Archer
+Night Clan
+Night Clan Archer
+Mud Man
+Toad Demon
+Gargoyle
+Magma Demon
+Blood Stone
+Unique Monsters
+Chaoshowler
+(Poison Spitter)
+Baron Sludge
+(Mud Man)
+Firewound The Grim
+(Magma Demon)
+Zhar The Mad
+(Counselor/Quest)
+
+======================================================================
+PAGE: Moldy Tome
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Moldy_Tome
+======================================================================
+
+Moldy Tome
+The
+Moldy Tome
+is an old book found on a stone pedestal in the
+Stony Field
+in
+Act I
+of
+Diablo II
+. It relays the tale of an evil
+Countess
+and her fortune, found somewhere within a ruined castle in the wilderness. Reading this tome will activate the
+Forgotten Tower
+quest, where the player must defeat the Countess and claim her treasure.
+The Moldy Tome
+The Moldy Tome reads as follows:
+"...And so it came to pass that the Countess, who once bathed in the rejuvenating blood of a hundred virgins, was buried alive... And her castle in which so many cruel deeds took place fell rapidly into ruin. Rising over the buried dungeons in that god-forsaken wilderness, a solitary tower, like some monument to Evil, is all that remains.
+The Countess' fortune was believed to be divided among the clergy, although some say that more remains unfound, still buried alongside the rotting skulls that bear mute witness to the inhumanity of the human creature."
+Diablo II
+Tomes
+Story Tomes
+—
+Moldy Tome
+•
+Horazon's Journal
+Items
+—
+Book of Skill
+•
+Lam Esen's Tome
+•
+Tome of Town Portal
+•
+Tome of Identify
+
+======================================================================
+PAGE: Nihlathak's Temple
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Nihlathak's_Temple
+======================================================================
+
+Nihlathak's Temple
+Act
+Act V
+Quests
+Betrayal of Harrogath
+Monsters
+Prowling Dead
+,
+Minions:
+Defiled Warrior
+Super Unique Monsters
+Pindleskin
+Adjacent Zones
+Halls of Anguish
+Area Level
+Normal
+32
+Area Level
+Nightmare
+63
+Area Level
+Hell
+83
+Waypoint
+No
+Nihlathak's Temple is an area in
+Diablo II: Lord of Destruction
+.  It becomes accessible after completing the
+Rescue on Mount Arreat
+quest; after thanking the player character,
+Anya
+opens a portal to it and requests that they stop
+Nihlathak
+.
+This location is completely static; all monsters are preset. It is always shrouded in darkness. The beginning of the level, a courtyard atop a mountain, is covered with seemingly dead
+Reanimated Horde
+, but they stir and attack the player soon after the player enters. Guarding the entrance to the temple itself is
+Pindleskin
+, a
+super unique
+reanimated horde, himself. Due to the ease with which one can access him, Pindleskin has been a popular place to farm items for decades.
+There are three levels under the temple: the
+Halls of Vaught
+,
+Halls of Anguish
+and
+Halls of Pain
+.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, Nihlathak's Temple may sometimes become
+terrorized
+. When it does, the
+Halls of Vaught
+,
+Halls of Anguish
+and
+Halls of Pain
+also become terrorized. All three levels have great monster density so it may be worth clearing all of them. However, for players specifically hunting for
+keys of destruction
+, it may be better to start with the Halls of Pain waypoint to save time.
+Accessing Nihlathak's Temple
+It is unknown where Nihlathak's Temple is, but it is possibly near
+Mount Arreat
+. In
+Lord of Destruction
+, the red portal leading to this area remains open unless a player activates the
+Halls of Pain
+waypoint
+and
+kills
+Nihlathak
+. If one of these is avoided, the portal will stay open. In
+Diablo II: Resurrected
+, the red portal always remains open.
+Development
+In the "expansionstring.tbl" file located in "data/local/LNG/ENG"  path from d2exp.mpq there is an entry labeled "Halls of Torment" (With older name: Halls of Tormented Insanity) between Halls of Pain and Halls of Vaught, showing that there was an another level of Nihlathak's Temple at one point. Halls of Torment is also referenced in the "level.txt" located within the "data/local/UI/ENG/Expansion" path of the MPQ file.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Northern Highlands
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Northern_Highlands
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Northern Highlands
+Act
+Act I
+Quests
+Trailing the Coven
+Monsters
+Vile Hellbat
+,
+Cursed Nest
+,
+Dark Moon Clan Warrior
+,
+Dark Moon Clan Impaler
+,
+Moon Clan Shaman
+,
+Highland Walker
+Environment:
+Withermoth
+Preset:
+Dark Cultist
+Champions
+and
+Rares
+Dark Moon Clan Impaler
+,
+Moon Clan Shaman
+Adjacent Zones
+Southern Highlands
+,
+Leoric's Hunting Grounds
+Waypoint
+Yes
+The
+Northern Highlands
+are a location in
+Act I
+of
+Diablo III
+. The Northern Highlands lies directly north of the
+Southern Highlands
+. The next area after it is
+Leoric's Hunting Grounds
+.
+It's a much smaller wilderness location than the Southern Highlands and also doesn't have any optional dungeons.
+
+======================================================================
+PAGE: Occupied Ruins
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Occupied_Ruins
+======================================================================
+
+DIABLO WANTS YOU
+to upload more images
+This article does not have any images. Make the Diablo Wiki better by
+uploading one!
+Occupied Ruins
+is one of the randomly spawning dungeons in
+Battlefields of Eternity
+in
+Diablo III
+. Inside, one of the two events will always occur. The dungeon is very small, and consists of three platforms connected by short bridges, essentially the whole zone is a single corridor.
+It is, however, interesting visually: corpses of ancient
+demon
+lords can be seen in the background, stored in niches in the walls, and the space below is presumed to be filled with some sort of tombs. It may be a demon vault of some kind, or even a crypt.
+Events
+Resurrection
+The Demon Cache
+Unique Monsters
+Rogoth the Eternal
+Tarthess
+
+======================================================================
+PAGE: Old Tristram Road
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Old_Tristram_Road
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Old Tristram Road
+Act
+Act I
+Quests
+Part I:
+The Fallen Star
+Part II-III:
+The Legacy of Cain
+Monsters
+Risen
+,
+Walking Corpse
+,
+Spawn:
+Crawling Torso
+(Part I only):
+Quill Fiend
+Quest:
+Wretched Mother
+Champions
+and
+Rares
+Quill Fiend
+,
+Risen
+,
+Rare Minion:
+Carrion Bat
+,
+Scavenger
+,
+Deathspitter
+Spawn:
+Decayer
+Adjacent Zones
+Part I:
+New Tristram
+,
+The Old Ruins
+Part II:
+Adria's Hut
+Part III:
+Cathedral
+Waypoint
+No
+Old Tristram Road
+is the first open wilderness zone in
+Act I
+of
+Diablo III
+.  It's divided into three separate parts and holds the first optional zones. It contains no special threaths apart of the
+Wretched Mothers
+, though they only spawn on the quest.
+Part I
+It is first reached by traveling north out of the eastern gate of
+New Tristram
+. It's the biggest part of this location and contains multiple buildings and farms. Four randomly spawning optional zones can be found there:
+Dungeons
+Musty Cellar
+Damp Cellar
+Dank Cellar
+The Cave Under the Well
+Part II
+The second part is reached after going through
+The Old Ruins
+and completing
+The Fallen Star
+quest. It's a small part that contains only a bunch of
+Risen
+and
+Walking Corpses
+.
+Part III
+The third part is very close to the second one as it's reached by going through
+Adria's Hut.
+It's an even smaller stretch of road though it has an optional zone:
+Dungeon
+Mass Grave
+Tomes and unique
+Relative to its length and insignificance to gameplay, an unusually large number of lore books are found along the Old Tristram Road and
+The Old Ruins
+:
+Warriv
+'s corpse can be checked to find
+Warriv's Journal
+. If it has not been scavenged, is found in the remains of his caravan which may appear in one of several locations between the new and old towns.
+An Adventurer's Corpse holds his
+Traveler's Journal
+. It can sometimes be found by an overgrown mass grave/pit which shares the same spawn points as the caravan.
+Old Keepsake Boxes
+contain one of nine different tomes, including two "Part 2" installments. It is found by buildings, as well as at the broken bridge north of the "elbow", and in Old Tristram itself.
+The corpses do not appear in every game; furthermore only two Old Keepsake Boxes appear at a time. Therefore. numerous visits along the road are required to collect all books, which are required for three achievements. Since
+bounties
+are very rarely offered in this area, this tends not to happen naturally - they must be hunted intentionally, especially to complete both two-part journals for the achievement
+A Quick Study
+.
+A unique
+Risen Dead
+named
+Ebenezer Samuel
+is also - rarely - found along the road. It is wise to keep an eye out for him as the tomes are hunted, although the search for him will likely require even more trips down the road than the tomes.
+
+======================================================================
+PAGE: Pit of Acheron
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Pit_of_Acheron
+======================================================================
+
+Pit of Acheron
+Act
+Act V
+Quests
+None
+Monsters
+Night Lord
+,
+Overlord
+Minion:
+Ice Boar
+Uniques
+on
+Normal
+Hell Lord
+,
+Overlord
+Monsters
+-
+Nightmare
+,
+Hell
+Blood Lord
+,
+Overlord
+Minion:
+Ice Boar
+Guest Monsters
+Demon Imp
+,
+Balrog
+,
+Hell Tempress
+,
+Salamander
+,
+Mauler
+,
+Unraveler
+,
+Burning Dead Mage
+,
+Hell Clan
+,
+Maw Fiend
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+1-2 (Nightmare)
+3-4 (Hell)
+Adjacent Zones
+Arreat Plateau
+Area Level
+Normal
+39
+Area Level
+Nightmare
+61
+Area Level
+Hell
+Original 82
+Resurrect 85
+Waypoint
+No
+The
+Pit of Acheron
+is mostly the same as
+Abaddon
+; labyrinthian layout and an environment more or less identical to the
+River of Flame
+in
+Act IV
+. It has a golden treasure chest, too. Monsters one can find are
+Night Lord
+,
+Overlord
+and
+Ice Boar
+.
+The entrance to The Pit of Acheron is a red portal on the
+Arreat Plateau
+.
+In
+Diablo II: Resurrected – Reign of the Warlock
+, the Pit of Acheron may sometimes become
+terrorized
+. When this happens, the
+Arreat Plateau
+also becomes terrorized. Both areas have decent density, though the total number of bosses is unremarkable compared to other terror zones.
+Gallery
+Portal to The Pit of Acheron
+The Pit of Acheron Treasure
+Trivia
+This section contains facts and trivia relevant to this article.
+Acheron
+is one of the five rivers that leads to the underworld in Greek mythology.
+
+======================================================================
+PAGE: Poisoned Water Supply
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Poisoned_Water_Supply
+======================================================================
+
+The
+Poisoned Water Supply
+is a sublevel on the
+second floor
+of the
+Cathedral
+in the original
+Diablo
+. It is only accessible when
+the quest
+with the same name is available.
+The entrance is a hole labeled "Dark Passage", in some wall on Level 2. Inside it looks like the later Cave levels, with boasting considerably easier enemies implying
+Carvers
+,
+Devil Kins
+,
+Flesh Clan
+mace warriors, which can pose a serious threat to most early characters, and one single Flesh Clan archer. Once all monsters inside the level are killed, the poisonous water in the river will turn blue again, so does the water inside the well on
+Tristram's
+market. After cleaning the level you can visit
+Pepin
+to receive the
+Ring of Truth
+.
+Level Bestiary
+The following monsters can be found in
+Poisoned Water Supply
+:
+Carver
+- Spear
+Devilkin
+Flesh Clan
+(x4)
+Flesh Clan Archer
+(x1)
+
+======================================================================
+PAGE: Road to Alcarnus
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Road_to_Alcarnus
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Road to Alcarnus
+is a location in
+Act II
+of
+Diablo III
+. As the name implies, it is a road that leads to
+Alcarnus
+. A
+Waypoint
+is also located here.
+
+======================================================================
+PAGE: Silzer plains
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Silzer_plains
+======================================================================
+
+The
+Silzer plains
+are a region of
+Sanctuary
+.
+References
+
+======================================================================
+PAGE: Steps of the Spirits
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Steps_of_the_Spirits
+======================================================================
+
+The
+Steps of the Spirits
+are an area of
+Sanctuary
+, presumably important in
+Umbaru
+culture.
+References
+
+======================================================================
+PAGE: Stinging Winds
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Stinging_Winds
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Stinging Winds
+is a location in
+Act II
+of
+Diablo III
+. It is located north-east of the
+Black Canyon Mines
+. Through it, player(s) can reach
+Khasim Outpost
+.
+
+======================================================================
+PAGE: Storage Cellar
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Storage_Cellar
+======================================================================
+
+Map of Storage Cellar
+The
+Storage Cellar
+is a single-level dungeon that has a chance to spawn in the
+Dahlgur Oasis
+, in
+Act II
+of
+Diablo III
+.
+Upon entering the dungeon,
+Lugo the Miner
+is being held captive by monsters. You must kill them to allow Lugo to act as a merchant.
+The Storage Cellar is required for the
+Nooks and Crannies
+achievement.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Sundered Canyon
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Sundered_Canyon
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The
+Sundered Canyon
+is a location in
+Act II
+of
+Diablo III
+after
+Caldeum Bazaar
+.
+The player(s) has to traverse through this area to find out where
+Maghda
+is located.
+This is also the area where
+The Nephalem
+meets
+Eirena
+for the first time.
+
+======================================================================
+PAGE: Terror Rift
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Terror_Rift
+======================================================================
+
+A Terror Rift
+Terror Rifts
+are a feature of
+Diablo Immortal
+, introduced as part of the
+Precipice of Horror
+update.
+Lore
+A Terror Rift opens
+Terror Rifts are gateways into
+Sanctuary
+, bursting out of the mortal realm's topsoil. They were used by
+Diablo
+'s forces in their assault against Sanctuary.
+Adventurers
+were forced to venture through the rifts to halt the incoming invaders.
+Terror Rifts need an
+Oblivion Pillar
+at a particular location to act as a beacon for them to open.
+Gameplay
+Terror Rift entrance
+Terror Rifts will be active all the time. 1 zone will be invaded at random, with one Terror Rift portal appearing in the zone. The zone rotates every hour. The zone with the active Terror Rift portal is denoted on the world map, as well as the next zone with a countdown timer. Players must track down the portal to enter. After entering, each player gets 13 minutes to complete the Rift, with Stygian Spires spawning at set times. Even if the Terror Rift entrance closes at the hour, players who are already inside can stay for the remainder of their 13 minute periods.
+The rift will take players to the Terrorwrought Realm version of the zone where the rift appeared. This map matches the geography of the normal map but the
+monsters
+are replaced with Terrorwrought monsters. These monsters drop Stygian Fragments, with Elite monsters dropping more fragments. After gathering a certain number of Fragments from fallen foes (displayed via a progress bar), the player must search for a Stygian Spire. The number of fragments required is 100, 150, 250 and 300 respectively for the four Spires. Sacrificing the required Fragments in one of these pointed beacons will initiate a one-on-one fight with a
+beefier opponent
+. Toppling this enemy grants a reward chest. The player can complete this process as many times as they can within 13 minutes, in order to press onto more plentiful rewards. Rewards may be earned up to 10 times a week from the Terror Rifts, resetting each Monday at 3 a.m. server time. Once a player acquires all weekly rewards, they can continue to run Rifts but will only be able to earn drops from enemies. Different players will see Spires in different locations on the map.
+A successful run, whether solo or with a group of up to four others, will be met with a chance to earn
+Eternal Equipment
+,
+Terror Essence
+and other rewards from each reward chest the player(s) receive. Terror Rifts can be played starting at
+Hell
+II difficulty, with the quality of rewards received scaling with the difficulty level. If the first 3 spires destroyed don't drop a Terror Essence, the 4th one is guaranteed to drop one.
+Notes
+The rift can be entered at any time. Players should sync their entries to make sure their time limits overlap.
+When a group of Elite monsters spawns near the player,
+Demons have found you!
+appears on the top of the screen.
+Due to the high spawn rate of monsters, these rifts present a great opportunity to build up long kill streaks, which are required for some
+Trophies
+.
+When the time is up, a mail with a few items is sent depending on the amount of leftover Stygian Fragments. However this only happens if the rift is "complete", which requires destroying at least one Stygian Spire. The same "completion" is what counts against the 10 runs per week.
+Some parts of the map are highlighted to indicate that there is a Stygian Spire in them. However monsters still spawn outside those areas and can be killed for fragments.
+The Gem Finder buff is active in a full party, allowing
+Normal Gems
+to be obtained.
+Warp points can be warped to just like on the main map, although due to the high number of mobs it is difficult to complete the teleport animation, so the best way is to stand on a warp point in the first place which skips the animation.
+History
+Upon release, monster kills could not be shared between players, even between party members. The first player to tag a monster got the drop. This was later fixed with an update.
+Originally there was no guarantee on the Terror Essence drop. The guarantee was added in the
+Nightmare Manifest
+update.
+In the July 24 2024 update, the Terror Rift icons on the World Map were changed to be greyed out if the rift is not currently active (i.e. until 3 minutes before opening time).
+In the
+October 30, 2024
+update, Terror Rifts were changed in several ways:
+Originally Terror Rifts were only open every day from 8 a.m.–2 p.m. and 6 p.m.–1 a.m. server time. After the update, they are open 24 hours a day.
+Originally all players had the same countdown timer that was synced to the rift opening times. After the update, each player gets a 13-minute time from the moment they enter.
+Originally players shared Stygian Spire locations. After the update, each player gets their own set of locations, which might not overlap.
+Originally there were rift entrances on 3 different maps that stayed the same for the current period. After the update, there is only one entrance at a time that rotates every hour.
+Originally all Stygian Spires required 200 fragments to open. After the update, the costs are 100, 150, 250 and 300 in sequence.
+Originally opening the Spire would first initiate two waves of monsters, similarly to
+Hellslayer Bounties
+, before spawning the boss. After the update, the boss spawns immediately.
+Originally players had to search for Stygian Spires, and the icon would only appear if they were very close. After the update, a small icon appears on the map as well as a pointer in the main view, making finding the next Spire easier.
+In the
+September 25, 2025
+update, Terror Rift was added as an option to the Party Finder, and a button to open the Party Finder was added to the Terror Rift entrance. Trying to enter solo will also suggest creating a party and sending a recruitment message (but no automatic matchmaking is available).
+References
+
+======================================================================
+PAGE: The Ancients' Way
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Ancients'_Way
+======================================================================
+
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The Ancients' Way
+Act
+Act V
+Quests
+None
+Monsters
+Frozen Scourge
+,
+Death Slasher
+,
+Moon Lord
+Uniques
+on
+Normal
+Frozen Scourge
+,
+Succubus
+Monsters
+-
+Nightmare
+,
+Hell
+Frozen Terror
+,
+Abominable
+,
+Reanimated Horde
+Guest Monsters
+Hell Lord
+,
+Carver Shaman
+,
+Spike Fiend
+,
+Dark Lancer
+,
+Bone Mage C
+,
+Afflicted
+Minions:
+Carver
+Uniques
+and
+Champions
+Quantity
+0-1 (Normal)
+4-5 (Nightmare)
+7-9 (Hell)
+Adjacent Zones
+Frozen Tundra
+,
+Icy Cellar
+,
+Arreat Summit
+Area Level
+Normal
+29
+Area Level
+Nightmare
+62
+Area Level
+Hell
+82
+Waypoint
+Yes
+The Ancients' Way
+is an icy cavern connecting the
+Frozen Tundra
+with the
+Arreat Summit
+. Somewhere within it is the entrance to the
+Icy Cellar
+.
+There is a waypoint in the Ancients' Way in case one needs to get back to
+The Ancients
+.
+This area generates 1/3 bigger than the other ice caves.
+In
+Diablo II: Resurrected
+, the Ancient's Way may sometimes become
+terrorized
+. When this happens, the
+Icy Cellar
+always becomes terrorized alongside it. While there are many cold and lightning immune monsters here in
+hell difficulty
+, the Ancient's Way and the Icy Cellar are excellent areas for fire-based characters to farm as it lacks fire immunes.
+Development
+This area is called "
+Glacial Caves Level 1
+" in the files.
+
+======================================================================
+PAGE: The Cursed Hold
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Cursed_Hold
+======================================================================
+
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The Cursed Hold
+Act
+Act I
+Quests
+The Imprisoned Angel
+NPCs
+Quest:
+Queen Asylla
+(Ghost)
+Monsters
+Horror
+,
+Jailed Deserter
+,
+Returned Executioner
+,
+Jailed Poacher
+,
+Tortured Summoner
+,
+Savage Fiend
+Spawn:
+Zap Worm
+Champions
+and
+Rares
+Horror
+,
+Returned Executioner
+,
+Savage Fiend
+Uniques
+The Warden
+Adjacent Zones
+Highlands Passage
+,
+Halls of Agony
+Lvl 3
+Waypoint
+No
+The
+Cursed Hold
+is a location in
+Act I
+of
+Diablo III
+. The players has to enter this hold and defeat the enemies inside in order to save
+The Stranger
+from
+Maghda
+.
+In the Cursed Hold, the players encounter the ghost of
+Queen Asylla
+, one of the many poor souls claimed when
+King Leoric
+went mad. She charges the player with freeing the souls of her servants, who are cursed to languish away in their cells throughout the Hold, even death offering no respite from their torment.
+As the player frees each subject, he or she comes to the attention of
+The Warden
+, King Leoric's head jailer, who runs this place of misery even after death, who sends his undead minions to stop him or her. Once the last subject is freed, Asylla will entreat the player to travel to the center of the hold and destroy the Warden.
+Once the Warden is defeated, the player is free to travel further into the
+Halls of Agony
+. In the chamber near to the exit to this map, the player can watch a ghostly reenactment of Queen Asylla's execution by King Leoric and
+Archbishop Lazarus
+and read
+a message from Lazarus
+that lays bare his evil intentions.
+
+======================================================================
+PAGE: The Hidden Cellar
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Hidden_Cellar
+======================================================================
+
+The Hidden Cellar
+Act
+Act I
+Quests
+The Legacy of Cain
+Monsters
+Risen
+Uniques
+Captain Daltyn
+Adjacent Zones
+Adria's Hut
+Waypoint
+No
+The Hidden Cellar
+is a location in
+Act I
+of
+Diablo III
+. The entrance is found in
+Adria's Hut
+.
+Several
+Tristram Militia
+, including
+Captain Daltyn
+, hid here after being driven back by the
+Risen Dead
+, and shortly after passed away after which they became undead.
+This area is devoid of enemies on subsequent visits, though a chest can still spawn there.
+
+======================================================================
+PAGE: The Lyceum
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Lyceum
+======================================================================
+
+The Lyceum
+Act
+Act I
+Events
+The Crumbling Tower
+Monsters
+Dark Cultist
+,
+Dark Summoner
+Spawn:
+Dark Hellion
+Environment:
+Skeleton
+,
+Tomb Guardian
+Crumbling Tower:
+Dark Berserker
+Champions
+and
+Rares
+Dark Cultist
+,
+Dark Summoner
+Uniques
+Crumbling Tower:
+Tortured Soul
+Adjacent Zones
+Southern Highlands
+Waypoint
+No
+The Lyceum
+is a dungeon that can sometimes be entered from the
+Southern Highlands
+in
+Act I
+of
+Diablo III
+.
+The Crumbling Tower
+event
+will always begin upon entering, and a
+bounty
+may be offered to complete it.
+Exploring The Lyceum is required for the achievement
+No Stone Unturned
+.
+The Lyceum uses a layout and design similar to the
+Cathedral
+.
+Event
+The Crumbling Tower event always starts upon entering the dungeon, and only appears in The Lyceum. It requires finding and disrupting several rituals of the
+Coven
+.
+Explore The Lyceum
+Disrupt three Rituals
+After disrupting the final ritual, the
+Tortured Soul
+will spawn. Defeating it completes the event.
+Gallery
+Entrance to The Lyceum
+Map of the area
+
+======================================================================
+PAGE: The Vault
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Vault
+======================================================================
+
+For the
+Demon Hunter
+skill, see
+Vault
+.
+The Treasure Realm
+The Vault
+, otherwise known as
+Treasure Realm
+,
+Greed's Realm
+, or the
+Treasure Goblin Realm
+,
+is
+Greed's
+domain, where the
+Treasure Goblins
+hoard the riches found across the worlds.
+In
+Diablo III: Reaper of Souls
+, it is a short treasure-filled level with Greed as the
+boss
+. It can be accessed through portals rarely left behind by Treasure Goblins, or by transmuting a
+Puzzle Ring
+.
+The Ancient Vault
+is an even more lucrative version of the Vault from an
+Ancient
+ring.
+In-game
+The Vault is shaped like a cave of massive proportions, and countless passages can be seen in the background, with hundreds of Goblins travelling through these passages, in and out of the portals, chain carts carrying treasure above the players' heads. In-game, however, the dungeon is rather small and can be fully cleared in just a few minutes, for players visit but a small portion of the realm.
+Opening the way
+There is a very small chance that killing a Treasure Goblin will open a portal through which player(s) may enter the Treasure Realm. The portal can only appear at level 70 in
+Adventure Mode
+. Only players who were present when it appeared are able to enter it.
+Only one Vault portal can be opened at once, shared among all participating players.
+The portal can also be opened in
+town
+by transmuting a
+Puzzle Ring
+in
+Kanai's Cube
+, losing it in the process. The level of the ring affects the result: lower levels decrease the rewards received. On the other hand, using an
+Ancient/Primal
+ring opens
+The Ancient Vault
+, with the same layout as the normal one, but pitch black ambience and all Vault Sentries replaced with Treasure Goblins.
+Greed's Realm will close 60 seconds after opening the boss loot chest, instantly teleporting players still inside back to town. A new Vault portal can be opened after the previous one closes.
+Inside the Realm
+The game zone is named The Vault, or The Ancient Vault if an Ancient ring was transmuted. It is filled with piles, pots and chests of
+gold
+(millions per run) and
+gems
+(all of which are of Imperial quality). Numerous Treasure Goblins can be encountered here (hiding in the gold piles), and
+Hobgoblin
+Sentries and
+Peons
+try to stop the intruders. The Treasure Goblins hiding in the treasure piles, however, drop less loot than their normal brethren and are much more vulnerable to attack. Normal Treasure Goblins are very rare, but also eventually spawn.
+Some good choices of equipment can be a pairing of a
+Goldskin
+and a
+Goldwrap
+; together, these two pieces of equipment can escalate the player's
+Armor
+rating to an unreasonable level. This is also a good time to equip
+Custerian Wristguards
+on
+Followers
+, since aside from the large amounts of gold available, the usual choice of
+Nemesis Bracers
+has no benefit here, as there are no
+Shrines
+inside.
+The Inner Sanctum
+Main article:
+Greed
+At the end of the Vault lies the Inner Sanctum (previously "Grand Vault of the Realm"), a small circular zone with a massive gem mounted in the center. Greed herself sits on a throne of gold until disturbed. Treasure Fiends jump off her back when she charges into a wall during the
+boss
+fight; they can be slain for additional loot, but they
+cannot be interrupted
+from escaping into a portal after a short time.
+When Greed is killed, Greed's Strongbox falls gruesomely on top of her. Opening it drops extra loot and starts the 60 second zone shutdown timer.
+Town Portal
+cannot be used in The Inner Sanctum until after the chest is opened.
+Unique Monsters
+Baron Slothschild
+Bear Boesky
+Cornelius Panderbilt
+Goldenfingers
+Gorgon Gekko
+Harpagon
+Kroisos
+Mad Hoff
+Mort Duke
+Mounty Burns
+Mydas
+Ponzi
+Rezenebe Scruuge
+Rolph Duke
+Snitchley
+Tyloss Lannister
+Goblins
+Treasure Goblins
+:
+Blood Thief
+•
+Gelatinous Sire
+•
+Gem Hoarder
+•
+Gilded Baron
+•
+Insufferable Miscreant
+•
+Malevolent Tormentor
+•
+Menagerist
+•
+Odious Collector
+•
+Rainbow Goblin
+Treasure Realm
+:
+Vault Peon
+•
+Vault Sentry
+•
+Baroness Greed
+Other
+:
+Snitchley
+•
+Herald to the Queen
+Development
+"With the vastness of the cave system that holds the sea of treasures we really wanted to convey the epic size of Greed's Realm. So I created this system of rock formations that elevated the player so they can witness the majesty of this place. This area was one of my favorite places to work on because I was able to use new ways of creating assets as well as the tried and true 2.5D methods that are at the core of Diablo III's signature look."
+-
+Richie Marella
+(src)
+The Treasure Realm was designed after the
+Hobbit
+2014 film, Scrooge McDuck's Money Pit, and a bee hive.
+It was intended that the realm's in-game appearance convey how vast the area truly is. As such, rock formations hold the player above the realm as a whole in order to convey its true size. New methods were used to craft in-game assets for the realm.
+During the Patch 2.1.0 PTR, the zone name was Treasure Realm, and The Inner Sanctum was called the Grand Vault of the Realm.
+Patch changes
+Patch 2.1.0
+: Added.
+Patch 2.3.0
+: Kanai's Cube added, with
+Puzzle Ring
+transmutation opening a Vault portal.
+Patch 2.4.3
+: Can now run multiple Vaults in a game session, via timer after looting Greed's Strongbox.
+Patch 2.6.5
+:
+Ancient
+Puzzle Rings now open The Ancient Vault.
+Screenshots
+Literally
+every
+breakable object contains gold and gems
+Inner Sanctum
+Grand Vault and Greed
+Grand Vault can be seen in distance
+Entrance portal
+The Vault
+Loot
+Inner Sanctum door
+Inner Sanctum
+Inner Sanctum battle
+Inner Sanctum victory
+Inner Sanctum victory loot
+References
+Special Zones
+Diablo II
+Pandemonium Event Zones
+—
+Matron's Den
+•
+Forgotten Sands
+•
+Furnace of Pain
+•
+Über Tristram
+Easter Egg Zones
+—
+The Secret Cow Level
+Diablo III
+Easter Egg Zones
+—
+Whimsyshire
+(
+Whimsydale
+) •
+Development Hell
+•
+Not The Cow Level
+•
+The Vault
+•
+Kanai's Stomping Grounds
+
+======================================================================
+PAGE: The Wheeping Hollow
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Wheeping_Hollow
+======================================================================
+
+The Weeping Hollow
+Act
+Act I
+Monsters
+Scavenger
+,
+Ravenous Dead
+,
+Hungry Corpse
+,
+Retching Cadaver
+,
+Grotesque
+,
+Spawn:
+Corpse Worm
+,
+Crawling Torso
+,
+Hungry Torso
+Environment:
+Hungry Torso
+,
+Skeleton
+Preset:
+Rotting Corpses
+Champions
+and
+Rares
+Scavenger
+,
+Ravenous Dead
+,
+Hungry Corpse
+,
+Retching Cadaver
+,
+Grotesque
+,
+Rare Minion:
+Imp
+,
+Quill Fiend
+,
+Risen
+,
+Deathspitter
+,
+Spawn:
+Decayer
+Adjacent Zones
+New Tristram
+,
+Cemetery of the Forsaken
+Waypoint
+No
+The Weeping Hollow
+is a large outdoor area that leads to the
+Cemetery of the Forsaken
+in
+Act I
+of
+Diablo III
+.
+In this area the
+Hungry Torso
+can not only spawn from
+Hungry Corpse
+being severed but also from bushes.
+Skeletons
+can be also found but only if destroying coffins and sometimes from coffins emerging from the ground.
+The Corpse of the
+Blacksmith's Apprentice
+will always spawn in this area, and it is a bonus objective of
+A Shattered Crown
+quest, interacting causes the only
+Crawling Torso
+of the area to spawn.
+The
+tome
+Tree of the Hanged
+may also spawn in a random event - northeast of the Hollow, a coffin can be found with tombstones around it. When clicked, it spawns a few skeletons, which when killed will drop the tome.
+A lone desecrated grave with a sword can be found, if touched a horde of
+Ravenous Dead
+and three
+Retching Cadavers
+spawn. Other times four normal graves can be found with a dead villager beside, interacting has the same effect.
+Another random event can occur where the ground under the character turns blue and purple and a horde of skeletons spawn.
+Dungeons
+Den of the Fallen
+Level 1-2
+Spawnable Containers
+Chest
+Corpse of Blacksmith's Apprentice
+Dead Adventurer
+Dead Villager
+Log
+Rock Pile
+Rotten Log
+Rotten Coffin
+Stump
+
+======================================================================
+PAGE: The Worldstone Chamber
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/The_Worldstone_Chamber
+======================================================================
+
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+The Worldstone Chamber
+Act
+Act V
+Quests
+Eve of Destruction
+NPCs
+Tyrael
+Monsters
+Baal
+Adjacent Zones
+Throne of Destruction
+Area Level
+Normal
+43
+Area Level
+Nightmare
+66
+Area Level
+Hell
+85
+Waypoint
+No
+The Worldstone Chamber
+is part of the
+Worldstone Keep
+where
+Baal
+resides. It is also the resting place of the
+Worldstone
+.
+
+======================================================================
+PAGE: Throne of Destruction
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Throne_of_Destruction
+======================================================================
+
+Throne of Destruction
+Act
+Act V
+Quests
+Eve of Destruction
+Monsters
+Death Lord
+,
+Stygian Fury
+Uniques
+on
+Normal
+Death Lord
+,
+Stygian Fury
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Death Lord
+,
+Stygian Fury
+,
+Hell Witch
+Guest Monsters
+Undead Soul Killer
+,
+Assailant
+,
+Burning Soul
+,
+Dark Lord
+,
+Pit Lord
+,
+Horadrim Ancient
+,
+Oblivion Knight
+,
+Serpent Magus
+Minions:
+Doom Knight
+Uniques
+and
+Champions
+Quantity
+1-2 (Nightmare)
+4-5 (Hell)
+Super Unique Monsters
+Colenzo The Annihilator
+,
+Achmel The Cursed
+,
+Bartuc The Bloody
+,
+Ventar The Unholy
+,
+Lister The Tormentor
+Adjacent Zones
+The Worldstone Keep Level 3
+,
+The Worldstone Chamber
+Area Level
+Normal
+43
+Area Level
+Nightmare
+66
+Area Level
+Hell
+85
+Waypoint
+No
+The
+Throne of Destruction
+is
+Baal
+'s throne. It plays a role in the last quest of
+Act V
+(
+Eve of Destruction
+) where players have to face five waves of minions, each wave representing one of the five acts of the game, before Baal flees into his
+chamber
+. There players will face Baal himself.
+The area itself, along with its side chambers, is an area level 85 zone on
+hell
+since patch 1.10. The enemies here can drop some high level items compared to most other places in the game.
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Tinker's Hovel
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Tinker's_Hovel
+======================================================================
+
+The
+Tinker's Hovel
+is a small area in
+Fields of Misery
+in
+Act I
+of
+Diablo III
+.
+It is located on the North side of
+Fields of Misery
+in the little nook called
+Sheltered Cottage
+. It has the
+Wandering Tinker
+inside with a shop.
+There will always be a satchel outside "Tinker's Possessions" with a
+tome
+in it, called
+Wandering Tinker's Diary
+.
+This article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Underground Passage
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Underground_Passage
+======================================================================
+
+The Underground Passage
+Act
+Act I
+Quests
+None
+Levels
+2
+Monsters
+Misshapen
+,
+Skeleton Archer
+,
+Carver
+,
+Vile Hunter
+Minions:
+Fallen
+Preset:
+Fallen Shaman
+Adjacent Zones
+Stony Field
+,
+Dark Wood
+Area Level
+Normal
+4
+Area Level
+Nightmare
+37, 38
+Area Level
+Hell
+Original:
+69, 83
+Resurrected:
+69, 85
+Waypoint
+No
+The
+Underground Passage
+can be found in
+Act I
+, following a path through
+Stony Field
+.
+The Underground Passage boasts two floors, and connects Stony Field and
+Dark Wood
+. The player will be first asked to travel through here during the
+Search for Cain
+quest.
+The first floor of the Underground Passage will lead to two locations: the stairs to the Dark Wood, and the second level of the passage.
+The stairs to Dark Wood is shown in red on the map and the entrance to the second level is shown in yellow.
+The second floor is optional, and contains a golden treasure chest for the player to claim.
+Several monsters inhabit both floors of the Underground Passage, including
+Skeletons
+,
+Corrupted Rogues
+, and
+Tainted
+. Large groups of
+Carvers
+and
+Fallen
+are also present, the latter including their
+Shamans
+as well. No specific
+Super Unique
+is present in the Underground Passage, though the second floor may contain one or two randomized Uniques, as well as Champions.
+In
+Diablo II: Resurrected
+, the second level of the Underground Passage is a TC85 area. The difficulty locating it on randomly generated maps and its low number of monsters makes it a sub-optimal end-game area for farming TC87 items.
+In
+Diablo II: Resurrected
+, the Underground Passage can become
+terrorized
+. Whenever it becomes a terror zone, the
+Dark Wood
+also becomes terrorized. Both have average monster and unique density, and both are fairly accessible due to the Dark Wood's
+waypoint
+. This remains unchanged in
+Diablo II: Resurrected – Reign of the Warlock
+. The Dark Wood and Underground Passage are a good set of terror zones for farming
+heralds of terror
+, due to the large size of the zones involved, good monster density, and the fact that there are effectively three terror zones (Underground Passage level 1 and 2, alongside the Dark Wood).
+The Underground Passage Level 2
+This location article is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+
+======================================================================
+PAGE: Westmarch Chapel
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Westmarch_Chapel
+======================================================================
+
+Zakarum Cathedral
+Act
+Act V
+Quests
+Souls of the Dead
+Monsters
+Kasadya
+Adjacent Zones
+The Survivors' Enclave
+The
+Zakarum Cathedral
+, otherwise referred to as the
+Westmarch Chapel
+,
+Church of the Holy Light
+or
+Church of the Holy Order
+is a
+Zakarum
+structure in
+Westmarch
+.
+Lore
+After passing through the main alcove, one enters the vast inner hall, made entirely of stone. The floor is inlaid with a pattern of lines like a web.
+History
+The cathedral was once used as the headquarters of the
+Knights of Westmarch
+before they became a more secular order. However, they always considered the cathedral their own.
+Storm of Light
+This section is a
+stub
+. You can help the Diablo Wiki to become more awesome by
+expanding it
+.
+Reaper of Souls
+During the
+Reapers
+' attack on the city, the cathedral was used as a place of sanctuary for refugees. However, the Reapers were able to gain entrance, killing many of those inside. Their deaths were avenged by
+the Nephalem
+.
+In-game
+The cathedral appears in
+Act V
+of
+Diablo III
+. This area must be explored in order to complete the achievement
+Ghost N Stuff
+.
+Inside, one will find a
+Soul Crucible
+and
+Death Maiden
+Kasadya
+guarding it.
+Once accessed during the quest, this area may not be revisited in
+Campaign Mode
+, but is open in
+Adventure Mode
+. Inside, there is a chance to find a
+Mysterious Chest
+containing
+God Butcher
+.
+Known Members
+Minister
+Gorja Caspan
+Images
+The Nephalem
+with allies storming the Cathedral
+Outside entrance
+References
+
+======================================================================
+PAGE: Worldstone Keep
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Worldstone_Keep
+======================================================================
+
+W. Keep 1
+W. Keep 2
+W. Keep 3
+The Worldstone Keep Level 1
+Act
+Act V
+Quests
+Eve of Destruction
+Monsters
+Defiled Warrior
+,
+Vile Witch
+,
+Fetid Defiler
+Spawn:
+Menace Worm
+Uniques
+on
+Normal
+Vile Witch
+,
+Wretched Defiler
+,
+Blood Lord
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Fetid Defiler
+,
+Death Lord
+Spawn:
+Menace Worm
+Guest Monsters
+Unholy Corpse
+,
+Vile Witch
+,
+Invader
+,
+Black Lancer
+,
+Flesh Spawner
+,
+Hierophant
+,
+Ghoul Lord
+,
+Soul Killer Shaman
+Minions:
+Zealot
+,
+Soul Killer
+,
+Soul Killer Blowdart
+Spawn:
+Flesh Beast
+Uniques
+and
+Champions
+Quantity
+2-3 (Nightmare)
+6-8 (Hell)
+Adjacent Zones
+Arreat Summit
+, Worldstone Keep Level 2
+Area Level
+Normal
+39
+Area Level
+Nightmare
+65
+Area Level
+Hell
+85
+Waypoint
+No
+The Worldstone Keep Level 2
+Act
+Act V
+Quests
+Eve of Destruction
+Monsters
+Frenzied Ice Spawn
+,
+Greater Hell Spawn
+Uniques
+on
+Normal
+Greater Hell Spawn
+,
+Hell Lord
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Frenzied Ice Spawn
+Guest Monsters
+Greater Hell Spawn
+,
+Soul Killer
+,
+Fiend
+,
+Serpent Magus
+,
+Cadaver
+,
+Horror Mage P
+,
+Horadrim Ancient
+,
+Steel Scarab
+,
+Black Soul
+Uniques
+and
+Champions
+Quantity
+2-3 (Nightmare)
+6-8 (Hell)
+Adjacent Zones
+Worldstone Keep Level 1, Worldstone Keep Level 3
+Area Level
+Normal
+40
+Area Level
+Nightmare
+65
+Area Level
+Hell
+85
+Waypoint
+Yes
+The Worldstone Keep Level 3
+Act
+Act V
+Quests
+Eve of Destruction
+Monsters
+Death Lord
+,
+Rancid Defiler
+,
+Demon Sprite
+Spawn:
+Anguish Worm
+Uniques
+on
+Normal
+Death Lord
+,
+Fetid Defiler
+,
+Stygian Fury
+(Uniques are disabled on Normal)
+Monsters
+-
+Nightmare
+,
+Hell
+Death Lord
+,
+Rancid Defiler
+,
+Demon Sprite
+,
+Stygian Fury
+,
+Hell Tempress
+,
+Blood Boss
+Minions:
+Fire Boar
+Spawn:
+Anguish Worm
+Guest Monsters
+Storm Caster
+,
+Oblivion Knight
+,
+Soul Killer Blowdart
+,
+Horror Mage L
+,
+Specter
+Minions:
+Doom Knight
+Uniques
+and
+Champions
+Quantity
+2-3 (Nightmare)
+6-8 (Hell)
+Adjacent Zones
+Worldstone Keep Level 2,
+Throne of Destruction
+Area Level
+Normal
+42
+Area Level
+Nightmare
+66
+Area Level
+Hell
+85
+Waypoint
+No
+The
+Worldstone Keep
+is the last building, protected by three
+Ancients
+, where
+Baal
+is. The entrance is sealed until those Ancients are defeated.
+The most fearsome
+Oblivion Knights
+can be found there at
+Nightmare Difficulty
+and
+Hell Difficulty
+.
+It is also one of the area level 85 zones on
+Hell
+added in patch 1.10, meaning the monsters there have a chance of dropping high level items compared to other places - however, due to the
+Willowisps
+and
+Oblivion Knights
+it might not be the easiest place to do
+Magic Find
+runs.
+
+======================================================================
+PAGE: Xephiria
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Xephiria
+======================================================================
+
+Xephiria
+is, according to legend, a mythical place that exists in/within range of
+Sanctuary
+. Many say it never existed, but at least
+one artifact
+says otherwise.
+References
+
+======================================================================
+PAGE: Über Tristram
+CATEGORIES: Locations
+URL: https://diablo.fandom.com/wiki/Über_Tristram
+======================================================================
+
+Über Tristram
+Act
+Act V
+Quests
+Pandemonium Event
+Monsters
+Mephisto
+:
+Returned
+Horror Archer
+Burning Dead Mage (Fire)
+Bone Mage (Cold)
+Horror Mage (Lightning)
+Horror Mage (Poison)
+Diablo
+:
+Pit Lord
+Baal
+:
+Specter
+Dark Lord
+(All are spawned by the Übers)
+Super Unique Monsters
+Über Baal
+Über Mephisto
+Pandemonium Diablo
+Adjacent Zones
+Harrogath
+Area Level
+Normal
+50
+Area Level
+Nightmare
+75
+Area Level
+Hell
+83
+Waypoint
+No
+Über Tristram
+is a special zone that can be accessed only during the
+Pandemonium Event
+. It is an exact copy of the destroyed
+Tristram
+that is found in
+Act I
+.
+In this version of the town, high leveled players must take up the task of defeating the combined forces of the all-powerful
+Prime Evils
+:
+Über Baal
+,
+Über Mephisto
+, and
+Pandemonium Diablo
+.
+Background
+Note: considering that the Pandemonium Event is a Battle.net only quest and is not available in the Single player or even open Battle.net games, it is generally not considered to be a part of official lore.
+"After her legions of Succubi and strongest daughter
+Andariel
+were killed by
+mortals
+who successfully defended the
+Worldstone
+,
+Lilith
+, the Queen of the
+Succubi
+and matron of all
+demons
+, swore to personally intervene. She masterminded the revival of
+Diablo
+by manifesting herself in the mortal realm and performing a ritual of Dark Summoning. This ritual, long thought to be impossible by the most powerful mortal wizards, allowed Lilith to link with Diablo across realms, strengthening him until he was finally able to once again reincarnate himself in the mortal plane. Rage and a deep yearning for revenge boiled within the eyes of the Lord of Terror, and together he and Lilith resurrected the two remaining Prime Evils as well as
+Duriel
+and
+Izual
+, two of their strongest agents.
+Diablo announced his grand plan - the Three were finally strong enough to spread Pandemonium throughout
+Sanctuary
+. The Three amassed their forces in a ravaged outpost within the mortal realm - Über Tristram. It is only here that heroes can hope to best the Three once more, and save Sanctuary from certain destruction."
+- Lilith's description
+(src)
+Additional Information
+Once the player(s) has/have all of the three
+Major Keys
+, they may go back to Harrogath and transmute them in the
+Horadric Cube
+. This will create the
+portal
+to Über Tristram.
+Über Tristram has the same base structure as the regular Tristram, but has a pack-load of hellish
+monsters
+, like the rare and powerful
+Balrogs
+. There are also varieties of
+Unique Monsters
+,
+Champions
+and their minions along with the masters of the pack, the Über Prime Evils themselves. The main objective for the player(s) upon reaching Über Tristram is to find and defeat
+Über Baal
+,
+Über Mephisto
+, and
+Pandemonium Diablo
+(called so since
+Über Diablo
+already exists in-game as part of another
+event
+).
+Über Mephisto has a level 20
+Conviction
+Aura
+, which applies a -125% penalty to the cold, fire, and lightning resistances of players and player allies, and he summons
+Skeleton Mages
+and
+Archers
+everywhere, which can be a challenge as well. Pandemonium Diablo is a "tank" for Über Baal. He has tons of
+life
+and summons
+Pit Lords
+which are
+immune
+to everything but Physical
+damage
+. Über Baal is pretty much the same as
+Hell
+difficulty
+Baal
+. He has a little more life though, and summons
+Ghoul Lords
+and
+Ghosts
+, which are both
+Physical
+Immune.
+Once the player(s) kills them, the last one of them to die will give the player(s) the
+Hellfire Torch
+, a
+Unique
+Large Charm
+which gives +3 to any one of a certain
+class
+'
+skills
+, and random amounts of
+resistances
+and
+attributes
+, and the
+Standard of Heroes
+. The Standard of Heroes is a symbol that shows that the player(s) has/have completed this
+quest
+successfully.
+Tips for Players
+One simple way to kill all of the three Übers in particular, is with the
+Smiter
+build
+.
+A fool-proof way to kill the Übers is to run straight up when you enter the portal. Then go around to the left and go halfway down. Then slowly walk toward the center of Tristram. This causes Diablo and Baal to charge at you. Run away to the left and top again so Mephisto doesn't instantly kill you. Then work on Diablo first because his Pit Lords can kill you pretty quickly. Baal comes next. It may take a few tries, but make sure you make your game permanent, so if you die, you can save and exit and come back. After the two easiest are dead, Mephisto is left. He is easily the hardest monster in the entire game, though there are a few different ways to kill him.
+Depending on your skill as a player, the speed of your computer, and the ability of your build. The first way to kill him is to just charge in and attack like a madman. If Life Tap isn't cast within the first 10-15 seconds, you will die and have to start over again, though by going to the various magic vendors (such as
+Akara
+in Act I) you can buy a
+Wand
+with charges of
+Life Tap
+. Simply by having the wand in your second
+weapon
+set allows you to cast Life Tap before going in, making all of the three bosses trivial and eliminating the luck factor involved with other methods. The second way to kill him is to trigger him, then run into a building
+away
+from the portal, and let him follow you into it and get stuck. Then, either
+teleport
+out (if you're wearing
+Enigma
+), die, or save and exit. Then, after you're back in the game, run straight to the house and attack him. Since he is kept away from his minions, his Conviction Aura is less of a threat, though this may take a few tries.
+Pandemonium Event
+Locations
+—
+Forgotten Sands
+•
+Furnace of Pain
+•
+Matron's Den
+•
+Über Tristram
+Bosses
+Keywardens —
+The Countess
+•
+Summoner
+•
+Nihlathak
+Sub-bosses —
+Über Duriel
+•
+Über Izual
+•
+Lilith
+Über Tristram
+bosses
+—
+Über Baal
+•
+Pandemonium Diablo
+•
+Über Mephisto
+Items
+Keys —
+Key of Hate
+•
+Key of Terror
+•
+Key of Destruction
+Organs —
+Mephisto's Brain
+•
+Diablo's Horn
+•
+Baal's Eye
+Rewards —
+Hellfire Torch
+•
+Standard of Heroes
+Special Zones
+Diablo II
+Pandemonium Event Zones
+—
+Matron's Den
+•
+Forgotten Sands
+•
+Furnace of Pain
+•
+Über Tristram
+Easter Egg Zones
+—
+The Secret Cow Level
+Diablo III
+Easter Egg Zones
+—
+Whimsyshire
+(
+Whimsydale
+) •
+Development Hell
+•
+Not The Cow Level
+•
+The Vault
+•
+Kanai's Stomping Grounds

@@ -1,0 +1,1384 @@
+
+======================================================================
+PAGE: Campaign heroes
+CATEGORIES: Heroes
+URL: https://ageofwonders.fandom.com/wiki/Campaign_heroes
+======================================================================
+
+This page lists
+heroes
+that appear in the
+single player campaign
+in
+Age of Wonders
+.
+Overview
+Non-leader heroes
+Most non-leader heroes are standard heroes from the
+hero library
+. These heroes generally begin with their standard starting stats and abilities set in the hero library. In some cases, customized non-leader heroes also appear in the campaign.
+Heroes who can offer to join the player belong to one of the following two categories:
+Free heroes
+are those that are not initially placed on the map, but are eligible to emerge if emergence conditions are met or if the
+Call Hero
+spell is used. Emergence of free heroes depends on the current number of heroes that a player already has and diplomatically favorable conditions, which generally requires that the player (or AI faction) has sufficiently high relations with the race of the hero. Most free heroes are designed to potentially appear on the side of the player by being of a race that is aligned with the race of the player-controlled faction, but some have an alignment for which it is unlikely for them to join the player-controlled faction.
+Independent heroes
+(i.e., not aligned with any faction) that are set to "
+refugee
+" status will offer to join upon being approached by a unit controlled by the player. These heroes are labeled "Independent-refugee" in the list below.
+Heroes not belonging to one of the above categories are pre-assigned to one of the AI-controlled factions on the map. These heroes cannot be directly recruited by the player, but can nonetheless be captured by the player using
+Dominate
+,
+Charm
+, or
+Seduce
+.
+Leader heroes
+Leaders
+are not drawn from any standard list but instead have names and starting stats/abilities customized to each campaign scenario. Besides the leader heroes listed below, the campaign also features a player-created protagonist, who is, by default, an Elf named Elric in the
+Keepers campaign
+or a Dark Elf named Tallic in the
+Cult of Storms campaign
+.
+Leader customization
+is permitted for the protagonist leader, if desired by the player.
+Heroes with unique portraits
+In the data below, the "
+unique
+" superscript tag refers that have a unique portrait and are also not part of the hero library. These heroes, which are typically leader heroes, are generally characters that have significance to the plot of
+Age of Wonders
+. Besides the unique portrait, these characters function as standard heroes and leaders for purposes of gameplay.
+Part 1 scenarios
+Halflings (Keepers campaign)
+Goblin Rush
+CPU Leaders: Bunto (Goblins)
+The Northern Trade Route
+Devon Strongberry (Independent-refugee, Halfling) - Custom hero using the portrait of
+Winger Lightfinger
+Gorthak the Black
+(Independent, Orc)
+CPU Leaders: Lord Gror (Orcs)
+Subterranean Path
+CPU Leaders: Gorbat (Orcs), Hallion (Dwarves)
+United Cities
+CPU Leaders: Orag (Orcs), Esalan (Elves), Rolar (Goblins), Lord Thakor (Frostlings)
+Goblins (Cult of Storms campaign)
+Prelude to War
+CPU Leaders:
+Elwyn
+Unique
+(Elves)
+The Northern Trade Route
+Gorthak the Black
+(Independent-refugee, Orc)
+Devon Strongberry (Independent, Halfling)
+CPU Leaders: Olowyn (Halflings)
+Subterranean Path
+CPU Leaders: Gorbat (Orcs), Hallion (Dwarves)
+United Cities
+CPU Leaders: Orag (Orcs), Esalan (Elves), Merwe (Halflings), Lord Thakor (Frostlings)
+Part 2 scenarios
+Dwarves (Keepers-exclusive)
+Earthquake
+Bandir the Fiery
+(Free hero, Dwarf)
+Jattah the Leper
+(Goblins)
+Doktok the Fat
+(Orcs)
+Sister Tersia
+(Goblins)
+CPU Leaders: Protier (Goblins), Argrad (Orcs)
+Mining Outpost
+Arnus Strongbow
+(Free hero, Elf)
+Bjern Wolfsong
+(Frostlings)
+Eclo Frostbite
+(Frostlings)
+CPU Leaders: Gilas (Frostlings)
+Hall of Heroes
+Bormac Orcbane (Independent-refugee, Dwarf) - Custom hero using a generic Dwarf leader portrait
+Haldak (Independent-refugee, Dwarf) - Custom hero using a generic Dwarf leader portrait
+Nyshia (Independent-refugee, Halfling) - Custom hero using the portrait of
+Lilly Whiteleaf
+Norshin War Priest
+(Frostlings)
+Vandir the Exile
+(Dark Elves)
+CPU Leaders: Hagar (Frostlings), Celarn (Dark Elves)
+The Safelands
+Ham Binger
+(Free hero, Halfling)
+Thomac Stonecrusher
+(Free hero, Dwarf)
+Azktor the Unholy
+(Orcs)
+Forok the Bloated
+(Lizardmen)
+Tirlas Nightguar
+d (Dark Elves)
+Freya the Seer
+(Frostlings)
+CPU Leaders: Baibalar (Frostlings),
+Melenis
+Unique
+(Dark Elves), Sall (Lizardmen), Borgast (Orcs)
+Orcs (Cult-exclusive)
+Uniting the Clans
+Borak the Brute
+(Free hero, Orc)
+Sister Tersia
+(Free hero, Goblin)
+Katar the Gladiator
+(Azracs)
+Bandir the Fiery
+(Dwarves)
+CPU Leaders: Merodin (Halflings), Ollac (Dwarves), Jugac (Azracs)
+Goblin Revolt
+Doktok the Fat
+(Free hero, Orc)
+Esmeralda the Healer
+(Free hero, Human)
+Jattah the Leper
+(Goblins)
+Lilly Whiteleaf
+(Halflings)
+Thomac Stonecrusher
+(Dwarves)
+CPU Leaders: Gurki (Goblins), Brack (Dwarves), Cail (Halflings)
+Ashen Steppe
+Fakana Poisoner
+(Free hero, Orc)
+Makai the Preacher
+(Free hero, Goblin)
+Karum the Mighty
+(Azracs)
+Roderick Nightrunner
+(Humans)
+Sha'rah Sundance
+(Azracs)
+CPU Leaders: Emperor Sadac (Azracs), Lugan (Humans)
+Facing a Legend
+Azktor the Unholy
+(Free hero, Orc)
+Namru the Forsaken
+(Humans faction, Highman hero)
+Forok the Bloated
+(Lizardmen)
+Resh Redhead
+(Lizardmen)
+Tarash the Shaman
+(Lizardmen)
+Ham Binger
+(Dwarves faction, Halfling hero)
+Tondor Grimstone
+(Dwarves)
+CPU Leaders: Bormac Orcbane (Dwarves), Kax'l (Lizardmen), Jican (Humans)
+Lizardmen
+Southern Marsh
+Shai Eggbuster
+(Free hero, Lizardman)
+Eclo Frostbite
+(Frostlings)
+CPU Leaders: Perthas (Frostlings)
+Peninsula of Sobek
+Tarash the Shaman
+(Free hero, Lizardman)
+Doktok the Fat
+(Orcs)
+Esmeralda the Healer
+(Humans)
+Sondra the Priestess
+(Dwarves)
+CPU Leaders: Brolloc (Orcs), Sedric (Humans), Audroc (Dwarves)
+Serpent River
+Forok the Bloated
+(Free hero, Lizardman)
+Arnus Strongbow
+(Elves)
+Dactor Deathbringer
+(Undead)
+Azktor the Unholy
+(Orcs)
+Ham Binger
+(Halflings)
+Karum the Mighty
+(Azracs)
+Khabar Eagle Eye
+(Humans)
+Tondor Grimstone
+(Dwarves)
+CPU Leaders: Lendor (Elves), Brack (Azracs), Angras (Dwarves), Thorac (Orcs), Ardanos (Humans), Shivum (Undead), Merdeth (Halflings)
+Blackwater Lake
+Resh Redhead
+(Free hero, Lizardman)
+Thomac Stonecrusher
+(Free hero, Dwarf)
+Bandir the Fiery
+(Dwarves)
+Dactor Deathbringer
+(Undead)
+Jattah the Leper
+(Orcs faction, Goblin hero)
+Namru the Forsaken
+(Humans faction, Highman hero)
+Roderick Nightrunner
+(Humans)
+CPU Leaders: Goldar (Humans), Kasdar (Orcs), Bolac (Dwarves)
+Part 3 scenarios
+Elves (Keepers-exclusive)
+Invasion
+Jiswyn Treesong
+(free hero, Elf)
+Meridon the Wise
+(free hero, Halfling)
+Zodar Foulface
+(Undead)
+CPU Leaders: Igneon (Undead)
+Wizard College
+Sondra the Priestess
+(Free)
+CPU Leaders:
+Melenis
+Unique
+(Goblins faction, Undead hero)
+Upon the Rocks of Sacrifice
+Arnus Strongbow
+(Free hero, Elf)
+Lingolas the Hermit
+(Free hero, Elf)
+Alexandra Lifestealer
+(Undead)
+Dactor Deathbringer
+(Undead)
+Vandir the Exile
+(Dark Elves)
+CPU Leaders: Aleas (Dark Elves), Morrandir (Undead)
+Last Goodbye
+Menfir Oakleaf
+(Free hero, Elf)
+Acara the Spider
+(Dark Elves)
+Tanaris the Knowing
+(Dark Elves)
+CPU Leaders: Rylthar (Dark Elves)
+Dark Elves (Cult-exclusive)
+Arcalot
+Arnus Strongbow
+(Free hero, Elf)
+Tirlas Nightguard
+(Free hero, Dark Elf)
+Dactor Deathbringer
+(Undead)
+Jiswyn Treesong
+(Elves)
+CPU Leaders: N'calar (Undead), Elendore (Elves)
+Noble Treachery
+Affer Tharic (Azracs faction, Dark Elf hero) - Custom hero using the portrait of
+Tirlas Nightguard
+Hamael Tharic (Lizardmen faction, Dark Elf hero) - Custom hero using the portrait of
+Tanaris the Knowing
+Loran Tharic (Frostlings faction, Dark Elf hero) - Custom hero using the portrait of
+Vandir the Exile
+CPU Leaders: Tallenvor (Frostlings), Galloc (Lizardmen), Barsaio (Azracs)
+Inioch's Touch
+Vandir the Exile
+(Free hero, Dark Elf)
+Atam the Righteous
+(Highmen)
+Zodar Foulface
+(Undead)
+CPU Leaders: Berion Lewas (Highmen), Ugoth (Undead)
+The Storm Breaks Loose
+Acara the Spider
+(Free hero, Dark Elf)
+Tanaris the Knowing
+(Free hero, Dark Elf)
+Caspar the Pious
+(Highmen)
+Lingolas the Hermit
+(Dwarves faction, Elf hero)
+Menfir Oakleaf
+(Elves)
+Meridon the Wise
+(Halflings)
+CPU Leaders: Malvosin (Highmen), Alymer (Elves), Olwyn (Halflings) Olan Mersattle (Dwarves)
+Highmen
+Gabriel's Last Stand
+Atam the Righteous
+(Free hero, Highman)
+Zodar Foulface
+(Undead)
+CPU Leaders: Harbak (Undead)
+Unicorn Valley
+Isabelle the Serene
+(Free hero, Highman)
+Jiswyn Treesong
+(Elves)
+Menfir Oakleaf
+(Elves)
+CPU Leaders: Falwe (Elves)
+Garrison Supply
+Namru the Forsaken
+(Free hero, Highman)
+Alexandra Lifestealer
+(Undead)
+Tanaris the Knowing
+(Dark Elves)
+CPU Leaders: Velachar (Dark Elves), Olac (Frostlings), Xuerxus (Undead)
+Pass of Grief
+Caspar the Pious
+(Free hero, Highman)
+Danto Dragonslayer
+(Free hero, Human)
+Igor the Liche
+(Undead)
+CPU Leaders: Arcanos (Undead)
+Undead
+The Skull
+Igor the Liche
+(Free hero, Undead)
+Vandir the Exile
+(Dark Elves)
+CPU Leaders: Tecamu (Dark Elves)
+The Isle of Burbatak
+Alexandra Lifestealer
+(Free hero, Undead)
+Danto Dragonslayer
+(Humans)
+Isabelle the Serene
+(Highmen)
+Shai Eggbuster
+(Lizardmen)
+Tirlas Nightguard
+(Dark Elves)
+CPU Leaders: Thajan (Humans), Kolari (Lizardmen), Surinni (Dark Elves), Grunnold (Frostlings), Uri (Highmen)
+Opposition
+Conan McHarr
+(Humans)
+Lingolas the Hermit
+(Elves)
+Menfir Oakleaf
+(Elves)
+Tanaris the Knowing
+(Dark Elves)
+CPU Leaders: Galen (Elves), Lazerus (Humans), Flaire (Highmen), Malador (Dark Elves)
+Pass of Grief
+Zodar Foulface
+(Free hero, Undead)
+Caspar the Pious
+(Highmen)
+CPU Leaders: Ulfius (Highmen)
+Finale
+Valley of Wonders
+The following characters appear as leaders if their respective faction is not controlled by the player, or as non-leader heroes if the faction is controlled by the player:
+Julia
+Unique
+(Elves)
+Lord Inioch
+Unique
+(Undead)
+Meandor
+Unique
+(Dark Elves)
+Gabriel
+Unique
+(Highmen)
+The following characters appear as non-leader heroes if their respective faction is not controlled by the player:
+Gadarn (Dark Elves faction, Orc hero) - Custom hero using a generic Orc leader portrait
+Elric or Khelan (Elves) - Custom hero using a generic Elf leader portrait (note: Elric uses the default name and portrait of the player character in the Keepers campaign)
+Thoran (Highmen) - Custom hero using a generic Highman leader portrait
+Elwyn
+Unique
+(Undead)
+The following characters appear for the Humans faction:
+Sirdanc the Changed
+Unique
+Tirilius - Custom hero using a generic Human leader portrait
+CPU Leader: Joseph
+
+======================================================================
+PAGE: Hero (Age of Wonders)
+CATEGORIES: Heroes
+URL: https://ageofwonders.fandom.com/wiki/Hero_(Age_of_Wonders)
+======================================================================
+
+A
+hero
+in
+Age of Wonders
+is a special
+unit
+with the freedom to choose which
+abilities
+to learn and
+stats
+to improve when they advance in
+experience level
+.
+Overview
+Leaders and non-leader heroes
+Heroes are classified into
+leader
+heroes and non-leader heroes. Leaders have special gameplay properties and are "essential" in that any leader on the map must remain alive or else their faction is defeated.
+Leader customization
+can be used to customize a leader's starting stats and abilities. For additional details on how leaders differ from ordinary heroes, please see the above-linked article for leaders.
+Non-leader heroes serve as additional heroes besides the leader. Non-leader heroes do not have customizable starting stats and abilities, but can acquire new stats and abilities through level-up in the same manner as leaders. In the
+campaign
+and
+standalone scenarios
+, non-leader heroes are typically drawn from the standard hero set in the
+hero library
+and start with their starting stats and abilities as defined in the library.
+Non-leader heroes cost
+5 plus
+2 for each level of the hero in
+upkeep
+per turn. In the campaign, heroes have a transfer value of 37 + level × 25 for purposes of transferring them between successive scenarios.
+Hero leveling
+Main article:
+Hero leveling
+Heroes can advance up to an experience level of 30. Heroes begin with 25 base skill points and acquire 10 additional skill points for each level beyond level 1. The 10 additional skill points gained by leveling can be spent on stats and/or abilities. The skill point cost to increase each stat by 1 is as follows:
+Attack (
+) - 5 skill points
+Defense (
+) - 5 skill points
+Damage (
+) - 10 skill points
+Resistance (
+) - 5 skill points
+Health (
+) - 5 skill points
+Movement (
+) - 2 skill points
+Abilities can cost anywhere from 5 to 20 skill points, and some abilities such as
+Turn Undead
+and
+Marksmanship
+have multiple levels that can be invested in. Some abilities are not available in the level-up interface but can be acquired during leader customization. Heroes are the only units that can cast
+spells
+(i.e. the only units that can possess the
+Spell Casting
+ability) or use
+items
+.
+Base stats and abilities
+Heroes have base stats and abilities depending on their race. Base abilities are "fixed" even in the hero customization screen, meaning that they cannot be removed for a given race. In addition to the abilities listed below, a leader hero will have
+Spell Casting I
+.
+Race
+Base Stats
+Base Abilities
+Combat
+Movement
+Other
+Azrac
+4
+2
+3
+3
+10
+36
+Strike
+Walking
+Fire Protection
+Dark Elf
+3
+2
+3
+5
+10
+36
+Strike
+Walking
+Night Vision
+Dwarf
+3
+3
+4
+4
+10
+32
+Strike
+Walking,
+Cave Crawling
+,
+Mountaineering
+(
+)
+Elf
+3
+3
+3
+3
+10
+36
+Strike
+Walking,
+Forestry
+(
+)
+Frostling
+3
+3
+3
+3
+10
+32
+Strike
+Walking
+Cold Protection
+Goblin
+3
+3
+3
+2
+10
+32
+Strike
+Walking,
+Cave Crawling
+Night Vision
+Halfling
+3
+3
+3
+4
+10
+32
+Strike
+Walking
+Highman
+3
+3
+3
+4
+10
+36
+Strike
+Walking
+Holy Protection
+,
+True Seeing
+Human
+3
+3
+3
+3
+10
+36
+Strike
+Walking
+Lizardman
+3
+3
+3
+2
+10
+32
+Strike
+Walking,
+Swimming
+(
+)
+Orc
+3
+3
+4
+3
+10
+36
+Strike
+Walking
+Night Vision
+Undead
+2
+3
+3
+3
+10
+36
+Strike
+Walking
+Cold Protection,
+Death Immunity
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+As shown above, heroes of different races have different base stats and abilities. The total skill point value of the starting stats and abilities for each race is shown below.
+Race
+Skill Point Value
+Base Stats
+Abilities
+Total
+Azrac
+197
+5
+202
+Dark Elf
+202
+5
+207
+Dwarf
+204
+10
+214
+Elf
+197
+5
+202
+Frostling
+189
+5
+194
+Goblin
+184
+10
+194
+Halfling
+194
+194
+Highman
+202
+10
+212
+Human
+197
+197
+Lizardman
+184
+*
+184
+Orc
+207
+5
+212
+Undead
+192
+35*
+227
+*Lizardmen and Undead have abilities that cannot be acquired normally, whether during level-up or leader customization. Among these abilities, Death Immunity and Poison Immunity (base abilities for Undead heroes) have a skill point value of 10 if assigned to leaders in the map editor, while Swimming (base ability for Lizardman heroes) has no internal skill point value since it is not freely assignable to leaders even in the map editor.
+Acquiring heroes
+Heroes can be acquired through multiple means:
+Each faction on a map starts with a leader (except in a
+non-campaign scenario
+in which the "leaders on map" setting is switched off).
+Free heroes
+may offer to join as a random event as a leader acquires fame.
+Free heroes can be summoned through the
+Call Hero
+spell, after which they may offer to join when approached if diplomatic conditions are favorable.
+Independent heroes encountered in the campaign may offer to join when approached.
+Heroes may offer to join when freed from dungeons.
+Heroes can be captured using
+Dominate
+,
+Charm
+, or
+Seduce
+.
+Heroes can be
+resurrected
+or
+reanimated
+through spells.
+See also
+Campaign heroes
+Hero library
+Leader
+Hero leveling
+, for a list of abilities that can be learned when a hero levels up
+Leader customization
+, for a list of abilities that can be learned when a leader is customized
+
+======================================================================
+PAGE: Leader
+CATEGORIES: Heroes
+URL: https://ageofwonders.fandom.com/wiki/Leader
+======================================================================
+
+A
+leader
+is a
+hero
+in
+Age of Wonders
+with additional properties and gameplay functions. A leader represents a certain faction and its diplomatic relations. In scenarios in which the leader is on the map, the leader is also an indispensable hero for that faction—the loss of a leader in battle results in immediate defeat for the faction (or an immediate game over screen if that faction is controlled by the player). Graphically, leaders use in-game sprites different from those of non-leader heroes.
+Gameplay
+As a
+unit
+, leaders have all functions of heroes, including the same set of
+statistics
+, as well as the following additional properties:
+All leaders begin with
+Spell Casting
+as a free base
+ability
+, whereas non-leader heroes must spend 20 skill points to learn Spell Casting (or have it pre-learned with 20 skill points pre-allocated).
+Leaders are immune to unit-capturing abilities, namely
+Charm
+,
+Seduce
+,
+Dominate
+, and
+Possess
+. Leaders can be targeted by such abilities, but use of the ability on them will always fail.
+Leaders cannot desert a faction.
+Leaders do not have any upkeep cost, and do not have any transfer cost between successive scenarios in the
+campaign
+.
+A leader that is on the map provides an income of 5 mana per day (this mana income is not given if "leader on map" is disabled).
+Leaders can be customized through the
+leader customization
+interface at the start of the campaign or a standalone scenario. This enables leaders to acquire certain create-only abilities that cannot be acquired by non-leader heroes (unless the non-leader hero is preconfigured with that ability in the hero library).
+Leaders are present on the map of all
+campaign scenarios
+. For
+standalone scenarios
+, the "leaders on map" setting determines whether leaders are present on the map. If not present on the map, the name and portrait of the leader will still be displayed in the diplomacy screen.
+Portraits
+Portraits for leaders include those of all heroes in the
+hero library
+, as well as the following portraits that are exclusively available to leaders. During leader customization, the player may select from among any of the following portraits, regardless of their depicted race.
+Portraits exclusive to leaders
+In the following gallery, internal file names are given for each portrait. Portraits with the "
+h_humm
+" prefix are internally listed with portraits for hero library heroes, but the ones listed below are not used for any hero in the library, and are therefore exclusively used for leaders.
+KeepersDefault
+CultDefault
+h_misc01
+L-human01
+L-human02
+L-human03
+L-human04
+h_humm_assas
+h_humm_knight
+h_humm_roman
+h_humm_samurai
+h_hummf_dark
+h_hummf_warrior
+L_lizardman01
+L-azrac01
+L-darkelf01
+L-darkelf02
+L-dwarf01
+L-dwarf02
+L-elf01
+L-frostling01
+L-goblin01
+L-goblin02
+L-halfling01
+L-highman01
+L-orc01
+L-orc02
+L-undead01
+L-undead02
+See also
+Campaign heroes
+, for a list of leaders that appear in the campaign
+
+======================================================================
+PAGE: Library heroes (Age of Wonders)
+CATEGORIES: Heroes
+URL: https://ageofwonders.fandom.com/wiki/Library_heroes_(Age_of_Wonders)
+======================================================================
+
+In
+Age of Wonders
+, the
+hero library
+includes a set of premade non-leader
+heroes
+, each with default starting
+statistics
+,
+abilities
+, and an assigned character portrait. The term "hero library" is used in the map editor to refer to a set of pre-made heroes that can be used in a
+scenario
+.
+Use of the hero library
+Most
+campaign scenarios
+and all
+standalone scenarios
+use heroes from the hero library. As such, the hero library can be regarded as a "standard" set of heroes that appear in the game. Scenarios typically use a selection of heroes from hero library. Standalone scenarios generally use a fairly large selection of heroes in the library as
+free heroes
+who can emerge during the course of the game, whereas campaign scenarios generally use only a small selection of library heroes.
+Some campaign scenarios use custom heroes that are not in the library. Nonetheless, heroes from the library frequently appear in campaign scenarios, especially on the side of factions not under the player's control. For a full list of heroes that appear in the campaign, please see the main article on
+campaign heroes
+.
+Heroes in the library are used as non-leader heroes only.
+Leaders
+, on the other hand, are customized on a map-by-map basis, and also have a separate set of default portraits different from those that are used for the hero library heroes listed below.
+List of heroes in the hero library
+The hero library includes a total of 50 standard heroes. Heroes of the same
+race
+have a set of common base stats and abilities, which are listed below on the first row for each section corresponding to a race. Each individual hero also starts with various
+additional
+starting stats and abilities, i.e., stats and abilities that are in addition to the racial base stats and abilities. For example, a value of "+1" for attack (
+) means that the hero has +1 point in attack in addition to the hero's race-derived base stats.
+The additional stats and abilities listed for individual heroes correspond to pre-allocated skill points of the hero. For example, a level +1 hero will have a total of +25 skill points worth of additional starting stats and abilities, whereas a level +2 hero will have a total of +35 skill points worth of additional starting stats and abilities.
+Heroes in the library often have
+abilities
+that distinguish them from one another. For example, many heroes have abilities that are normally only available in the
+leader customization
+interface and not in the
+level-up
+interface (such as
+Life Stealing
+and
+Regeneration
+), while some have abilities that are available in neither. For example,
+Resh Redhead
+has the
+Fire Breath
+ability, which cannot be normally acquired.
+Image
+Hero
+Level
+Abilities
+Azracs
+4
+3
+2
+3
+10
+36
+Strike
+,
+Walking
+,
+Fire Protection
+Karum the Mighty
+6
++1
++1
++2
++1
+Extra Strike
+,
+Leadership
+,
+Spell Casting I
+Katar the Gladiator
+1
++1
++1
++1
+Parry
+Sha'rah Sundance
+3
++1
++1
++1
+Bard's Skills
+,
+Spell Casting I
+Vn'nih the Odd
+2
++1
++1
++1
+Spell Casting I
+Dark Elves
+3
+3
+2
+5
+10
+36
+Strike
+,
+Walking
+,
+Night Vision
+Acara the Spider
+4
++1
+Life Stealing
+,
+Poison Protection
+,
+Spell Casting I
+,
+Web
+Tanaris the Knowing
+6
++1
++3
++1
+Leadership
+,
+Spell Casting II
+Tirlas Nightguard
+1
++1
++1
++1
++1
+Vandir the Exile
+3
+Concealment
+,
+Poison Strike
+,
+Spell Casting I
+Dwarves
+3
+3
+4
+4
+10
+32
+Strike
+,
+Walking
+,
+Cave Crawling
+,
+Mountaineering
+Bandir the Fiery
+1
++1
++1
+Charge
+,
+Round Attack
+Sondra the Priestess
+3
++1
++1
++1
+Healing
+,
+Spell Casting I
+Thomac Stonecrusher
+2
++1
++1
++1
++1
+Wall Crushing
+Tondor Grimstone
+6
++2
++1
++3
++4
+Leadership
+,
+Spell Casting I
+Elves
+3
+3
+3
+3
+10
+36
+Strike
+,
+Walking
+,
+Forestry
+Arnus Strongbow
+1
++1
++1
++1
+Archery
+Jiswyn Treesong
+2
++1
+Bard's Skills
+,
+Spell Casting I
+Lingolas the Hermit
+5
++1
++1
++1
+Cold Protection
+,
+Cold Strike
+,
+Spell Casting I
+,
+True Seeing
+Menfir Oakleaf
+4
++1
++1
+Archery
+,
+Concealment
+,
+Spell Casting I
+Frostlings
+3
+3
+3
+3
+10
+32
+Strike
+,
+Walking
+,
+Cold Protection
+Bjern Wolfsong
+3
++5
+Concealment
+,
+Spell Casting I
+Eclo Frostbite
+1
++1
++1
+Cold Strike
+Freya the Seer
+5
++1
++1
++1
+Bard's Skills
+,
+Spell Casting II
+Norshin War Priest
+4
++1
++1
++1
++1
+Leadership
+,
+Spell Casting I
+Goblins
+3
+3
+3
+2
+10
+32
+Strike
+,
+Walking
+,
+Night Vision
+,
+Cave Crawling
+Gorthak the Black
+1
++1
++1
+Death Strike
+Jattah the Leper
+4
++1
+Poison Protection
+,
+Poison Strike
+,
+Regeneration
+,
+Spell Casting I
+Makai the Preacher
+5
++1
++1
++1
++1
+Bard's Skills
+,
+Leadership
+,
+Spell Casting I
+Sister Tersia
+3
++1
++1
+Life Stealing
+,
+Spell Casting I
+Halflings
+3
+3
+3
+4
+10
+32
+Strike
+,
+Walking
+Ham Binger
+3
++1
++1
++1
++1
+Spell Casting I
+Lilly Whiteleaf
+2
++1
+Bard's Skills
+,
+Spell Casting I
+Meridon the Wise
+5
++1
++1
++1
+Leadership
+,
+Spell Casting II
+Winger Lightfinger
+1
++1
++1
+Hurl Stones
+,
+Marksmanship I
+Highmen
+3
+3
+3
+4
+10
+36
+Strike
+,
+Walking
+,
+Holy Protection
+,
+True Seeing
+Atam the Righteous
+1
++1
++1
+Holy Strike
+Caspar the Pious
+5
++1
++1
++1
++1
+Spell Casting I
+,
+Turn Undead II
+Isabelle the Serene
+3
++1
++1
++1
+Spell Casting I
+,
+Turn Undead I
+,
+Vision I
+Namru the Forsaken
+4
++1
++1
++1
+Concealment
+,
+Spell Casting I
+Humans
+3
+3
+3
+3
+10
+36
+Strike
+,
+Walking
+Conan McHarr
+1
++1
++1
++2
+Danto Dragonslayer
+6
++2
++1
++1
++1
+Archery
+,
+Dragon Slaying
+,
+Fire Protection
+,
+Spell Casting I
+Esmeralda the Healer
+2
++1
+Healing
+,
+Spell Casting I
+Jacob the Noble
+3
++1
++1
++1
+Poison Strike
+,
+Spell Casting I
+Khabar Eagle Eye
+2
++1
++5
+True Seeing
+,
+Vision II
+Roderick Nightrunner
+4
++1
++1
++5
+Poison Strike
+,
+Spell Casting I
+,
+Wall Climbing
+Lizardmen
+3
+3
+3
+2
+10
+32
+Strike
+,
+Walking
+,
+Swimming
+Forok the Bloated
+3
++1
++2
+Spell Casting I
+,
+Venemous Spit
+Resh Redhead
+5
++1
++2
++1
+Fire Breath
+,
+Spell Casting I
+Shai Eggbuster
+1
++1
++1
++1
++1
+Tarash the Shaman
+2
++1
++1
++1
+Spell Casting I
+Orcs
+3
+4
+3
+3
+10
+36
+Strike
+,
+Walking
+,
+Night Vision
+Azktor the Unholy
+5
++1
++2
++2
+Regeneration
+,
+Spell Casting I
+,
+Unholy Champion
+Borak the Brute
+1
++1
++1
++1
++1
+Doktok the Fat
+3
++1
++1
++1
++2
+Spell Casting I
+Fakana Poisoner
+2
+Poison Protection
+,
+Poison Strike
+,
+Spell Casting I
+Undead
+2
+3
+3
+3
+10
+36
+Strike
+,
+Walking
+,
+Cold Protection
+,
+Death Immunity
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+Alexandra Lifestealer
+3
++1
++1
+Life Stealing
+,
+Spell Casting I
+Dactor Deathbringer
+1
++1
++1
+Death Strike
+Igor the Liche
+5
++1
++1
++1
+Death Strike
+,
+Doom Gaze
+,
+Spell Casting I
+Zodar Foulface
+2
++1
++1
++1
+Spell Casting I
+Notes
+The data on this page pertains to the default hero library as defined in
+release.hss
+in the "release" folder of the game installation. Using developer tools, it is possible to use a custom hero library.
+The portrait files given for respective heroes often include descriptions such as "warrior," "wizard," and "rogue" that suggest an intended theme in their hero designs.

@@ -1,0 +1,385 @@
+
+======================================================================
+PAGE: Altar of Transcendence
+CATEGORIES: Ardent Mages
+URL: https://endlesslegend.fandom.com/wiki/Altar_of_Transcendence
+======================================================================
+
+Altar of Transcendence
+Faction
+Ardent Mages
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Influence
+Effects:
++5
+per
+on City
++10
+on City
++30
+on City
+Limited to one copy in your Empire
+Costs:
+Production
+1000
+Resource
+30
+/
+30
+/
+Upkeep
+7
+per turn
+A
+city improvement
+exclusive to the
+Ardent Mages
+obtained from the
+Altar of Transcendence
+technology which is unlocked by completing Chapter 7 of the Ardent Mages faction quest. Constructing the Altar of Transcendence is required to complete Chapter 8 of the Ardent Mages faction quest.
+The Altar comes in two different forms that provide the same effects, but require different resources. One requires
+Adamantian and
+Mithrite, while the other requires
+Palladian and
+Hyperium. The version received upon completing Chapter 7 is random, but will determine which resources are necessary to complete Chapter 8 Part 1.
+Lore
+When constructed, this dense slab of some of Auriga's rarest materials hums with Dust energy. Mages strong and brave enough to climb into its recessed contours will transcend or die. Either way they will experience unimaginable pain.
+
+======================================================================
+PAGE: Altar of Transcendence (Technology)
+CATEGORIES: Ardent Mages
+URL: https://endlesslegend.fandom.com/wiki/Altar_of_Transcendence_(Technology)
+======================================================================
+
+Altar of Transcendence (Technology)
+Faction
+Ardent Mages
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+City Improvement
+Focus
+Influence
+Effects:
+Unlocks Altar of Transcendence for construction on cities
+An Era IV
+technology
+exclusive to the
+Ardent Mages
+which unlocks the construction of the
+Altar of Transcendence
+on cities. It is unlocked by completing Chapter 7 of the Ardent Mages faction quest.
+Lore
+When constructed, this dense slab of some of Auriga's rarest materials hums with Dust energy. Mages strong and brave enough to climb into its recessed contours will transcend or die. Either way they will experience unimaginable pain.
+
+======================================================================
+PAGE: Ateshi Zealot
+CATEGORIES: Ardent Mages, Ranged Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Ateshi_Zealot
+======================================================================
+
+Ateshi Zealot
+Faction
+Ardent Mages
+Unit Type
+Ranged
+Base Attributes:
+Life
+60 (75 with
+ELCP
+)
+Attack
+36
+Initiative
+20
+Speed
+4
+Defense
+18
+Damage
+24
+Range
+3
+Sight
+3
+Cost:
+Production
+60
+The Ateshi Zealot is a ranged unit for the
+Ardent Mages
+. The Zealot can be researched in the first
+Technology Era
+.
+Lore
+It is said the very air in the vicinity cools as an Ateshi Zealot conjures a rain of fire to hurl onto the enemy's ranks, but this is preferable to being in the burning firing line.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Ardent Fire
+Converts percentage of lost Life
+into Attack
+bonus.
+Fire Rain
+Deals normal damage to the target.
+Deals 50% of damage to opponents next to target.
+Equipment Slots
+Weapons
+Quarterstaff
+Magewand
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Eneqa Wing
+CATEGORIES: Ardent Mages, Flying Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Eneqa_Wing
+======================================================================
+
+Eneqa Wing
+Faction
+Ardent Mages
+Unit Type
+Flying
+Base Attributes:
+Life
+132
+Attack
+38
+Initiative
+30
+Speed
+6
+Defense
+34
+Damage
+34
+Range
+1
+Sight
+4
+Cost:
+Production
+250
+The Eneqa Wing is a flying unit for the
+Ardent Mages
+. The Eneqa Wing can be researched in the second
+Technology Era
+.
+Lore
+It is said that the worst way to die is to burn. With wings of blazing flame sending motes of fire into the air, these airborne combatants strike fear into the bravest of foes.
+Capacities
+Icon
+Name
+Effect
+Ardent Fire
+Converts percentage of lost Life
+into Attack
+bonus.
+Revive
+Turns into an egg instead of dying.
+The egg recovers +10% Life
+each round.
+The unit revives after 3 rounds if the egg is not destroyed.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Equipment Slots
+Weapons
+Claws
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Telsem Warlock
+CATEGORIES: Ardent Mages, Infantry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Telsem_Warlock
+======================================================================
+
+Telsem Warlock
+Faction
+Ardent Mages
+Unit Type
+Infantry
+Base Attributes:
+Life
+92
+Attack
+36
+Initiative
+16
+Speed
+4
+Defense
+20
+Damage
+40
+Range
+1
+Sight
+3
+Cost:
+Production
+60
+The Telsem Warlock is an infantry unit for the
+Ardent Mages
+. Two Warlocks constitute the starting force for the Ardent Mages. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Devout and disciplined, the Telsem Warlock is the rank-and-file of the Ardent Mages' armies, capable of leaving a trail of scorched destruction in his wake.
+Capacities
+Icon
+Name
+Effect
+Ardent Fire
+Converts percentage of lost Life
+into Attack
+bonus.
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Longspear
+Claws
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Transcendent Rod of Verda
+CATEGORIES: Ardent Mages
+URL: https://endlesslegend.fandom.com/wiki/Transcendent_Rod_of_Verda
+======================================================================
+
+Transcendent Rod of Verda
+Faction
+Ardent Mages
+Obtained
+Faction Quest
+Type
+Longscepter
+Effects:
++20
+on unit
++114
+on unit
++72
+on unit
++10%
+on unit
++50%
+on unit
++40%
+on unit
+Can be equipped by heroes only
+Capacities:
+Exhaustion 3
+Costs:
+Resource
+18
+The Transcendent Rod of Verda is a
+Longscepter
+exclusive to the
+Ardent Mages
+, received for completing Chapter 2 of their faction quest. In addition to being one of the strongest scepters in the game, it is also required that it be equipped on an Ardent Mages hero in order to complete Chapter 6 of the Ardent Mages faction quest.
+Lore
+This ancient scepter, covered with intricate runes and hieroglyphs, was recently modified by skilled hands. A mix of new and old craftsmanship and materials, its use can only be imagined.
+
+======================================================================
+PAGE: Verda's Temple
+CATEGORIES: Ardent Mages
+URL: https://endlesslegend.fandom.com/wiki/Verda's_Temple
+======================================================================
+
+Verda's Temple
+Faction
+Ardent Mages
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Science
+Effects:
++2
+on terrain with science
+Limited to one copy in your empire
+Costs:
+Production
+400
+Upkeep
+2
+per turn
+A
+city improvement
+exclusive to the
+Ardent Mages
+obtained from the
+Verda's Temple
+technology which is unlocked by completing Chapter 5 Part 2 of the Ardent Mages faction quest. Constructing Verda's Temple is required to complete Chapter 5 of the Ardent Mages faction quest.
+Lore
+The subtleties of Dust are numerous and easy to overlook. Only through its methodical study will its secrets be discovered. This temple, replete with terrifying contraptions, will aid that endeavor.
+
+======================================================================
+PAGE: Verda's Temple (Technology)
+CATEGORIES: Ardent Mages
+URL: https://endlesslegend.fandom.com/wiki/Verda's_Temple_(Technology)
+======================================================================
+
+Verda's Temple (Technology)
+Faction
+Ardent Mages
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks Verda's Temple for construction on cities
+With
+ELCP
+: +1 Arcana level for all Spells on Empire
+An Era II
+technology
+exclusive to the
+Ardent Mages
+which unlocks the construction of
+Verda's Temple
+on cities. It is unlocked by completing Chapter 5 Part 2 of the Ardent Mages faction quest.
+ELCP
+If you play with the
+Endless Legend Community Patch
+, there are some changes for smooth out the Spells progression.
+Secrets of the Virtuals
+: +2 Arcana level for all Spells effect removed.
+Verda's Temple
+: +1 Arcana level for all Spells effect added (Chapter 4 of the faction quest).
+Sacrificial Amplifiers
+: +1 Arcana level for all Spells effect added (Era V tech).
+Lore
+The subtleties of Dust are numerous and easy to overlook. Only through its methodical study will its secrets be discovered. This temple, replete with terrifying contraptions, will aid that endeavor.

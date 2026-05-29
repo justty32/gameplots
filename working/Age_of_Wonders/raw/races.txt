@@ -1,0 +1,6672 @@
+
+======================================================================
+PAGE: Archons
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Archons
+======================================================================
+
+The
+Archons
+(also known as the
+Highmen
+or
+High Men
+) are a race in the
+Age of Wonders
+series.
+Name and terminology
+In
+Age of Wonders
+, the Archons were originally known as the
+Highmen
+(also spelled
+High Men
+). In
+Age of Wonders II: The Wizard's Throne
+, the Highmen were renamed
+Archons
+, both in-universe as well as in the game's interfaces. However, the description or concept of high men was still retained in the in-universe sense, as seen on a sign for a relic site the Valley of Wonders that reads, "Dedicated to the Archons, noble race of the high men."
+In
+Age of Wonders 4
+, the Archons include the
+Elysian
+and
+Ancient
+forms. "Elysian" is the name for the form of humanoids Archon commonly seen in
+Age of Wonders
+,
+The Wizard's Throne
+, and
+Age of Wonders: Shadow Magic
+.
+"Ancient" is the name for a withered, corrupted form.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Highmen (Age of Wonders)
+Archons (AoW II and Shadow Magic)
+References
+
+======================================================================
+PAGE: Archons (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Archons_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Archons in
+Age of Wonders II
+and
+Shadow Magic
+The
+Archons
+are one of the
+races
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+. The Archons previously appeared under the name
+Highmen
+in
+Age of Wonders
+.
+History and lore
+Main article:
+Archons
+Description
+“
+These otherworldly beings fight fiercely for life, order, and good. Their soldiers strike with the holy power of the living. Archons fight for just causes, preaching virtue and obedience to their subjects. They seldom seek to overrun any kingdom and instead seem to appear where they might most likely be overpowered. Still, the Archons persevere and are fearless in the face of death.
+Historically, the Archons have shared close relations with the Elves, but in recent centuries the Elves and Archons have known their share of strife. The Archons claim that the Elves betrayed their promises and have gone astray. Though the Archons were defeated in their claim and were forced to reconsider their indignation, they clearly despise the dishonesty found among some Elven leaders. Archons guard their powers with holy orders and rituals that prevent deception.
+Archons appear as tall, sturdy, humanoids with striking features and a radiant aura that has led many people to tremble before them. They are particularly powerful against the Undead.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Pure Good
+City bonus: +5 research per city size
+Friendly terrains: None
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): After a siege, the strongest fallen defender is saved
+Common abilities: Holy Protection and Holy Strike
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Militia
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+Holy Strike, Holy Protection
+Legionaire
+1
+35
+7
+5
+7
+5
+12
+24
+Strike
+Holy Strike, Holy Protection, Block
+Archer
+1
+30
+0
+0
+5
+5
+10
+24
+Archery
+Holy Protection
+Marksmanship I
+Marksmanship II
+Paladin
+2
+80
+9
+7
+8
+6
+16
+40
+Strike
+Turn Undead
+Holy Strike, Holy Protection, Charge, True Seeing, Mounted
+Holy Champion
+Avenger
+2
+80
+9
+7
+9
+13
+15
+28
+Strike
+Holy Bolts
+Turn Undead
+Holy Strike, Holy Immunity, True Seeing, Holy Champion, Death Immunity, Willpower
+Pegasus Rider
+3
+160
+12
+8
+8
+8
+17
+40
+Strike
+Holy Strike, Holy Protection, Charge, Vision II, Mounted
+Charioteer
+3
+130
+13
+9
+12
+8
+22
+40
+Strike
+Archery
+Holy Strike, Holy Protection, Marksmanship I, Charge, Mounted
+Marksmanship II
+Marksmanship III
+Titan
+4
+375
+15
+12
+15
+12
+32
+36
+Strike
+Round Attack
+Holy Strike, Holy Protection, Fire Immunity, Vision I, WIllpower
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Militia
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+Holy Strike, Holy Protection
+Holy Immunity
+Legionaire
+1
+35
+7
+5
+7
+5
+12
+24
+Strike
+Throw Spear
+Holy Protection, Block
+Holy Immunity
+Archer
+1
+30
+0
+0
+5
+5
+10
+24
+Archery
+Holy Protection
+Marksmanship I
+Marksmanship II, Holy Immunity
+Paladin
+2
+90
+9
+7
+8
+6
+16
+40
+Strike
+Turn Undead
+Holy Strike, Holy Protection, Charge, Strike, True Seeing, Mounted, Death Weakness
+Magical Mount
+Holy Champion, Holy Immunity
+Avenger
+2
+80
+9
+7
+9
+13
+15
+28
+Strike
+Holy Bolts
+Turn Undead
+Holy Strike, Holy Immunity, True Seeing, Willpower
+Marksmanship I
+Marksmanship II, Holy Champion
+Pegasus Rider
+3
+140
+12
+8
+9
+8
+15
+40
+Strike
+Holy Strike, Holy Protection, Charge, Vision II, Mounted
+Magical Mount
+Holy Immunity
+Charioteer
+3
+170
+13
+9
+11
+8
+22
+40
+Strike
+Archery
+Holy Protection, Marksmanship I, Charge, Mounted
+Marksmanship II
+Marksmanship III, Holy Immunity
+Saint
+3
+170
+8
+7
+9
+14
+14
+24
+Flt.
+Strike
+Holy Strike, Holy Immunity, True Seeing, Willpower, Healing I, Resurrect, Death Weakness
+Titan
+4
+375
+15
+12
+15
+12
+32
+36
+Strike
+Round Attack
+Wall Crushing
+Holy Strike, Holy Protection, Fire Immunity, Vision I, WIllpower
+Holy Immunity
+Available common units
+High Priest
+Pioneer
+Ballista
+Repeater Ballista (
+Shadow Magic
+only)
+Catapult
+Cannon
+Galley
+Transport Ship
+Heroes
+Arcos
+Chanta
+Fredric
+Cordian (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Azracs
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Azracs
+======================================================================
+
+The
+Azracs
+are a human-like desert-dwelling race in the setting of the
+Age of Wonders
+series. The Azracs appear as a playable race in
+Age of Wonders (1999)
+and are mentioned in subsequent games.
+History
+Origins
+The Azracs were created at the Sea of Fire, an area of volcanic lava located in the arid continent south of the Blessed Continent. Since the Sea of Fire was the ancient home of Yaka, a wizard known to create races, it is implied that the Azracs were Yaka's creation.
+The Azracs themselves may have been named after Azra, a settlement at one of the lava rivers flowing into the Sea of Fire.
+The Azracs were present in Athla at the time of Inioch, being among the races that that clashed with the first wave of Human settlers at the Blood Isles.
+The Azrac Empire during the First Age
+After the fall of
+Inioch's kingdom
+, the Azracs became a major power under the Azrac Empire, whose power center was located in the deserts of the continent south of the Blessed Continent. In 1082 LIR, the Azrac Empire began a period of conquest in which it attempted to take control parts of the Blessed Continent. Their invasions were eventually pushed back by an alliance led by the
+Keepers
+, which pushed the Azracs out of the richest parts of the Blessed Continent. The Azracs were also checked by the equally expansionist Humans, who launched an invasion against the Azracs, captured from them the Ashen Steppes just north of the Empire's heartland.
+After losing their foothold on the Blessed Continent, the Azracs stole the Horn of the Dead, threatening to blow it should aggressors seek vengeance, or attempt to take advantage of their weakened state and capture their ancient holdings. However, the Dark Elf wizard
+Melenis
+infiltrated the vault that held the Horn and
+used it herself
+, resulting in the Undead rising and attacking all races on the surface of the land. During this period of Undead invasions, the Azrac Empire traded with the Blessed Continent for profits, thus bolstering the Empire’s sagging defenses and economy, while holding their own in the battle against the Undead.
+When the Keepers and
+Cult of Storms
+went to war following the appearance of a star above the Valley of Wonders in 1204 LIR, the Azracs invaded the Orc-held territory at Terstar, prompting a response from the Cult of Storms. The Cult, after uniting the Orcish clans at Terstar and driving out the Azracs from the area, then clashed with the Azracs at the Ashen Steppes,
+weakening the empire in the process.
+Fall of the Azrac Empire
+During the Second Age, the Humans migrated out of the Valley of Wonders following the Keepers' victory at the Valley of Wonders. The Azracs' were one of the lands that the Humans migrated.
+Unable to withstand the migrant Humans, the Azrac Empire fell against the Human forces, and the Azracs themselves were forsaken by their god, Yaka, for their defeats in battle.
+Yaka then looked towards the Tigrans, a new race that he created in his image. The remaining Azracs then integrated with their Human conquerors to become a people known as the Nomads.
+Culture
+As a society, the Azracs practiced strict religious and societal conformity, worshipping Yaka as a god.
+Azrac priests were called the Yakamajal, meaning "The Will of Yaka." Such priests were believed to be the embodiment of Yaka's will among his chosen people. In Azrac society, priests acted as teachers, judges, and enforcers of Yaka's Code.
+In times of war, the Yakamajal called upon their God's aid in the form of the Yaka Avatar, a type of warrior believed to be possessed by Yaka himself.
+According to legend during the First Age, should Yaka, the Azrac god, set foot on the world, it would melt with such intense heat that it would melt and fold together like a scroll.
+This suggests that Yaka himself has rarely if ever appeared in person to the Azracs during most of their recorded history.
+The Azracs were the first recorded race in Athla to domesticate the horse. Their horses were legendary for their stamina and strength, even in blistering desert heat.
+Game-specific information
+Azracs (Age of Wonders)
+See also:
+Nomads (Shadow Magic)
+References
+
+======================================================================
+PAGE: Azracs (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Azracs_(Age_of_Wonders)
+======================================================================
+
+Azracs
+Alignment
+Neutral
+Race Relations
+Friendly
+Azracs
+Polite
+Goblins
+,
+Humans
+Neutral
+Dark Elves
+,
+Dwarves
+,
+Elves
+,
+Frostlings
+,
+Halflings
+,
+Lizardmen
+,
+Orcs
+Wary
+Highmen
+,
+Undead
+Terrain
+Friendly
+Desert
+Hostile
+Snow, Ice
+Heroes
+Attack
+4
+Damage
+3
+Defense
+2
+Resistance
+3
+Movement
+36
+Abilities
+Fire Protection
+,
+Strike
+,
+Walking
+The
+Azracs
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Azracs
+Description
+“
+General
+The Azracs are an aggressive, desert-dwelling race. They are, in many ways, similar to Humans. What little hair they have on their bodies they usually shave. Azracs wear minimal clothing and disdain heavy armor. Their religious zeal makes them particularly aggressive and fanatic.
+Society
+Azrac society is one of strict religious and societal conformity. Insubordination to one’s superiors is neither tolerated nor punished lightly. Azracs believe that the almighty god,
+Yaka
+, ordains one’s social status. Still, a high level of respect for all other Azracs is common in Azrac society. Azracs are wary of most races and only ally themselves with other neutral races, unless truly dire circumstances force them to broaden the scope of their trust. They typically do not mix or intermingle even with their allies, as all others are seen as inferior in the eyes of Yaka. Azracs disdain the concepts of good and evil, and will go to war with any who stand in the way of their religious beliefs or goals.
+Combat
+Azracs will fight fearlessly, because they believe that dying for their god will make them immortal. They are prepared to give their lives for their king or god at any time. In combat, Azracs most often take the offensive and attack relentlessly. They are naturally good fighters because of their inbred toughness, fostered by living in a harsh desert environment. Their disdain for any kind of armor leaves them somewhat vulnerable, however. Azrac tactics typically consist of overrunning their enemies with brute force and magic, and they rarely employ stealth tactics.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Azrac Archer
+1
+15
+3
+1
+1
+3
+5
+26
+Archery
+Fire Protection, (Marksmanship I
+, II
+)
+Azrac Swordsman
+1
+15
+5
+3
+1
+3
+5
+26
+Strike
+Fire Protection
+Elephant
+1
+37
+3
+3
+3
+3
+9
+30
+Strike, Wall Crushing
+Scorpion
+1
+15
+3
+3
+3
+2
+5
+24
+Strike
+Fire Protection, Poison Immunity, Poison Strike
+Azrac Priest
+2
+30
+3
+2
+1
+4
+5
+26
+Strike, Magic Bolts, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Fire Immunity, Healing, Magic Strike
+Azrac Rider
+2
+36
+5
+3
+3
+3
+8
+40
+Strike
+Charge, Fire Protection
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Beholder
+3
+106
+5
+3
+3
+36
+15
+24
+Strike, Doom Gaze
+Cause Fear, Night Vision, True Seeing, Vision I
+Djinn
+3
+68
+5
+4
+4
+6
+10
+32
+Strike, Magic Bolts
+Magic Strike
+Sandworm
+3
+65
+4
+5
+3
+4
+12
+26
+Strike
+Cave Crawling, Desert Concealment, Fire Protection, Fire Strike, Tunneling
+Yaka Avatar
+4
+200
+8
+6
+5
+8
+20
+32
+Strike, Magic Bolts, Dominate
+Fearless, Fire Immunity, Magic Bolts, Magic Strike, Vision II
+Library heroes
+Karum the Mighty
+Katar the Gladiator
+Sha'rah Sundance
+Vn'nih the Odd
+Gallery
+Unit portraits
+Base portrait
+Elephant
+Scorpion
+Beholder
+Djinn
+Sandworm
+Yaka Avatar
+Hero portraits
+Default leader portrait
+Karum the Mighty
+Katar the Gladiator
+Sha'rah Sundance
+Vn'nih the Odd
+
+======================================================================
+PAGE: Dark Elves
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elves
+======================================================================
+
+The
+Dark Elves
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Dark Elves (Age of Wonders)
+Dark Elves (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Dark Elves (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elves_(Age_of_Wonders)
+======================================================================
+
+Dark Elves
+Alignment
+Evil
+Race Relations
+Friendly
+Dark Elves,
+Orcs
+Polite
+Goblins
+,
+Undead
+Neutral
+Azracs
+,
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dwarves
+,
+Elves
+,
+Halflings
+,
+Highmen
+Terrain
+Friendly
+Dirt
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+3
+Defense
+2
+Resistance
+5
+Movement
+36
+Abilities
+Night Vision
+,
+Strike
+,
+Walking
+The
+Dark Elves
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Dark Elves
+Description
+“
+General
+Dark Elves are the evil counterparts of normal Elves. They prefer to live in darkness, hidden from the sun’s revealing rays. Although they were once part of the Elven community that walks in the glow of the sun, they choose now to live underground. After only a few generations, they began adapting to the darkness and disliking the sunlight. Most Dark Elves have a dark
+gray-green complexion with white or silver hair.
+Society
+The Dark Elves once enjoyed the same life of peace and relaxation as their kindred Elves on the surface. Now, their lives are filled with chaos and disaster, much of which is brought on by living underground. Still, the Dark Elves strive to achieve order through their strict family caste system. Most Dark Elves are too preoccupied with their lust for vengeance against the Humans and other Elves to relax during rare periods of peace and quiet.
+Combat
+Dark Elves will use any means necessary to achieve victory in battle. Although their warriors and archers are just as skilled as those of the Elves, the Dark Elves tend to rely on tactics involving deception and surprise. Most often, they will achieve these effects through the use of magic—which they are able to master easily—drawing power from dark rituals and necromancy. Oftentimes, when
+a direct assault is needed, they will send in allied Orcs and Goblins to thin the ranks of the enemy before sending their elite
+Executioners.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Dark Elf Archer
+1
+17
+3
+1
+2
+5
+5
+26
+Archery
+Marksmanship I (II
+, III
+), Night Vision
+Dark Elf Swordsman
+1
+14
+4
+2
+2
+5
+5
+26
+Strike
+Night Vision
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Lady of Pain
+1
+14
+4
+2
+1
+2
+5
+26
+Strike, Seduce
+Dark Elf Storm Priest
+2
+32
+3
+2
+2
+6
+5
+26
+Strike, Lightning Bolts, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Healing, Lightning Protection, Magic Strike, Night Vision,
+Dark Elf Rider
+2
+32
+5
+2
+3
+5
+7
+36
+Strike
+Charge, Night Vision
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Dark Elf Executioner
+3
+105
+7
+4
+5
+6
+10
+36
+Strike
+Charge, Fearless, Life Stealing, Night Vision, Trail of Darkness
+Spider Queen
+3
+70
+4
+4
+3
+6
+8
+36
+Strike, Magic Bolts, Seduce, Web
+Cave Crawling, Night Vision, Poison Immunity, Poison Strike,  Wall Climbing
+Shadow
+3
+95
+5
+4
+4
+5
+7
+36
+Strike
+Cause Fear, Cold Immunity, Concealment, Death Immunity, Fearless, Night Vision, Pass Wall, Poison Immunity
+Incarnate
+4
+200
+2
+1
+5
+5
+10
+36
+Strike, Posses
+Cold Immunity, Death Immunity, Fire Immunity, Lightning Immunity, Magic Strike, Physical Immunity, Poison Immunity
+Library heroes
+Acara the Spider
+Tanaris the Knowing
+Tirlas Nightguard
+Vandir the Exile
+Gallery
+Unit portraits
+Base portrait
+Lady of Pain
+Dark Elf Executioner
+Spider Queen
+Shadow
+Incarnate
+Hero portraits
+Leader portrait (default)
+Leader portrait
+Acara the Spider
+Tanaris the Knowing
+Tirlas Nightguard
+Vandir the Exile
+
+======================================================================
+PAGE: Dark Elves (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Dark_Elves_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Dark Elves in
+Age of Wonders II
+and
+Shadow Magic
+The
+Dark Elves
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Dark Elves
+Description
+“
+Formed from the belly of irreconcilable grief, the Dark Elves are the embodiment of the living dead among the Elves. They know death of spirit, but their frames keep them immortal, nonetheless. They are angry and bitter creatures, apt to great fits of cruelty and torture. They joy in revenge only, and imagine up vain excuses so they might seek imagined retribution. They live in the darkness of the earth, and adorn themselves in inky black clothing. Their skin is a pale greenish-gray, but otherwise Dark Elves are as beautiful as the surface elves. Also like the elves they channel the powers of magic, but for the purpose of twisting life and its meaning.
+Dark Elves employ dark powers to twist their less obedient members into mindless slaves. They merge those who are rebellious with spiders and then worship their abominable creations as demigods. Dark Elves desire nothing more than complete world domination, at which point they would even turn upon, and destroy, themselves.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Evil
+City bonus: +5 mana per city size
+Friendly terrains: Dirt
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe) and Wasteland
+Racial structure bonus (
+Shadow Magic
+only): Domain +5
+Common abilities: Night Vision, Poison Protection/Poison Immunity
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Night Guard
+1
+20
+5
+5
+4
+5
+10
+24
+Strike
+Night Vision, Poison Protection, Magic Strike, First Strike
+Warrior
+1
+30
+7
+5
+6
+5
+12
+24
+Strike
+Night Vision, Poison Protection, Block, Magic Strike
+Archer
+1
+30
+0
+0
+4
+5
+10
+24
+Archery
+Night Vision, Poison Protection, Marksmanship I
+Marksmanship II
+Marksmanship III
+Executioner
+2
+90
+9
+7
+7
+6
+16
+40
+Strike
+Night Vision, Poison Protection, Charge, Life Stealing, Magic Strike, Mounted
+Bladedancer
+2
+100
+9
+7
+7
+8
+18
+24
+Strike
+Night Vision, Poison Immunity, Concealment, Poison Strike, Double Strike
+Shade
+3
+160
+12
+6
+8
+9
+15
+28
+Strike
+Night Vision, Poison Protection, Trail of Darkness, Life Stealing, Concealment, Physical Protection, Pass Wall, Magic Strike
+Unholy Champion
+Spider Queen
+3
+190
+13
+7
+9
+15
+20
+36
+Strike
+Web
+Night Vision, Poison Immunity, Magic Strike, Wall Climbing, Poison Strike, Death Protection
+Incarnate
+4
+300
+5
+2
+9
+12
+20
+32
+Flt.
+Strike
+Possess
+Night Vision, Poison Immunity, Magic Strike, Cold Immunity, Death Immunity, Fire Immunity, Lightning Immunity, Pass Wall, Willpower, Physical Protection
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Night Guard
+1
+25
+5
+5
+4
+8
+10
+24
+Strike
+Night Vision, Poison Protection, Magic Strike, First Strike, Pole Arm
+Poison Immunity
+Warrior
+1
+35
+7
+5
+6
+8
+12
+28
+Strike
+Night Vision, Poison Protection, Block, Magic Strike
+Poison Immunity
+Archer
+1
+35
+0
+0
+4
+8
+10
+24
+Archery
+Night Vision, Poison Protection, Marksmanship I
+Marksmanship II
+Marksmanship III, Poison Immunity
+Executioner
+2
+90
+9
+7
+7
+8
+16
+40
+Strike
+Night Vision, Poison Protection, Charge, Life Stealing, Magic Strike, Mounted
+Poison Immunity
+Bladedancer
+2
+100
+9
+7
+7
+8
+18
+28
+Strike
+Night Vision, Poison Protection, Concealment, Poison Strike, Double Strike
+Poison Immunity
+Shade
+3
+140
+12
+8
+10
+10
+16
+32
+Strike
+Night Vision, Poison Protection, Trail of Darkness, Life Stealing, Concealment, Physical Protection, Pass Wall, Magic Strike, Shadow Walker, Shadow Shift, Death Protection
+Poison Immunity, Death Immunity
+Unholy Champion
+Spider Queen
+3
+170
+13
+7
+9
+15
+20
+36
+Strike
+Web
+Night Vision, Poison Immunity, Magic Strike, Wall Climbing, Poison Strike, Death Protection
+Leadership I
+Leadership II
+Succubus
+3
+150
+11
+8
+9
+11
+13
+32
+Strike
+Seduce
+Poison Protection, Life Stealing, True Seeing
+Poison Immunity
+Incarnate
+4
+280
+10
+3
+12
+15
+20
+32
+Flt.
+Strike
+Possess
+Night Vision, Poison Immunity, Magic Strike, Cold Immunity, Death Immunity, Fire Immunity, Lightning Immunity, Pass Wall, Willpower, Physical Protection, Drain Will, Shadow Walker, True Seeing
+Unholy Champion
+Available common units
+Black Priest
+Pioneer
+Ballista
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Repeater Ballista (
+Shadow Magic
+only)
+Galley
+Transport Ship
+Heroes
+Laladria
+Morrandir
+Ryltha
+Bowan (
+Shadow Magic
+only)
+Luna (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Draconians (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Draconians_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Draconians in
+Age of Wonders II
+and
+Shadow Magic
+The
+Draconians
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Draconians
+Description
+“
+When the Human race rose to power, the race of dragons, especially the young dragons, suffered a terrible price. Among the Humans, dragons were more valuable dead than alive. Hunted for glory, sport, money, and to mix their foul smelling potions. With no regard to the intelligent creatures that the dragons might become in time, the humans devastated the dragon kin.
+The dragons turned to Wizards of Evermore, who used powerful magic to create a new breed of followers. They sacrificed their remaining young for the power to keep the humans at bay. The dragons unleashed the powers in their eggs, vowing that once they achieved supremacy they would reform themselves into ancient dragonkind again. Because of their magical origin, Draconians are insightful in regards to research and the skills surrounding wizardry.
+Draconians share many of the same faults as humanity. With savage ambition they plot for power in the world. For this reason, Humans and Draconians often, in a strange twist of fate, join together in alliance. Draconians favor the lands of their dragon kin, including
+the lava beds and wastelands of ash that birthed their parents.
+Most Draconians employ only crude tools, preferring to use their natural powers. They do build siege weapons and buildings, but in the fashion of dragons. When they gather together a sufficient population they may even flatter dragons to join their nation.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Neutral
+City bonus: +5 research per city size
+Friendly terrains: None
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): New units get Regeneration
+Common abilities: Flying
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Hatchling
+1
+30
+5
+5
+6
+5
+10
+28
+Strike
+Venomous Spit
+Poison Strike
+Marksmanship I
+Marksmanship II
+Charger
+1
+35
+7
+5
+7
+5
+12
+28
+Strike
+Charge
+Flamer
+1
+40
+5
+5
+6
+5
+10
+24
+Strike
+Fire Breath
+Fire Protection, Cold Weakness
+Fire Immunity
+Crusher
+2
+80
+10
+8
+7
+6
+20
+24
+Strike
+Wall Crushing
+Fire Protection
+Fire Immunity
+Slither
+2
+60
+9
+6
+6
+5
+12
+24
+Strike
+Venomous Spit
+Poison Strike, Concealment, Poison Immunity, Wall Climbing
+Marksmanship I
+Marksmanship II
+Elder
+3
+90
+8
+6
+7
+14
+18
+24
+Strike
+Magic Bolts
+Magic Strike, Magic Protection, True Seeing
+Marksmanship I
+Marksmanship II
+Flyer
+3
+160
+13
+8
+9
+9
+18
+40
+Strike
+Poison Immunity, Poison Strike, Vision II
+Red Dragon
+4
+370
+16
+10
+12
+14
+30
+40
+Strike
+Fire Breath
+Cause Fear, Magic Strike, Vision II, Fire Immunity, Dragon
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Hatchling
+1
+25
+4
+4
+6
+5
+10
+28
+Strike
+Venomous Spit
+Poison Strike, Cold Weakness, Shadow Walker, Draconian Growth, Poison Protection
+Marksmanship I
+Marksmanship II
+Charger
+1
+35
+7
+5
+7
+5
+12
+28
+Strike
+Charge, Cold Weakness, Shadow Walker, Pole Arm
+First Strike
+Flamer
+1
+40
+5
+5
+6
+5
+10
+24
+Strike
+Fire Breath
+Cold Weakness, Shadow Walker, Fire Immunity
+Marksmanship I
+Marksmanship II
+Crusher
+2
+70
+10
+8
+8
+6
+20
+24
+Strike
+Wall Crushing
+Cold Weakness, Shadow Walker
+Fire Protection
+Fire Immunity
+Slither
+2
+60
+9
+6
+7
+5
+14
+32
+Strike
+Venomous Spit
+Poison Strike, Concealment, Poison Immunity, Wall Climbing, Cold Weakness, Shadow Walker, Marksmanship I, Concealment
+Marksmanship II
+Marksmanship III
+Elder
+3
+90
+10
+6
+8
+14
+20
+28
+Strike
+Magic Bolts
+Magic Strike, Magic Protection, True Seeing, Bard's Skills, Cold Weakness, Shadow Walker
+Marksmanship I, Leadership I
+Marksmanship II, Willpower, Leadership II
+Flyer
+3
+150
+13
+9
+9
+9
+16
+40
+Strike
+Poison Immunity, Poison Strike, Vision II, Cold Weakness, Shadow Walker, Magic Strike, Charge
+Hydra
+3
+170
+11
+8
+10
+12
+24
+24
+Strike
+Poison Immunity, Double Strike, Dragon, Regeneration, Spread Attack, Shadow Walker
+Willpower
+Red Dragon
+4
+300
+16
+10
+12
+14
+25
+40
+Strike
+Fire Breath
+Cause Fear, Magic Strike, Vision II, Fire Immunity, Dragon, Willpower, Cold Weakness, Shadow Walker
+Marksmanship I, Vision III
+Marksmanship II, Vision IV
+Available common units
+Monk
+Pioneer
+Ballista
+Catapult
+Repeater Ballista (
+Shadow Magic
+only)
+Cannon (
+Age of Wonders II
+only)
+Galley
+Transport Ship
+Heroes
+Dragor
+Kaskar
+Tsi Iri
+Thufir (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Dwarves
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Dwarves
+======================================================================
+
+The
+Dwarves
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Dwarves (Age of Wonders)
+Dwarves (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Dwarves (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Dwarves_(Age_of_Wonders)
+======================================================================
+
+Dwarves
+Alignment
+Good
+Race Relations
+Friendly
+Dwarves,
+Halflings
+,
+Highmen
+Polite
+Elves
+Neutral
+Azracs
+,
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dark Elves
+,
+Goblins
+,
+Orcs
+,
+Undead
+Terrain
+Friendly
+Dirt
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+4
+Defense
+3
+Resistance
+4
+Movement
+32
+Abilities
+Cave Crawling
+,
+Mountaineering
+,
+Strike
+,
+Walking
+The
+Dwarves
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Dwarves
+Description
+“
+General
+Dwarves are small, stocky humanoids known for their industriousness and tenacity in battle. They usually live in elaborate underground cities, built beneath mountains, but can adapt to almost any climate. Dwarves harbor a deep
+respect for the earth and rock, stable things that stand the test of time.
+Society
+Almost all Dwarves are warriors, inventors, or hard laborers. Dwarves have a very strict work ethic, and do not believe in leisure or wasting time. They are also very family-oriented folk, and it is common for businesses and occupations to be handed down through many generations.
+Although they will freely cooperate with the other good, and sometimes neutral, races, Dwarves tend to look down upon those who do not work as hard as they do and waste too much time on entertainment.
+Combat
+Dwarves make some of the fiercest warriors in all the lands. They
+prefer a good close-quarters fight to the use of magic and missile
+weapons, but that does not stop them from laying siege to well-fortified
+cities with archers and bombards. Although they look down upon
+stealth tactics, they have been known to attack from underground
+caves and over mountains to gain the element of surprise.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Dwarf Archer
+1
+16
+3
+2
+2
+4
+5
+24
+Archery
+Cave Crawling, Poison Protection, (Marksmanship I
+, II
+)
+Dwarf Axeman
+1
+16
+4
+3
+2
+4
+5
+24
+Strike
+Cave Crawling, Poison Protection
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Dwarf Berserker
+1
+17
+4
+4
+1
+4
+6
+24
+Strike, Round Attack
+Cave Crawling, Fearless, Mountaineering, Poison Protection
+Dwarf Cleric
+2
+35
+3
+2
+2
+5
+5
+24
+Strike, Magic Bolts, Turn Undead I  (II
+, III
+)
+Cave Crawling, Dispel Magic I (II
+, III
+), Fearless, Healing, Magic Strike, Poison Protection
+Dwarf Boar Rider
+2
+36
+5
+3
+3
+4
+8
+32
+Strike
+Charge, Poison Protection
+Bombardier
+2
+79
+1
+1
+2
+3
+10
+20
+Fire Cannon
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Giant
+3
+105
+6
+7
+3
+4
+15
+32
+Strike, Hurl Boulder
+(Marksmanship I
+, II
+)
+Dwarven Balloon
+3
+55
+2
+8
+2
+3
+12
+32
+—
+Flying, Poison Immunity, Transport (5 units), Vision III
+Dwarf Mole
+3
+105
+5
+4
+3
+4
+14
+32
+Strike, Wall Crushing
+Cave Crawling, Night Vision, Poison Protection, Tunneling
+Dwarf First Born
+4
+205
+7
+7
+5
+6
+24
+24
+Strike
+Fearless, Fire Immunity, Fire Strike, Magic Protection, Poison Immunity
+Library heroes
+Bandir the Fiery
+Sondra the Priestess
+Thomac Stonecrusher
+Tondor Grimstone
+Gallery
+Unit portraits
+Base portrait
+Dwarf Berserker
+Bombardier
+Giant
+Dwarven Balloon
+Dwarf First Born
+Hero portraits
+Leader portrait (default)
+Leader portrait
+Bandir the Fiery
+Sondra the Priestess
+Thomac Stonecrusher
+Tondor Grimstone
+
+======================================================================
+PAGE: Dwarves (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Dwarves_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Dwarves in
+Age of Wonders II
+and
+Shadow Magic
+The
+Dwarves
+are one of the
+races
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+History and lore
+Main article:
+Dwarves
+Description
+“
+Dwarves are hardy mountain kin that live in the earth and rugged places of the land. A good Dwarf values strength and hard work. Their minds are slow to the subtle ways of diplomacy, preferring to strike their enemies with the force of their blows instead of with words. They love to create things and find great satisfaction in building vast structures adorned with the treasures discovered deep within the earth. Dwarves are strong fighters, some preferring to forego armor and shields to wield two axes and pure rage.
+Dwarven women are sturdy and nearly as tough as their men folk. According to Dwarven tradition, a Dwarven male that is unable to best his wife in a show of physical strength becomes an Engineer. When Dwarves accumulate enough resources they create mighty machines capable of destroying entire armies and blasting holes in the most formidable castle walls.
+— Description in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Good
+City bonus: +5 production
+Friendly terrains: Dirt
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): Walls are toughened
+Common abilities: Mountaineering, Cave Crawling, and Poison Protection
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Axeman
+1
+30
+6
+5
+6
+5
+12
+20
+Strike
+Poison Protection, Block
+Berserker
+1
+40
+8
+6
+5
+7
+13
+28
+Strike
+Poison Protection, Double Strike
+Crossbowman
+1
+30
+0
+0
+6
+5
+10
+20
+Fire Crossbow
+Poison Protection
+Marksmanship I
+Marksmanship II
+Boar Rider
+2
+90
+9
+7
+8
+7
+17
+32
+Strike
+Poison Protection, Charge, Mounted
+Engineer
+2
+60
+6
+6
+6
+6
+12
+20
+Strike
+Sabotage
+Poison Protection, Repair machine
+Mole
+3
+150
+12
+9
+9
+8
+21
+32
+Strike
+Poison Protection, Night Vision, Tunneling,
+Wall Crushing
+, Mounted
+Runemaster
+3
+190
+12
+10
+14
+13
+23
+24
+Strike
+Poison Protection, Fire Immunity, Fire Strike, Magic Protection
+Steam Tank
+4
+300
+0
+0
+14
+14
+32
+20
+Fire Cannon
+Steam
+Poison Immunity, Cold Protection, Marksmanship I, Fire Weakness
+Marksmanship II
+Marksmanship III
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Axeman
+1
+30
+6
+5
+6
+5
+12
+20
+Strike
+Poison Protection, Block, Night Vision
+Poison Immunity
+Berserker
+1
+40
+8
+6
+5
+7
+13
+28
+Strike
+Poison Protection, Double Strike, Willpower, Night Vision
+Poison Immunity
+Crossbowman
+1
+30
+0
+0
+6
+5
+10
+20
+Fire Crossbow
+Poison Protection, Night Vision
+Marksmanship I
+Marksmanship II, Poison Immunity
+Boar Rider
+2
+70
+9
+7
+8
+7
+17
+32
+Strike
+Poison Protection, Charge, Mounted
+Poison Immunity
+Engineer
+2
+80
+8
+6
+10
+8
+15
+32
+Strike
+Sabotage
+Poison Protection, Repair machine, Night Vision, Fire Pistol
+Marksmanship I
+Marksmanship II, Poison Immunity
+Mole
+3
+150
+12
+12
+9
+8
+21
+32
+Strike
+Wall Crushing
+Poison Protection, Night Vision, Tunneling, Mounted
+Poison Immunity
+Runemaster
+3
+190
+12
+10
+13
+13
+23
+24
+Strike
+Poison Protection, Fire Immunity, Fire Strike, Magic Protection, Night Vision, Willpower, Leadership I
+Leadership II, Magic Protection, Poison Immunity
+Leadership III, Magic Immunity
+Gargoyle
+3
+130
+9
+8
+9
+20
+15
+32
+Strike
+Death Immunity, Poison Immunity, Holy Immunity, Fire Immunity, Cold Immunity, Night Vision, Magic Immunity, Willpower
+Steam Tank
+4
+300
+0
+0
+14
+14
+32
+32
+Fire Cannon, Steam
+Poison Immunity, Cold Protection, Marksmanship I, Transport VII, Night Vision
+Marksmanship II
+Marksmanship III, Tunneling
+Available common units
+High Priest
+Pioneer
+Ballista
+Catapult
+Cannon
+Galley
+Transport Ship
+Heroes
+Grogmir
+Sanra
+Tengar
+Gromzon (
+Shadow Magic
+only)
+Bormac (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Elves
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Elves
+======================================================================
+
+The
+Elves
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Elves (Age of Wonders)
+Elves (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Elves (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Elves_(Age_of_Wonders)
+======================================================================
+
+Elves
+Alignment
+Good
+Race Relations
+Friendly
+Elves,
+Halflings
+,
+Highmen
+Polite
+Dwarves
+Neutral
+Azracs
+,
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dark Elves
+,
+Goblins
+,
+Orcs
+,
+Undead
+Terrain
+Friendly
+Grassland
+Hostile
+Wasteland
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Abilities
+Forestry
+,
+Strike
+,
+Walking
+The
+Elves
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Elves
+Description
+“
+General
+Elves are a thin, fragile-looking folk who typically dwell deep within the forest. Aside from their pointed ears and thin facial features, Elves look very similar to Humans. Although somewhat slimmer than Humans, their lean, muscular limbs give them great agility and speed. Elves can live forever and can only die by violence, but most choose, at a very old age to set sail for The Isle of Last Goodbyes in search of the mystical
+Isle of Evermor
+.
+Society
+Elves make their homes in forests where they feel at one with the natural beauty of their surroundings. Due to their immortality, unlike Dwarves and Humans, Elves are never in a rush and have little interest in short-term gains. Elves take pleasure in the finer points of life, including the arts and music, and most practice other skills unrelated to their chosen career paths. Elves value freedom and love above all. They recognize only a few lords, leaders who have proven themselves worthy of this title.
+Combat
+Elves are able to excel in many areas – hand-to-hand combat, archery, magic and stealth – making them a tough race to defeat. Slightly weaker in physical strength, Elven infantry and cavalry tend to rely on skill more than brute force. They are cautious warriors, swift but somewhat fragile, so they plan their attacks carefully. The support of their good allies and woodland creatures also adds to their formidability in times of war.
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Elf Archer
+1
+17
+3
+1
+2
+4
+5
+26
+Archery
+Marksmanship I (II
+, III
+)
+Elf Swordsman
+1
+15
+5
+2
+2
+4
+5
+26
+Strike
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Nymph
+1
+22
+4
+2
+1
+5
+5
+26
+Strike, Seduce
+Elf Cleric
+2
+32
+3
+2
+2
+5
+5
+26
+Strike, Magic Bolts, Entangle, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Healing, Magic Strike
+Elven Scout
+2
+32
+6
+2
+3
+4
+7
+36
+Strike
+Charge, Forestry, Vision I
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Fairy
+3
+55
+3
+3
+5
+6
+6
+36
+Strike
+Concealment, Magic Strike
+Elf Ranger
+3
+95
+5
+3
+3
+5
+8
+32
+Strike, Archery
+Concealment, Marksmanship II  (III
+, IV
+)
+Unicorn
+3
+90
+6
+4
+4
+8
+10
+36
+Strike
+Charge, Healing, Magic Strike
+Nature Elemental
+4
+210
+5
+5
+7
+8
+15
+32
+Strike
+Cold Protection (Cold Immunity
+), Entangle Strike, Fire Protection, Healing, Lightning Protection (Lightning Immunity
+), Path of Life, Poison Immunity, Regeneration
+Library heroes
+Arnus Strongbow
+Jiswyn Treesong
+Lingolas the Hermit
+Menfir Oakleaf
+Gallery
+Unit portraits
+Base portrait
+Elven Scout
+Fairy
+Unicorn
+Nature Elemental
+Hero portraits
+Leader portrait
+Arnus Strongbow
+Jiswyn Treesong
+Lingolas the Hermit
+Menfir Oakleaf
+
+======================================================================
+PAGE: Elves (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Elves_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Elves in
+Age of Wonders II
+and
+Shadow Magic
+The
+Elves
+are one of the
+races
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+History and lore
+Main article:
+Elves
+Description
+“
+Elves are immortal, living a life without end. These delicate and graceful beings are the elders of this world. Elves
+have close ties to nature and to the forces of life. While they love music, lore, and dance, they are solitary beings. When intruders come to their forests they seldom escape, and those who are taken from an Elven forest, after having dwelt among elves, often die of broken hearts and unspoken remorse.
+In times past, Elves ruled all the lands, but they were generous with the lesser creatures and nurtured all life. Some say it was their downfall. Archons refer to the Elves as “The Firstlings,” and preach that Elves serve to rejuvenate fallen worlds and prepare the way to a world of magical wonders. In their past, they welcomed the human race, and were betrayed. Such has been the source of much strife between the two races - and Elven memories are long.
+Elves employ stealth, speed, and cunning to strike their foes. They are masters of faerie
+magic, and readily gather the powers of magic - instilling it in all that they touch.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Good
+City bonus: +5 mana per city size
+Friendly terrains: Grassland
+Hostile terrains: Wasteland
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): City is hidden in forest
+Common abilities: Forestry
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Glade Runner
+1
+20
+5
+4
+4
+5
+8
+36
+Strike
+Conealment
+Swordsman
+1
+30
+7
+5
+6
+5
+12
+24
+Strike
+Block
+Longbowman
+1
+30
+0
+0
+4
+5
+10
+24
+Archery
+Marksmanship I
+Marksmanship II
+Marksmanship III
+Nymph
+2
+30
+5
+4
+4
+8
+10
+24
+Strike
+Seduce
+Magic Strike
+Scout
+2
+70
+9
+7
+7
+6
+15
+40
+Strike
+Charge, Mounted, Vision I
+Druid
+3
+120
+10
+7
+8
+14
+15
+36
+Strike
+Control Animal
+Entangle
+Concealment
+Iron Maiden
+3
+220
+14
+9
+10
+12
+18
+40
+Strike
+Holy Champion, Magic Strike, Phase, Magical Mount, Willpower
+Fairy Dragon
+4
+340
+14
+11
+14
+16
+22
+40
+Strike
+Dragon, Magic Protection, Magic Strike, Phase, Vision II, True Seeing
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Glade Runner
+1
+30
+5
+4
+4
+5
+8
+36
+Strike
+Concealment
+Vision I
+Vision II
+Swordsman
+1
+30
+7
+5
+6
+5
+12
+24
+Strike
+Block
+Longbowman
+1
+35
+0
+0
+4
+5
+10
+24
+Archery
+Marksmanship I
+Marksmanship II
+Marksmanship III
+Nymph
+2
+50
+5
+4
+4
+8
+10
+24
+Strike
+Seduce
+Magic Strike
+Scout
+2
+70
+9
+7
+7
+5
+15
+40
+Strike
+Charge, Mounted, Vision I
+Druid
+3
+120
+10
+7
+8
+14
+15
+36
+Strike
+Control Animal
+Entangle
+Concealment
+Path of Life
+Iron Maiden
+3
+170
+14
+9
+10
+12
+20
+40
+Strike
+Holy Champion, Magic Strike, Phase, Magical Mount, Willpower
+Holy Champion
+Treeman
+3
+140
+10
+12
+11
+10
+24
+24
+Strike
+Wall Crushing
+Concealment, Fire Weakness, Poison Immunity, Regeneration
+Fairy Dragon
+4
+300
+14
+11
+12
+16
+22
+40
+Strike
+Pixie Dust
+Dragon, Magic Protection, Magic Strike, Phase, Vision II, True Seeing
+Marksmanship I, Vision III
+Marksmanship II, Vision IV
+Available common units
+High Priest
+Pioneer
+Ballista
+Repeater Ballista (
+Shadow Magic
+only)
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Galley
+Transport Ship
+Heroes
+Avernus
+Elme
+Torgal
+Oakleaf (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Frostlings
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Frostlings
+======================================================================
+
+The
+Frostlings
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Frostlings (Age of Wonders)
+Frostlings (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Frostlings (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Frostlings_(Age_of_Wonders)
+======================================================================
+
+Frostlings
+Alignment
+Neutral
+Race Relations
+Friendly
+Frostlings
+Polite
+Humans
+,
+Lizardmen
+Neutral
+Azracs
+,
+Dark Elves
+,
+Dwarves
+,
+Elves
+,
+Goblins
+,
+Halflings
+,
+Orcs
+Wary
+Highmen
+,
+Undead
+Terrain
+Friendly
+Ice, Snow
+Hostile
+Desert
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+32
+Abilities
+Cold Protection
+,
+Strike
+,
+Walking
+The
+Frostlings
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Frostlings
+Description
+“
+General
+General: Frostlings are a race of small, nomadic humanoids that dwell in the cold northern
+regions. They are thought to be distant relatives of the Goblins. Frostlings possess a gray complexion and large, deep-blue eyes. Frostling clothing is simple and often weatherworn from the harsh cold winds and ice storms. Because of their natural resistance to the cold, however, Frostlings need little protection from the wintry elements.
+Society
+Frostling society embraces hard work and struggle. Because of the harsh environment and weather conditions in which they live, Frostlings must rely extensively on the cooperation and support of their fellow townsfolk and neighboring communities. As a nomadic people, when the weather becomes unbearable, they move south to more temperate climates. Oftentimes, the Frostlings will put together raiding parties to conquer nearby towns when they need shelter from extremely harsh weather.
+Combat
+Frostlings are a hardy race, but they are not known for their fighting ability. They are still feared on the battlefield, however, because of the allies they bring from the north, including Dire Penguins, Yeti, Frost Queens, and Ice Drakes. Frostlings rely on fighting ability, magic, and sheer numbers to overcome their foes, utilizing a wider array of tactics when in their home terrain. As a result, their ability to expand their home terrain makes them even more dangerous.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Frostling Archer
+1
+15
+3
+1
+2
+3
+5
+24
+Archery
+Cold Protection, (Marksmanship I
+, II
+)
+Frostling Swordsman
+1
+15
+4
+3
+2
+3
+5
+24
+Strike
+Cold Protection
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Dire Penguin
+1
+15
+5
+2
+2
+3
+5
+24
+Strike
+Cold Protection
+Frostling Shaman
+2
+30
+3
+2
+2
+24
+5
+24
+Strike, Frost Bolts, Turn Undead I  (II
+, III
+)
+Cold Immunity, Dispel Magic I (II
+, III
+), Healing, Magic Strike
+Frostling Wolf Rider
+2
+33
+5
+3
+3
+3
+7
+32
+Strike
+Charge, Cold Protection
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Yeti
+3
+95
+6
+6
+4
+4
+13
+28
+Strike, Wall Crushing
+Cold Immunity, Cold Strike
+Frost Queen
+3
+65
+4
+3
+3
+6
+8
+26
+Strike, Frost Bolts
+Cold Immunity, Cold Strike, Path of Frost, Snow Concealment
+Nordic Glow
+3
+98
+4
+4
+5
+6
+7
+36
+Strike
+Cold Immunity, Fearless, Fire Immunity, Magic Strike, Physical Protection, Poison Immunity
+Ice Drake
+4
+225
+7
+4
+5
+4
+17
+36
+Strike, Cold Breath
+Cold Immunity, Dragon, Fearless, Vision II
+Library heroes
+Bjern Wolfsong
+Eclo Frostbite
+Freya the Seer
+Norshin War Priest
+Gallery
+Unit portraits
+Base portrait
+Dire Penguin
+Frostling Wolf Rider
+Yeti
+Frost Queen
+Nordic Glow
+Ice Drake
+Hero portraits
+Leader portrait
+Bjern Wolfsong
+Eclo Frostbite
+Freya the Seer
+Norshin War Priest
+
+======================================================================
+PAGE: Frostlings (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Frostlings_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Frostlings in
+Age of Wonders II
+and
+Shadow Magic
+The
+Frostlings
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Frostlings
+Description
+“
+There’s a saying in the northern borderlands that goes, “Trust a Frostling, die of hunger.” There’s no such thing as an evil Frostling, but because of their circumstances they are driven to dire actions. So it is the fate of the Frostlings to remain on the brink of starvation, surrounded by frozen lands and jewels of desolate ice. Despite their limited means, they have remarkable resourcefulness and a natural ability to draw in elemental magic.
+Many of their followers have learned to cross the toughest terrain effortlessly, thus enabling them to raid the domains of their rival races and then retreat into the less hospitable lands for safety. They have learned to handle some of the creatures of the tundra and have formidable powers to bring their icy lands into fertility.
+Frostlings appear similar to Goblins in form, but they do not possess a goblin's twisted mind. In times of peace and abundance, the Frostlings have forged legendary structures, and adorn their world with glittering diamonds made of ice. A thousand legends surround the enigmatic Frost Queen who often takes shelter among Frostling cities, while the lights of the northern sky blink, crackle and bend to protect the Frostlings from malicious forces desiring to steal their secrets.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Neutral
+City bonus: +5 mana per city size
+Friendly terrains: Snow and Ice
+Hostile terrains: Desert
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe) + Snow
+Racial structure bonus (
+Shadow Magic
+only): New units get Fire Protection
+Common abilities: Cold Protection and Fire Weakness
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Snowscraper
+1
+15
+5
+5
+4
+6
+8
+20
+Strike
+Frost Bolts
+Cold Protection, Fire Weakness
+Marksmanship I
+Marksmanship II
+Raider
+1
+25
+7
+5
+6
+6
+10
+20
+Strike
+Cold Protection, Fire Weakness, Block
+Shard Thrower
+1
+25
+0
+0
+4
+6
+10
+20
+Archery
+Cold Protection, Fire Weakness
+Marksmanship I
+Marksmanship II
+Wolf Raider
+2
+65
+9
+7
+8
+6
+14
+28
+Strike
+Cold Protection, Fire Weakness, Charge, Mounted
+Frost Witch
+2
+80
+6
+5
+6
+7
+12
+24
+Strike
+Frost Bolts
+Cold Immunity, Fire Weakness, Cold Strike, Snow Concealment, Path of Frost
+Marksmanship I
+Marksmanship II
+Icedrake Rider
+3
+120
+9
+7
+8
+7
+18
+40
+Strike
+Cold Protection, Fire Weakness, Mounted
+Mammoth Rider
+3
+195
+13
+12
+8
+9
+26
+30
+Strike
+Wall Crushing
+Cold Immunity, Fire Weakness, Charge, Mounted
+Doom Wolf
+4
+350
+15
+12
+10
+12
+24
+50
+Strike
+Cold Immunity, Cold Strike, Path of Frost, Animal
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Snowscraper
+1
+20
+5
+5
+4
+6
+8
+20
+Strike
+Frost Bolts
+Cold Protection, Fire Weakness, Snow Concealment
+Marksmanship I
+Marksmanship II
+Raider
+1
+25
+7
+5
+7
+6
+12
+20
+Strike
+Cold Protection, Fire Weakness, Block
+Shard Thrower
+1
+30
+0
+0
+4
+6
+10
+20
+Archery
+Cold Protection, Fire Weakness, Snow Concealment, Marksmanship I
+Marksmanship II
+Marksmanship III
+Wolf Raider
+2
+55
+9
+7
+8
+6
+14
+28
+Strike
+Cold Protection, Fire Weakness, Charge, Mounted
+Frost Witch
+2
+80
+8
+6
+6
+10
+14
+28
+Strike
+Frost Bolts
+Cold Immunity, Fire Weakness, Cold Strike, Snow Concealment, Path of Frost, True Seeing, Regeneration
+Marksmanship I
+Marksmanship II
+Icedrake Rider
+3
+100
+10
+7
+8
+10
+15
+40
+Strike
+Cold Protection, Fire Weakness, Mounted, Vision I
+Vision II
+Vision III
+Mammoth Rider
+3
+170
+13
+12
+11
+9
+26
+32
+Strike
+Wall Crushing
+Cold Immunity, Fire Weakness, Charge, Mounted
+Cause Fear
+Yeti
+3
+140
+11
+9
+10
+9
+18
+32
+Strike
+Wall Crushing
+Cold Immunity, Cold Strike, Regeneration, Snow Concealment
+Doom Wolf
+4
+280
+15
+12
+10
+12
+24
+50
+Strike
+Cold Breath
+Cold Immunity, Cold Strike, Path of Frost, Animal, Willpower
+Marksmanship I
+Marksmanship II
+Available common units
+Monk
+Pioneer
+Ballista
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Frost Cannon (
+Shadow Magic
+only)
+Galley
+Transport Ship
+Heroes
+Eklo
+Khitan
+Shenga
+Borkur (
+Shadow Magic
+only)
+Woizek (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Goblins
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Goblins
+======================================================================
+
+The
+Goblins
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Goblins (Age of Wonders)
+Goblins (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Goblins (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Goblins_(Age_of_Wonders)
+======================================================================
+
+Goblins
+Alignment
+Evil
+Race Relations
+Friendly
+Goblins,
+Orcs
+Polite
+Azracs
+,
+Dark Elves
+,
+Undead
+Neutral
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dwarves
+,
+Elves
+,
+Halflings
+,
+Highmen
+Terrain
+Friendly
+Dirt
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+2
+Movement
+32
+Abilities
+Cave Crawling
+,
+Night Vision
+,
+Strike
+,
+Walking
+The
+Goblins
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Goblins
+Description
+“
+General
+Related to the Orcs, these little horrors live in filthy underground tunnels. They are feared, not for their strength, but for their multitude. Goblins hate bright sunlight and will try to avoid it. Goblins are often characterized as stupid creatures, probably because of the number of times that they have been duped and enslaved by other races. While not a particularly smart race, Goblins are quite technically proficient, and have been known to replicate and modify existing designs and creations to suit their malicious
+needs.
+Society
+Goblins mostly live in tribes underground. Their holes are filthy breeding grounds for a wide variety of diseases, none of which seem to affect them. Goblin society is one of struggle and war in which every member of society must contribute. Most Goblins live almost
+entirely for the thrill of the carnage they cause and the loot they capture. Rarely will one ever witness a Goblin performing physical
+labor of its own free will. Goblins tend to have a wicked, cruel streak, and common forms of entertainment include torturing prisoners
+and gladiatorial fights between captives, beasts, or any mix thereof.
+Combat
+Goblins are not particularly strong in combat, and they tend to use nontraditional weaponry such as spears, poisonous darts, and bombs to gain the upper hand. Often thought to be stupid creatures, Goblins are frequently able to use this very stereotype to their advantage in battle, employing a variety of unconventional, but effective, battle tactics. Still, more often than not, Goblins achieve their battle victories through overwhelming numbers alone.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Goblin Darter
+1
+11
+4
+1
+2
+2
+4
+24
+Poison Darts
+Cave Crawling, Night Vision, Poison Protection, (Marksmanship I
+, II
+)
+Goblin Spearman
+1
+12
+4
+2
+2
+2
+4
+24
+Strike
+Cave Crawling, First Strike, Night Vision, Poison Protection
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Goblin Bomber
+1
+11
+3
+2
+1
+2
+4
+24
+Self Destruct
+Cave Crawling, Night Vision, Poison Protection
+Goblin Shaman
+2
+26
+3
+2
+2
+3
+4
+24
+Strike, Magic Bolts, Turn Undead I (II
+, III
+),
+Cave Crawling, Dispel Magic I (II
+, III
+), Healing, Magic Bolts, Magic Strike, Night Vision, Poison Immunity
+Goblin Wolf Rider
+2
+28
+5
+3
+3
+2
+7
+32
+Strike
+Charge, Forestry, Night Vision, Poison Protection
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Troll
+3
+75
+6
+7
+3
+4
+12
+28
+Strike
+Night Vision, Regeneration
+Goblin Wyvern Rider
+3
+55
+5
+4
+2
+2
+8
+32
+Strike
+Charge, Night Vision, Poison Protection, Poison Strike, Vision II
+Goblin Big Beetle
+3
+120
+5
+4
+3
+4
+13
+40
+Strike, Wall Crushing
+Cave Crawling, Night Vision, Poison Protection, Poison Strike, Tunneling
+Karagh
+4
+195
+7
+8
+4
+7
+21
+44
+Strike
+Cause Fear, Cave Crawling, Charge, Fearless, Night Vision, Poison Protection (Poison Immunity
+)
+Library heroes
+Gorthak the Black
+Jattah the Leper
+Makai the Preacher
+Sister Tersia
+Gallery
+Unit portraits
+Base portrait
+Goblin Bomber
+Goblin Wolf Rider
+Troll
+Goblin Wyvern Rider
+Karagh
+Hero portraits
+Leader portrait
+Leader portrait
+Gorthak the Black
+Jattah the Leper
+Makai the Preacher
+Sister Tersia
+
+======================================================================
+PAGE: Goblins (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Goblins_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Goblins in
+Age of Wonders II
+and
+Shadow Magic
+The
+Goblins
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Goblins
+Description
+“
+"Goblins squirmed forth from the bowels of the earth, far before they were supposed to," says a myth. Goblins are filthy sadistic creatures, which delight in destruction and chaos. They bubble from the earth as a filthy mass. They desire to reclaim all dark caves from any other living thing. Goblins have mastered many subterranean creatures, including a massive beetle, which speeds through the rough-hewn caverns.
+Goblins are experts in the craft of poisons. They have a characteristic shriek that sounds like a high-pitched laugh, which they use to signal to other goblins in their caves. They are short and skinny, hunched over with lengthy arms that dangle near to the ground. Their skins are typically faded orange and brown, matching the earth. They have considerable eyesight underground, and are seldom taken by surprise.
+Older Goblins are sent to the afterlife by means of a large bomb strapped to their backs. Often, in their haste to get to the "Land of Echoing Screams," the goblin paradise, they may "accidentally" take a few of their younger kinsfolk with them. Life is cheap among the Goblins.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Evil
+City bonus: +5 growth per city size
+Friendly terrains: Dirt
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): Slows down troop as Mud spell
+Common abilities: Cave Crawling, Night Vision, Poison Protection/Poison Immunity
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Grunt
+1
+15
+5
+4
+4
+6
+8
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, First Strike
+Swordsman
+1
+20
+7
+5
+6
+6
+10
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, Block
+Darter
+1
+25
+0
+0
+5
+6
+8
+20
+Poison Darts
+Night Vision, Poison Immunity
+Marksmanship I
+Marksmanship II
+Bomber
+1
+30
+0
+0
+5
+6
+10
+28
+Self Destruct
+Night Vision, Poison Immunity
+Wolf Rider
+2
+60
+9
+6
+7
+7
+14
+28
+Strike
+Night Vision, Poison Protection, Charge, Mounted
+Butcher
+2
+70
+8
+8
+5
+6
+12
+20
+Strike
+Round Attack
+Night Vision, Poison Immunity, Life Stealing, First Strike
+Big Beetle
+3
+120
+12
+10
+8
+9
+18
+36
+Strike
+Wall Crushing
+Night Vision, Poison Immunity, Poison Strike, Tunneling, Mounted
+Wyvern Rider
+3
+100
+9
+6
+7
+7
+18
+40
+Strike
+Night Vision, Poison Immunity, Poison Strike, Vision II, Charge, Mounted
+Karagh
+4
+360
+17
+14
+11
+13
+30
+40
+Strike
+Night Vision, Poison Immunity, Charge
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Grunt
+1
+15
+5
+4
+4
+6
+8
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, First Strike, Pole Arm
+Underground Concealment
+Swordsman
+1
+20
+7
+5
+6
+6
+10
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, Block
+Underground Concealment
+Darter
+1
+25
+0
+0
+5
+6
+8
+20
+Poison Darts
+Night Vision, Poison Immunity, Marksmanship I
+Marksmanship II, Underground Concealment
+Marksmanship III
+Bomber
+1
+30
+0
+0
+5
+6
+12
+32
+Self Destruct
+Night Vision, Poison Immunity, Taunt
+Underground Concealment
+Wolf Rider
+2
+50
+9
+6
+7
+7
+14
+32
+Strike
+Night Vision, Poison Immunity, Charge, Mounted
+First Strike
+Butcher
+2
+80
+12
+8
+8
+6
+16
+20
+Strike
+Round Attack
+Night Vision, Poison Immunity, Life Stealing, First Strike, Pole Arm
+Big Beetle
+3
+120
+12
+9
+11
+9
+18
+36
+Strike
+Wall Crushing
+Night Vision, Poison Immunity, Poison Strike, Tunneling, Mounted
+Magical Mount
+Wyvern Rider
+3
+100
+10
+6
+8
+8
+15
+40
+Strike
+Night Vision, Poison Immunity, Poison Strike, Vision II, Charge, Mounted
+Vision III
+Vision IV
+Troll
+3
+140
+12
+9
+10
+12
+20
+32
+Strike
+Hurl Boulder
+Night Vision, Poison Immunity
+Marksmanship I
+Marksmanship II
+Karagh
+4
+280
+16
+14
+11
+12
+30
+40
+Strike
+Wall Crushing
+Night Vision, Poison Immunity, Charge, First Strike, Willpower
+Cause Fear
+Available common units
+Black Priest
+Pioneer
+Ballista
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Balloon (
+Shadow Magic
+only)
+Galley
+Transport Ship
+Heroes
+Danah
+Jattah
+Petrog
+Rupsta (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Halflings
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Halflings
+======================================================================
+
+The
+Halflings
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Halflings (Age of Wonders)
+Halflings (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Halflings (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Halflings_(Age_of_Wonders)
+======================================================================
+
+Halflings
+Alignment
+Good
+Race Relations
+Friendly
+Dwarves
+,
+Elves
+, Halflings
+Polite
+Highmen
+Neutral
+Azracs
+,
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dark Elves
+,
+Goblins
+,
+Orcs
+,
+Undead
+Terrain
+Friendly
+Grassland
+Hostile
+Wasteland
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+4
+Movement
+32
+Abilities
+Strike
+,
+Walking
+The
+Halflings
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Halflings
+Description
+“
+General
+Halflings are a small, peaceful race of humanoids. Outgoing and cheerful, Halflings lead a pastoral life emphasizing comfort. Halflings are not likely to go on adventures, as such endeavors make one late for dinner.
+Society
+Halfling society is one of harmony and peace. Villages can be made up of as few as two or three families. They farm and trade with close neighbors like the Elves and Dwarves. Even in old age, Halflings manage to remain cheerful and productive. They work hard at their businesses, but work is rarely their primary focus.
+Combat
+Even though war can be brutal, Halflings tend not to take it seriously. They cope by telling tales and retreating to thoughts of more pleasant things, when not engaged in combat. Nevertheless, Halflings make fine warriors, as they are able to use their nimbleness and size to evade their opponents, taking the offensive when they see an opening in the enemy’s defenses. Halflings are very resourceful in times of war, employing allies such as Satyrs, Centaurs, Great Eagles, and Rogues to fight alongside them.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Halfling Slinger
+1
+15
+3
+2
+2
+4
+5
+24
+Hurl Stones
+(Marksmanship I
+, II
+)
+Halfling Swordsman
+1
+14
+4
+2
+2
+4
+5
+24
+Strike
+Parry
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Halfling Pony Rider
+1
+28
+5
+3
+2
+4
+7
+32
+Strike
+Charge
+Halfling Cleric
+2
+30
+3
+2
+2
+5
+5
+24
+Strike, Magic Bolts, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Healing, Magic Protection, Magic Strike
+Satyr
+2
+35
+4
+3
+2
+6
+6
+26
+Strike, Charm
+Bard’s Skill, Forestry
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Halfling Rogue
+3
+75
+5
+4
+4
+4
+6
+26
+Strike, Hurl Stones
+Concealment, Marksmanship I (II
+, III
+), Parry, Wall Climbing
+Halfling Eagle Rider
+3
+55
+5
+4
+2
+4
+8
+36
+Strike
+Charge, Vision II
+Centaur
+3
+80
+6
+3
+4
+6
+11
+36
+Strike, Archery
+Charge, Marksmanship II (III
+, IV
+)
+Leprechaun
+4
+200
+5
+3
+10
+10
+8
+26
+Strike, Magic Bolts
+Death Protection (Death Immunity
+), Dispel Magic I (II
+, III
+), Fearless, Invisibility, Magic Strike, Parry, Poison Protection, Regeneration
+Library heroes
+Ham Binger
+Lilly Whiteleaf
+Meridon the Wise
+Winger Lightfinger
+Gallery
+Unit portraits
+Base portrait
+Satyr
+Halfling Eagle Rider
+Centaur
+Leprechaun
+Hero portraits
+Leader portrait
+
+======================================================================
+PAGE: Halflings (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Halflings_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Halflings in
+Age of Wonders II
+and
+Shadow Magic
+The
+Halflings
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background
+Main article:
+Halflings
+Description
+“
+To Halflings, every day is an idyllic dream, filled with the possibility of simple pleasures and prosperity. Halflings are the masters of happiness. They seek the path to everlasting joy. As a result, there are many factions among the Halflings, from the pious priests who seek joy in service and doing good to others, to the eccentric pranksters, and celebrant drunkards filled with any brew that might bring them closer to a stupor of laughter and song.
+Halflings are extraordinary cooks, and eat well. They enjoy music, and telling stories. Adept at trade, they spend their wealth as quickly as they earn it. They are content to work the lands and harvest its bounty, but at times they are carried away to waste and silliness that separates them from the more proud faerie folk and Elven kin.
+Halflings are friends with Eagles. Because they lack aggression, Halflings have relatively crude weaponry, preferring to pelt their enemies with many stones. Their toughest brawler is given the honorary title of "Sheriff" in their town, at which point he is given a bright red uniform, making him the most obvious target, while all the other Halflings of the town find ways to excuse themselves from battle.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Good
+City bonus: +5 gold per city size
+Friendly terrains: Grassland
+Hostile terrains: Wasteland
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): +10 Growth, +20 City Morale
+Common abilities: Forestry
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Peasant
+1
+15
+4
+4
+4
+6
+8
+20
+Strike
+Concealment, First Strike
+Swordsman
+1
+25
+6
+5
+7
+6
+10
+20
+Strike
+Block
+Slinger
+1
+25
+0
+0
+5
+6
+8
+20
+Hurl Stones
+Marksmanship I
+Marksmanship II
+Marksmanship III
+Rogue
+2
+50
+7
+6
+7
+8
+14
+20
+Strike
+Poison Darts
+Concealment, Marksmanship I, Wall Climbing
+Marksmanship II
+Marksmanship III
+Pony Rider
+2
+60
+8
+6
+9
+7
+14
+28
+Strike
+Charge, Mounted
+Sheriff
+3
+110
+10
+7
+10
+9
+20
+28
+Strike
+Charge, Leadership I, Mounted, Bard's Skills, Smoky Haze
+Leadership II
+Leadership III
+Eagle Rider
+3
+100
+8
+8
+9
+7
+14
+40
+Strike
+Charge, Vision II, Mounted
+Leprechaun
+4
+280
+10
+7
+17
+18
+14
+28
+Strike
+Magic Bolts
+Taunt
+Magic Strike, Regeneration, Invisibility, Dispel Magic, Phase, Blurred, Willpower, Sabotage
+Marksmanship I
+Marksmanship II
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Peasant
+1
+10
+4
+4
+4
+10
+8
+20
+Strike
+Concealment, First Strike, Pole Arm
+Swordsman
+1
+20
+6
+5
+7
+10
+10
+20
+Strike
+Block
+Slinger
+1
+25
+0
+0
+5
+10
+8
+20
+Hurl Stones
+Marksmanship I, Concealment
+Marksmanship II
+Marksmanship III
+Rogue
+2
+60
+8
+6
+7
+10
+14
+28
+Strike
+Poison Darts
+Concealment, Marksmanship I, Wall Climbing
+Marksmanship II
+Marksmanship III
+Pony Rider
+2
+50
+8
+6
+9
+7
+14
+32
+Strike
+Charge, Mounted
+Sheriff
+3
+120
+10
+7
+10
+9
+20
+32
+Strike
+Charge, Leadership I, Mounted, Bard's Skills, Smoky Haze, Willpower, Fire Pistol
+Leadership II, Marksmanship I
+Leadership III, Marksmanship II
+Eagle Rider
+3
+110
+10
+8
+9
+40
+14
+40
+Strike
+Charge, Vision II, Mounted
+Vision III
+Vision IV
+Centaur
+3
+150
+0
+0
+10
+15
+20
+28
+Archery
+Marksmanship II, Concealment
+Marksmanship III
+Marksmanship IV
+Leprechaun
+4
+260
+12
+7
+16
+18
+16
+28
+Strike
+Magic Bolts, Taunt
+Magic Strike, Regeneration, Invisibility, Dispel Magic, Phase, Blurred, Willpower, Sabotage, Dispel Magic, Steal Enchantment, Marksmanship II, True Seeing
+Marksmanship III
+Marksmanship IV
+Available common units
+High Priest
+Pioneer
+Ballista
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Galley
+Transport Ship
+Heroes
+Ham
+Lilly
+Winger
+Chucky (
+Shadow Magic
+only)
+Natam (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Highmen (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Highmen_(Age_of_Wonders)
+======================================================================
+
+Highmen
+Alignment
+Pure Good
+Race Relations
+Friendly
+Dwarves
+,
+Elves
+, Highmen
+Polite
+[[Halfling]s (Age of Wonders)|Halflings]],
+Humans
+Wary
+Azracs
+,
+Frostlings
+,
+Lizardmen
+Hate
+Dark Elves
+,
+Goblins
+,
+Orcs
+,
+Undead
+Terrain
+Friendly
+None
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+4
+Movement
+36
+Abilities
+Holy Protection
+,
+Strike
+,
+True Seeing
+,
+Walking
+The
+Highmen
+(also spelled
+High Men
+) are a
+race
+in
+Age of Wonders
+.
+The name "Highmen" is standard terminology only in
+Age of Wonders
+. In
+Age of Wonders II: The Wizard's Throne
+, the Highmen were renamed "Archons." For more information on the terminology used for this race, please see the main article for the Archons, linked below.
+Background
+Main article:
+Archons
+Description
+“
+General
+High Men are tall, pale-skinned beings believed to have descended from the heavens. Most are taller than the average Human, but with less individual variations in appearance. High Men project a serious demeanor and seem to have a very limited sense of humor. They are highly respected by the good beings, while many of the neutrals and evil beings view them with distrust and suspicion.
+Society
+High Men society is built upon a foundation of strict order and purity. High Men participate in few forms of entertainment and relish tranquil relaxation above more earthly pleasures. It is thought that the High Men spend most of their time protecting the world from evil, especially the Undead, but they are rarely seen away from the battlefield, and the other races know little about them.
+Combat
+The High Men are a magical race by nature and rely heavily on their supernatural abilities in combat. They fight most effectively against their archenemies, the Undead, but fare well against most other races also. With the aid of the Valkyries, Holy Avengers, Titans and Astra, the High Men are able to hold their ground and continue fighting against the powerful forces of evil.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Highman Archer
+1
+18
+3
+1
+2
+4
+5
+30
+Archery
+Holy Protection, True Seeing, (Marksmanship I
+, II
+)
+Highman Swordsman
+1
+18
+4
+3
+2
+4
+5
+30
+Strike
+Holy Protection, True Seeing
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Spirit Puppet
+1
+20
+4
+2
+2
+4
+4
+30
+Strike
+Cold Immunity, Death Immunity, Holy Immunity, Lightning Immunity, Magic Protection, Magic Strike, Poison Immunity
+Highman Saint
+2
+40
+3
+2
+2
+5
+5
+30
+Strike,  Holy Bolts,  Turn Undead II (III
+, IV
+)
+Charm, Dispel Magic I (II
+, III
+), Healing, Holy Protection, Holy Strike, Magic Strike, True Seeing
+Highman Paladin
+2
+50
+5
+3
+3
+5
+8
+40
+Strike, Turn Undead I
+Charge, Healing, Holy Protection, True Seeing
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Titan
+3
+105
+6
+6
+5
+5
+15
+36
+Strike, Round Attack
+Fire Immunity, First Strike, Holy Protection
+Valkyrie
+3
+85
+7
+3
+4
+5
+8
+36
+Strike
+Charge, Fearless, Holy Immunity, Holy Strike, Vision II
+Highman Avenger
+3
+65
+5
+4
+4
+7
+7
+32
+Strike, Holy Bolts, Turn Undead II (III
+, IV
+)
+Cave Crawling, Death Immunity, Fearless, Holy Champion, Holy Immunity, Holy Strike, Magic Strike, True Seeing
+Astra
+4
+200
+7
+6
+4
+8
+20
+36
+Strike
+Dispel Magic I (II
+, III
+), Fearless, Fire Protection, Fire Strike, Holy Immunity, True Seeing, Vision II
+Library heroes
+Atam the Righteous
+Caspar the Pious
+Isabelle the Serene
+Namru the Forsaken
+Gallery
+Unit portraits
+Base portrait
+Spirit Puppet
+Titan
+Valkyrie
+Astra
+Hero portraits
+Leader portrait
+Atam the Righteous
+Caspar the Pious
+Isabelle the Serene
+Namru the Forsaken
+
+======================================================================
+PAGE: Humans
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Humans
+======================================================================
+
+The
+Humans
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Humans (Age of Wonders)
+Humans (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Humans (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Humans_(Age_of_Wonders)
+======================================================================
+
+Humans
+Alignment
+True Neutral
+Race Relations
+Friendly
+Human
+Polite
+Azracs
+,
+Frostlings
+,
+Highmen
+,
+Lizardmen
+Neutral
+Dark Elves
+,
+Dwarves
+,
+Elves
+,
+Goblins
+,
+Halflings
+,
+Orcs
+Wary
+Undead
+Terrain
+Friendly
+None
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Abilities
+Strike
+,
+Walking
+The
+Humans
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Humans
+Description
+“
+General
+The most common inhabitant of the land is man. The youngest of the races, Humans have only been present in the land with the other ancient races for a few centuries. Still, Humans have spread across all parts of the land and have become varied in appearance and nature. Their adaptability allows them to live and thrive in nearly any climate.
+Society
+Due to their relatively short life spans, Humans tend to strive to accomplish things as quickly as possible. Their cities have risen from the ground to encompass vast stretches of land. Human rulers claim dominion over huge empires and believe they are destined to dominate the entire world. These rugged people can adapt to any climate and can even live underground. Humans seem to be making
+incredible advances in technology in recent times, accelerating their spread across the lands.
+Combat
+Humans have been known to use a wide array of combat tactics against other races, depending on the nature of the enemy. Humans make average warriors, clerics, archers and cavalry. Mounted knights make a very strong addition to cavalry, and charlatans are often used for sneak attacks or ranged support. The preferred weapon of almost all Human warriors is the long sword. When available, Human musketeers can give a decided advantage in town sieges and ranged attacks.
+— Description in the
+Age of Wonders
+game manual
+Units
+Library heroes
+Conan McHarr
+Danto Dragonslayer
+Esmeralda the Healer
+Jacob the Noble
+Khabar Eagle Eye
+Roderick Nightrunner
+Gallery
+Unit portraits
+Base portrait
+Human Charlatan
+Human Air Galley
+Hero portraits
+Leader portrait (default)
+Leader portrait
+Leader portrait
+Leader portrait
+Leader portrait
+Leader portrait
+Leader portrait
+Leader portrait
+Conan McHarr
+Danto Dragonslayer
+Esmeralda the Healer
+Jacob the Noble
+Khabar Eagle Eye
+Roderick Nightrunner
+
+======================================================================
+PAGE: Humans (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Humans_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Humans in
+Age of Wonders II
+and
+Shadow Magic
+The
+Humans
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Humans
+Description
+“
+Troublemakers and dreamers, the Humans are filled with unbridled ambition to rule, prosper, grow, conquer and experience far more than their short lives can hold. They live for the moment and, to them, nothing is sacred. To ancient life, Humans are dangerous, vulgar, and uncouth.
+Humans are a strange mix of all races. Some desire to invent and build things. Others desire to rule and wield power, while many are content to sit in the shade of the trees and tell stories to children. Some humans are deeply spiritual, while others show a knack for learning powers that were thought forgotten. Their governments are in a state of constant evolution, while every individual is of their own mind. Every man walks after their own pursuit with brazen disregard for the laws of nature or the order of life.
+Their unpredictable nature has brought them to the brink of extinction. During times of peace, the Humans grew too great among themselves, and they drove from the world many races and creatures. All their expansion did not pass the notice of the destructive forces from Evermore, and soon they were scourged nigh unto oblivion. Still, Humans are resourceful, and when organized they manage to be more efficient in their production of goods than most races.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Neutral
+City bonus: +5 production per city size
+Friendly terrains: None
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): City becomes cheerful; New units gets Willpower
+Common abilities: None
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Halberdier
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+First Strike
+Infantry
+1
+30
+7
+5
+7
+5
+12
+24
+Strike
+Block
+Crossbowman
+1
+30
+0
+0
+5
+5
+10
+24
+Fire Crossbow
+Marksmanship I
+Marksmanship II
+Cavalry
+2
+70
+9
+7
+8
+5
+16
+40
+Strike
+Charge, Mounted
+Swashbuckler
+2
+60
+8
+5
+7
+5
+12
+24
+Strike
+Fire Pistol
+Taunt
+Marksmanship I
+Marksmanship II
+Knight
+3
+80
+14
+9
+12
+8
+20
+40
+Strike
+Charge, Willpower, Mounted
+Witch
+3
+140
+8
+6
+6
+13
+13
+24
+Strike
+Magic Bolts
+Life Stealing, Death Strike, Physical Protection, Poison Protection
+Air Galley
+4
+330
+0
+0
+10
+10
+30
+40
+Shoot Javelin
+Transport VII, Marksmanship I, Vision II, Fire Weakness, Poison Immunity
+Marksmanship II
+Marksmanship III
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Halberdier
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+First Strike, Pole Arm
+Infantry
+1
+30
+7
+5
+7
+5
+12
+24
+Strike
+Block
+Crossbowman
+1
+30
+0
+0
+5
+5
+10
+24
+Fire Crossbow
+Marksmanship I
+Marksmanship II
+Cavalry
+2
+70
+9
+7
+8
+5
+15
+40
+Strike
+Charge, Mounted
+Swashbuckler
+2
+60
+8
+5
+7
+5
+12
+28
+Strike
+Fire Pistol
+Taunt
+Marksmanship I
+Marksmanship II
+Knight
+3
+150
+14
+9
+12
+8
+20
+36
+Strike
+Charge, Willpower, Mounted, Dragon Slaying
+Holy Champion
+Herbalist
+3
+110
+10
+6
+9
+14
+15
+24
+Strike
+Poison Darts
+Poison Protection, Poison Strike, Concealment, Marksmanship I, Healing I
+Marksmanship II, Poison Immunity
+Marksmanship III
+Chaplain
+3
+100
+9
+7
+9
+12
+15
+28
+Strike
+Turn Undead
+True Seeing, Willpower, Dispel Magic, Bard's Skills, Leadership I
+Leadership II
+Leadership III
+Air Galley
+4
+280
+0
+0
+10
+10
+30
+40
+Shoot Javelin
+Ram
+Transport VII, Marksmanship I, Vision II, Fire Weakness, Poison Immunity
+Marksmanship II, Vision III
+Marksmanship III, Vision IV
+Available common units
+Monk
+Pioneer
+Ballista
+Catapult
+Cannon
+Galley
+Transport Ship
+Heroes
+Belendor
+Estra
+Taberu
+Mynar (
+Shadow Magic
+only)
+Paxanaria (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Lizardmen
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Lizardmen
+======================================================================
+
+The
+Lizardmen
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Lizardmen (Age of Wonders)
+
+======================================================================
+PAGE: Lizardmen (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Lizardmen_(Age_of_Wonders)
+======================================================================
+
+Lizardmen
+Alignment
+Neutral
+Race Relations
+Friendly
+Lizardman
+Polite
+Frostlings
+,
+Humans
+Neutral
+Azracs
+,
+Dark ELves
+,
+Dwarves
+,
+Elves
+,
+Goblins
+,
+Halflings
+,
+Orcs
+Wary
+Highmen
+,
+Undead
+Terrain
+Friendly
+Water
+Hostile
+Desert, Wasteland
+Heroes
+Attack
+3
+Damage
+3
+Defense
+3
+Resistance
+2
+Movement
+32
+Abilities
+Strike
+,
+Swimming
+,
+Walking
+The
+Lizardmen
+(occasionally also called
+Lizards
+) are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Lizardmen
+Description
+“
+General
+Lizardmen are a savage race of reptilian humanoids. Lizardmen are covered in scales and vary in color from deep green to a lighter brown-green. Lizardmen prefer to live near large bodies of water or swamps, but can thrive in nearly any climate except the cold North.
+Society
+Lizardmen society is governed almost entirely by strength and brute force. All Lizardmen answer to a single king, selected by his ability to defeat the current king in hand-to-hand combat. One’s status in determined almost entirely at or before birth. Potential Heroes and kings usually have some discerning characteristic present on their eggs, or on their bodies once hatched. A spotted egg often forecasts the birth of a shaman or one with magical ability.
+Since magic is viewed with distrust in Lizardmen society, a close eye is kept on those few shamans with the ability to wield magical powers. Still, they are typically given important roles, such as becoming the king’s advisors or the town’s healers.
+Combat
+In combat, Lizardmen fight in unorganized groups, relying heavily on frontal assaults. Lizardmen are extremely aggressive and prefer melee combat to missile attacks. One of their most devastating tactics is to cross bodies of water and launch surprise attacks on
+unsuspecting cities. They are able to do so with full siege weaponry, as they employ specially constructed ballistas and catapults mounted atop giant turtles.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Lizardman Archer
+1
+15
+3
+2
+2
+2
+5
+26
+Archery
+Archery, Swimming, Walking, (Marksmanship I
+, II
+)
+Lizardman Swordsman
+1
+15
+4
+3
+2
+2
+5
+26
+Strike
+Strike, Swimming, Walking
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Giant Slug
+1
+12
+3
+3
+1
+2
+5
+20
+Strike, Venemous Spit
+Cave Crawling, Poison Protection, Poison Strike
+Lizardman Shaman
+2
+30
+3
+2
+2
+3
+5
+26
+Strike, Magic Bolts, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Healing, Magic Strike, Poison Protection
+Lizardman Frog Rider
+2
+35
+5
+3
+3
+2
+7
+32
+Strike
+Charge
+Turtle Catapult
+2
+50
+5
+8
+3
+3
+8
+20
+Hurl Boulder
+(Marksmanship I
+, II
+)
+Turtle Ballista
+2
+68
+6
+5
+3
+3
+7
+20
+Shoot Javelin
+(Marksmanship I
+, II
+)
+Salamander
+3
+75
+7
+4
+4
+5
+10
+26
+Strike
+Fire Immunity, Fire Strike, Parry
+Lurker
+3
+65
+5
+6
+3
+3
+10
+24
+Strike
+Poison Protection, Poison Strike, Water Concealment
+Green Wyvern
+3
+98
+4
+5
+4
+6
+12
+36
+Strike
+Fearless, Flying, Poison Immunity, Poison Strike, Vision II
+Basilisk
+4
+203
+7
+5
+6
+5
+22
+36
+Strike
+Doom Gaze, Fearless, Night Vision, Poison Immunity, True Seeing
+Library heroes
+Forok the Bloated
+Resh Redhead
+Shai Eggbuster
+Tarash the Shaman
+Gallery
+Unit portraits
+Base portrait
+Giant Slug
+Turtle Catapult
+Turtle Ballista
+Salamander
+Lurker
+Green Wyvern
+Basilisk
+Hero portraits
+Leader portrait
+Forok the Bloated
+Resh Redhead
+Shai Eggbuster
+Tarash the Shaman
+
+======================================================================
+PAGE: Orcs
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Orcs
+======================================================================
+
+The
+Orcs
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Orcs (Age of Wonders)
+Orcs (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Orcs (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Orcs_(Age_of_Wonders)
+======================================================================
+
+Orc
+Alignment
+Evil
+Race Relations
+Friendly
+Dark Elf
+,
+Goblin
+,
+Orc
+Polite
+Undead
+Neutral
+Azrac
+,
+Frostling
+,
+Human
+,
+Lizardman
+Hate
+Dwarf
+,
+Elf
+,
+Halfling
+,
+Highman
+Terrain
+Friendly
+None
+Hostile
+None
+Heroes
+Attack
+3
+Damage
+4
+Defense
+3
+Resistance
+3
+Movement
+36
+Abilities
+Night Vision
+,
+Strike
+,
+Walking
+The
+Orcs
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Orcs
+Description
+“
+General
+Orcs are a race of humanoids known for their rough facial features and brutality in battle.
+They stand roughly as tall as Humans, their hair is typically dark and unkempt, and their skin tone is a greenish hue. Orcs are not thought to be very intelligent beings, but are well-respected and feared in battle by both allies and enemies.
+Society
+Orcs believe that they are the supreme race. They have little, if any, respect for other races. Pride, wealth, and territory are highly valued, and Orcs believe the best way to obtain these things is through war and battle. Orc society is harsh. Its members are forced
+to endure many types of pain, suffering, and deprivation on a daily basis in order to make them stronger. Status is based solely on one’s rank within the military, which is usually based on strength and stamina. When not at war, Orcs often fight amongst each other for lack of any other way to express their aggression.
+Combat
+Orcs take particular pleasure in the brutality of war and hand-to-hand combat. They have refined the art of war to a degree beyond that of any other race and are able to deal with almost any situation through some means of force, be it by combat or assassination. Since not every Orc is cut out for infantry, much less cavalry and the elite ranks, ranks of archers and shamans are plentiful, although they are rarely ever called upon except when tactically needed. Orcs consider the use of magic in battle cowardly, and one of the only reasons an Orc will ever run from battle is if the enemy is utilizing magic heavily.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Orc Archer
+1
+15
+3
+1
+2
+3
+5
+26
+Archery
+(Marksmanship I
+, II
+)
+Orc Swordsman
+1
+17
+4
+4
+2
+3
+5
+26
+Strike
+Battering Ram
+1
+23
+1
+1
+2
+3
+10
+20
+Wall Crushing
+Cold Protection, Fearless, Poison Immunity
+Kobold
+1
+15
+4
+2
+2
+3
+4
+24
+Strike
+Cave Crawling, Night Vision, Poison Immunity, Poison Strike
+Orc Shaman
+2
+30
+3
+2
+2
+4
+5
+26
+Strike, Magic Bolts, Turn Undead I (II
+, III
+)
+Dispel Magic I (II
+, III
+), Healing, Magic Strike, Night Vision
+Orc Heavy Cavalry
+2
+39
+5
+4
+3
+3
+8
+32
+Strike
+Charge
+Catapult
+2
+58
+1
+1
+2
+3
+8
+20
+Hurl Boulder
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Shredder Bolt
+2
+75
+1
+1
+2
+3
+7
+20
+Shoot Black Javelin
+Cold Protection, Fearless, Poison Immunity, (Marksmanship I
+, II
+)
+Orc Warlord
+3
+105
+7
+6
+6
+5
+14
+26
+Strike, Round Attack
+Doom Bat
+3
+55
+4
+4
+3
+3
+7
+28
+Strike
+Cause Fear, Flying, Night Vision, Poison Protection, Poison Strike, Underground Concealment
+Orc Assassin
+3
+75
+5
+3
+3
+3
+7
+28
+Strike, Poison Darts
+Concealment, Marksmanship I (II
+, III
+), Poison Strike, Wall Climbing
+Red Dragon
+4
+235
+6
+5
+7
+8
+18
+32
+Strike, Fire Breath
+Dragon, Fearless, Fire Immunity, Vision II
+Library heroes
+Azktor the Unholy
+Borak the Brute
+Doktok the Fat
+Fakana Poisoner
+Gallery
+Unit portraits
+Base portrait
+Kobold
+Orc Warlord
+Doom Bat
+Red Dragon
+Hero portraits
+Leader portrait (default)
+Leader portrait
+Azktor the Unholy
+Borak the Brute
+Doktok the Fat
+Fakana Poisoner
+
+======================================================================
+PAGE: Orcs (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Orcs_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Orcs in
+Age of Wonders II
+and
+Shadow Magic
+The
+Orcs
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Orcs
+Description
+“
+Orcs are creatures of destruction. They live to break things down, so it is with great difficulty that a master of Orcs must gather the tribes together and form a city. Orcs hate things of beauty, unless that thing is also cruel. When bored, and they bore easily, Orcs will just as readily destroy one another as any other particular race. As a side effect, however, they are quite energetic workers when organized by powerful leaders, and they are accustomed to working under the duress of harsh taskmasters.
+Orcs are tough as fighters. Their Warlords are nigh invincible and have been rumored to slay whole armies with the twist of their gigantic two-handed swords. Orc Abominations, on the other hand, are deadly in all the ways a regular Orc might consider dishonorable. And, even though Orcs care little for magic, preferring instead to trust in the power of their cruelty and strength, an Orc Shaman can provide great backup to any Orc Army, capable of enslaving even the woodland creatures.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Evil
+City bonus: +5 production per city size
+Friendly terrains: None
+Hostile terrains: None
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe)
+Racial structure bonus (
+Shadow Magic
+only): New units get Life Stealing
+Common abilities: Night Vision
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Impaler
+1
+20
+5
+5
+5
+4
+10
+24
+Strike
+Night Vision, First Strike
+Axeman
+1
+30
+7
+5
+7
+4
+12
+24
+Strike
+Night Vision, Block
+Archer
+1
+30
+0
+0
+5
+4
+10
+24
+Archery
+Night Vision
+Marksmanship I
+Marksmanship II
+Heavy Cavalry
+2
+75
+9
+7
+8
+5
+17
+36
+Strike
+Night Vision, Charge, Mounted
+Abomination
+2
+80
+7
+5
+6
+8
+12
+24
+Strike
+Entangle
+Venomous Spit
+Night Vision, Concealment, Poison Protection, Poison Strike
+Marksmanship I
+Marksmanship II
+Shaman
+3
+120
+14
+8
+8
+7
+13
+28
+Strike
+Control Animal
+Wall Climbing, Concealment, Poison Strike, Energy Drain
+Warlord
+3
+190
+16
+12
+13
+8
+22
+24
+Strike
+Round Attack
+Night Vision
+Leadership I
+Leadership II
+Glutton
+4
+340
+17
+13
+8
+15
+25
+36
+Strike
+Swallow Whole
+Night Vision, Poison Immunity, Death Protection
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Impaler
+1
+20
+5
+5
+5
+4
+10
+28
+Strike
+Night Vision, First Strike, Pole Arm
+Axeman
+1
+30
+7
+5
+8
+4
+12
+28
+Strike
+Night Vision, Block
+Archer
+1
+25
+0
+0
+5
+4
+10
+28
+Archery
+Night Vision
+Marksmanship I
+Marksmanship II
+Heavy Cavalry
+2
+75
+9
+7
+9
+5
+17
+36
+Strike
+Night Vision, Charge, Mounted
+Abomination
+2
+80
+7
+5
+6
+8
+12
+28
+Strike
+Entangle
+Venomous Spit
+Night Vision, Concealment, Poison Protection, Poison Strike
+Marksmanship I
+Marksmanship II, Poison Immunity
+Shaman
+3
+120
+14
+8
+9
+12
+15
+28
+Strike
+Control Animal
+Black Bolts
+Wall Climbing, Concealment, Poison Strike, Energy Drain, Poison Protection, Death Protection
+Marksmanship I, Death Immunity, Poison Immunity
+Marksmanship II
+Warlord
+3
+190
+16
+12
+13
+8
+22
+24
+Strike
+Round Attack
+Night Vision
+Leadership I
+Leadership II
+Doom Bats
+3
+140
+10
+4
+15
+6
+8
+32
+Strike
+Death Immunity, Poison Immunity, Double Strike, Life Stealing, Poison Strike
+Cause Fear
+Glutton
+4
+280
+17
+13
+8
+14
+30
+28
+Strike
+Swallow Whole
+Taunt
+Night Vision, Poison Immunity, Death Protection, Willpower, Poison Strike
+Leadership I, Death Immunity
+Leadership II
+Available common units
+Black Priest
+Pioneer
+Ballista
+Catapult
+Cannon
+Galley
+Transport Ship
+Heroes
+Bogga
+Grar
+Wazzz
+Nielduh (
+Shadow Magic
+only)
+Azktor (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Races (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Races_(Age_of_Wonders)
+======================================================================
+
+There are twelve
+races
+in
+Age of Wonders
+,
+each with its own
+city
+appearance, roster of producible
+units
+, and set of starting
+stats
+and
+abilities
+for
+heroes
+. Standard units of the same race may also share similar stats and abilities. Race also determines
+race relations
+with other races, which typically correlates with the alignment (i.e., good, evil, or neutral) of the races in question. Some races may also have friendly or hostile terrains that affects the
+morale
+of their units.
+List of Races
+Portrait
+Race
+Description
+Azracs
+The Azracs are an aggressive, desert-dwelling race. They are, in many ways, similar to Humans. What little hair they have on their bodies they usually shave. Azracs wear minimal clothing and disdain heavy armor. Their religious zeal makes them particularly aggressive and fanatic.
+Dark Elves
+Dark Elves are the evil counterparts of normal Elves. They prefer to live in darkness, hidden from the sun's revealing rays. Although they were once part of the Elven community that walks in the glow of the sun, they choose now to live underground. After only a few generations, they began adapting to the darkness and disliking the sunlight. Most Dark Elves have a dark gray-green complexion with white or silver hair.
+Dwarves
+Dwarves are small, stocky humanoids known for their industriousness and tenacity in battle. They usually live in elaborate underground cities, built beneath mountains, but can adapt to almost any climate. Dwarves harbor a deep respect for the earth and rock, stable things that stand the test of time.
+Elves
+Elves are a thin, fragile-looking folk who typically dwell deep within the forest. Aside from their pointed ears and thin facial features, Elves look very similar to Humans. Although somewhat slimmer than Humans, their lean, muscular limbs give them great agility and speed. Elves can live forever and can only die by violence, but most choose, at a very old age to set sail for The Isle of Last Goodbyes in search of the mystical Isle of Evermor.
+Frostlings
+Frostlings are a race of small, nomadic humanoids that dwell in the cold northern regions. They are thought to be distant relatives of the Goblins. Frostlings possess a gray complexion and large, deep-blue eyes. Frostling clothing is simple and often weatherworn from the harsh cold winds and ice storms. Because of their natural resistance to the cold, however, Frostlings need little protection from the wintry elements.
+Goblins
+Related to the Orcs, these little horrors live in filthy underground tunnels. They are feared, not for their strength, but for their multitude. Goblins hate bright sunlight and will try to avoid it. Goblins are often characterized as stupid creatures, probably because of the number of times that they have been duped and enslaved by other races. While not a particularly smart race, Goblins are quite technically proficient, and have been known to replicate and modify existing designs and creations to suit their malicious needs.
+Halflings
+Halflings are a small, peaceful race of humanoids. Outgoing and cheerful, Halflings lead a pastoral life emphasizing comfort. Halflings are not likely to go on adventures, as such endeavors make one late for dinner.
+Highmen
+Highmen are tall, pale-skinned beings believed to have descended from the heavens. Most are taller than the average Human, but with less individual variations in appearance. Highmen project a serious demeanor and seem to have a very limited sense of humor. They are highly respected by the good beings, while many of the neutrals and evil beings view them with distrust and suspicion.
+Humans
+The most common inhabitant of the land is man. The youngest of the races, Humans have only been present in the land with the other ancient races for a few centuries. Still, Humans have spread across all parts of the land and have become varied in appearance and nature. Their adaptability allows them to live and thrive in nearly any climate.
+Lizardmen
+Lizardmen are a savage race of reptilian humanoids. Lizardmen are covered in scales and vary in color from deep green to a lighter brown-green. Lizardmen prefer to live near large bodies of water or swamps, but can thrive in nearly any climate except the cold North.
+Orcs
+Orcs are a race of humanoids known for their rough facial features and brutality in battle. They stand roughly as tall as Humans, their hair is typically dark and unkempt, and their skin tone is a greenish hue. Orcs are not thought to be very intelligent beings, but are well-respected and feared in battle by both allies and enemies.
+Undead
+The masses of Undead found their way to the land of the living through a planar rift, opened when the Trumps of Doom were sounded. Now that they are among the living, they seek solely to destroy all living creatures and add them to their soulless ranks. The most common type of Undead appear as skeletal remains of their once living bodies. However, other types of Undead exist as well, including Wraiths and the dreaded Reaper.
+
+======================================================================
+PAGE: Tigrans (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Tigrans_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Tigrans in
+Age of Wonders II
+and
+Shadow Magic
+The
+Tigrans
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Tigrans
+Description
+“
+The newest race on the Blessed Continent, these savage hunters employ the powers of the great cats to stalk their foes. They are quick and secretive, enjoying a rich lifestyle. They spend much of their time in pursuit of spiritual mysteries. They have unlocked many, and are guided by mysterious beings with the power to bend the wills of men. Tigrans reflect the image of their creator, the fire god Yaka. The most powerful followers of Yaka fuse with the element of flame and can conjure bolts of fire upon command.
+Their homes are great structures of sandstone, which blend into the desert sands. Most Tigrans appear as beasts, but their appearance is deceptive. They are experts as spies, and relish the enemy that underestimates their capability. They have a hunger to rule over other races, and when placed in positions of power, they expect to be pampered and spoiled as any cat.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Neutral
+City bonus: +5 gold per city size
+Friendly terrains: Desert
+Hostile terrains: Snow, Ice
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe) and Desert
+Racial structure bonus (
+Shadow Magic
+only): Garrison concealed; New units get Vision I
+Common abilities: Night Vision
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Shredder
+1
+30
+6
+5
+5
+5
+12
+24
+Strike
+Throw Blade
+Night Vision
+Marksmanship I
+Marksmanship II
+Hunter
+1
+30
+7
+5
+6
+5
+12
+34
+Strike
+Night Vision
+Fire Cat
+1
+30
+5
+0
+5
+5
+10
+24
+Fire Bolts
+Night Vision, Fire Protection
+Marksmanship I
+Marksmanship II, Fire Immunity
+Cat Master
+2
+80
+10
+7
+6
+7
+16
+34
+Strike
+Archery
+Night Vision, Mounted, Marksmanship I
+Marksmanship II
+Marksmanship III
+Prowler
+2
+70
+9
+7
+7
+8
+14
+28
+Strike
+Night Vision, Concealment, Wall Climbing
+Mystic
+3
+100
+7
+5
+9
+14
+14
+24
+Strike
+Magic Bolts
+Night Vision, Magic Strike, Phase, Blurred, Magic Protection
+Marksmanship I
+Marksmanship II
+Manticore
+3
+150
+11
+8
+10
+9
+20
+40
+Strike
+Night Vision, Vision II, Poison Strike
+Sphinx
+4
+360
+15
+10
+12
+16
+26
+32
+Strike
+Dominate
+Night Vision, Magic Strike, Fire Immunity
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Shredder
+1
+30
+6
+5
+5
+5
+12
+24
+Strike
+Throw Blade
+Night Vision
+Marksmanship I
+Marksmanship II
+Hunter
+1
+30
+8
+5
+6
+5
+12
+36
+Strike
+Night Vision
+Fire Cat
+1
+30
+5
+0
+5
+5
+12
+24
+Fire Bolts
+Night Vision, Fire Protection
+Marksmanship I
+Marksmanship II, Fire Immunity
+Cat Master
+2
+80
+9
+7
+6
+7
+16
+32
+Strike
+Archery
+Night Vision, Mounted, Marksmanship I
+Marksmanship II
+Marksmanship III
+Prowler
+2
+70
+9
+7
+7
+8
+14
+36
+Strike
+Night Vision, Concealment, Wall Climbing, Charge
+First Strike
+Mystic
+3
+130
+9
+6
+9
+14
+15
+28
+Strike
+Magic Bolts
+Night Vision, Magic Strike, Phase, Blurred, True Seeing, Steal Enchantment
+Marksmanship I, Magic Protection, Double Strike
+Marksmanship II, Magic Immunity
+Manticore
+3
+150
+12
+8
+9
+9
+16
+40
+Strike
+Night Vision, Vision II, Poison Strike, Poison Immunity, Charge
+Beholder
+3
+150
+9
+8
+8
+20
+18
+28
+Flt.
+Strike
+Doom Gaze
+Night Vision, True Seeing, Magic Immunity, Dispel Magic
+Marksmanship I
+Marksmanship II
+Sphinx
+4
+300
+15
+10
+12
+16
+30
+32
+Strike
+Dominate
+Night Vision, Magic Strike, Fire Immunity, Willpower
+Drain Will
+Available common units
+Monk
+Pioneer
+Ballista
+Catapult
+Cannon (
+Age of Wonders II
+only)
+Flame Cannon (
+Shadow Magic
+only)
+Galley
+Transport Ship
+Heroes
+Jafsar
+Karzen
+Shira
+Carcal (
+Shadow Magic
+only)
+
+======================================================================
+PAGE: Undead
+CATEGORIES: Races
+URL: https://ageofwonders.fandom.com/wiki/Undead
+======================================================================
+
+The
+Undead
+are a race in the
+Age of Wonders
+series.
+History
+To be written
+...
+This section is needed but has not been written yet. You can help this wiki by
+writing it
+.
+Game-specific articles
+Undead (Age of Wonders)
+Undead (AoW II and Shadow Magic)
+
+======================================================================
+PAGE: Undead (Age of Wonders)
+CATEGORIES: Age of Wonders races
+URL: https://ageofwonders.fandom.com/wiki/Undead_(Age_of_Wonders)
+======================================================================
+
+Undead
+Alignment
+Pure Evil
+Race Relations
+Friendly
+Undead
+Polite
+Dark Elves
+,
+Goblins
+,
+Orcs
+Wary
+Azracs
+,
+Frostlings
+,
+Humans
+,
+Lizardmen
+Hate
+Dwarves
+,
+Elves
+,
+Halflings
+,
+Highmen
+Terrain
+Friendly
+Wasteland
+Hostile
+Grassland
+Heroes
+Attack
+2
+Damage
+3
+Defense
+3
+Resistance
+3
+Movement
+36
+Abilities
+Cold Protection
+,
+Death Immunity
+,
+Fire Protection
+,
+Lightning Protection
+,
+Poison Immunity
+,
+Strike
+,
+Walking
+The
+Undead
+are a
+race
+in
+Age of Wonders
+.
+Background
+Main article:
+Undead
+Description
+“
+General
+The masses of Undead found their way to the land of the living through a planar rift, opened when the Trumps of Doom were sounded. Now that they are among the living, they seek solely to destroy all living creatures and add them to their soulless ranks. The most common type of Undead appear as skeletal remains of their once living bodies. However, other types of Undead exist as well, including Wraiths and the dreaded Reaper.
+Society
+Undead have little “society” of which to speak. They often conquer and occupy the towns and cities of other races. Some Undead are needed to do basic work to maintain the housing and buildings in these cities, but most Undead exist only to destroy everything else around them and expand the numbers and reach of their people.
+Combat
+Already dead, Undead have little to fear. They can be destroyed most often by brute force, but most are immune to the effects of poison and fear and are highly resistant to lightning, fire and cold. Slow moving and expendable, Undead often resort to victory by numbers. Expecting such tactics, many a town has been surprised and overrun by more powerful Wraiths or by swift-moving Demons, Hellhounds, and Werewolves.
+— Description in the
+Age of Wonders
+game manual
+Units
+Unit Name
+Lvl
+Mov.
+Combat Abilities
+Other Abilities
+Undead Archer
+1
+18
+4
+1
+2
+3
+5
+26
+Archery
+Cold Protection, Death Immunity, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration, (Marksmanship I
+, II
+)
+Undead Swordsman
+1
+18
+4
+3
+2
+3
+5
+26
+Strike
+Cold Protection, Death Immunity, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration
+Undead Bone Ram
+1
+25
+2
+1
+2
+3
+8
+20
+Wall Crushing
+Cold Protection, Death Immunity, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration
+Hell Hound
+1
+20
+4
+2
+3
+3
+5
+32
+Strike
+Death Protection, Fearless, Fire Protection (Fire Immunity
+), Fire Strike, Regeneration
+Undead Doom Priest
+2
+42
+3
+2
+2
+4
+5
+26
+Strike, Black Bolts, Dominate
+Cold Protection, Death Immunity, Death Strike, Dispel Magic I (II
+, III
+), Dominate, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration
+Undead Knight
+2
+60
+5
+3
+3
+3
+7
+36
+Strike
+Charge, Cold Protection, Death Immunity, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration
+Undead Skull Thrower
+2
+60
+1
+1
+2
+3
+7
+20
+Hurl Boulder
+Cold Protection, Death Immunity, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration, (Marksmanship I
+, II
+)
+Ballista
+2
+72
+1
+1
+2
+3
+7
+20
+Shoot Javelin
+Cold Protection, Fearless, Poison Immunity (Marksmanship I
+, II
+)
+Undead Bone Horror
+3
+104
+5
+5
+3
+4
+19
+26
+Strike, Wall Crushing
+Cold Protection, Death Immunity, Death Strike, Fearless, Fire Protection, Lightning Protection, Poison Immunity, Regeneration
+Demon
+3
+105
+6
+6
+4
+4
+10
+30
+Strike
+Death Immunity, Fearless, Fire Immunity, Fire Strike, Flying, Poison Immunity, Regeneration, Vision II
+Undead Wraith
+3
+75
+4
+3
+2
+4
+6
+26
+Strike
+Cold Immunity, Death Immunity, Death Strike, Fearless, Fire Immunity, Life Stealing, Lightning Protection, Pass Wall, Physical Immunity, Poison Immunity, Regeneration
+Undead Reaper
+4
+210
+7
+6
+5
+10
+15
+26
+Strike, Invoke Death
+Cause Fear, Cold Protection, Death Immunity, Death Strike, Fearless, Invoke Death, Life Stealing, Lightning Protection, Path of Decay, Poison Immunity, Regeneration
+Library heroes
+Alexandra Lifestealer
+Dactor Deathbringer
+Igor the Liche
+Zodar Foulface
+Gallery
+Unit portraits
+Base portrait
+Undead Bone Ram
+Hell Hound
+Undead Doom Priest
+Undead Skull Thrower
+Undead Bone Horror
+Demon
+Undead Wraith
+Undead Reaper
+Hero portraits
+Leader portrait (default)
+Leader portrait
+Alexandra Lifestealer
+Dactor Deathbringer
+Igor the Liche
+Zodar Foulface
+
+======================================================================
+PAGE: Undead (AoW II and Shadow Magic)
+CATEGORIES: Age of Wonders II races, Age of Wonders: Shadow Magic races
+URL: https://ageofwonders.fandom.com/wiki/Undead_(AoW_II_and_Shadow_Magic)
+======================================================================
+
+Undead in
+Age of Wonders II
+and
+Shadow Magic
+The
+Undead
+are a
+race
+in
+Age of Wonders II: The Wizard's Throne
+and
+Age of Wonders: Shadow Magic
+.
+Background and history
+Main article:
+Undead
+Description
+“
+Hungry, devoid of passion, save the endless hunger to return all matter to dust, the Undead creep in the shadows of every ruined place. They haunt the graves of beings whose lives passed too quickly. They feed upon fear and breathe nightmares. They speak
+to men through lustful beings of pure flesh, which drain the lifeblood of the living to sustain their powers. They have no children save the dead.
+Death knows many secrets, which is part of its appeal to Necromancers. Undead whisper their secrets, empowering their leaders with the ability to learn more, for the price of death’s allegiance.
+They have no homes, save heaps upon the earth. Their structures are the ruins and great mounds formed literally from the bodies of their conquered. As they gather the tattered flesh and carnage, they swell with power, until the very forces of death walk the earth, withering all in their path.
+— Description in
+Age of Wonders: Shadow Magic
+Attributes and bonuses
+Alignment: Pure Evil
+City bonus: +5 research per city size
+Friendly terrains: Wasteland
+Hostile terrains: Grass
+Crop-permitting terrains: Standard (Grassland, Dirt, and Steppe) and Wasteland
+Racial structure bonus (
+Shadow Magic
+only): Humanoids dying in siege may be raised as Zombies
+Common abilities: Undead
+Race-specific units
+Age of Wonders II: The Wizard's Throne
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Zombie
+1
+15
+4
+4
+4
+4
+10
+20
+Strike
+Undead, Death Strike, Resurgence
+Swordsman
+1
+20
+6
+5
+5
+5
+10
+24
+Strike
+Undead, Block
+Archer
+1
+25
+0
+0
+4
+5
+10
+24
+Archery
+Undead
+Marksmanship I
+Marksmanship II
+Death Knight
+2
+70
+8
+6
+7
+6
+15
+40
+Strike
+Undead, Strike, Magical Mount
+Vampire
+2
+90
+9
+5
+6
+10
+14
+28
+Strike
+Seduce
+Undead, Concealment, Death Strike, Fire Weakness, Wall Climbing, Holy Weakness, Life Stealing
+Spectre
+3
+120
+8
+5
+10
+10
+14
+28
+Flt.
+Strike
+Undead, Pass Wall, Death Strike, Cold Immunity, Energy Drain, Physical Protection
+Bone Horror
+3
+190
+13
+11
+9
+8
+30
+28
+Strike
+Wall Crushing
+Undead, Cause Fear, Death Strike
+Dread Reaper
+4
+360
+13
+13
+13
+13
+26
+32
+Flt.
+Strike
+Undead, Cause Fear, Death Strike, Magic Strike, Path of Decay, Life Stealing, True Seeing, Energy Drain
+Unholy Champion
+Age of Wonders: Shadow Magic
+Image
+Unit
+Lvl
+Combat Abilities
+Other Abilities
+Zombie
+1
+15
+4
+4
+4
+4
+10
+20
+Strike
+Undead, Death Strike, Resurgence
+Swordsman
+1
+20
+6
+5
+5
+5
+10
+24
+Strike
+Undead, Block
+Archer
+1
+25
+0
+0
+4
+5
+10
+24
+Archery
+Undead
+Marksmanship I
+Marksmanship II
+Death Knight
+2
+70
+9
+6
+7
+6
+16
+40
+Strike
+Undead, Strike, Magical Mount
+Unholy Champion
+Vampire
+2
+90
+9
+5
+6
+10
+14
+28
+Strike
+Seduce
+Undead, Concealment, Death Strike, Fire Weakness, Wall Climbing, Holy Weakness, Life Stealing
+Drain Will
+Spectre
+3
+150
+12
+8
+13
+10
+16
+32
+Flt.
+Strike
+Undead, Pass Wall, Death Strike, Cold Immunity, Energy Drain, Physical Protection, Shadow Walker, Holy Weakness
+Bone Horror
+3
+180
+13
+11
+9
+8
+30
+28
+Strike
+Wall Crushing
+Undead, Cause Fear, Death Strike, Regeneration
+Necromancer
+3
+150
+9
+7
+9
+13
+14
+28
+Strike
+Black Bolts
+Animate Corpse
+Drain Will
+Undead, Death Strike, Holy Weakness, Life Stealing, Marksmanship I, Dispel Magic
+Marksmanship II
+Marksmanship III
+Dread Reaper
+4
+290
+13
+13
+13
+13
+26
+32
+Flt.
+Strike
+Undead, Cause Fear, Death Strike, Magic Strike, Path of Decay, Life Stealing, True Seeing, Energy Drain, Shadow Walker, Willpower, Pass Wall
+Unholy Champion
+Available common units
+Black Priest
+Pioneer
+Ballista
+Catapult
+Cannon
+Galley
+Transport Ship
+Heroes
+Jack
+Joseph
+Ymbria
+Nausic (
+Shadow Magic
+only)
+Rautar (
+Shadow Magic
+only)

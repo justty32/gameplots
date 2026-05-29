@@ -1,0 +1,108 @@
+
+======================================================================
+PAGE: Blooded Werewolf
+CATEGORIES: Beast Units, Werewolf Units
+URL: https://fallfromheaven.fandom.com/wiki/Blooded_Werewolf
+======================================================================
+
+Blooded Werewolf
+Race:
+Werewolf
+Unit Class:
+Beast
+Requires:
+Randomly upgraded from a
+Ravenous Werewolf
+Special:
+10% chance to create a
+Ravenous Werewolf
+in combat
+5% chance to become a
+Greater Werewolf
+after Combat
+Starts With:
+Werewolf
+Strength:
+8
+Movement:
+2
+Cost:
+N/A
+Strategy
+Any unit killed by a
+werewolf
+becomes a Ravenous Werewolf, newly born, weak and hungry. After a
+Ravenous Werewolf
+has killed a unit it becomes a Blooded Werewolf. If a Blooded Werewolf kills enough victims it can become the powerful
+Greater Werewolf
+.
+
+======================================================================
+PAGE: Greater Werewolf
+CATEGORIES: Beast Units, Werewolf Units
+URL: https://fallfromheaven.fandom.com/wiki/Greater_Werewolf
+======================================================================
+
+Greater Werewolf
+Race:
+Werewolf
+Unit Class:
+Beast
+Requires:
+Randomly upgraded from a
+Ravenous Werewolf
+Special:
+15% chance to create a
+Ravenous Werewolf
+in combat
+Starts With:
+Werewolf
+Strength:
+11
+Movement:
+3
+Cost:
+N/A
+Any unit killed by a
+werewolf
+becomes a Ravenous Werewolf, newly born, weak and hungry. After a
+Ravenous Werewolf
+has killed a unit it becomes a
+Blooded Werewolf
+. If a Blooded Werewolf kills enough victims it can become the powerful Greater Werewolf.
+
+======================================================================
+PAGE: Ravenous Werewolf
+CATEGORIES: Beast Units, Werewolf Units
+URL: https://fallfromheaven.fandom.com/wiki/Ravenous_Werewolf
+======================================================================
+
+Ravenous Werewolf
+Race:
+Werewolf
+Unit Class:
+Beast
+Requires:
+Randomly created by other
+Werewolves
+Special:
+-25 City Attack
+10% to create Ravenous Werewolf in combat
+Becomes a
+Blooded Werewolf
+after combat
+Starts With:
+Enraged
+Werewolf
+Strength:
+5
+1
+Cost:
+N/A
+Any unit killed by a
+werewolf
+becomes a Ravenous Werewolf, newly born, weak and hungry. After a Ravenous Werewolf has killed a unit it becomes a
+Blooded Werewolf
+. If a Blooded Werewolf kills enough victims it can become the powerful
+Greater Werewolf
+.

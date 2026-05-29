@@ -1,0 +1,528 @@
+
+======================================================================
+PAGE: Balor
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Balor
+======================================================================
+
+Balor
+Race:
+Demon
+Unit Class:
+Melee Unit
+Requires:
+Infernal
+Rage
+Training Yard
+Special:
+Can use
+Bronze
+,
+Iron
+and
+Mithril Weapons
+Starts With:
+Demon
+Stigmata
+Resist Fire
+Strength:
+7/3
++4
+Unholy
+Movement:
+1
+Cost:
+240
+Upgrades From:
+Sect of Flies
+Replaces:
+Berserker
+Out of a darkened shadow door
+Stepped a beast of unbridled horror
+Cloven hooves, arms of an ape
+Black hair, sharp horns and eyes of hate
+It dragged chains like a giant tail
+It held a hammer, hooks and nails
+The thing reached out and at its touch
+My heart collapsed, my soul was crushed
+It held the chains so I could see
+In a haunting voice it spoke to me
+"
+for pain you cause there is a price
+"
+"
+you pay it in the afterlife
+"
+and then the creatures work began
+nails in my face, hooks in my hands
+pierced my skin and tore my flesh
+Agony from which there is no rest
+"Giggles, You've come back!"
+Differences from Beserker
+Gains strength through the AC.
+Doesn't do Collateral damage.
+
+======================================================================
+PAGE: Beast of Agares
+CATEGORIES: Beast Units, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Beast_of_Agares
+======================================================================
+
+Beast of Agares
+Race:
+Demon
+Unit Class:
+Beast Unit
+Requires:
+Malevolent Designs
+Temple of the Veil
+The Ashen Veil
+as State
+Religion
+Starts With:
++25% vs
+Paladins
+Demon
+Info:
+11
++5
+Unholy
+2
+Cost:
+120
+Special:
+Completely healed after killing a
+Paladin
+Adds 1 to the
+Armageddon Counter
+City loses 4 population and revolts after construction
+These fell beasts are great at turning back the holy warriors of other religions, but beware, your own citizens will revolt for a period of resistance after producing one of these in their city.
+Beasts of Agares can only be summoned by
+Ashen Veil
+civilizations. It requires a sacrifice of 4 population from the city that builds them, but they are a powerful force, gaining an additional bonus against enemy
+Paladins
+and
+High Priests
+.
+These beasts can grow extremely powerful, as their base strenght is 11. This makes them excellent solo hunters, which can pick up scouts, workers and other single units that might wanders out in the open.
+Strategy
+If you have decided to play as the Infernals, you might want to start thinking about moving to the research tree this unit depends on. You must already have researched your way to the Infernal Pact so it should not be that difficult to get the remaining techs to get Malevolent Designs. It is a very high-tier tech that requires much tech points, this is usually worth it however.
+Notes
+The first time a Best of Agares is encountered is in
+The Radiant Guard
+scenario.
+The flames that torch the spine of it might glitch at some positions and seemingly be behind the body.
+Beast of Agares as it appears in the game.
+
+======================================================================
+PAGE: Chaos Marauder
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Chaos_Marauder
+======================================================================
+
+Chaos Marauder
+Race:
+Demon
+Unit Class:
+Melee Unit
+Requires:
+Sheaim
+Planar Gate
+Carnival
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
+Demon
+Info:
+4
+1
+Cost:
+N/A
+Special:
+Randomly spawns in Sheaim cities with a
+Planar Gate
+and a
+Carnival
+, with spawning more likely the higher the
+Armageddon Counter
+is.
+
+======================================================================
+PAGE: Eidolon
+CATEGORIES: Demon Units, Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Eidolon
+======================================================================
+
+Eidolon
+Race:
+Demon
+Unit Class:
+Disciple Units
+Requires:
+Malevolent Designs
+Copper
+or
+Iron
+or
+Mithril
+Alignment
+:
+Evil
+Starts With:
+March
+Demon
+Info:
+11
++4
+Unholy
+1
+Cost:
+240
+Upgrades From:
+Confessor
+Cultist
+Priest of Leaves
+Stonewarden
+Ritualist
+Vicar
+Battlemaster
+Boarding Party
+Champion
+Diseased Corpses
+Dragon Slayer
+Mimic
+Sect of Flies
+Stygian Guard
+Vampire
+Special:
+Adds +1 to the
+Armageddon Counter
+upon creation
+For here, apart, dwells one whose hands have wrought
+Strange eidola that chill the world with fear;
+Whose graven runes in tomes of dread have taught
+What things beyond the star-gulfs lurk and leer.
+Dark Lord of Averoigne - whose windows stare
+On pits of dream no other gaze could bear!"
+Eidolon serve no master but willingly enlist in any deadly conflict. Good religions shun these demonic creatures, or seek them out for destruction, but those who tolerate their vile presence find them to be fearless, deadly warriors, nearly unmatched on any battlefield.
+
+======================================================================
+PAGE: Hellhound
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Hellhound
+======================================================================
+
+Hellhound
+Race:
+Demon
+Unit Class:
+Recon Unit
+Requires:
+Hunting
+Hunting Lodge
+Infernal
+Starts With:
+Cannot Pillage
+-20% City Attack
+Can see
+Invisible
+Animals
+Better Reults from Tribal Villages
+Can Carry 1
+Hawk
++50% vs
+Animals
+Info:
+4/3
++1
+Unholy
+2
+Cost:
+60
+Upgrages From:
+Scout
+Upgrades To:
+Ranger
+Assassin
+There are parts of hell that are unclaimed.These unformed wastes are known as the Shallows and lamenting souls seek them out to hide from the unending torments of hell.Demons,with a few hell hounds in tow hunt them,gathering them and presenting them to the lords of hell for various pleasures.The hounds keen nose allows them to detect the fear or sorrow of a soul days after it has past.The only way to avoid them is to remain calm and without emotion.A difficult task in hell,especially when the hounds baleful howls can be heard coming for you.
+
+======================================================================
+PAGE: Imp
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Imp
+======================================================================
+
+Imp
+Race:
+Demon
+Unit Class:
+Arcane Unit
+Requires:
+Knowledge of the Ether
+Mage Guild
+Infernal
+Starts With:
+Channeling I
+1 Free Promotion
+Fire Resistance
+Demon
+Info:
+3
++1
+Unholy
+1
+Cost:
+90
+Upgrades To:
+Mage
+Replaces:
+Adept
+Special:
+No Military Support Costs
+Can Build
+Mana Nodes
+
+======================================================================
+PAGE: Ira
+CATEGORIES: Demon Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Ira
+======================================================================
+
+Ira
+Race:
+Demon
+Unit Class:
+Melee Unit
+Requires:
+Unit Casting
+Ira Unleashed
+Starts With:
+Demon
+Water Walking
+Cannibalize
+Info:
+8
++4
+Unholy
+2
+Cost:
+N/A
+Special:
+Gains 1
+after combat to a max of 32
+See Also
+Avatar of Wrath
+
+======================================================================
+PAGE: Manes
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Manes
+======================================================================
+
+Manes
+Race:
+Demon
+Unit Class:
+No Unit Class
+Requires:
+Infernal
+Granted when a unit with
+The Ashen Veil
+,
+Octopus Overlords
+, or
+Council of Esus
+religion dies
+OR
+Granted when a city of an
+Evil
+civilization is razed
+Starts With:
+Demon
+Info:
+2
++1
+Unholy
+1
+Cost:
+N/A
+Upgrades To:
+Adept
+Warrior
+Scout
+Special:
+Can Cast
+Add to City
+Can sacrifice for 25
+All paths of depravity end at the same place, the souls rebirth as the least of demons, Manes. A state so unbearable the entire infernal army pushes themselves onward based solely on the fear of being demoted back to this squalid position. In hell manes are marked by the sins of their life, the amorphous forms of the gluttonous, splintered bones breaking through the skin of the hateful, the larval bodies of the greedy. But in Erebus Manes are granted a form that allows them to become workers, citizens of a cruel hierarchy.
+
+======================================================================
+PAGE: Manticore
+CATEGORIES: Beast Units, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Manticore
+======================================================================
+
+Manticore
+Race:
+Demon
+Unit Class:
+Beast Unit
+Requires:
+Planar Gate
+Hippodrome
+Sheaim
+Starts With:
++25% vs
+Mounted Units
+Demon
+Cannibalize
+Info:
+12/8
++1
+Poison
+3
+Cost:
+N/A
+Special:
+Randomly spawns in Sheaim cities with correct buildings. Chance of spawning increases with
+Armageddon Counter
+
+======================================================================
+PAGE: Pit Beast
+CATEGORIES: Beast Units, Demon Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Pit_Beast
+======================================================================
+
+Pit Beast
+Race:
+Demon
+Unit Class:
+Beast Unit
+Requires:
+Unit casting
+Summon Pit Beast
+Starts With:
+Demon
+Info:
+4
++1
+Unholy
+1
+Cost:
+N/A
+Special:
+Summoned duration is extended by +1 for each combat won
+Strategy
+Pit Beasts will not unsummon at the end of a turn if they've killed something.
+Background
+Pit Beasts are abominations made from the pieces of various slain demons.  They ache for a chance to avenge their destruction and will heed any call to return to the mortal realm.  As long as they taste blood, they can continue their assault indefinitely.
+Version History
+.32l
+
+======================================================================
+PAGE: Sect of Flies
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Sect_of_Flies
+======================================================================
+
+Sect of Flies
+Race:
+Demon
+Unit Class:
+Melee Unit
+Requires:
+Iron Working
+Training Yard
+Infernal
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
++25% against
+Melee Units
++40% Attack and Defense in
+Desert
+Demon
+Info:
+4
++2
+Unholy
+1
+Cost:
+120
+Upgrades From:
+Axeman
+Upgrades To:
+Immortal
+Balor
+Phalanx
+Eidolon
+Replaces:
+Champion
+Ignoring the mortals need for armor smashing maces, the Infernals developed a method of infusing Iron with the souls of powerful mages, damned in their pursuit of power. A strike from a demon so equipped will leave a festering wound, passing though metal armor as if it weren't there. The aftermath of a battle with these twisted warriors leaves a stench on the battle field like no other, attracting flies to the wounds of agonizing warriors.
+Differences from Champion
+Has a small terrain bonus.
+
+======================================================================
+PAGE: Stygian Guard
+CATEGORIES: Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Stygian_Guard
+======================================================================
+
+Stygian Guard
+Race:
+Human
+Unit Class:
+Melee Units
+Requires:
+Fanaticism
+Octopus Overlords
+as State
+Religion
+Temple of the Overlords
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+March
+Water Walking
+Demon
+Religion:Octopus Overlords
+Info:
+5
++2
+Unholy
+1
+Cost:
+120
+Upgrades From:
+Drown
+Upgrades To:
+Eidolon
+
+======================================================================
+PAGE: Tar Demon
+CATEGORIES: Demon Units, Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Tar_Demon
+======================================================================
+
+Tar Demon
+Race:
+Demon
+Unit Class:
+Disciple Unit
+Requires:
+Planar Gate
+Temple of the Veil
+Sheaim
+Starts With:
+Cannot Use Roads
+Info:
+2/7
++ 1
+Unholy
+1
+Cost:
+N/A
+Special:
+Randomly spawns in Sheaim cities with correct buildings. Chance of spawning increases with
+Armageddon Counter
+.
+Tar Demons have a chance of appearing in Sheaim cities with a Planar Gate and Temple of the Veil buildings. When killed large enough tar demons will split into two smaller tar demons.
+Unclaimed by heaven and unwanted in hell, such is the fate of souls who held no conviction in life. They lay beneath the dark freezing rain of the first layer of hell, which is abandoned even by its lord and sustain themselves by consuming their own excrement. Over the ages their individual features are lost as hell transforms them into a black amorphous blob, becoming in form what their soul had been in life, obscure and indefinite.
+Called to service these Tar Demons are as slothful as they were in life. Slow and weak on attack, they are only useful when defending. They are competent fighters as long as the battle is brought to them.

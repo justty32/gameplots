@@ -1,0 +1,346 @@
+
+======================================================================
+PAGE: Boar Rider
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Boar_Rider
+======================================================================
+
+Boar Rider
+Race:
+Dwarven
+Unit Class:
+Mounted Unit
+Requires:
+Stirrups
+Archery
+Stable
+Pig
+Khazad
+or
+Luchuirp
+Starts With:
+Does Not Receive Defensive Bonuses
++25% Withdrawal Chance
+1 First Strike
+Dwarven
+Info:
+5
+3
+Cost:
+120
+Upgrages From:
+Scout
+Upgrades To:
+Chariot
+
+======================================================================
+PAGE: Dwarven Druid
+CATEGORIES: Disciple Units, Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Dwarven_Druid
+======================================================================
+
+Dwarven Druid
+Race:
+Dwarven
+Unit Class:
+Disciple Units
+Requires:
+Commune with Nature
+Grove
+Alignment
+:
+Neutral
+Khazad
+or
+Luchuirp
+Starts With:
+Cannot Pillage
++50% vs
+Animals
+-20% City Attack
+Can Move Through Impassable Terrain
+Can Carry 1
+Hawk
+Better Results from Tribal Villages
+Medic I
+Channeling I
+Channeling II
+Channelling III
+Earth I
+Dwarven
+Info:
+8
++1
+Earth
+Affinity
+2
+Cost:
+240
+Upgrades From:
+Confessor
+Cultist
+Priest of Leaves
+Stonewarden
+Ritualist
+Ranger
+Vicar
+Special:
+Can Cast
+Crush
+Unlike a normal druid, dwarven druids have access to the powerful crush spell, and have access to the Earth arcane spells instead of nature.  Although the Civilopedia entry suggests that they can have other arcane sphere promotions at level 2 and level 3, they do not have access to the level 1 promotion for those spheres, and having extra nodes of another type do not grant them any free promotions.
+
+======================================================================
+PAGE: Dwarven Slave
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Dwarven_Slave
+======================================================================
+
+Dwarven Slave
+Race:
+Dwarven
+Unit Class:
+No Unit Class
+Requires:
+Purchased from
+Slave Ring
+OR
+Captured after combat
+Starts With:
+Dwarven
+Info:
+0
+2
+Cost:
+N/A
+Upgrades To:
+Lunatic
+Special:
+Builds at 60% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Can Sacrifice for 10
+Replaces:
+Slave
+A civilization with the Slavery civic will capture 25% of the units it defeats in combat and convert them into slave units. A slave acts like a worker, but builds at half the normal speed. Slaves can also be sacrificed to add a small amount of production to a city's current production.
+
+======================================================================
+PAGE: Dwarven Slinger
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Dwarven_Slinger
+======================================================================
+
+Dwarven Slinger
+Race:
+Dwarven
+Unit Class:
+Archery Unit
+Requires:
+Archery
+Archery Range
+Khazad
+or
+Luchuirp
+Starts With:
++25% City Defense
++25% Hill Defense
+1 First Strike
+Dwarven
+Info:
+3/5
+1
+Cost:
+60
+Upgrades From:
+Warrior
+Upgrades To:
+Crossbowman
+Replaces:
+Archer
+
+======================================================================
+PAGE: Dwarven Worker
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Dwarven_Worker
+======================================================================
+
+Dwarven Worker
+Race:
+Dwarven
+Unit Class:
+No Unit Class
+Requires:
+Khazad
+Starts With:
+Dwarven
+Info:
+0
+2
+Cost:
+75
+Special:
+Builds at 125% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Replaces:
+Worker
+The majority of people in all civilizations throughout time have been workers. Whether engaged in farming, commerce, or industry, their actions form the economic infrastructure without which no nation can succeed. Over time, the endless activity of workers has reshaped the very suface of the land by mining hills, cutting down huge stretches of forest, and irrigating hostile terrain into fertile farmland.
+
+======================================================================
+PAGE: Hornguard
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Hornguard
+======================================================================
+
+Hornguard
+Race:
+Dwarven
+Unit Class:
+Mounted Unit
+Requires:
+Armored Cavalry
+Hippodrome
+Khazad
+or
+Luchuirp
+Starts With:
+Can Use Bronze, Iron, or Mithril Weapons
+Does Not Receive Defensive Bonuses
++35% Withdrawal Chance
+Dwarven
+Info:
+12/10
+2
+Cost:
+240
+Upgrages From:
+Horse Archer
+Replaces:
+Knight
+
+======================================================================
+PAGE: Soldier of Kilmorph
+CATEGORIES: Dwarven Units
+URL: https://fallfromheaven.fandom.com/wiki/Soldier_of_Kilmorph
+======================================================================
+
+Soldier of Kilmorph
+Race:
+Dwarven
+Unit Class:
+Melee Unit
+Requires:
+Runes of Kilmorph
+as State
+Religion
+Way of the Earthmother
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Dwarven
+Religion: Runes of Kilmorph
+Info:
+4
+1
+Cost:
+90
+Upgrades To:
+Paramander
+Special:
+Can sacrifice for 45
+The Runes of Kilmorph special unit. They cost more than the axeman but don't require any resources. They can be sacrificed to add resources to a city.
+Strategy
+Soldiers of Kilmorph are an easy way to transfer production from high-production cities to low-production cities. Note, however, the following restrictions:
+90
+to build, but only give 45
+.
+can only be added to buildings, not units.
+However, one can play around with this to gain a net profit on hammers!
+Heroic Epic
+(+100%
+for military units)
+God King (civic)
+gives +50%
+in the capital
+Nationhood (civic)
+gives +10%
+in all cities
+Military State (civic)
+gives +15%
+in all cities
+Command Post
+gives +20%
+in that city
+Forge
+gives +25%
+in that city
+Temple of the Order
+gives +10%
+in that city
+Warrens
+(only if you are the
+Clan of Embers
+) gives you an effective
+x2 (not a +100%
+) because it allows you to produce 2 Soldiers of Kilmorph for the price of one
+In the best-case scenario, you gain +235%
+while building these soldiers, meaning that you get 2 Soldiers of Kilmorph for every ~90/3.35 = 26.86 hammers you input. This means that you effectively gain a payoff of 90-27=63 free hammers each time your Clan of Embers capital city with a Warrens (and the other buildings, as well as the above civics) trains a Soldier of Kilmorph.
+There exist pros and cons for this: on one hand, percentagewise, that is a huge payoff on hammers (and could be used to speed Wonder production in another city) or generate basic infrastructure in other cities. However, by doing this, you have now occupied an amazing military city (with Heroic Epic, the +10% from God King, as well as several expensive buildings (e.g. Command Post and Warrens) just to build hammers. This may be strong early- to mid-game, but towards late-game, this should be abandoned in favor of training a strong army with your military-production civ. (Plus, many of those civics may require changing to other, more appropriate civics for your empire.)

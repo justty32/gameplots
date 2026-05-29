@@ -1,0 +1,547 @@
+
+======================================================================
+PAGE: Angel
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Angel
+======================================================================
+
+Angel
+Requires:
+Leads to:
+None
+Special Abilities:
+Race: Angel
++50% Death Resistance
++20% Fire Resistance
+Holy Immunity
+Poison Immunity
+Fear Immunity
+Units with this promotion are not alive
+Available To:
+Angel
+Valkyrie
+Seraph
+Herald
+Ophanim
+Repentant Angel
+Angel of Death
+
+======================================================================
+PAGE: Centaur
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Centaur
+======================================================================
+
+Centaur
+Race:
+Centaur
+Unit Class:
+Mounted Unit
+Requires:
+Horseback Riding
+Kuriotates
+Starts With:
++40% vs
+Archery Units
++25% Withdrawal Chance
+Info:
+4
+3
+Cost:
+60
+Upgrades To:
+Centaur Archer
+Centaur Charger
+Special:
+Can Cast
+Sprint
+Replaces:
+Horseman
+
+======================================================================
+PAGE: Demon
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Demon
+======================================================================
+
+Demon
+Requires:
+Leads to:
+None
+Special Abilities:
+Race: Demon
++10% Strength on
+Hell Terrain
++20% Fire Resistance
+-25% Holy Resistance
+Immune to Death Damage
+Immune to Unholy Damage
+Immune to Poison Damage
+Immune to Fear
+Units with this promotion are not alive
+Granted to certain units on creation.
+Demon is the racial promotion for all demonic units. All
+Infernal
+units produced will bear this promotion. Certain random events or
+Lair Exploration results
+may change a unit's race to this as well. The majority of the units granted by the Sheaim
+Planar Gate
+will spawn as this race.
+Demons gain +10% Strength when fighting on
+Hell Terrain
+, resistance to Fire Damage, and immunities to Fear and an assortment of other highly relevant Damage types. Most notably, their immunities to Death, Unholy and Poison Damage makes them very hard for non-
+Good
+aligned civilizations to counter, as the higher-tier units that are produced by those civilizations typically derive some of their strength from; in the case of Assassins and the like; Poison Damage or; in the case of
+Evil
+Religious or Arcane units; Death and Unholy Damage. These immunities mean that Evil or
+Neutral
+civilizations will have a hard time staying independent from the cause of Hell.
+Their resistance to Fire Damage means that demonic units may freely pass through tiles that are on fire.
+The only downside to this racial choice is the vulnerability to Holy Damage.
+Confessors
+with their ability to
+Bless
+units en masse may prove especially troublesome.
+
+======================================================================
+PAGE: Elven
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Elven
+======================================================================
+
+Elven
+Requires:
+Built by
+Svartalfar
+or
+Ljosalfar
+Leads to:
+None
+Special Abilities:
+Race: Elven
+Double Movement in Forest
+Double Movement in Ancient Forest
++10% Forest Attack and Defense
++10% Ancient Forest Attack and Defense
+-25% Cold Resistance
+Available To:
+
+======================================================================
+PAGE: Golem
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Golem
+======================================================================
+
+Golem
+Requires:
+Leads to:
+None
+Special Abilities:
+Race: Golem
+Heals extra -5% damage/turn in Neutral Lands
+Heals extra -10% damage/turn in Friendly Lands
+Death Immunity
+Poison Immunity
+Fear Immunity
+Units with this promotion are not alive
+Available To:
+Mud Golem
+Wood Golem
+Gargoyle
+Iron Golem
+Barnaxus
+Flesh Golem
+Bone Golem
+Clockwork Golem
+Nullstone Golem
+Mithril Golem
+Luchuirp life revolves around Golem, that are very particular creatures. They are a
+race
+apart, with the characteristic you would expect from a machine: they are not alive, they have immunity to Death, Poison and Fear. They are unable to learn, do not gain experience, do not promote, do not upgrade. They remain exactly the way they exit the production line, until killed or dismissed.
+There is a unique way to make a Golem learn:
+Barnaxus
+. The Golem leader and hero is a world on his own, he is alive after all, and he may be promoted like any melee unit... and all the Golem istantanealy gain
+Empower
+promotions when Barnaxus gain
+Combat
+promotions. So your main goal is get Barnaxus early, making him gain Combat I-V promotions, and keep him alive. Other promotions and ability do not pass to other golems. Morevoer, if he dies, you have to catch the pieces of his wrenched body, rebuild it (in a City with a Forge), and making him learn the Combat I-V all anew, so it may be a good idea to keep him secure.
+There is another way to give specific promtion to Golem: some special building will give a specific promotion (Fire II, City Garrison, Sentry) to all Golem buid in the same City. So the best golem may have +50% Str, City Garrison, Sentry and is able to cast fireballs, just as it exit production line.
+Golems heal very slowly ( -5% in Neutral Lands and -10% in Friendly Lands). They are machines, like
+Catapults
+. You are supposed to fix them, using a special ability, available to any dwarven Enchantment I Dwarf spellcaster, called
+Repair
+, used to repairs
+Golems
+, but also all
+Siege
+and
+Naval Units
+. You do not have to wait to gain an adept: the early Hero
+Bambur
+comes with this ability from the start, and with his friend Barnaxus and a bunch of Wood Golem, and some Catapults, may usually steam over any opponent very early.
+In the mid-late game, Luchuirp sport a large all-mechanical army, with melee units, siege units and ships that may be instantly repaired by 2 or 3 simple adepts each turn, anywhere.
+To compare Golem with their standard counterpart, you have to consider that normally Golem are
+stronger
+than the units most civs are likely to have access to at the same time.
+To summarize: Golem do not promote and heal slowly, but are stronger than their equivalents, immune to fear, Death and Poison and they start with all promotions in place (given you have a levelled Barnaxus and the suitable buildings).
+Golem
+Substitute
+Str/Mov
+Prod.
+Requires / Notes
+Mud Golem
+Worker
+2/2 may not attack
+100
+Wood Golem
+Axeman
+6/1
+vulnerable to fire
+90
+Construction
+Gargoyle
+Longbowmen
+8/1
+Defensive
++25% City Defense
+180
+Engineering
+(Production speed +25% faster with Marble)
+Iron Golem
+Champion
+10/1
+180
+Iron Working
+Iron or Mithril
+Barnaxus
+Hero
+5/1
+180
+Construction
+Flesh Golem
+6/1
+Body III
+Not a proper Lurnichup Golem. Requires a dedicated Archmage, any race.
+Bone Golem
+Cannibalize
+Immortal
+13/1
+360
+Divine Essence
+Ivory
+Clockwork Golem
+Berserker
+15/9/1
+360
+Machinery
+Nullstone Golem
+Phalanx
+13/1
+Magic Immune
+240
+Mithril Weapons
+Weaponsmith
+(+25% Production speed with Marble)
+Mithril Golem
+Hero
+25/1
++60% City Attack
+Hero
+Sentry I
+Divine
+Earth III
+5000
+Not a proper Lurnichup Golem. Require a devout Lurnichup.
+Mithril
+Runes of Kilmorph as State religion
+Must be Built in Runes of Kilmorph Holy City
+Armageddon Counter at least 70
+(Will abandon civilization if state religion switches from Runes of Kilmorph)
+Barnaxus
+Barnaxus
+is central to any Luchuirp strategy. He is the only Civilization Hero for Lurnichups, a medium strenght early Hero.
+Level
+Barnaxus
+up as quickly as possible to Combat V and then hide him in an isolated or well defended city (preferably both).
+Keep in mind that Barnaxus can be rebuilt if destroyed, provided you can track down the unit that killed him. Be sure to do so in a city with a forge to gain a weapons promotion, allowing you a better chance to level up later in the game. But mostly, don't let him die because he gets rebuilt without his previous experience. Note that completely destroy
+Pieces of Barnaxus
+is quite a difficult task: you may achieve it with a Archmage
+Resurrection
+spell. And note that... track down the pieces of your leader is quite fun.
+If
+Barnaxus
+is killed you may build the Shrine of the Champion, but only if you wait to rebuild him! In older version
+that does not permit construction of the . Barnaxus can be brought back to life just by bringing his pieces back, so he never really dies.
+Mud Golem
+The
+Mud Golems
+are the basic workers. They take a bit longer to build (additional 25 Production), but they don't stop city growth whilst being built like other workers do. It is a good early advantage. On the other side, this also means that they aren't built as fast as you don't use surplus food as production
+They also have a defensive strength 2, so there is a possibility that a Lion attack may be rebuffed.
+That they do build 50% faster than regular workers.
+In old version of the game, prior to v 0.21 the Core of the Subtle wonder (now removed) was be a very useful tool in protecting your mud golems.
+Wood Golem
+The base Luchuirp melee unit, Wood golems are good as attackers or defenders, being stronger than the units most civs are likely to have access to at the same time. Like all golems, however, they cannot level up to gain promotions. Beware their vulnerability to fire.
+Gargoyle
+Great defensive units similar to Longbowmen, but with a Str of 8 instead of 5/6 and the Defensive trait that doubles Fortification Bonus, it is really amazing also in late game. It may be safetely used in attack also. It lose the hill bonus typical of archers, but retains the +25% City Defense.
+Note that has a small bonus on production using Marble (+25% faster).
+Iron Golem
+With an amazing streght of 10, easy to build, Iron golems are fearsome units.
+Flesh Golem
+A Body III Archmage is able to cast Graft Flesh to summon a Flesh Golem, an abominium, a composite creature that continues to gain strenght and abilities while you feed it with live units. The Flash Golem will start with 6 Str. For every stronger unit you sacrifice, by moving the unit in the same tile and casting
+Add to Flesh Golem
+, the golem strenght is augmented by 1. The sacrified unit is lost anyway, so it is far better to use some short-lived summoned unit. But keep in mind that since units must be alive to be grafted into a flesh golem, elementals cannot be grafted into them. The best unit with such prerequisite is the
+Kraken
+, a powerful summon reserved to Tier III priest of
+Octopus Overlord
+.
+Gaining an amazing super Flesh Golem army is quite fun, and is a nice sub-quest you may choose to do in any game. If this is the case, you may choose to switch to OO just for the time it takes to graft some krakens, and maybe get Hemah to
+twincast
+the last two golem, to raise the total number of units. Each archmage may cast one permament Golem summon, so it goes: 4 Archmages + 4 Liches + 1 Hemah X2 (twincast) --> 10 Flesh Golems.
+If you are non-calabim/amurite and may get neutral to gain druids, add other 4 units.
+Best prootion to give to golems are Combat I-V, Drill I-IV, Cannibalize that gives heal after combat when defeating living units (also Illusion or Aeron's chosen), very useful to defend against a doom stack, because the golem is stronger than them all and heal on his own after each single attack.
+(17 Kraken + 1 Kraken with Strong promo + Sheut stone + flaming arrow + nighmare + poisonned blade + heroic strengh/def 2)
+They are not allowed to get magical promotions except for the rank 1 set, otherwise they would be used to generate unlimited Divine+Summoning+Sorcery with all spheres units. Game specifically disallows channeling 1-3, Sorcery, summoning, divine, or racial promotions. It doesn't bother removing all the sphere promotions, since they would not allow spells without these other promos.
+Some useful things to graft:
+A hawk. gives it flying. As a flying uint does not get road avantages, add a unit with Mobility I and II.
+Mimics (Balseraph only) they can pick up so many nice promotions, and grafting them with a golem can produce incredibly varied results.
+Vampires (Calabim only) great easy way to get all xp-acessible promotions.
+Greater spiders gives an easy way to get cannibalize for your golem, as well as unique spider promotions.
+Freaks (balseraph only) or any mutated units with Chaos II. I'm quite fond of building a massive stack of warriors, casting mutate on them all, and then merging the best ones with the golem
+Any recon units (as svartalfar or Sidar). Svart recon units can give your golem Sinister and Stalker, Sidar can give Soul Divider, both useful.
+Paladins
+Orbis ModMod discussion
+Fall Further ModMod strategies
+Bone Golem
+Clockwork Golem
+You have to build the Machinists' Shop to gain a powerful machine able to cause collateral damage at 40% strength for a max of 20% damage on up to 4 units.
+Nullstone Golem
+Mithril Golem
+Amazing unit to build, it differs from other Golem: it does not take his power from Arcane powers, but Divine ones. It is Kilmorph herself that gives life to the Mithril Golem, so she will require your commitment to her religion.
+Golem Buildings
+Several buildings give special promotion to Golem buit in the city where the building is located.
+Building
+Feature
+Replaces
+Prod
+Requires
+Sculptor's Studio
+Required for construction of most Golems. The +1 culture bonus may substitute an obelisk.
+Training Yard
+90
+Construction
+Pallens Engine
+All Golems built in city receive
+Perfect Sight
+promotion, that make able to see invisible opponents.
+none
+180
+Sun Mana
+Adularia Chamber
+All Golems built in city receive
+Hidden
+promotion, that make them invisible till they attack or cast.
+none
+180
+Shadow Mana
+Gridlines
+All Golems built in city receive free
+City Garrison I
+promotion. Perfect for border cities.
+?
+180
+Divination
+Blasting Workshop
+All Golems built in city receive free Fire II promotion and may cast Fireballs. Great but don't over build these.
+?
+120
+Elementalism
+Fire Mana
+(
+Note that Weaponsmith building was removed as of version 0.41n.
+Pallens Engine was originally named sunstone machine, but Kael thought that Pallens means yellow in latin, which is the color associated with the Empyrean, Lugus, Sun mana and revelation. Pallens Engine is a large clock type machine that produces glowing sunstones that were then used as the golem eyes.
+Adularia Chamber, orignally named moonstone machine, take his name by Adularia, another name for moonstone and  the luster glow around gems. Golems that go through it are visible only by that luster.
+====
+
+======================================================================
+PAGE: Lizardman (Race)
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Lizardman_(Race)
+======================================================================
+
+Lizardman
+Requires:
+Leads to:
+None
+Special Abilities:
+No combat penalty for attacking from sea
+No combat penalty for crossing rivers
++10% Marsh Strength
+Race: Lizardman
++10% Resistance to Poison Damage
+Available To:
+Barbarian State
+Clan of Embers
+Cold-blooded and cold-hearted, Lizardmen make great explorers, not from great stores of bravery and limitless curiosity. They have no compunction against crawling though swamps and jungles, skittering through brambles in forest thickets, or dashing up sheer mountaintops. Beasts tend to shy away from them, and they likewise have contempt for most mammals, though they have been known to work closely with Orcs when the need arises.
+
+======================================================================
+PAGE: Orc
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Orc
+======================================================================
+
+An orc.
+
+======================================================================
+PAGE: Orcish
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Orcish
+======================================================================
+
+Orcish
+Requires:
+Built by
+Clan of Embers
+Leads to:
+None
+Special Abilities:
++10% Jungle Attack
++10% Jungle Defense
+Race: Orcish
++25% Fire Resistance
+Available To:
+Barbarian State
+Clan of Embers
+
+======================================================================
+PAGE: Races
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Races
+======================================================================
+
+Every unit in game belong to a race, with exeption of naval and siege units.
+Race is applied to units like a promotion.
+Living races
+Human
+- thanks to the gods, still the standard race
+Dwarven
+-
+Luchuirp
+or
+Khazad
+, double movement in hills, able to
+Repair
+, and the Khazad can
+Create Battering Ram
+. +25% Poison Resistance
+Elven
+-
+Svartalfar
+or
+Ljosalfar
+, double movement and +10% combat in forest, and the Ljosalfar have
+Dextrous
+archers. -25% Cold Resistance
+Frostling
+Lizardman
+Barbarian or Clan of Embers, No combat penalty for attacking from sea
+and for crossing rivers, +10% Marsh Strength, 10% Resistance to Poison Damage
+Centaur
+Orcish
+-
+Orc
+- Barbarian or Clan of Embers, +10% combat in Jungle, +25% Fire Resistance
+Vampirism
+-
+Calabim
+, Vampirism is the race of a
+Vampire
+. Note that they are living units.
+Werewolf
+Aifons
+(not in game, described as lore)
+Lamia
+- they cooperate with the Kurio and form their magical force.
+Dragon
+- ability to Breath Fire, Causes fear, and Roar; countered by
+Dragon Slaying
+(reserved to
+Grigori
+champions)
+Non-living races
+"Units with this promotion are not alive". Immunity to Death, Poison and Fear
+Elemental
+Golem
+- do not heal automatically, must be
+repaired
+.
+Undead
+Angel
+Demon
+, countered by
+Demon Slaying
+No race
+Some mechanical units have no race, because they are simply machines, devices.
+Siege Weapons
+and
+Naval Unit
+classes enter in this category.
+Avatar
+Avatar is not a race or a promotion. An Avatar is a god that has come to creation.
+Aeron's Chosen
+Basium
+Note
+not every elf gain Dextrous promotion, only Archery units belonging to Ljosalfar
+
+======================================================================
+PAGE: Undead
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Undead
+======================================================================
+
+Undead
+Requires:
+Leads to:
+Cannibalize
+Fear
+Special Abilities:
+Race: Undead
+Death Immunity
+Poison Immunity
+Fear Immunity
+-50% Holy Resistance
++50% Unholy Resistance
+Units with this promotion are not alive
+Available To:
+
+======================================================================
+PAGE: Vampirism
+CATEGORIES: Races
+URL: https://fallfromheaven.fandom.com/wiki/Vampirism
+======================================================================
+
+Vampirism is the race of a
+Vampire
+. A Vampire may gift Vampirism to any living unit of level 6 or above, so any unit may belong to Vampirism.
+
+======================================================================
+PAGE: Werewolf
+CATEGORIES: Beast Units, Races, Werewolf Units
+URL: https://fallfromheaven.fandom.com/wiki/Werewolf
+======================================================================
+
+Werewolf
+Requires:
+Never
+Leads to:
+Ravenous Werewolf
+Special Abilities:
+Units killed by a Werewolf become Ravenous Werewolves under the werewolf's owner's control
+Available To:
+Werewolf is a effect upon a unit which cannot be removed. When a unit is killed by another
+Ravenous Werewolf
+the killed unit will rise again to become another Ravenous Werewolf under the attackers control.
+The "upgrade" to Ravenous Werewolves is a
+Blooded Werewolves
+and
+Greater Werewolf
+from that.

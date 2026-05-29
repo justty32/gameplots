@@ -1,0 +1,844 @@
+
+======================================================================
+PAGE: Items (Age of Wonders)
+CATEGORIES: Age of Wonders items
+URL: https://ageofwonders.fandom.com/wiki/Items_(Age_of_Wonders)
+======================================================================
+
+Items
+in
+Age of Wonders
+provide various benefits to
+heroes
+. Items provide bonuses to four eligible
+stats
+(attack
+, damage
+, defense
+, resistance
+) and/or additional
+abilities
+to the hero. Only heroes are capable of picking up and using items. Non-hero units cannot use items.
+Overview
+Types
+Items are categorized into one of six types:
+Attack
+- Attack items are equipped in the weapon slot and generally provide bonuses to the attack and damage stats, as well as abilities that enhance the hero's melee capabilities. Many attack items provides an ability that infuses melee attacks with a
+damage type
+. Such items also provide
+Strike
+, but this is redundant because all heroes already have Strike.
+Defense
+- Defense items are equipped in the shield slot and generally provide defensive stats and abilities.
+Torso
+- Torso items are equipped on the torso slot and come in two sub-types: "cloaks," which provide concealment abilities, and "armor," which provides defensive stats and abilities.
+Head
+- Head items are equipped in the headgear slot and provide defensive bonuses and a wide range of abilities.
+Ring
+- Rings are equipped in one of two ring slots, and provide a wide range of bonuses.
+Use
+- Items of the "use" type only need to be in one of the hero's 8 storage slots in the inventory in order for the item to be used. Use items generally provide the hero with a combat ability, typically a ranged attack attack. Ranged attack abilities from item benefit from
+Marksmanship
+.
+Transfer value
+Items have an assigned "
+value
+," which governs the transfer cost require to carry over the item from one scenario to another in the single player
+campaign
+. Default transfer values listed in the game's editor are given below. Since campaign scenarios have a certain transfer limit, items with low transfer values are preferred over those with higher transfer values, if the bonuses are comparable. In some cases, certain items that have very low values given in the default item library are given adjusted actual values in the single player campaign. In these instances, the campaign values are listed in parentheses.
+Acquisition
+Items can be obtained from map structures of the Monster Lair, Castle Ruins, and Ziggurat types. Items available from such locations are randomly set at the start of the scenario. The "
+availability
+" property governs the rarity of the item, with "exceptional" being the most rare, and "frequent" being the least rare. Exceptional items are capable of dropping from structures with average item value, although the chances are higher for those with high item value. In rare instances, locations providing item loot may be set to have fixed (i.e., non-random) loot.
+List of items
+The following items are included in the game's default item library.
+These items are used as a standard set of items in the game's campaign and standalone
+scenarios
+.
+Attack items
+Icon
+Item Name
+Abilities
+Value
+Availability
+Black Dagger
+1
+1
+-
+-
+-
+85
+Rare
+Blood Axe
+1
+3
+-
+-
+-
+165
+Rare
+Club of Crushing
+-
+2
+-
+-
+Magic Strike
+,
+Strike
+,
+Wall Crushing
+165
+Common
+Dagger of Power
+1
+2
+-
+1
+Magic Strike
+,
+Strike
+185
+Rare
+Enchanted Axe
+-
+1
+-
+-
+Magic Strike
+,
+Strike
+85
+Common
+Enchanted Halberd
+-
+1
+-
+-
+Magic Strike
+,
+Strike
+,
+First Strike
+130
+Rare
+Enchanted Mace
+1
+-
+-
+-
+Magic Strike
+,
+Strike
+90
+Common
+Enchanted Pike
+1
+-
+-
+-
+Magic Strike
+,
+Strike
+,
+First Strike
+130
+Rare
+Enchanted Staff
+1
+-
+-
+-
+Magic Strike
+,
+Strike
+85
+Rare
+Enchanted Sword
+1
+-
+-
+-
+Magic Strike
+,
+Strike
+85
+Frequent
+Enchanted Trident
+-
+1
+-
+-
+Magic Strike
+,
+Strike
+45
+Frequent
+Fire Axe
+1
+1
+-
+-
+Fire Strike
+,
+Strike
+85
+Common
+Flame Tongue Sword
+-
+2
+-
+-
+Fire Strike
+,
+Strike
+95
+Rare
+Golden Scimitar
+2
+1
+-
+-
+Magic Strike
+,
+Strike
+,
+Extra Strike
+175
+Rare
+Golden Sickle
+2
+1
+-
+-
+Magic Strike
+,
+Strike
+2 (10)
+Exceptional
+Holy Mace
+1
+1
+-
+1
+Holy Strike
+,
+Strike
+115
+Common
+Mace of Power
+2
+2
+-
+1
+Magic Strike
+,
+Strike
+356
+Exceptional
+Shredder Whip
+-
+3
+-
+-
+-
+188
+Rare
+Silver Scimitar
+2
+1
+-
+-
+Magic Strike
+,
+Strike
+125
+Common
+Silver Sickle
+1
+-
+-
+-
+Magic Strike
+,
+Strike
+85
+Rare
+Spiked Mace
+1
+1
+-
+-
+Magic Strike
+,
+Strike
+125
+Common
+Staff of the Forest
+1
+1
+-
+-
+Holy Strike
+,
+Magic Strike
+,
+Strike
+55
+Frequent
+Sword of Darkness
+1
+-
+-
+1
+Death Strike
+,
+Strike
+75
+Rare
+Sword of Justice
+1
+1
+-
+-
+Holy Strike
+,
+Strike
+125
+Rare
+Sword of Light
+2
+-
+-
+-
+Holy Strike
+,
+Strike
+95
+Rare
+Sword of Power
+3
+2
+-
+1
+Magic Strike
+,
+Strike
+235
+Exceptional
+Venemous Trident
+1
+1
+-
+-
+Poison Strike
+,
+Strike
+85
+Common
+Venemous Dagger
+1
+2
+-
+-
+Poison Strike
+,
+Strike
+125
+Common
+Defense
+Icon
+Item Name
+Abilities
+Value
+Availability
+Chicken Shield
+-
+-
+3
+3
+Fearless
+350
+Exceptional
+Dragon Scale Shield
+-
+-
+1
+1
+Fire Protection
+120
+Exceptional
+Enchanted Buckler
+-
+-
+1
+-
+-
+40
+Common
+Enchanted Shield
+-
+-
+1
+1
+-
+90
+Frequent
+Fire Shield
+-
+-
+1
+-
+Fire Protection
+75
+Frequent
+Frost Shield
+-
+-
+1
+-
+Cold Protection
+75
+Frequent
+Great Shield
+-
+-
+2
+-
+-
+110
+Common
+Lightning Shield
+-
+-
+1
+-
+Lightning Protection
+75
+Frequent
+Magic Shield
+-
+-
+1
+1
+Magic Protection
+75
+Rare
+Power Shield
+-
+-
+2
+2
+-
+160
+Exceptional
+Shield of Death
+-
+-
+1
+-
+Holy Protection
+75
+Rare
+Shield of Light
+-
+-
+1
+-
+Death Protection
+75
+Rare
+Shield of the Bog
+-
+-
+1
+-
+Poison Protection
+1 (10)
+Rare
+Shield of the Forest
+-
+-
+1
+1
+Poison Protection
+75
+Common
+Torso
+Icon
+Item Name
+Abilities
+Value
+Availability
+Cloak of Ashes
+-
+-
+-
+1
+Wasteland Concealment
+120
+Exceptional
+Cloak of Shadows
+-
+-
+-
+1
+Concealment
+212
+Rare
+Cloak of the Tundra
+-
+-
+-
+1
+Snow Concealment
+120
+Exceptional
+Elven Cloak
+-
+-
+-
+1
+Grass Concealment
+120
+Exceptional
+Nomad Cloak
+-
+-
+-
+1
+Steppe Concealment
+120
+Exceptional
+Sand Cloak
+-
+-
+-
+-
+Desert Concealment
+1 (120)
+Exceptional
+Dragon Scale Armor
+-
+-
+1
+1
+Fire Immunity
+322
+Exceptional
+Elven Mail
+-
+-
+1
+2
+-
+1 (10)
+Exceptional
+Enchanted Plate Mail
+-
+-
+2
+1
+-
+120
+Frequent
+Fire Armor
+-
+-
+2
+-
+Fire Immunity
+,
+Ignition
+330
+Exceptional
+Frost Armor
+-
+-
+2
+-
+Cold Immunity
+300
+Exceptional
+Holy Armor
+-
+-
+2
+-
+Death Immunity
+,
+Holy Champion
+420
+Exceptional
+Thunder Armor
+-
+-
+2
+-
+Lightning Immunity
+295
+Exceptional
+Unholy Armor
+-
+-
+2
+-
+Holy Immunity
+,
+Unholy Champion
+410
+Exceptional
+Head
+Icon
+Item Name
+Abilities
+Value
+Availability
+Crown of Kings
+-
+-
+-
+-
+Leadership
+135
+Common
+Dragon Scale Helmet
+-
+-
+1
+1
+Fearless
+156
+Exceptional
+Enchanted Helm
+-
+-
+1
+-
+-
+40
+Frequent
+Great Black Helm
+-
+-
+1
+-
+Fearless
+,
+Unholy Champion
+275
+Exceptional
+Great White Helm
+-
+-
+1
+-
+Fearless
+,
+Holy Champion
+275
+Exceptional
+Helm of Eyes
+-
+-
+-
+-
+Night Vision
+,
+True Seeing
+,
+Vision
+160
+Rare
+Helm of Glory
+-
+-
+1
+1
+-
+1 (?)
+Exceptional
+Mask of Fear
+-
+-
+-
+1
+Cause Fear
+,
+Fearless
+95
+Frequent
+Ring
+Icon
+Item Name
+Abilities
+Value
+Availability
+Ring of Darkness
+-
+-
+-
+-
+Trail of Darkness
+,
+Night Vision
+135
+Rare
+Ring of Decay
+-
+-
+-
+-
+Holy Immunity
+,
+Path of Decay
+225
+Rare
+Ring of Invisibility
+-
+-
+-
+-
+Invisibility
+350
+Rare
+Ring of Life
+-
+-
+-
+-
+Death Immunity
+,
+Path of Life
+225
+Rare
+Ring of Movement
+-
+-
+-
+-
+Forestry
+,
+Cave Crawling
+,
+Mountaineering
+80
+Common
+Ring of Power
+1
+1
+1
+1
+-
+150
+Rare
+Ring of Protection
+-
+-
+-
+1
+-
+35
+Frequent
+Ring of Regeneration
+-
+-
+-
+-
+Regeneration
+300
+Rare
+Ring of True Sight
+-
+-
+-
+-
+True Seeing
+75
+Rare
+Use
+Icon
+Item Name
+Abilities
+Value
+Availability
+Ankh of Turning
+-
+-
+-
+-
+Turn Undead II
+140
+Exceptional
+Boulder Sling
+-
+-
+-
+-
+Hurl Boulder
+190
+Exceptional
+Death Wand
+-
+-
+-
+-
+Black Bolts
+125
+Rare
+Frost Wand
+-
+-
+-
+-
+Frost Bolts
+110
+Rare
+Lightning Wand
+-
+-
+-
+-
+Lightning Bolts
+120
+Rare
+Magic Wand
+-
+-
+-
+-
+Magic Bolts
+100
+Rare
+Spider Rod
+-
+-
+-
+-
+Web
+180
+Exceptional
+Star Wand
+-
+-
+-
+-
+Holy Bolts
+125
+Rare
+Thunder Rod
+-
+-
+-
+-
+FIre Musket
+140
+Exceptional
+Wand of Flames
+-
+-
+-
+-
+Call Flames
+120
+Rare
+References

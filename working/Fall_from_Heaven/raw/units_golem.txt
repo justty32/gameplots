@@ -1,0 +1,301 @@
+
+======================================================================
+PAGE: Bone Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Bone_Golem
+======================================================================
+
+Bone Golem
+Race:
+Golem
+Unit Class:
+Melee Unit
+Requires:
+Divine Essence
+Ivory
+Luchuirp
+Starts With:
+Cannibalize
+Immortal
+Golem
+Info:
+13
+1
+Cost:
+360
+Special:
+Does not lose
+Immortal Promotion
+upon death. To be killed, must die in capital when respawned.
+Replaces:
+Immortal
+The Age of Rebirth saw the first appearance of the Bone Golem. Each part must be carved entirely from one piece of bone or similar material, and only elephants, descended from the mammoths abundant in the Age of Winter, can provide adequate sized raw materials. Curiosity lead the Luchuirp craftsmen to attempt these creations, however they become one of their favorite toys, as the bone absorbed their magic as no metal could, leading them to reanimate when defeated.
+
+======================================================================
+PAGE: Clockwork Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Clockwork_Golem
+======================================================================
+
+Clockwork Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Machinery
+Machinists' Shop
+Luchuirp
+Starts With:
+Golem
+Does collateral damage at 40% strength for a max of 20% damage on up to 4 units
+Info:
+15/9
+1
+Cost:
+360
+Replaces:
+Berserker
+It takes the fine tools of a Machinist shop and a sturdy metal such as iron or mithril to produce the intricate detail required in this masterpiece of Luchuirp construction, but the performance is remarkable. Tiny springs and gears plus careful enchantment spells give it reflexes that can rival even a wild beast, enabling the Clockwork golem to damage any units near its target once it gets going. Repairs are not covered by warranty, however, so it is advisable to bring along a dwarven adept for repairs.
+
+======================================================================
+PAGE: Flesh Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Flesh_Golem
+======================================================================
+
+One of the most powerful, intriguing and nicr to play creature, the Flesh Golem is an abominium created combining different creatures. It is not human or beast, it may not gain experience or promotion on his own. It may cast Add to Flesh Golem to incoroprate new living units, gaining strenght and promotions.
+Flesh Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Unit Casting
+Graft Flesh
+Starts With:
+Golem
+Info:
+6
+1
+Cost:
+N/A
+Special:
+Promotions and strength are modfied by adding to Flesh Golem by casting
+Add to Flesh Golem
+Background
+It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet. It was already one in the morning; the rain pattered dismally against the panes, and my candle was nearly burnt out, when, by the glimmer of the half-extinguished light, I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs.
+How can I describe my emotions at this catastrophe, or how delineate the wretch whom with such infinite pains and care I had endeavoured to form? His limbs were in proportion, and I had selected his features as beautiful. Beautiful!--Great God! His yellow skin scarcely covered the work of muscles and arteries beneath; his hair was of a lustrous black, and flowing; his teeth of a pearly whiteness; but these luxuriances only formed a more horrid contrast with his watery eyes, that seemed almost of the same colour as the dun white sockets in which they were set, his shrivelled complexion and straight black lips.
+- V.F
+Strategy
+Since the strength comparison is made between some unit and the Flesh Golem after all promotions are taken into account, try to keep from giving the Flesh Golem Bronze/Iron/Mithril weapons, or promotions like
+Strong
+, before it is combined with units of stronger base strength.  If you have
+Speakers
+(or a
+Druid
+promoted from a
+Cultist
+), you can summon
+Krakens
+, which is the best way to build base strength on a Flesh Golem without throwing away expensive units.
+Using
+mutated
+tigers
+(or
+warriors
+if you lack access to
+Priests of Leaves
+) is a good way to add many promotions to a Flesh Golem. Note that the Flesh Golem does not gain experience and lacks ability to gain its own promotions.
+Since the other Tier 3 spells that can be cast repeatedly are usually more valuable than
+Graft Flesh
+, the best units to promote to Body 3 are
+Corlindale
+(before killing him and resurrecting him),
+Hemah
+(before leaving
+OO
+for another religion), or
+Gibbon Goetia
+(before leaving
+Council of Esus
+for a different religion).
+The Flesh Golem is a PERMANENT summon, limited to one at a singel time per caster (Body 3 promotion), but once cast the caster can use it abilities to other effects.
+
+======================================================================
+PAGE: Gargoyle
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Gargoyle
+======================================================================
+
+Gargoyle
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Engineering
+Sculptor's Studio
+Luchuirp
+Starts With:
+Golem
+Defensive
++25% City Defense
+Info:
+8
+1
+Cost:
+180
+Special:
+Production speed +25% faster with
+Marble
+Replaces:
+Longbowman
+Strategy
+Gargoyles are perfect defenders for cities, and your foes will never walk past a cathedral or mausoleum again.
+Background
+Most Luchuirp, like other practical dwarves, value function over form. Gargoyles, designed to perch upon city walls when not descending upon intruders, are an exception to this. Showing off the intricate detail the crafters are capable of, Gargoyles are expressive, often with demonic appearances, though some are comical as well. These are carved from stone or marble. A Luchuirp city is safer when protected by Gargoyles, and an intriguing place to wander through.
+
+======================================================================
+PAGE: Iron Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Iron_Golem
+======================================================================
+
+Iron Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Iron Working
+Luchuirp
+Iron
+or
+Mithril
+Starts With:
+Golem
+Info:
+10
+1
+Cost:
+180
+Replaces:
+Champion
+Iron Golems were the first golems made, early in the Age of Magic, and they remained the most common type of golem on Erebus until late in the Age of Magic when some crafters spread their secrets to other races and the Copper Golems began to be mass produced. Even then, Iron Golems were superior, fusing Luchuirp fine craftsmanship with a sturdy, dependable metal.
+
+======================================================================
+PAGE: Mud Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Mud_Golem
+======================================================================
+
+Mud Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Luchuirp
+Starts With:
+Golem
+Info:
+0/2
+2
+Cost:
+100
+Special:
+Does not use food for construction
+Builds at 150% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Replaces:
+Worker
+
+======================================================================
+PAGE: Nullstone Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Nullstone_Golem
+======================================================================
+
+Nullstone Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Mithril Weapons
+Weaponsmith
+Luchuirp
+Starts With:
+Golem
+Magic Immune
+Info:
+13
+1
+Cost:
+240
+Special:
++25% Production speed with
+Marble
+It was upon watching an armorer from a friendly neighboring civilization produce armor for their Knights that a Luchuirp enchanter had an epiphany. In the same manor that the forged armor deflected arrows, a properly shaped and sufficiently polished stone body might deflect spells sent its way. The experiment was more successful than the enchanter was prepared for. The Nullstone Golem deflects magical energy completely, often keeping spells intact and sending them in unpredictable directions. The first time a Nullstone Golem advanced on a group of well-prepared enemy mages, a nearby iron golem was rusted instead, three fireballs were returned towards their senders, and four passing cows were charmed.
+
+======================================================================
+PAGE: Wood Golem
+CATEGORIES: Golem Units
+URL: https://fallfromheaven.fandom.com/wiki/Wood_Golem
+======================================================================
+
+Wood Golem
+Race:
+Golem
+Unit Class:
+No Unit Class
+Requires:
+Construction
+Sculptor's Studio
+Luchuirp
+Starts With:
+Golem
+Vulnerable to Fire
+Info:
+6
+1
+Cost:
+90
+Replaces:
+Axeman
+Strategy
+The Luchuirp's first golem unit, Wood golems are good as attackers or defenders, being stronger than the units most civs are likely to have access to at the same time. Like all golems, however, they cannot level up to gain promotions. Beware their vulnerability to fire.
+Background
+The novice Luchuirp crafters at the start of the age of rebirth tried working the exotic materials that their ancestors used, but found they needed more practice to get useful forms for their enchanting process. The wood golems produced by this practice turned out to make decent fighters, and could be found filling out the ranks admist their sturdier relatives throughout the age.

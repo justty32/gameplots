@@ -1,0 +1,529 @@
+
+======================================================================
+PAGE: Monk
+CATEGORIES: Allayi, Flying Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Monk
+======================================================================
+
+Monk
+Faction
+Allayi
+Unit Type
+Flying
+Base Attributes:
+Life
+108
+Attack
+28
+Initiative
+22
+Speed
+6
+Defense
+54
+Damage
+34
+Range
+1
+Sight
+4
+Cost:
+Production
+90
+The Monk is a Flying unit for the
+Allayi
+. The Monk can be researched in the second Technology Era.
+Lore
+Powerful and hard-striking, the Monk unit's skill with its long blade results in powerful counters in Summer and powerful attacks in Winter.
+Capacities
+Note: If you play with
+ELCP
+, Monk got the "Slow 1" capacity, giving them a weakness over the otherwhise ignored
+Seeker
+.
+In vanilla game version
+Icon
+Name
+Effect
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Shifter Nature
+In Light Form:
++20% Defense
++10% Health Regen
+-50% Upkeep
+on unit
+In Dark Form:
++20% Attack
+Immunity to Winter Movement Reduction
+Immunity to Winter Vision Reduction
++1 Vision Range
++1 Movement
++1 Battle Movement
+Shifting Rage 1
+In Light Form:
+Each consecutive counter attack increases Defense
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive counter attack
+Reset every third consecutive counter attack
+In Dark Form:
+Each consecutive attack increases Attack
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive attack
+Reset every third consecutive attack
+With
+ELCP
+Icon
+Name
+Effect
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Shifter Nature
+In Light Form:
++20% Defense
++10% Health Regen
+-50% Upkeep
+on unit
+In Dark Form:
++20% Attack
+Immunity to Winter Movement Reduction
+Immunity to Winter Vision Reduction
++1 Vision Range
++1 Movement
++1 Battle Movement
+Shifting Rage 1
+In Light Form:
+Each consecutive counter attack increases Defense
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive counter attack
+Reset every third consecutive counter attack
+In Dark Form:
+Each consecutive attack increases Attack
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive attack
+Reset every third consecutive attack
+Slow 1
+-1 battle Movement
+Faction Quest Upgrade
+In chapter 7 of
+their faction quest
+, the
+Allayi
+unlock the
+Ward of Vros Therman
+accessory
+which, when equipped, upgrades Monks to have the
+Shifting Rage 2
+capacity:
+With
+Ward of Vros Therman
+equipped
+Icon
+Name
+Effect
+Shifting Rage 2
+In Light Form:
+Each consecutive counter attack increases Defense
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive counter attack
+Caps at the third consecutive counterattack
+In Dark Form:
+Each consecutive attack increases Attack
+and Damage
+by 20%
+Deals damage to the target and opponents in a cone up to 1 tile per consecutive attack
+Caps at the third consecutive attack
+Equipment Slots
+Weapons
+Claymore
+Longspear
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Pearl Replication
+CATEGORIES: Allayi
+URL: https://endlesslegend.fandom.com/wiki/Pearl_Replication
+======================================================================
+
+Pearl Replication
+Faction
+Allayi
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Military
+Effects:
+Immunity to winter penalties
+An Era IV
+technology
+exclusive to the
+Allayi
+which grants immunity to all penalties from
+winter
+. It is unlocked by completing Chapter 8 of the Allayi faction quest.
+Lore
+Experience and strength, combined with a deep knowledge of the ways of Auriga and the magics of the Pearls, allows the faction to ignore the effects of the Dark Season.
+
+======================================================================
+PAGE: Pilgrims of the End
+CATEGORIES: Allayi
+URL: https://endlesslegend.fandom.com/wiki/Pilgrims_of_the_End
+======================================================================
+
+Pilgrims of the End
+Faction
+Allayi
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Influence
+Effects:
++3 Influence
+per collected pearl cluster on empire
+An Era II
+technology
+exclusive to the
+Allayi
+which grants
+Influence for collected pearl
+clusters. It is unlocked by completing Chapter 4 of the Allayi faction quest.
+Lore
+As the collection of Auriga's Pearls increases, so does the power and prestige of the faction.
+
+======================================================================
+PAGE: Seeker
+CATEGORIES: Allayi, Cavalry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Seeker
+======================================================================
+
+Seeker
+Faction
+Allayi
+Unit Type
+Cavalry
+Base Attributes:
+Life
+92
+Attack
+18
+Initiative
+24
+Speed
+6
+Defense
+35
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Seeker is a Cavalry unit for the
+Allayi
+. Two Seekers constitute the starting force for the Allayi. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Like cavalry, the Seeker strikes rapidly from a distance with a powerful charge. In Summer the charge has a greater attack; in Winter it removes the enemy's defense.
+Capacities
+Icon
+Name
+Effect
+Shifter Nature
+In Light Form:
++20% Defense
++10% Health Regen
+-50% Upkeep
+on unit
+In Dark Form:
++20% Attack
+Immunity to Winter Movement Reduction
+Immunity to Winter Vision Reduction
++1 Vision Range
++1 Movement
++1 Battle Movement
+Shifting Charge
+In Light Form:
+-10% Attack
+on target per movement point spent, effect lasting 3 turns
+In Dark Form:
+-10% Defense
+on target per movement point spent, effect lasting 3 turns
+Equipment Slots
+Weapons
+Longspear
+Sword
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Settler
+CATEGORIES: Allayi, Ardent Mages, Broken Lords, Cultists, Drakken, Forgotten, Kapaku, Morgawr, Mykara, Necrophages, Roving Clans, Support Units, Units, Vaulters, Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Settler
+======================================================================
+
+Settler
+Faction
+All
+Unit Type
+Infantry
+Initial Attributes:
+Life
+24
+Attack
+10
+Initiative
+16
+Speed
+4
+Defense
+5
+Damage
+6
+Range
+1
+Initial Cost:
+Production
+110
+Population
+1
+The Settler is a support unit available to all major factions at the game start. It is the only unit with the ability to found new cities. Every starting army at the beginning of the game contains one settler.
+Settler units from every faction are identical, with the exceptions of:
+Faction-specific Capacities, such as Ardent Fire or Dust Care. The
+Mykara
+settler does
+not
+have fungal bloom regen like the other Mykaran units (which may be a bug).
+The
+Roving Clans
+' and
+Allayi
+settlers are Cavalry Units and have a Speed
+of 6.
+The
+Broken Lords
+Settler does not have the Blocked Growth capacity.
+Lore
+The backbone of any migration or colonization effort, Settlers are the hardy few willing to strike out and found a new home.
+Capacities
+Faction
+Icon
+Name
+Effect
+All
+Colonization
+Can colonize a neutral region.
+All
+Blocked Growth
+Stops the Food
+production when being trained.
+All
+Unsellable
+Cannot be sold on the Markteplace
+Wild Walkers
+Forest Rage
++50% Attack
+on forest tiles.
+Broken Lords
+Dust Care
+Can be healed with dust.
+Necrophages
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Ardent Mages
+Ardent Fire
+Converts percentage of lost Life
+into Attack
+bonus.
+Drakken
+Fast Learner 1
++25% to XP gains.
+Forgotten
+Stealth
+Can become invisible on all tiles if all units of the army have this ability.
+Invisibility doesn't work against adjacent army or unit.
+Allayi
+Shifter Nature
+In Light Form:
++20% Defense
++10% Health Regen
+-50% Upkeep
+on unit
+In Dark Form:
++20% Attack
+Immunity to Winter Movement Reduction
+Immunity to Winter Vision Reduction
++1 Vision Range
++1 Movement
++1 Battle Movement
+Morgawr
+Amphibious
+Reduces movement cost on Rivers to 0.25.
+-1 Movement
+-1 Battle Movement
+Kapaku
+Inner Fire
+Takes no damage from Lava Flows
++20% Damage
+on Volcanic tiles
+Equipment Slots
+Weapons
+Longspear
+Armor
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Skyfin
+CATEGORIES: Allayi, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Skyfin
+======================================================================
+
+Skyfin
+Faction
+Allayi
+Unit Type
+Support
+Base Attributes:
+Life
+236
+Attack
+18
+Initiative
+20
+Speed
+8
+Defense
+46
+Damage
+18
+Range
+3
+Sight
+3
+Cost:
+Production
+250
+Pearls
+20 (15 with
+ELCP
+)
+The Skyfin is a Support unit for the
+Allayi
+. The Skyfin does not need to be researched and can be trained immediately after settling a city.
+Lore
+Arguably the most revered and majestic being on Auriga, the Skyfin's presence improves friendly morale in Summer and decreases enemy morale in Winter.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Flamewalker
+Takes no damage from lava flows
+Solitary
+Cannot be joined by other units in an army.
+Shifter Nature
+In Light Form:
++20% Defense
++10% Health Regen
+-50% Upkeep
+on unit
+In Dark Form:
++20% Attack
+Immunity to Winter Movement Reduction
+Immunity to Winter Vision Reduction
++1 Vision Range
++1 Movement
++1 Battle Movement
+Shifting Awe
+In Light Form:
++1 Morale
+to friendly target, and to friendly units adjacent to the target, effect lasting 3 turns
+The +1 Morale
+is spread from unit to adjacent unit
+In Dark Form:
+-1 Morale
+to opponent target, and to opponents adjacent to the target, effect lasting 3 turns
+The -1 Morale
+is spread from unit to adjacent unit
+One With Auriga
+Unlocks the Army Action: Aspirate
+Prevents the army from being attacked by roaming armies
+Auriga Affinity 2
++20% Pearls
+received when collecting
++2 XP per collected pearl cluster
+Equipment Slots
+Weapons
+Claws
+Armor
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Ward of Vros Therman
+CATEGORIES: Allayi
+URL: https://endlesslegend.fandom.com/wiki/Ward_of_Vros_Therman
+======================================================================
+
+Ward of Vros Therman
+Faction
+Allayi
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
+Can be equipped by Monk unit only
+Capacities:
+Shifting Rage 2
+Costs:
+Resource
+3
+3
+The Ward of Vros Therman is a
+Talisman
+exclusive to the
+Allayi
+, received for completing Chapter 7 Part 1 of their faction quest. The item can only be equipped on
+Monk
+units, and must be equipped on one to complete Chapter 7 Part 2 of the Allayi faction quest.
+Lore
+This legendary pendant of the greatest Allayi leader was taken as a trophy in battle centuries ago by Nemesis troops.

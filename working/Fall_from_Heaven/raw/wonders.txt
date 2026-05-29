@@ -1,0 +1,1894 @@
+
+======================================================================
+PAGE: Altar of Luonnotar
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar
+======================================================================
+
+Altar of the Luonnotar
+Requires:
+Great Prophet
+Good
+or
+Neutral
+Alignment
+Info:
++2 XP for
+Disciple Units
+made in city
++2
+Allows 1
+Priest
+Allows:
+Altar of the Luonnotar (Anointed)
+Cost:
+N/A
+Type:
+National Wonder
+Civilopedia
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire begin with the  Blessed promotion.
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option is enabled to do so.
+Since the city that builds the Altar will be able to (at each successive stage) train Disciple units with extra experience, this can allow one to construct a strong core of Disciple Units for military use (e.g. Confessors for Bless, Stonewardens for Divine Shield, Ritalists for Ring of Fire, and Cultists for Tsunami).
+Also, the
+Malakim
+civilization have an especially strong connection to this, as their
+Lightbringer
+Disciple unit can be upgraded to several different upgrade paths. For example, a high-XP Lightbringer can be upgraded up the normal path to obtain strong Priest and High Priest units, but can also (by converting them first to Savants) be turned into high-XP
+Mage
+units for Arcane casters (with both Medic 1 and Sentry!).
+Gameplay
+The Altar of Luonnatar has several benefits even if not going for a religious or altar victory.
+An event-provided prophet can be used to provide culture and a specialist slot in a second city.
+The XP bonus benefits combat-oriented Disciple units—the
+Crusader
+, the
+Paramander
+, and the
+Stygian Guard
+.
+
+======================================================================
+PAGE: Altar of Luonnotar (Anointed)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Anointed)
+======================================================================
+
+Altar of the Luonnotar (Anointed)
+Requires:
+Great Prophet
+Altar of the Luonnotar
+Good
+or
+Neutral
+Alignment
+Mysticism
+Info:
++4 XP for
+Disciple Units
+made in city
++3
++1
+Allows 1
+Priest
+Allows:
+Altar of the Luonnotar (Blessed)
+Cost:
+N/A
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire start with the Blessed promotion.
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option to do so is enabled.
+
+======================================================================
+PAGE: Altar of Luonnotar (Blessed)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Blessed)
+======================================================================
+
+Altar of the Luonnotar (Blessed)
+Requires:
+Great Prophet
+Altar of the Luonnotar (Anointed)
+Good
+or
+Neutral
+Alignment
+Philosophy
+Info:
++6 XP for
+Disciple Units
+made in city
++4
++1
+in all cities
++1
+Great Prophet
+Allows 1
+Priest
++1
+for every
+Priest
+and
+Great Priest
+in all cities
+Units in city receive
+Blessed
+promotion
+Allows:
+Altar of the Luonnotar (Consecrated)
+Cost:
+N/A
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power;  all units created in the owning empire start with the Blessed promotion.
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option to do so is enabled.
+
+======================================================================
+PAGE: Altar of Luonnotar (Consecrated)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Consecrated)
+======================================================================
+
+Altar of the Luonnotar (Consecrated)
+Requires:
+Great Prophet
+Altar of the Luonnotar (Blessed)
+Good
+or
+Neutral
+Alignment
+Priesthood
+Info:
++8 XP for
+Disciple Units
+made in city
++5
++2
+in all cities
++1
+Great Prophet
+Allows 2
+Priests
++1
+for every
+Priest
+and
+Great Priest
+in all cities
+Units in city receive
+Blessed
+promotion
+Allows:
+Altar of the Luonnotar (Divine)
+Cost:
+N/A
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire start with the Blessed promotion.
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option to do so is enabled.
+
+======================================================================
+PAGE: Altar of Luonnotar (Divine)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Divine)
+======================================================================
+
+Altar of the Luonnotar (Divine)
+Requires:
+Great Prophet
+Altar of the Luonnotar (Consecrated)
+Good
+or
+Neutral
+Alignment
+Fanaticism
+Info:
++10 XP for
+Disciple Units
+made in city
++6
++2
+in all cities
++1
+Great Prophet
+Allows 2
+Priests
++2
+for every
+Priest
+and
+Great Priest
+in all cities
+Units in city receive
+Blessed
+promotion
+Allows:
+Altar of the Luonnotar (Exalted)
+Cost:
+N/A
+Special:
+All
+Evil
+Civilizations
+will declare war on owner until the city with the building is lost.
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire start with the Blessed promotion.
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option to do so is enabled.
+
+======================================================================
+PAGE: Altar of Luonnotar (Exalted)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Exalted)
+======================================================================
+
+Altar of the Luonnotar (Exalted)
+Requires:
+Great Prophet
+Altar of the Luonnotar (Divine)
+Good
+or
+Neutral
+Alignment
+Righteousness
+Info:
++12 XP for
+Disciple Units
+made in city
++7
++3
+in all cities
++1
+Great Prophet
+Allows 2
+Priests
++2
+for every
+Priest
+and
+Great Priest
+in all cities
+Units in city receive
+Blessed
+promotion
+Allows:
+Altar of the Luonnotar (Final)
+Cost:
+N/A
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire are Blessed
+Strategy
+Completing all 7 phases of the Altar of Luonnotar will win the game if the victory option is enabled to do so.
+
+======================================================================
+PAGE: Altar of Luonnotar (Final)
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Altar_of_Luonnotar_(Final)
+======================================================================
+
+Altar of the Luonnotar (Final)
+Requires:
+Altar of the Luonnotar (Exalted)
+Good
+or
+Neutral
+Alignment
+Omniscience
+Info:
++14 XP for
+Disciple Units
+made in city
++8
++3
+in all cities
++1
+Great Prophet
+Allows 3
+Priests
++3
+for every
+Priest
+and
+Great Priest
+in all cities
+Units in city receive
+Blessed
+promotion
+Begins
+Golden Age
+Cost:
+4,000
+Special:
+Victory, if Altar of the Luonnotar victory condition enabled.
+Type:
+National Wonder
+Background
+The Luonnotar claim that this stone slab was where
+the one true god
+stood when he came into creation before the fall of Agares. Each religion has a different myth about the origin of the stone, but none dispute its power; all units created in the owning empire start with the Blessed promotion.
+Strategy
+This is the final stage of the Altar of the Luonnotar. Unlike the other stages, you have to build this wonder instead of using a Great Prophet to create it. Successfully building this wonder will result in victory.
+
+======================================================================
+PAGE: Aquae Sucellus
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Aquae_Sucellus
+======================================================================
+
+Aquae Sucellus
+Requires:
+Sanitation
+Life Mana
+Info:
++2
+in City
++1
+in all cities on continent
+Units heal 30% faster in City
+Removes
+Diseased
+promotion from Units in City
+Cost:
+600
+Type:
+World Wonder
+Diplomacy
+If a player owns
+Aquae Sucellus
+, they will enjoy a +4 diplomatic bonus with
+Sabathiel
+and
+Capria
+(
+Bannor
+),
+
+======================================================================
+PAGE: Bazaar of Mammon
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Bazaar_of_Mammon
+======================================================================
+
+Bazaar of Mammon
+Requires:
+Mathematics
+Currency
+Info:
++100%
++2
+Great Merchant
+Allows 3
+Merchant
++10 to
+Crime Rate
+Cost:
+600
+Type:
+National Wonder
+Commerce is the lifeblood of an empire. A farmer sells his prize horse to buy seed for next season, and the tax collector takes enough off the top to equip a footman. A noble buys a tapestry imported from across the continent, and the King's campaign can continue for another month. As such, it is not discontent that is the greatest threat to a ruler's ambition. Bread and carnivals can assuage unhappiness, or garrison troops should those measures fail. Rather a people's satisfaction has the potential to deplete the treasury and starve an empire. If the farmer is content with a smaller gain, from where does the soldier's arms come? If the noble is pleased with his bare halls, shall the war end sooner? Indeed, if the soldiers themselves do not yearn for a better life than their fathers, why will they quit the farm for a mercenary life?
+In light of this, the Stewards of Inequity make an offer which even rulers devout of Junil have a hard time declining. Let the royal market be seeded with a relic of the King of Avarice here, or one of his praying acolytes there. Let his temples be unmolested in your capital. The people's hearts shall take up a little-- just a little--greed. So will their labors be intensified with avarice, and the nation profit.
+Alas, such hubris has brought down empires. There is no such thing as a little greed, for Mammon is not a master content to share his subjects, and a people enslaved by their own base appetites are rare to rouse to the nobler callings of man.
+
+======================================================================
+PAGE: Bone Palace
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Bone_Palace
+======================================================================
+
+Background
+Bone Palace
+Requires:
+Philosophy
+Info:
++10
++50% magic resistance for units in City
+Begins
+Golden Age
+for team
++2
+Great Bard
+Cost:
+700
+Type:
+World Wonder
+Special:
+Double production speed with
+Marble
+Legend says that a dragon was found so deep in slumber that his scales, teeth and horns were removed without him waking. More and more daring hunters stripped pieces from the dragon until he died, still locked within his dreams. The flesh was stripped and eaten, the hide cured and turned into armor. When only the bones were left, a Doviello warlord made it into his palace.
+Over the following centuries, marble towers, battlements, and fortifications were added to the palace until the original bones were completely hidden by the new construction, if they ever really existed. Those convinced of the legend say that the dragon’s spirit still sleeps and that he will one day awake, most likely to destroy those that are living within his bones.
+Diplomacy
+If a player owns The Bone Palace, they will enjoy a +4 diplomatic bonus with
+Auric Ulvin
+(leader of
+Illians
+).
+
+======================================================================
+PAGE: Caminus Aureus
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Caminus_Aureus
+======================================================================
+
+Caminus Aureus
+Requires:
+Mithril Weapons
+Info:
++12
++50% Military Production
+Free
+Weaponsmith
+in all cities
++2
+Great Engineer
+Cost:
+1500
+Type:
+World Wonder
+Special:
+Double production speed with
+Gold
+Diplomacy
+If a player owns
+Aminus Aureus
+, they will enjoy a +4 diplomatic bonus with
+Khazad
+leaders.
+
+======================================================================
+PAGE: Catacomb Libralus
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Catacomb_Libralus
+======================================================================
+
+Catacomb Libralus
+Requires:
+Knowledge of the Ether
+Mage Guild
+Info:
++4
++4
+Free
+Mage Guild
+in all cities
++2
+Great Sage
+Allows 1
+Sage
+Cost:
+600
+Type:
+World Wonder
+If a player owns
+Catacomb Libralus
+, they will enjoy a +4 diplomatic bonus with
+Thessa
+/
+Ljosalfar
+.
+Strategy
+Unless you plan on going for a victory heavily reliant on arcane units over all others, it is usually not a good idea to construct the Catacomb Libralus due to the minimal return on investment. Just having 1 or 2 cities with a
+Mage Guild
+is more than enough to have a constant production of Adepts for your war machine.
+
+======================================================================
+PAGE: Celestial Compass
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Celestial_Compass
+======================================================================
+
+Celestial Compass
+Requires:
+Astronomy
+Info:
++4
++50% production speed of
+Rituals
++2
+Great Prophet
+Cost:
+500
+Type:
+World Wonder
+
+======================================================================
+PAGE: City of a Thousand Slums
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/City_of_a_Thousand_Slums
+======================================================================
+
+City of a Thousand Slums
+Requires:
+Engineering
+Info:
++10
+Crime Rate
+City can work 3rd tile ring
+Cost:
+500
+Type:
+World Wonder
+
+======================================================================
+PAGE: Crown of Akharien
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Crown_of_Akharien
+======================================================================
+
+Crown of Akharien
+Requires:
+Arcane Lore
+Info:
++2
++2
++100%
++2
+Great Sage
+Can be used as
+Equipment
+Cost:
+900
+Type:
+World Wonder
+Diplomacy
+If a player owns
+Crown of Akharien
+, they will enjoy a +4 diplomatic bonus with
+Amurites
+leaders,
+
+======================================================================
+PAGE: Deruptus Brewing House
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Deruptus_Brewing_House
+======================================================================
+
+Deruptus Brewing House
+File:None
+Requires:
+Crafting
+Can only be built in a riverside city
+Info:
++2 Ale
++10%
+from
+Corn
+,
+Rice
+and
+Wheat
++2 XP For
+Dwarven
+Units built in city
+Cost:
+240
+Type:
+National Wonder
+Background
+Strategy
+
+======================================================================
+PAGE: Forbidden Palace
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Forbidden_Palace
+======================================================================
+
+Forbidden Palace
+Requires:
+8 Cities in Empire
+Info:
++4
+Reduces Maintenance Costs in Nearby Cities
+-10 to
+Crime Rate
+Cost:
+300
+Type:
+National Wonder
+
+======================================================================
+PAGE: Form of the Titan
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Form_of_the_Titan
+======================================================================
+
+Form of the Titan
+Requires:
+Warfare
+Level 6 Unit
+Info:
++2 XP to all units on Team
++2
+Great Commander
+Cost:
+500
+Special:
+Double production speed with
+Copper
+Type:
+World Wonder
+Diplomacy
+If a player owns
+Form of the Titan
+, they will enjoy a +4 diplomatic bonus with
+Doviello
+leaders,
+Beeri Bawl
+/
+Luchuirp
+, and
+Decius
+.
+
+======================================================================
+PAGE: Grand Menagerie
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Grand_Menagerie
+======================================================================
+
+This article is about the building.  For the scenario, see
+Grand Menagerie (Scenario)
+.
+Grand Menagerie
+Requires:
+Festivals
+Wolf Pen
+Dancing Bear
+Tiger Cage
+Gorilla Cage
+Lion Cage
+Info:
++8
++20 %
++2
+in all cities
+Free
+Carnival
+in all cities
+1 free
+Bard
+Cost:
+120
+Type:
+World Wonder
+A world wonder providing a free
+Carnival
+in every city.
+Description
+The Grand Menagerie can only be built if a player has created an animal pen of every type (
+Gorilla Cage
+,
+Dancing Bear
+,
+Wolf Pen
+,
+Lion Cage
+, and
+Tiger Cage
+) in the city.
+Strategy
+Note:
+The advice below is likely outdated with the most current version of the game.
+This wonder is very difficult to build in a standard game since animals only spawn up to a certain point. However, there are a few things you could do to get that trophy. The game option Wildlands doubles the amount of animals that spawn. It's dangerous for early settlers but a must if you want to get the Menagerie. You will want to research
+Animal Husbandry
+very quickly so that your
+Recon
+Units can get the
+Subdue Animal
+promotion, then go quickly further up the Recon line to build stronger troops. Meanwhile, build lots of
+Scouts
+and level them up with Goblins, if possible, change to
+Apprenticeship
+to get those extra 2 xp. A civilization with a strong synergy for the
+Recon
+line would be useful here, for example
+Ljosalfar
+or even better
+Svartalfar
+who get +1 attack strength for Recon units. If you can be an
+Aggressive
+leader, even better since you need
+Combat I
+for
+Subdue Animal
+. You also have to build the
+Carnival
+quickly, otherwise excess animals captured by your hunters might stifle your economy, since only
+Dancing Bears
+can be built without a carnival. Another possibility to dispose of them is to rush your neighbors.
+Apart from being relatively strong,
+Bears
+are easy to get because they are currently the only animal that spawns in lairs, therefore they are plentiful. If you have
+Fellowship of Leaves
+, you can also get as many
+Tigers
+as you want as it is their priests' first level summon spell.
+Wolves
+are harder to find, they should spawn in large forests or tundras, sometimes also in plains. If you have the
+Doviello
+in your game, you might get
+Wolves
+from their
+world spell
+, in any case the upside with Wolves is that they are the weakest animal, so they are easy to capture.
+Lions
+are relatively frequent in desert areas and medium easy to capture. The
+Gorilla
+is the rarest common animal, if you are very lucky you can find them in or close Jungle areas. If you have all animals but one, you can sometimes buy an animal of your choice from a random event ("A hunter is offering to sell his catch..."), if you are still capturing animals when you get the event, you should get the
+Gorilla
+as it is hard to find otherwise. Because of this event, the Living World game option is also recommendable when going for the Menagerie.
+See also
+Cages
+Animals
+Subdue Animal
+
+======================================================================
+PAGE: Guild of Hammers
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Guild_of_Hammers
+======================================================================
+
+Diplomacy
+Guild of Hammers
+Requires:
+Engineering
+Info:
+Founds
+Guild of Hammers
++8
++1
+for every
+Engineer
+and
+Great Engineer
+for team
++2
+in all cities
+Free
+Forge
+in all cities
++2
+Great Engineer
+Cost:
+550
+Type:
+World Wonder
+If a player owns
+Guild of Hammers
+, they will enjoy a +4 diplomatic bonus with
+Garrim Gyr
+/
+Luchuirp
+.
+
+======================================================================
+PAGE: Hall of Kings
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Hall_of_Kings
+======================================================================
+
+Background
+Hall of Kings
+Requires:
+Feudalism
+Info:
++2
+to every
+Specialist
+for Team
++10
++2
+Great Bard
+Cost:
+600
+Special:
+Double production speed with
+Marble
+Type:
+World Wonder
+The beauty of the Hall of Kings has long served as a testament to the mixture of strong religious beliefs and the love of art shared by the people of the Age of Rebirth. Few visitors to the Hall of Kings have failed to be moved by the artist’s dedication to his subject, or his feeling for the nature of human struggle, suffering, and spiritual triumph.
+Diplomacy
+If a player owns
+Hall of Kings
+, they will enjoy a +4 diplomatic bonus with
+Cassiel
+/
+Grigori
+.
+
+======================================================================
+PAGE: Heroic Epic
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Heroic_Epic
+======================================================================
+
+Heroic Epic
+Requires:
+Military Strategy
+Training Yard
+or
+Bannor Training Yard
+Level 4 Unit
+Info:
++4
++1
+Great Commander
++100% Military Production
+Cost:
+200
+Type:
+National Wonder
+Special:
+Double production speed with
+Marble
+Be they from the Age of Ice, the Age of Magic, or all the way back to the Age of Dragons, these stories are about men that became legends. They encourage all that hear them, and make their hearers strive to be more than they currently are.
+
+======================================================================
+PAGE: Infernal Grimoire
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Infernal_Grimoire
+======================================================================
+
+Infernal Grimoire
+Requires:
+Infernal Pact
+Info:
+1 Free
+Technology
++1
+Great Sage
+Can be used as
+Equipment
+Cost:
+600
+Special:
+20% chance of spawning
+Barbarian
+Balor
+Type:
+World Wonder
+Diplomacy
+If a player owns
+Infernal Grimoire
+and has it built as an improvement in a city s/he owns, they will enjoy a +4 diplomatic bonus with
+Hyborem
+/
+Infernals
+.
+
+======================================================================
+PAGE: Mercurian Gate
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Mercurian_Gate
+======================================================================
+
+Mercurian Gate
+Requires:
+Fanaticism
+Cannot have
+The Ashen Veil
+as State
+Religion
+Cannot be built in Capital
+Info:
++4
+-100%
+War Weariness
+in City
+-20% War Weariness in all cities
++4
+Great Prophet
+Cost:
+600
+Special:
+Spawns the
+Mercurians
+civilization
+City where gate is built converts to Mercurians
+Player may switch to Mercurians if they built the gate
+Mercurians start with
+Basium
+,
+Settler
+, and six
+Angels
+Mercurians are in permanent alliance with builder of the gate
+Type:
+World Wonder
+Edit Link
+
+======================================================================
+PAGE: Mines of Gal-Dur
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Mines_of_Gal-Dur
+======================================================================
+
+Mines of Gal'Dur
+Requires:
+Arete
+Runes of Kilmorph
+as State
+Religion
+Info:
+3 Free
+Iron
++2
++1
+Great Engineer
+Allows 3
+Engineers
+Cost:
+700
+Type:
+World Wonder
+
+======================================================================
+PAGE: Mokka's Cauldron
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Mokka's_Cauldron
+======================================================================
+
+Mokka's Cauldron
+Requires:
+Necromancy
+Death Mana
+Info:
++2
+Cost:
+700
+Special:
+When Unit in city is killed, a
+Flesh Golem
+of same strength is created with 50% health
+Type:
+World Wonder
+Frostlings were horrid creatures, all avarice and teeth, but weak unless they came in large numbers. Unable to survive the warmth of the Age of Rebirth they have disappeared from Erebus, and exist only in stories.
+One of those stories is about an unusually intelligent frostling named Mokka. He was said to carry a bag where he collected the breath of dying men and have a cauldron that would resurrect anyone who was placed in it.
+Legends are often incomplete and this cauldron is no different. Bodies placed in it do come back to life, but that life is unnatural.
+Any living unit that dies in the city with Mokka’s Cauldron will be raised as a flesh golem of similar strength.
+
+======================================================================
+PAGE: National Epic
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/National_Epic
+======================================================================
+
+National Epic
+Requires:
+Warfare
+Library
+Info:
++4
++1
+Great Commander
++100%
+Cost:
+250
+Type:
+National Wonder
+Special:
+Double production speed with
+Marble
+
+======================================================================
+PAGE: Pact of Nilhorn
+CATEGORIES: Rituals, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Pact_of_Nilhorn
+======================================================================
+
+Pact of the Nilhorn
+Requires:
+Cartography
+Info:
++2
+Cost:
+500
+Special:
+Spawns 3
+Hill Giants
+with
+Hidden Nationality
+Type:
+Ritual
+Early explorers found it was best to avoid the massive giants that roamed the land. A bard, named Antonis of Oriel, wandered too close and was captured by a group called the Nilhorn. He offered the only gift he could for his life, he played a song. The wild giants were so entranced by his song that, when it ended, they sat unmoving and Antonis could have simply walked out of the makeshift camp they had dragged him back to. Fascinated by finding his new audience so appreciative, Antonis continued to play, and his performances became a part of the giants’ nightly rituals.
+Antonis stayed with the Nilhorn for three years, until one of them reported seeing a Sheaim army approching his homeland. The giants avoided any settled land and tried to convince Antonis not to return, but he left the giants and returned to defend Oriel. Although a talented musician, Antonis was an incompetent warrior and he was killed defending Oriel. When he fell, the Nilhorn came out of the forests and approached the besieged village. Both armies froze, unaccustomed to seeing giants willing to enter civilized lands. Searching the battlefield, the giants found Antonis’s body, and, enraged, they set upon the Sheaim. The village defenders cheered at their new-found allies and joined in the assault.
+The battle was quick and the Sheaim were turned back. After it was over, the giants picked up the body of Antonis and carried it with them into the forests. The village raised a monument to their large rescuers and swore never to forget the aid they were given. The Sheaim never forgot the failed battle either, and forever avoided Oriel in their attacks.
+Notes
+Three Hill Giants Giants will Appear named Larry, Curly, and Moe.
+A good strategy is to rush this wonder and get the 3 hidden nationality giants to crush your oppnents without declaring war.  Giant's can't take city unless nationality is declared but they can kill all units in it.
+
+======================================================================
+PAGE: Pillar of Chains
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Pillar_of_Chains
+======================================================================
+
+Background
+Pillar of Chains
+Requires:
+Taxation
+Info:
++4
+-10%
+War Weariness
+for team
+No
+from
+Civics
+for team
++1
+for every
+Unhappy Citizen
+-10% to
+Crime Rate
+Cost:
+500
+Special:
+Adds 4 to the
+Armageddon Counter
+when built
+Type:
+World Wonder
+The citizens marched into the city plaza picketing and demanding the liberties their neighbors possessed. They chanted and screamed at the palace as
+Flauros
+watched from his balcony. For hours they demonstrated, becoming bolder as the day went on, and more citizens joined.
+The
+Moroi
+stood their posts, they didn’t threaten or seem aware of the horde of violent protestors before them. The citizens toppled statues in the plaza, destroyed benches and shook the palace gates and still Flauros waited.
+A wave of euphoria struck the crowd, they had risen up and Flauros hadn’t responded. They were not powerless, they weren’t afraid, Flauros was afraid of them. This thought intoxicated them, generations of the
+Calabim
+have suffered without complaint or voice, complacent in their fear. But their fear was gone now, they were a new people united against their cruel aristocracy.
+The sun dipped into the horizon, bathing the protestors in the reds and oranges of early night. Lengthening the shadows of the buildings until they reached out across the plaza like dark teeth on the worn granite cobblestones. For a heartbeat the angry wild cries of the protestors stopped as the shadows covered them, there was silence in the plaza. Then came the screams.
+In the morning, where there once was graceful statues and benches there was now a giant pillar of granite, iron and blood. Hundreds of barbed chains were woven around the tower and held fast by those chains were all those that protested the day before. Most were torn bodies ripped to pieces and hung on the chains, but a few still lived and writhed within its grasp.
+Flauros would often stand on his balcony and admire what he called the Rose of Prespur. With its thorns and blood stained top it almost seemed as such. Regardless of its artistic merits the people of Prespur never protested again.
+Diplomacy
+If a player owns Pillar of Chains, they will enjoy a +4 diplomatic bonus with
+Flauros
+/
+Calabim
+.
+
+======================================================================
+PAGE: Prophecy of Ragnarok
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Prophecy_of_Ragnarok
+======================================================================
+
+Background
+Prophecy of Ragnarok
+Requires:
+Way of the Wicked
+Info:
++8
++2
+Great Prophet
+Allows 1
+Priest
+Cost:
+500
+Special:
+All units built in city receives
+Prophecy Mark
+Type:
+World Wonder
+Once his world was that of the plow and the oxen, of caring for his crops and his family. That was before the vision. He fell amidst his rows of wheat, screaming and wailing. By the time his laborers found him, his clothes were rent and he was shivering in a fetal position. He let them lead him home, but all he could think of was the vision. This land would be consumed with fire and water, darkness would rule the land. Those alone who would know joy would be those who died, fighting the inevitable with honor. The next hour found him at the marketplace, crying out to passers-by of the end of days, of the last chance of redemption. He would not leave his post in the city, nor the others theirs. In every city in the land, the same cry can be heard—”The end is at hand! Ragnarok approaches!”
+Diplomacy
+If a player owns
+Prophecy of Ragnarok
+, they will enjoy a +4 diplomatic bonus with
+Sheaim leaders
+.
+
+======================================================================
+PAGE: Pyre of the Seraphic
+CATEGORIES: Unique Features
+URL: https://fallfromheaven.fandom.com/wiki/Pyre_of_the_Seraphic
+======================================================================
+
+A unique feature providing
+Fire Mana
+.
+Description
+What was once a grand temple of Bhall now has no references to her name. The inscriptions have been worn oﬀ, the murals covered in crude orcish paintings. But the fire that burns atop the temple cannot be extinguished, and the Clan is said to sacrifice angels to Bhall at the Pyre.
+Effects
+Provides Fire Mana.
+Upon a successful exploration, the Pyre is removed and replaced by an unconnected source of Fire Mana.
+Angels can be sacrificed on the Pyre, destroying the angel and creating a
+Fire Elemental
+. If the angel is a Hero (
+Basium
+,
+Brigit the Shining
+,
+Sphener
+), seven Fire Elementals are created. (Info from Fall from Heaven II "Shadow" manual)
+
+======================================================================
+PAGE: Ride of the Nine Kings
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Ride_of_the_Nine_Kings
+======================================================================
+
+Diplomacy
+Ride of the Nine Kings
+Requires:
+Warhorses
+Info:
++4
++2
+Great Commander
++10 XP to all
+Mounted Units
+built in city
+All units built in city receives
+Morale
+promotion
+Cost:
+500
+Type:
+World Wonder
+If a player owns
+Ride of the Nine Kings
+, they will enjoy a +4 diplomatic bonus with
+Hippus
+leaders,
+
+======================================================================
+PAGE: Shrine of Sirona
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Shrine_of_Sirona
+======================================================================
+
+Diplomacy
+Shrine of Sirona
+Requires:
+Divination
+Spirit Mana
+Info:
++6
++2
+Great Prophet
+Cost:
+500
+Special:
+Double production speed with
+Marble
+May cast
+Sirona's Touch
+once per turn on any unit
+Type:
+World Wonder
+If a player owns
+Shrine of Sirona
+, they will enjoy a +4 diplomatic bonus with
+Ethne the White
+/
+Elohim
+.
+
+======================================================================
+PAGE: Shrine of the Champion
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Shrine_of_the_Champion
+======================================================================
+
+Shrine of the Champion
+Requires:
+Civilization's
+Hero
+Must Die
+Info:
++5
++3
+Great Prophet
+1 Free
+Promotion
+for units built in city
+Cost:
+250
+Type:
+National Wonder
+They passed solemnly by the body. The priests had done their best to hide the hideous state of the deceased, but it was clear that his death had been very painful. Women sobbed, and even hardened warriors swallowed hard and had to look away. The invasion had been stopped, and just in time. The only walls surrounding the city now were the piles of corpses, every enemy slain, but the cost... The best of them lay defeated.
+The priest spoke movingly of honor, of valor, of sacrifice. He collected donations for a monument, planned a meeting to decide on the form. Then the people turned to rebuild their city and their lives.
+A rider appeared. He spoke quickly to the priest, then yelled to the crowd. “A second wave approaches! The enemy will be here in hours!”
+A cry of despair arose. “Then it was for naught!” one old woman said. “We are doomed after all...” “We must flee the city with our lives!” called out another.
+As the townspeople began to do just that, one lone man shouted out, “No!” He strode up next to the body of their hero. “Is this why he died? So we could run, and live like beaten dogs? What is it you said, priest? ‘His courage is an example to us all; his valor shall be as a scale against us; his sacrifice allows us to carry on in his stead...’ Carry on crying? NO! To carry on fighting! You asked for a memorial, my friends?” The man unsheathed his sword. “This is all the ‘memorial’ my savior needs—a strong arm and a sharp blade to carry on his work, to carry on to completion! Let us fight or die as he did—this is the Shrine to the Champion!”
+Another blade was raised with his, in defiance of their oncoming foe. Then another, then a score, then a hundred, then a thousand.
+Strategy
+In the late game, consider killing off your hero to build this in a high-production city dedicated to pumping out Military units, and then casting
+Resurrection
+to bring your Hero back to life for the bonus Promotion to your military units.
+NOTE: Your civilization Hero must die. If a religious Hero dies, this does not count for building the Shrine of the Champion.
+The Luchuirp and the Grigori can never build the Shrine of the Champion wonder. Neither civilization has a hero defined in the CustomFunctions.py file (Barnaxus is not defined as the Luchuirp hero). An explanation of how the code works can be found here.
+[1]
+There is currently a bug where, upon each death of Barnaxus, two sets of Pieces of Barnaxus will be generated: one given to the unit that killed him, and another set dropped on the ground on the square that Barnaxus used to occupy. This can be abused to create multiple copies of Barnaxus with all 5 Combat promotions, as the game only checks if you have at least 1 Barnaxus with Combat 5 to grant your golems their bonuses. This can ensure the continuing strength of your Golem army in case an enemy is able to take out one copy of Barnaxus. Note that this is technically an exploit, and should be discussed with other players in Multiplayer before you attempt to use it.
+
+======================================================================
+PAGE: Soul Forge
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Soul_Forge
+======================================================================
+
+Soul Forge
+Requires:
+Malevolent Designs
+Info:
++2
++2
+Great Engineer
+1 Free
+Death Mana
+Cost:
+600
+Special:
+When a unit within city radius is killed, city receives 10
++1
+per XP of killed unit
+Type:
+World Wonder
+Diplomacy
+If a player owns Soul Forge, they will enjoy a +4 diplomatic bonus with
+Alexis
+/
+Calabim
+and
+Faeryl Viconia
+/
+Svartalfar
+.
+
+======================================================================
+PAGE: Syliven's Perfect Lyre
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Syliven's_Perfect_Lyre
+======================================================================
+
+Background
+Syliven's Perfect Lyre
+Requires:
+Drama
+Info:
++4
++100%
++2
+Great Bard
+Can be used as
+Equipment
+Cost:
+900
+Type:
+World Wonder
+“The music. It might have lasted for a moment, or perhaps eternity had quietly passed as I stood transfixed at the edge of the forest. When it stopped, I felt my heart ache for the slowly dying beauty. The player, a slight elven lass, surely a princess of an ancient clan, turned to me and smiled. “Milady,” I said, “Pray tell me what gift I might give you in return for the song that graced my ears, and what life of service do you ask, that I might chance to hear it again?” She but bid me take her instrument, this bright and perfect lyre, and to bring it here, to play it here that the joy given me might be passed on and peace grow stronger. Or at least that’s what I tell people to sell more tickets.”
+—Emmedriys, famed bard of Evermore
+Diplomacy
+If a player owns
+Syliven's Perfect Lyre
+, they will enjoy a +4 diplomatic bonus with
+Keelyn
+/
+Balseraphs
+and
+Malakim
+.
+
+======================================================================
+PAGE: Temple of Temporance
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Temple_of_Temporance
+======================================================================
+
+Background
+Temple of Temporance
+Requires:
+Religious Law
+Info:
++1
+in all cities on continent for Team
++2
+Great Bard
++10
+Cost:
+650
+Special:
+Double production speed with
+Marble
+Type:
+World Wonder
+The Temple of Temporance is a mighty cathedral standing on the “Ile de la Sheol,” said to have been the first point of creation. Built on the site of an older church, which was in turn built on the site of a temple to
+Junil
+, it is a magnificent example of gothic architecture and one of the greatest buildings standing. The temple is a massive stone building of square towers, flying buttresses, and tall spires. The exterior of the building is decorated with delicate ribbons of arches and statues of saints and kings. The roofline of the building is festooned with gargoyles. The interior of the temple is a long, narrow space with columns lining each side, supporting two beautiful raised galleries. Brilliant stained glass windows shine gently down on the main altar.
+Diplomacy
+If a player owns Temple of Temporance, they will enjoy a +4 diplomatic bonus with
+Basium
+/
+Mercurians
+,
+Arendel Phaedra
+/
+Ljosalfar
+,
+Cardith Lorda
+/
+Kuriotates
+, and
+Einion Logos
+/
+Elohim
+.
+
+======================================================================
+PAGE: The Dragon's Hoard
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Dragon's_Hoard
+======================================================================
+
+Background
+The Dragon's Hoard
+Requires:
+Spawns in same city as
+Acheron the Red Dragon
+at his creation
+Info:
++4
++2
+Great Commander
++8
+1 Free
+Gems
+and 1 Free
+Gold
+Melee Units
+in city receive the
+Enchanted Blade
+promotion
+Can be
+equipped
+Cost:
+N/A
+Type:
+World Wonder
+Three-Tooth dumped his bag on the ground in Ahepetr. Three human skulls, an iron knife, and a handful of shiny trinkets tumbled out. Half-Nose reached for a diamond ring, and Three-Tooth jumped him. The two orcs tumbled around the ground as the nearby goblins cheered them on, sneaking Three-Tooth’s spoils when they could.
+They were interrupted by an earth-shaking roar. All turned to face him. Resplendent in primal glory, Acheron stood. His leathery skin had the luster of rubies, all the more so when his breath illuminated the dusk with a billowing cloud of fire. Every tooth, fang, and claw shone, sharp and perfect, as if he had not fought countless battles. His leathery wings embraced the humble village. His face wore a fearsome snarl... or possibly, though it seemed so out of place on this beast, a smile.
+As one the orcs and goblins gathered their war spoils and carried them before the mighty dragon, laying them at his feet. In time, the pile would grow to a mountain as the legend was reborn.
+Diplomacy
+If a player owns The Dragon's
+Hoard
+, they will enjoy a +4 diplomatic bonus with
+Clan of Embers
+leaders,
+
+======================================================================
+PAGE: The Eyes and Ears Network
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Eyes_and_Ears_Network
+======================================================================
+
+The Eyes and Ears Network
+Requires:
+Guilds
+5
+Inns
+in Empire
+Info:
+Owner will automatically receive any
+Technology
+that any other 3 civilizations already have with which the owner has an Open Borders agreement with
+Cannot receive
+Arete
+,
+Hidden Paths
+,
+Infernal Pact
+,
+Mind Stapling
+, or
+Seafaring
++10 to
+Crime Rate
+Cost:
+1500
+Type:
+World Wonder
+This wonder is proactive.  If you are the most advance civilization and no one has anything you don't you will not instantly receive any techs.  Whenever 3 other civilizations achieve a tech you have not researched you will be bestowed it.
+
+======================================================================
+PAGE: The Great Library
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Great_Library
+======================================================================
+
+Overall
+The Great Library
+Requires:
+Writing
+Library
+in city
+At least 3 libraries in Empire
+Info:
++8
++2
+Great Sage
++1
+from every
+Sage
+and
+Great Sage
+1 free Sage
+Cost:
+350
+Special:
+Double production speed with
+Marble
+Type:
+World Wonder
+The Great Library was one of the two most important libraries of the ancient world. The library attempted to obtain copies of all scrolls of any consequence, and eventually contained over 700,000 volumes
+Diplomacy
+If a player owns
+The Great Library
+, they will enjoy a +4 diplomatic bonus with the Sidar.
+
+======================================================================
+PAGE: The Great Lighthouse
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Great_Lighthouse
+======================================================================
+
+The Great Lighthouse
+Requires:
+Sailing
+Lighthouse
+Coastal City
+Info:
++6
++2
+Great Merchant
++2
+Trade Routes
+for every Coastal City for Team
+Cost:
+600
+Type:
+World Wonder
+Diplomacy
+If a player owns The Great Lighthouse, they will enjoy a +4 diplomatic bonus with the
+Lanun
+leaders.
+
+======================================================================
+PAGE: The Nexus
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/The_Nexus
+======================================================================
+
+The Nexus
+Requires:
+Pass Through the Ether
+Info:
++1
+Great Sage
+Free
+Obsidian Gate
+in every city
+Cost:
+600
+Type:
+World Wonder
+The astro-philosophers of Krull once succeeded in proving conclusively that all places are one place and that the distance between them is an illusion, and this news was an embarassment to all thinking philosophers because it did not explain, among other things, signposts. After years of wrangling the whole thing was then turned over to Ly Tin Wheedle, arguably the Disc’s greatest philosopher, who after some thought proclaimed that although it was indeed true that all places were one place, that place was very large.
+—Terry Pratchett, “Sourcery”
+
+======================================================================
+PAGE: Theatre of Dreams
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Theatre_of_Dreams
+======================================================================
+
+Diplomacy
+Theatre of Dreams
+Requires:
+Drama
+Theatre
+in city
+3 Theatres total in Empire
+Info:
++1
++1
+in Empire
++2
+Great Bard
++8
++2
+from every
+Bard
+and
+Great Bard
+Allows 2 Bards
+Cost:
+500
+Type:
+World Wonder
+If a player owns
+Theatre of Dreams
+, they will enjoy a +4 diplomatic bonus with
+Perpentach
+/
+Balseraphs
+.
+
+======================================================================
+PAGE: Tower of Alteration
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Alteration
+======================================================================
+
+Tower of Alteration
+Requires:
+Alteration
+Body Mana
+Enchantment Mana
+Life Mana
+Nature Mana
+Info:
+Reduces the chance of enemies resisting your spells by 10%
+Cost:
+800
+Type:
+National Wonder
+Special:
+Needed to build
+Tower of Mastery
+In many cases, the Tower of Alteration will require knowing both
+Alteration
+and
+Divination
+, since Life Nodes require Diviniation to be built.
+
+======================================================================
+PAGE: Tower of Complacency
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Complacency
+======================================================================
+
+Tower of Complacency
+Requires:
+Mind Stapling
+Octopus Overlords
+as State
+Religion
+Info:
++1
+Great Commander
+No
+in city
+-50% Maintenance in city
+-10% Military Production in city
+Cost:
+750
+Type:
+World Wonder
+
+======================================================================
+PAGE: Tower of Divination
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Divination
+======================================================================
+
+Tower of Divination
+Requires:
+Divination
+Law Mana
+Mind Mana
+Spirit Mana
+Sun Mana
+Info:
+Grants 1 Free
+Technology
+Cost:
+800
+Type:
+National Wonder
+Special:
+Needed to build
+Tower of Mastery
+
+======================================================================
+PAGE: Tower of Eyes
+CATEGORIES: World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Eyes
+======================================================================
+
+Background
+Tower of Eyes
+Requires:
+Optics
+Info:
++2
+Great Commander
+Free
+Dungeon
+in every city
+Cost:
+600
+Type:
+World Wonder
+Kyorlin could not bring himself to destroy his most favored student
+Perpentach
+, student of
+Mind Magic
+, so instead he locked him in the Tower of Eyes. There were no settlements for miles. Perpentach was guarded by mindless
+Golems
+until he took over the minds of a traveling carnival troupe who eventually gathered a group to free him.
+Diplomacy
+If a player owns the Tower of Eyes, they will enjoy a +4 diplomatic bonus with
+Amelanchier
+/
+Ljosalfar
+
+======================================================================
+PAGE: Tower of Mastery
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Mastery
+======================================================================
+
+Tower of Mastery
+Requires:
+Strength of Will
+Tower of Alteration
+Tower of Divination
+Tower of the Elements
+Tower of Necromancy
+Info:
+Victory
+, if Tower of Master victory condition is enabled
+Cost:
+4,000
+Type:
+National Wonder
+Special:
+All
+Civilizations
+not at war with another civilization, will declare war on any civ attempting to build the Tower of Mastery
+
+======================================================================
+PAGE: Tower of Necromancy
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_Necromancy
+======================================================================
+
+Tower of Necromancy
+Requires:
+Necromancy
+Chaos Mana
+Death Mana
+Entropy Mana
+Shadow Mana
+Info:
+Grants 1 Free
+Death Mana
+All
+Undead
+units receive the
+Strong
+promotion
+Allows owner to summon 5 additional
+Skeletons
+Cost:
+800
+Type:
+National Wonder
+Special:
+Needed to build
+Tower of Mastery
+
+======================================================================
+PAGE: Tower of the Elements
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Tower_of_the_Elements
+======================================================================
+
+Tower of the Elements
+Requires:
+Elementalism
+Air Mana
+Earth Mana
+Fire Mana
+Water Mana
+Info:
+All
+Elemental
+units receive the
+Strong
+promotion
+Cost:
+800
+Type:
+National Wonder
+Special:
+Needed to build
+Tower of Mastery
+
+======================================================================
+PAGE: Winter Palace
+CATEGORIES: National Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Winter_Palace
+======================================================================
+
+Winter Palace
+Requires:
+Code of Laws
+12 Cities in Empire
+Info:
++10
+Reduces Maintenance Costs in Nearby Cities for Team
+Cost:
+800
+Type:
+National Wonder
+Special:
+Double production speed with
+Marble
+
+======================================================================
+PAGE: Wonders & Rituals
+CATEGORIES: National Wonders, World Wonders
+URL: https://fallfromheaven.fandom.com/wiki/Wonders_&_Rituals
+======================================================================
+
+Wonders come in National and World form. A World Wonder can be built only once during the game. A National Wonder can be built once per civilization.
+World Wonders
+Aquae Sucellus
+Bone Palace
+Caminus Aureus
+Catacomb Libralus
+Celestial Compass
+City of a Thousand Slums
+Crown of Akharien
+Form of the Titan
+Grand Menagerie
+Guild of Hammers
+Hall of Kings
+Infernal Grimoire
+Mercurian Gate
+Mines of Gal-Dur
+Mokka's Cauldron
+Pillar of Chains
+Prophecy of Ragnarok
+Ride of the Nine Kings
+Shrine of Sirona
+Soul Forge
+Syliven's Perfect Lyre
+Temple of Temporance
+The Dragon's Hoard
+The Eyes and Ears Network
+The Great Library
+The Great Lighthouse
+The Nexus
+Theatre of Dreams
+Tower of Complacency
+Tower of Eyes
+Religious Shrines
+Code of Junil
+Dies Diei
+Nox Noctis
+Song of Autumn
+Stigmata on the Unborn
+Tablets of Bambur
+The Necronomicon
+National Wonders
+Bazaar of Mammon
+Deruptus Brewing House
+Forbidden Palace
+Heroic Epic
+National Epic
+Shrine of the Champion
+Tower of Alteration
+Tower of Divination
+Tower of Mastery
+Tower of Necromancy
+Tower of the Elements
+Winter Palace
+Altar of Luonnotar
+Altar of Luonnotar
+Altar of Luonnotar (Anointed)
+Altar of Luonnotar (Blessed)
+Altar of Luonnotar (Consecrated)
+Altar of Luonnotar (Divine)
+Altar of Luonnotar (Exalted)
+Altar of Luonnotar (Final)
+Palaces
+Amurite Palace
+Balseraph Palace
+Bannor Palace
+Calabim Palace
+Clan of Embers Palace
+Doviello Palace
+Elohim Palace
+Grigori Palace
+Hippus Palace
+Illian Palace
+Infernal Palace
+Khazad Palace
+Kuriotate Palace
+Lanun Palace
+Ljosalfar Palace
+Luchuirp Palace
+Malakim Palace
+Mercurian Palace
+Sheaim Palace
+Sidar Palace
+Svartalfar Palace
+Rituals
+Elegy of the Sheaim
+Hallowing of the Elohim
+Bane Divine
+Birthright Regained
+Blood of the Phoenix
+Genesis
+Glory Everlasting
+Nature's Revolt
+Pact of Nilhorn
+Purge the Unfaithful
+Rites of Oghma
+Illian Rituals of Winter
+Exclusive to the Illian civilization are the Rituals of Winter, that aim to a bring about a new Age of Ice under the dominion of the new god of winter, Auric.
+Samhain
+: Spawns
+Mokka
+and dozens of
+Frostlings
+across the map - under the control of the Barbarians.
+The White Hand
+:  Spawns three Priests of Winter for the Illians.
+The Deepening
+: Cools the entire world down, causing random tiles to turn into Tundra and Ice tiles. Blizzards may now also spawn outside of Illian territory.
+The Draw
+: This ritual causes you to declare war on all other civilizations, you are also unable to conduct diplomacy with nations you are at war with in a similar manner to the
+Crusade
+civic. Furthermore, all Illian cities lose half of their population and all Illian units are damaged for a random amount. The only benefit of this ritual is that it allows you to start the Ascension ritual.
+Ascension
+:
+Auric Ulvin
+will ascend to
+godhood
+and lead the Illian army, but the strongest enemy civiliaztion will receive the
+Godslayer
+.
+Stir from Slumber
+:  Spawns
+Drifa the White Dragon
+under the control of the Illians. Differing from the main sequence of rituals, its only prerequisite is the Illians having slain a civilization.
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits

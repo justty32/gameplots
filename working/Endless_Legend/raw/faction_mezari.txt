@@ -1,0 +1,197 @@
+
+======================================================================
+PAGE: Dawn Officer (Mezari)
+CATEGORIES: Cavalry Units, Mezari, Units
+URL: https://endlesslegend.fandom.com/wiki/Dawn_Officer_(Mezari)
+======================================================================
+
+Dawn Officer (Mezari)
+Faction
+Mezari
+Unit Type
+Cavalry
+Base Attributes:
+Life
+116
+Attack
+18
+Initiative
+32
+Speed
+6
+Defense
+34
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Dawn Officer is a cavalry unit for the
+Mezari
+. The Dawn Officer can be researched in the first
+Technology Era
+.
+This unit is a re-skin of the
+Vaulters
+Dawn Officer
+, and is identical in every way except appearance.
+Lore
+Training, magic, and partially powered armor allows the Dawn Officer to leap into battle and strike from afar.
+Capacities
+Icon
+Name
+Effect
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Fast 2
++2 battle movement
+.
+Equipment Slots
+Weapons
+Axe
+Battle Axe
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Marine (Mezari)
+CATEGORIES: Mezari, Ranged Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Marine_(Mezari)
+======================================================================
+
+Marine (Mezari)
+Faction
+Mezari
+Unit Type
+Ranged
+Base Attributes:
+Life
+68
+Attack
+38
+Initiative
+20
+Speed
+4
+Defense
+18
+Damage
+34
+Range
+3
+Sight
+3
+Cost:
+Production
+80
+The Marine is a ranged unit for the
+Mezari
+. Two Marines constitute the starting force for the Mezari. They do not need to be researched and can be trained immediately after settling a city.
+This unit is a re-skin of the
+Vaulters
+Marine
+, and is identical in every way except appearance.
+Lore
+Trained through years of warfare in the freezing depths of Auriga, Marines do not fear the cold, the dark, or the enemy.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Equipment Slots
+Weapons
+Longbow
+Crossbow
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Titan (Mezari)
+CATEGORIES: Infantry Units, Mezari, Units
+URL: https://endlesslegend.fandom.com/wiki/Titan_(Mezari)
+======================================================================
+
+Titan (Mezari)
+Faction
+Mezari
+Unit Type
+Infantry
+Base Attributes:
+Life
+156
+Attack
+24
+Initiative
+14
+Speed
+4
+Defense
+50
+Damage
+30
+Range
+1
+Sight
+3
+Cost:
+Production
+140
+The Titan is an infantry unit for the
+Mezari
+. The Titan can be researched in the second
+Technology Era
+.
+This unit is a re-skin of the
+Vaulters
+Titan
+, and is identical in every way except appearance.
+Lore
+A giant construct of relics, machines, and magic, the Titan is a formidable melee warrior on offense or defense.
+Capacities
+Icon
+Name
+Effect
+Defensive Impulse
+Deals 50% damage to adjacent units when attacked.
+Slow 1
+-1 battle Movement
+Technolover
++35% to the bonus provided by equipment made with the same resource as the holy resource (except for effects provided by capacities).
+Equipment Slots
+Weapons
+Sword
+Claws
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot

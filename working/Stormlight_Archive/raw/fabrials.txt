@@ -1,0 +1,831 @@
+
+======================================================================
+PAGE: Benval Diamond
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/Benval_Diamond
+======================================================================
+
+The
+Benval Diamond
+is a
+gemstone
+within the
+Sphere Vault
+of the
+Gemstone Reserve
+in
+Thaylen City
+that
+Vstim
+has indicated he used to own. He'd even memorized it's categorized number (i.e., 0013017-36). When presented it him by
+Rysn
+, he indicated that it was smaller than he thought it would be.
+Complete
+:This page has sparse information from the books. However, it does contain everything we have on the subject at this time.
+References
+
+======================================================================
+PAGE: Dark Sphere
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/Dark_Sphere
+======================================================================
+
+A strange
+dark sphere
+was given to
+Szeth
+by
+Gavilar
+upon his death, who said "Take this. They must not get it."
+Szeth later hid the
+sphere
+in
+Jah Keved
+.
+Appearance
+The sphere given to
+Eshonai
+is described as having a dark yet faintly violet glow that she seemed to believe is
+Voidlight
+.
+The sphere given to Szeth is described as small, crystalline, and completely dark. It glows with a black light
+as if it has an aura of blackness, a phantom light that is not light.
+*
+Faintly violet. It seems to suck in the light around it.
+The sphere (i.e., the
+Honor's Drop
+ruby
+) with which
+Dalinar
+traps the
+Unmade
+Nergaoul
+glows with a dark, bizarre light.
+*
+According to
+Brandon
+, the dark light of the sphere is something different and distinct, and is related to a
+Shard
+. Additionally, he identified it as Voidlight.
+History
+Gavilar had possessed several unusual black spheres, having had access to an unknown number of them.
+Gavilar gave a sphere to Eshonai on the day of his assassination and told her to give it to the
+Council of Five
+after a conversation about
+parshmen
+and
+Parshendi
+.
+Later that same day, Gavilar gave Szeth a similar sphere at the end of their fatal duel. Gavilar told Szeth that he must take that sphere so that "they" do not get hold of it.
+(It remains unclear as to just who "they" are.)
+Szeth then hid the sphere in Jah Keved.
+Later still, Szeth gave the sphere to
+Navani
+. She assigned her scientists to do experiments with it, but it exploded, killing them.
+Navani suspects that the sphere contained
+Anti-Voidlight
+, and Gavilar planned to use it to kill
+Odium
+.
+Brandon has since confirmed that both of these spheres contained the same thing.
+Relevance
+It is said that this sphere is used to trap
+spren
+.
+Present Day
+Dalinar traps the Unmade Nergaoul in the King's Drop ruby at the
+Battle of Thaylen Field
+.
+Navani says it reminds her of a sphere that Gavilar had. (She does not appear to be aware that there was more than one sphere.) Further, she believes that Gavilar "made" the sphere she saw.
+Notes
+Took
+claimed to have stolen a similarly described sphere from the
+Nightwatcher
+.
+Before giving Eshonai a sphere, Gavilar tells her that
+slaveform
+came about after an "ancient, crucial spren" was captured.
+In
+Urithiru
+'s
+library drawers
+, there exists reference to the
+Bondsmith
+Melishi
+planning to capture an Unmade,
+to deny the use of Voidlight and
+Forms of Power
+.
+A "strike team" (presumably of
+Knights Radiant
+in support of Melishi) was subsequently sent to imprison
+Ba-Ado-Mishram
+, whom the Radiants believed to be the source of Voidlight.
+Brandon hasn't explicitly confirmed what the black spheres contain. He has said that the sphere's light is different from
+Stormlight
+, related to
+Odium
+, and that "it is what the third book (i.e.,
+Oathbringer
+) implies it is."
+*
+According to a reader, this is actually
+anti-Voidlight
+.
+Speculation
+Its
+Investiture
+is of Odium, like Stormlight is of
+Honor
+, by which
+Voidbinding
+is fueled. The light of the sphere can be referred to as Voidlight.
+Could this be
+the
+spren of which Gavilar spoke (i.e., " ... an ancient,
+crucial
+spren ... ") which inhabits the sphere of which Eshonai and members of the Council of Five are so afraid, which ultimately is the impetus for Gavilar's assassination?
+Based on the fate of Nergaoul in Oathbringer, Ba-Ado-Mishram could also be trapped in a sphere.
+With Eshonai's death, just what has happened to the sphere that was in her possession? Does
+Venli
+have it, along with
+Timbre
+too?
+References
+
+======================================================================
+PAGE: Fabrial
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Fabrial
+======================================================================
+
+A
+fabrial
+is an artifact which harnesses the power of
+Stormlight
+in order to perform a given function.
+Contemporary
+artifabrian
+engineers made breakthroughs in fabrial technology. There are five known types of contemporary fabrials in three different categories. However, no amount of fabrial science has even approached re-creating relics from the time of the
+Radiants
+, such as
+Shardplate
+.
+Operating Principle
+Examples of Stormlight Patterns
+Drawing by
+Isaac Stewart
+The type of
+gemstone
+and the size greatly influence the efficiency of the fabrial; the larger the stone, the more Stormlight it can gather and maintain its effect.
+According to
+Navani
+, a renowned artifabrian, within her
+notebook
+, patterns of Stormlight filtered through the fabrial determine the power of the gemstone. The cut and type of the gem determines what kind of
+spren
+are attracted to it and can be imprisoned in it.
+The way that they're bound in each gemstone (i.e., gem type and color) has an effect on how it works.
+Different metals have different effects on the spren trapped within the fabrial. Further, Navani indicates that there must be thousands of possible combinations. Once a spren is captured and the gem infused with Stormlight, the fabrial can be used in machines.
+“
+With a captured spren, you may begin designing a proper fabrial. It is a closely guarded secret of artifabrians that spren, when trapped, respond to different types of metals in different ways. A wire housing for the fabrial, called a "cage," is essential to controlling the device.
+”
+–Lecture on fabrial mechanics presented by Navani Kholin to the coalition of monarchs,
+Urithiru
+, Jesevan, 1175
+Types of Fabrials
+There are five groupings of fabrials (outside of
+Soulcasting
+fabrials) discovered so far:
+Warning Fabrials
+These are devices created to warn the user of something nearby, be that a person or a sensation or an object; a larger gemstone infused in this type of fabrial increases the range at which the user can be warned. The device used by
+Rysn
+to warn of the approaching
+Shin
+is an example of how this type of fabrial can be used.
+[citation needed]
+Pairing Fabrials
+Conjoiners are sensitive fabrials.
+They are created by splitting one gemstone - specifically, a ruby - which will in turn act as a whole, with the actions of one half affecting the other half. The most common example of this type of fabrial is the
+spanreed
+by which means communication can be affected over a vast distance. Conservation of force is maintained, for instance, if one attaches a fabrial to a large stone; one would need the same amount of force to lift the fabrial as one would need to lift the stone.
+Reversers act in the opposite way to conjoiners and are created by the splitting of an amethyst instead of a ruby. The reaction of each half is the exact opposite of what one half undergoes; to lift up one half would cause the other half to be forced downwards. An example of this was seen in the early development of Rysn's wheelchair.
+[citation needed]
+Altering Fabrials
+Augmenters are fabrials which enhance something. They can be used to increase heat or movement, to warm a room
+or generate a breeze. The
+Half-Shard
+shields invented in
+Jah Keved
+are an example of an augmenting fabrial.
+Diminishers are fabrials which work opposite of Augmenters. They are used to reduce something, such as pain or heat. The device used by Navani to reduce the pain in the wrist of her nephew,
+Adolin
+, is an example of this type of fabrial.
+(See
+Painrial
+.)
+Attracting Fabrials
+These devices were demonstrated in
+Words of Radiance
+. Navani used water-attracting fabrials powered by garnets to keep bowstrings dry during the battle against the
+Stormform
+Parshendi
+.
+Mraize
+also owns one of these, powered by a smokestone, to draw smoke through his chimney.
+Given the way most fabrials seem to be paired by their effects, repulsing fabrials are likely possible as well.
+*
+Clock Fabrials
+There are also clock fabrials.
+Lirin
+'s clock fabrial was described as small, baring a single dial at the center and a glowing smokestone at its heart. It could measure the minutes and hours.
+Navani's arm clock is like
+Dalinar
+'s own, though with a few more gemstones attached. It's a new fabrial with which she's tinkering.
+Heat-generating Fabrials
+Powered by large rubies, set atop poles, with worked golden tines holding them in place, these fabrials give off heat though there is no fire involved.
+Cold-generating Fabrials
+Ico
+is in possession of a device that looks a little like a coatrack - although only about three feet tall. Made entirely of steel, it has dozens of small metal prongs extending from it, like the branches of a tree - only it has a metal basin at the very bottom. He places a glass bead into a hole in the center of the device, indicating that this is Stormlight.
+With a diamond
+mark
+in one hand, Ico touches the glass bead he'd put in the fabrial. He says this is a soul, a soul of water, but very cold.
+He says it's ice from a high place that's never melted. Ice that's never known warmth. The light in the sphere dims as Ico concentrates.
+The glass bead expands and grows cloudy, looking like ice.
+The device now gets cold, and that cold makes water. That water collects in the device's basin.
+Eventually, drops of water collect on the branches of the device. They run down the metal and gather in the basin. It takes about a half hour to make a small cup of water, which is consumable - the basin has a spigot and cup. The water is cool but flavorless, unlike rainwater.
+Notes
+According to
+Brandon
+, fabrials can do a lot more than they've been used for so far.
+*
+There are also fabrials that can repel substances.
+There is an article on tor.com concerning everything readers currently know about fabrials
+here
+.
+According to Navani's notebook, different  metals have different effects on the spren trapped within fabrials. These metals have almost identical effects when used in
+Allomancy
+, the magic system of the
+Mistborn
+series.
+All of the old manifested spren fabrials, like the attractors and conjoiners found in Urithiru, had weird metals like Soulcasters and just their identifiable functions kept them from being confusing.
+There are more than
+ten
+metals that can be used in fabrials.
+All of the 16 metals in Allomancy have not been tried in relation to fabrials. However, certain people in the
+cosmere
+are very aware of this now, and are very quickly experimenting with the metals Navani is not able to get a hold of easily.
+Q&A with Brandon
+Q. You have told us there are more than 30 magical
+systems
+on Roshar. I am assuming there are 10
+Surgebindings
+and 10
+Voidbindings
+. Do the next 10 belong to another such classification? If yes, can you give us the name for it?
+A. Fabrials are part of it.
+Q. Could someone use a
+seon
+or
+skaze
+to build a fabrial and what would that do?
+A. It depends on how you define fabrial. If you define fabrial as trapping a sapient
+Splinter
+in a gemstone - I guess they don't all have to be sapient - they can all -
+flamespren
+and stuff like that - so if you define it as capturing a spren in a gemstone, could you capture a seon in a gemstone, and I would say, yes. The fabrial - what it will do is going to depend on a whole lot of factors - how you build fabrials even sometimes have to do with ... . Some of the fabrials don't care as much what the Splinter piece is. Obviously a heating fabrial or something like that does. Other ones, it's not as related.
+So I would say what the power of the Aon in the seon is, would influence what kind of fabrial you could make from it.
+Q. What was the fabrial used by
+Nale
+to completely revive
+Szeth
+at the end of Words of Radiance? That seems like an immensely powerful fabrial, and I don’t think it has been mentioned since.
+A. During the last days of the heights of the
+Knights Radiant
+, they were figuring out how to replicate most Radiant abilities with fabrials. This is where ... the
+Oathgates
+as a guide for that sort of thing. So you're just seeing a fabrial that can replicate what an
+Edgedancer
+does, or a
+Truthwatcher
+. There were fabrials created that could do this for all ten Surges. Okay, nine of the ten Surges.
+Bondsmithing
+is its own weird thing, as usual. So yes, it's a very valuable fabrial to have, and that is why you haven't seen much more of it because it is in the hands of the Skybreakers, and we aren't spending a lot of time with the Skybreakers. But yeah, it is a thing they have. And there are fabrials that can replicate the other eight as well. You've seen several of them in the books already.
+References
+
+======================================================================
+PAGE: Grandbow
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Grandbow
+======================================================================
+
+A
+Grandbow
+is a large steel bow with thick strings and such a high draw-weight that only a
+Shardbearer
+can use one,
+to fire shafts as thick as three fingers.
+Grandbows are recent creations, devised by
+Alethi
+engineers through the use of
+fabrial
+science, and each requires a small infused
+gemstone
+to maintain the strength of its pull without warping the metal.
+Artifabrian
+,
+Navani
+, led the research to develop the bows.
+Some call them Shardbows, but
+Adolin
+doesn't like the term. Unlike
+Shardblades
+and
+Shardplate
+- which are something special (i.e., relics from another time when the
+Knights Radiant
+had walked
+Roshar
+), fabrial science hasn't yet approached recreating them.
+Appearance
+They are sleek and look dangerous.
+Present Day
+After he'd ingested a gem that held the
+Unmade
+,
+Yelig-nar
+,
+Amaram
+was killed by
+Rock
+, who used a Shardbow to do so,
+*
+impaling Amaram twice; once in the mouth and a second time in his '
+gemheart
+'.
+Notes
+*
+... because Rock is ... just who he is.
+References
+
+======================================================================
+PAGE: Half-Shard
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Half-Shard
+======================================================================
+
+A
+Half-Shard
+is a type of
+Augmenter
+fabrial
+, a shield rightfully claimed by their creators to be capable of blocking the blow of a
+Shardblade
+.
+The
+Vedens
+perfected them. Recently invented fabrials from
+Jah Keved
+, they represent an attempt to recreate the powers of
+Shardplate
+using fabrial science. However, they use a completely different design principle from regular Shardplate:
+they can only take the shape of a shield and don't lend any of Shardplate's other enhancements.
+The Half-Shard shields have distinctive, diamond-like shapes. They are made of metal imbedded with a
+gemstone
+hidden at the back,
+which can be infused with
+Stormlight
+, thereby enhancing its durability.
+In
+Oathbringer
+,
+Taravangian
+implies that they are made by trapping
+Radiant
+spren
+.
+[citation needed]
+References
+
+======================================================================
+PAGE: Honor's Drop
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/Honor's_Drop
+======================================================================
+
+Honor's Drop
+is a
+ruby
+that is known as a perfect gem. Its keepers of old in
+Urithiru
+were the order of
+Knights Radiant
+known as
+Elsecallers
+.
+“
+As the duly appointed keepers of the perfect gems, we of the Elsecallers have taken the burden of protecting the ruby nicknamed Honor’s Drop. Let it be recorded.
+”
+–From
+drawer
+20-10, zircon
+It is also the
+sphere
+with which
+Dalinar
+traps the
+Unmade
+Nergaoul
+(who causes the
+Thrill
+), and it glows with a dark, bizarre light.
+*
+Speculation
+*
+This might possibly be
+Voidlight
+.
+References
+
+======================================================================
+PAGE: King's Drop
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/King's_Drop
+======================================================================
+
+The
+King's Drop
+is a
+gemstone
+of great size, which is not unheard of as most
+greatshells
+have
+gemhearts
+just as big. Still, what makes it unique is that it still glows ... over
+two hundred years
+after being first locked into the
+Sphere Vault
+in
+Thaylen City
+.
+The light from the stone shines with such brilliance that the vault itself seems almost to be in daylight, though shaded bloodred by the stone's color.
+“
+"As far as scholars can tell, the King's Drop never loses its Stormlight. A stone this large
+should
+have run out after a month. It's something about the crystal lattice, the lack of flaws and imperfections."
+"They say it's a chunk off the Stone of Ten Dawns."''
+”
+–
+Rysn
+to
+Vstim
+, Vstim to Rysn
+*
+The gem is attempted to be stolen from the vault by an
+individual
+posing as a member of Queen
+Fen
+'s guard. The traitor carries the large red light in his hand, still shining brightly despite the black cloth wrapping it, yet he is thwarted by Rysn.
+When
+Dalinar
+opens
+Honor
+'s
+perpendicularity
+,
+the King's Drop is not infused with
+Stormlight
+, likely because it wasn't close enough to said perpendicularity when opened.
+Notes
+*
+Vstim believes that the
+Stone of Ten Dawns
+is the resource for the King's Drop.
+References
+
+======================================================================
+PAGE: Oathgate
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Oathgate
+======================================================================
+
+Locations of the Ten Oathgates
+Drawing by
+Isaac Stewart
+An
+Oathgate
+is an immense, ancient
+fabrial
+capable of transporting anyone to
+Urithiru
+. There are
+ten
+Oathgates on
+Roshar
+.
+The exact nature of Oathgates remains unknown, and they are widely thought to be a myth by the people of Roshar.
+[citation needed]
+History
+In the distant past, Oathgates were located throughout Roshar and were the means by which the
+Knights Radiant
+traveled from various locales to Urithiru, where the orders of the Radiants were centered.
+With their betrayal of humankind on the
+Day of Recreance
+,
+over time, the Oathgates ceased to function. Whether from lack of use or lack of necessity isn't known, though
+Shallan
+thinks that they may have been sealed.
+*
+[citation needed]
+Present Day
+Words of Radiance
+The only known functioning Oathgate on Roshar is capable of transporting massive numbers of people from
+Stormseat
+(the former capital of
+Natanatan
+), called
+Narak
+by the
+Parshendi
+, at the center of the
+Shattered Plains
+, to Urithiru,
+which is located within the mountains south of the
+Purelake
+in the center of the continent.
+Just why this Oathgate is still operational or hasn't been sealed isn't known, but such was suspected by
+Jasnah
+, who researched its history and imparted her suppositions to her ward, Shallan. Shallan then followed up on her mentor's research, reclaimed her past and, in so doing, realized that by summoning her living Shardblade and ramming it into the slot of the Oathgate's operating mechanism, she was able to discern the procedure for making the Oathgate 'work'.
+Prior to this novel's end, many teleportations of former residents within the various
+warcamps
+of the
+highprinces
+have taken place and most
+Alethi
+, formerly in the Shattered Plains, are now ensconced in Urithiru (though they don't really know this or the legendary city's history). What they know is that they're safe from the Parshendi ... but the
+Everstorm
+looms.
+[citation needed]
+Oathbringer
+Dalinar
+believes that the Oathgates are the key to fighting the people's mutual enemy on Roshar. In protecting the cities with Oathgates, he believes that the people can be more mobile than the
+Voidbringers
+, despite that they are everywhere.
+When
+Navani
+writes something via
+spanreed
+to
+Thaylen City
+from the control building of the Oathgate to that city within Urithiru, the building itself flashes a moment later - a ring of Stormlight running around it, like the afterimage of a firebrand being waved in the dark.
+She observes that, with the help of a Radiant on either end, paired Oathgates across Roshar will be able to be unlocked and utilized.
+Kholinar
+Yokska
+confirmed that each night, some members of the
+Cult of Moments
+set a blazing fire on top of the Oathgate platform, and that they guarded the place all hours of the day.
+When
+Veil
+approached it, two guards were dressed as
+flamespren
+, with golden and red tassels. Their muscular builds, and the two spears set near the steps, hinted those men might have been soldiers before joining the cult.
+Kaladin had carried most of the
+gemstones
+brought from Urithiru, a wealth from the
+emerald reserve
+, to use in the mission and in opening the Oathgate there.
+Shadesmar
+Kaladin tells his companions that the Oathgate in Thaylen City is open and working. That he and Shallan saw to that. And that since the Oathgate in Kholinar brought them to
+Shadesmar
+, theoretically another - one that isn't corrupted by the
+Unmade
+- could get them back.
+Physical Appearance
+The Oathgate at Narak is a perfectly circular plateau amongst the jagged and broken plateaus about which it is surrounded, which were created by some sort of disaster. It is obvious to both Shallan and
+Renarin
+that this plateau already existed before the disaster and that when it occurred, the plateau remained.
+“
+"On the old maps it was a raised section, like a giant pedestal. When the Plains were broken, it remained this way."
+”
+–Shallan to Renarin
+The control building at the center of the platform of the Oathgate at Urithiru to Thaylen City is described as being shaped like the others - mosaics on the floor, keyhole mechanism in the curved wall. The patterns on the floor, however, are
+glyphs
+in the
+Dawnchant
+. This building is identical to the one in Thaylen City - and, when engaged, will swap places with that one.
+The glyphs on the floor indicate that that it might be possible to transport directly from one city to another without coming to Urithiru first.
+The control mechanism to this Oathgate is a keyhole, which is in the center of a ten-pointed star on a metal plate. Navani confirms that it is the same as the one to the Shattered Plains.
+In Thaylen City, the platform that surrounds the Oathgate there has been turned into a sculpture garden ... but most of the sculptures lay toppled and broken. Still, it is high up in the city and gives an excellent view.
+Locations
+There is one located in the capital of each of the
+Silver Kingdoms
+. There is one in Azimir, the capital of
+Azir
+. One hidden in the capital of
+Shinovar
+. Another in the capital of
+Babatharnam
+, and a fourth in
+Rall Elorim
+in
+Iri
+. Yet another in
+Rira
+, which
+Jasnah
+thought was in the city of Kurth. A sixth was lost in
+Aimia
+when its island was destroyed.
+Vedenar
+in
+Jah Keved
+makes seven. Thaylen City in
+Thaylenah
+is eight. Then Narak in the Shattered Plains. And the last one is in Kholinar in
+Alethkar
+.
+Ten platforms in Urithiru, ten platforms across the world.
+In order to illuminate these locations, Shallan places her freehand against a map upon a wall. As
+Stormlight
+pours off her, the map becomes vibrant in a swirling tempest of Light. The Stormlight streams off the map upon the wall and passes between her and Dalinar. The Light swirls in the chamber and becomes another, larger map - floating at about table height - in the center of the room. Mountains grow up like furrows in a piece of cloth pressed together. Vast plains shine green from vines and fields of grass. Barren stormward hillsides grow splendid shadows of life on the leeward sides. The topography of the landscape becomes real.
+Having seen via Shallan's map, Dalinar determines that since there are ten cities, ten kingdoms, and ten Oathgates connecting them from long ago, that this is how they'll fight the enemy. That this is how they'll begin. That they'll start with the simple step of protecting the cities with Oathgates.
+Shadesmar
+Oathgate
+Artwork by Artem Demura
+[1]
+Two enormous spren stand above the Oathgate here as sentinels, standing tall as buildings, reminiscent of statues in armor. One is mother-of-pearl, the other black with a variegated oily shimmer.
+If these spren have been corrupted, the white one becomes red.
+“
+"We are the gatekeepers,"
+the two enormous spren said to Shallan, speaking with voices that overlapped, as if one. Though their mouths did not move, the voices reverberated through Shallan.
+"Lightweaver, you have no permission to use this portal."
+"But I need to get through,"
+Shallan cried up to them.
+"I have Stormlight to pay!"
+"Your payment will be refused. We are locked by the word of the parent."
+"Your parent? Who?"
+"The parent is dead now."
+"So ... ."
+"We are locked. Travel to and from Shadesmar was prohibited during the parent's last days. We are bound to obey."
+”
+–Oathgatespren to Shallan
+Oathgatespren
+Fan art by botanicaxu
+[2]
+These spren claimed that they were bound by Honor, by rules which spren cannot break. Yet they state that their portal is closed. When asked why they let others through (i.e., the army that stood there earlier: the souls of the dead), these spren replied that those others did not need their portal. Further, that they were called by the
+enemy
+, pulled along ancient paths to waiting hosts. Further still, they stated that the living cannot do the same; that one must seek the
+perpendicularity
+to transfer.
+These enormous spren then cocked their heads in concert and apologized, indicating that they had been alone a very long time. Still ...
+“
+"We would enjoy granting passage to men again. But we cannot do that which was forbidden."
+”
+–Oathgatespren to Shallan
+Operation
+The only way to use an Oathgate is to infuse the gemstones located within the center temple of the gate with Stormlight and use a
+Shardblade
+to direct where one wants to go. Shardblades bonded to dead
+spren
+, however, do not work.
+Though those from the
+warcamps
+bring recharged spheres, activating the Oathgate takes a great deal of Stormlight, depending on how many people are brought through. Lighting the lamps in the room at the center of the Oathgate is merely the minimum amount needed to start the device - bringing many people partially drains the infused gemstones they carry as well.
+Further, each use of the device uses an incredible amount of Stormlight, so teleportations need to be spaced accordingly to accommodate the number of infused gemstones available.
+Only an active, full Knight Radiant can work the control buildings at the center of each Oathgate platform, initiating the teleportation.
+When
+Malata
+inserts her Blade into the keyhole of the gate in Urithiru, the metal of the plate therein shifts and flows, matching the shape of the Blade. As she pushes against the side of the Blade's hilt, the inner wall of the control building rotates. The floor underneath the mosaics glows, illuminating them like stained glass. She then stops her Blade at the proper position, and - a flash of light later - she and Dalinar arrive at the platform in Thaylen City.
+It isn't yet known just how it might be possible to transport directly from one city to another without coming to Urithiru first. For now, each gate can swap only with its twin, and they have to first be unlocked from both sides by a Radiant.
+Further, the greater the number of people to be teleported in a single attempt, the more Stormlight is required.
+“
+"Transferring only the control buildings, instead of the entire platform, should save us Stormlight."
+”
+–
+Kaladin
+to Navani
+Notes
+*
+It is known that nine of the ten Oathgates were sealed, though by what means or by whom remains unknown.
+[citation needed]
+References
+
+======================================================================
+PAGE: Painrial
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Painrial
+======================================================================
+
+The
+Painrial
+, a
+Diminisher
+fabrial
+, is used to decrease pain felt by someone.
+Artifabrian
+,
+Navani
+, aided in the design of the painrial. It had a set of clawlike legs which were wrapped around the painful area and locked in place. She believes it has lot of potential, for example on the battlefield to dull the pain of wounded soldiers, or allow surgeons to work on patients without worrying about their pain. She notes that although it could be very useful, it does not heal; it only diminishes the feeling of pain.
+Complete
+:This page has sparse information from the books. However, it does contain everything we have on the subject at this time.
+References
+
+======================================================================
+PAGE: Spanreed
+CATEGORIES: Fabrials
+URL: https://stormlightarchive.fandom.com/wiki/Spanreed
+======================================================================
+
+A
+spanreed
+is a type of pairing
+fabrial
+, used for communication over long distances, although it can't be used while traveling across the ocean,
+nor while moving whatsoever.
+Spanreeds look like ordinary writing reeds, except that each has a small infused
+ruby
+affixed to it. The other part of the same ruby is attached to its pair. This way, when someone writes with one of the reeds in the pair, the conjoined reed mimics its exact movements.
+Request for communication, acknowledgment, and indicating whose turn it is to write is done by turning the spanreed gemstone to correct setting. When a request for communication is made, it causes the conjoined Spanreed to pulse slowly.
+Spanreeds are one of the most common forms of pairing fabrials.
+Highprince
+Dalinar Kholin
+had five spanreeds in his study, one of them conjoined with
+Jasnah
+'s.
+Shallan Davar
+and her brother
+Nan Balat
+are also known to have a pair.
+Portent
+During a spanreed conversation,
+Tyn
+discovers that Shallan is, in fact, Jasnah Kholin's ward, while - at the same time - Shallan discovers that it was Tyn who sent assassins after Jasnah. Between them, a fight ensues and Shallan winds up killing Tyn with her
+Shardblade
+.
+Notes
+When asked whether he had any specific inspirations for spanreeds,
+Brandon
+replied with the following:
+“
+Writerly inspiration for spanreeds is me acknowledging that I wanted to have a society that acted more like a post-Industrial Revolution society (or very close to it) than a Medieval society. And there's lots of ways to do this. Fantasy worlds do not have to progress socially the same way that we progressed. A lot of people want to tie technology to social progression, which you don't have to do. You don't necessarily have to say people from the Industrial Revolution in our world acted this way; therefore people in this world ... . You just don't have to do that.
+But there are certain technological revolutions that happened that do form a technological basis for some of these things. For instance, trade was very essential to the expanding political entity that was a world economy. We needed people to at least be travelling consistently to Asia before that could happen. And I really think a lot of what makes people act the way we do, perhaps, in some of our societies is this kind of mass communication. And I didn't want to be there yet, but I wanted to give a way that news and ideas could travel around the world in a consistent way on Roshar, to make the continent feel like a single entity. Because otherwise, I would probably have to tell the story as not a worldwide story. You just can't travel, and ideas can't move fast enough. Even if you look back at Roman times ... Roman times took place in a fairly small geographical area, and even that, it was really hard for them to know what was happening. And you would have to spend months and months getting information that was then months and months out of date. And there's a lot of sitting around and waiting in those cultures for things to happen, even with having the Mediterranean to sail around and bring this information. I just wanted information to move fast, both culturally and narratively. And so I said, I've gotta find a way to do this. I did it with Seons in
+Elantris
+; I need find a way to do something similar to that on Roshar.
+Real-world inspiration, if there is one, is an auto-pen. Where authors can have a little machine sign books for them; it moves on its own. I've never used one, but politicians use them quite a bit. When you get that hand-signed letter when you've donated whatever to whatever political party. That hand-signed letter was probably machine-signed with a real pen, rather than hand-signed by the individual.
+”
+Trivia
+Aluminum
+can block spanreed communication.
+References
+
+======================================================================
+PAGE: Stone of Ten Dawns
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/Stone_of_Ten_Dawns
+======================================================================
+
+The
+Stone of Ten Dawns
+is believed by
+Vstim
+to be the resource for the
+King's Drop
+gem
+.
+Kaladin
+asks of
+Ico
+whether the Stone of ten Dawns is one of those considered to perfect gemstones, like those in
+Celebrant
+.
+Quotes
+“
+"As far as scholars can tell, the King's Drop never loses its Stormlight. A stone this large
+should
+have run out after a month. It's something about the crystal lattice, the lack of flaws and imperfections."
+"They say it's a chunk off the Stone of Ten Dawns."
+”
+–
+Rysn
+to Vstim
+References
+
+======================================================================
+PAGE: The First Gem
+CATEGORIES: Gemstones
+URL: https://stormlightarchive.fandom.com/wiki/The_First_Gem
+======================================================================
+
+The First Gem
+(i.e.,
+topaz
+), has magical properties.
+Expansion required
+: It was requested that this article should be expanded with additional information.
+Help us improve this article by
+expanding it
+, and remove this notice once the article is more complete.
+Notes
+Hoid
+once took his name from this gem.
+References

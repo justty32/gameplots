@@ -1,0 +1,6883 @@
+{
+  "fetched": 855,
+  "failed": [],
+  "pages": [
+    {
+      "title": "Achilios",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 3048
+    },
+    {
+      "title": "Anno Kehjistani",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 4666
+    },
+    {
+      "title": "Anvil of Annihilation",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 599
+    },
+    {
+      "title": "Aztuhl",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 381
+    },
+    {
+      "title": "Balance (Philosophy)",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 7063
+    },
+    {
+      "title": "Barbarians and Demons",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 439
+    },
+    {
+      "title": "Bartha",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 598
+    },
+    {
+      "title": "Bartuc and Horazon",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 237
+    },
+    {
+      "title": "Blood",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 3390
+    },
+    {
+      "title": "Burning Hells",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 9418
+    },
+    {
+      "title": "Captain Tiberius",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 794
+    },
+    {
+      "title": "Cedric",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 492
+    },
+    {
+      "title": "Chaos",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 230
+    },
+    {
+      "title": "Creation",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 2365
+    },
+    {
+      "title": "Crystal Arch",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 3372
+    },
+    {
+      "title": "Cyrus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 688
+    },
+    {
+      "title": "Darkness",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 7055
+    },
+    {
+      "title": "Death",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 13393
+    },
+    {
+      "title": "Defend the Keep",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 92
+    },
+    {
+      "title": "Dorius",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 286
+    },
+    {
+      "title": "Ethon",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 674
+    },
+    {
+      "title": "Fahin",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 840
+    },
+    {
+      "title": "Fire of Life",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 9173
+    },
+    {
+      "title": "Flaming Cider",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 77
+    },
+    {
+      "title": "Hakkara",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 171
+    },
+    {
+      "title": "Heart of the Cursed",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 1036
+    },
+    {
+      "title": "High Heavens",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 8343
+    },
+    {
+      "title": "High Priest",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 660
+    },
+    {
+      "title": "Jonas",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 1179
+    },
+    {
+      "title": "Justivio",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 324
+    },
+    {
+      "title": "Kethuus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 1079
+    },
+    {
+      "title": "Khral-Harzhek",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 440
+    },
+    {
+      "title": "Kiss of Mephisto",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 817
+    },
+    {
+      "title": "Lesser Evils",
+      "bucket": "lore",
+      "categories": [
+        "Lesser Evils",
+        "Lore"
+      ],
+      "chars": 6994
+    },
+    {
+      "title": "Light",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 5412
+    },
+    {
+      "title": "Magic",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 27968
+    },
+    {
+      "title": "Mahariti",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 415
+    },
+    {
+      "title": "Marcus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 273
+    },
+    {
+      "title": "Neztem Petroglyphs",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 584
+    },
+    {
+      "title": "Nicodemus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 236
+    },
+    {
+      "title": "Nurzani",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 699
+    },
+    {
+      "title": "Portal Device",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 528
+    },
+    {
+      "title": "Procurator General",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 573
+    },
+    {
+      "title": "Protheus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 967
+    },
+    {
+      "title": "Rashim",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 437
+    },
+    {
+      "title": "Religion",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 10711
+    },
+    {
+      "title": "Roaneth",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 555
+    },
+    {
+      "title": "Romus",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 805
+    },
+    {
+      "title": "Rondo",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 467
+    },
+    {
+      "title": "Sahptev",
+      "bucket": "lore",
+      "categories": [
+        "Religion"
+      ],
+      "chars": 3710
+    },
+    {
+      "title": "Seekers Point",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 217
+    },
+    {
+      "title": "Sherah",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 205
+    },
+    {
+      "title": "Skatsim",
+      "bucket": "lore",
+      "categories": [
+        "Religion"
+      ],
+      "chars": 2207
+    },
+    {
+      "title": "Skull & Anchor",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 44
+    },
+    {
+      "title": "Soul",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 7122
+    },
+    {
+      "title": "Swamp Oil",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 262
+    },
+    {
+      "title": "Tal Rasha's Tomb",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 4306
+    },
+    {
+      "title": "Teleport",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 1388
+    },
+    {
+      "title": "Terminus",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 927
+    },
+    {
+      "title": "Terul",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 785
+    },
+    {
+      "title": "The Chaos Engine",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 847
+    },
+    {
+      "title": "The Lay of Arkaine",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 221
+    },
+    {
+      "title": "The Sight",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 170
+    },
+    {
+      "title": "The Trickster of the Moss Barrows",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 163
+    },
+    {
+      "title": "Thiel",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 283
+    },
+    {
+      "title": "Three Selves",
+      "bucket": "lore",
+      "categories": [
+        "Religion"
+      ],
+      "chars": 1113
+    },
+    {
+      "title": "Timeline",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 56106
+    },
+    {
+      "title": "Timeon",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 542
+    },
+    {
+      "title": "Tomal",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 311
+    },
+    {
+      "title": "Tomo",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 308
+    },
+    {
+      "title": "Tremas",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 407
+    },
+    {
+      "title": "Vidrisi",
+      "bucket": "lore",
+      "categories": [
+        "Characters",
+        "Lore"
+      ],
+      "chars": 539
+    },
+    {
+      "title": "Wall of Honor",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 273
+    },
+    {
+      "title": "Worldstone",
+      "bucket": "lore",
+      "categories": [
+        "Lore"
+      ],
+      "chars": 17561
+    },
+    {
+      "title": "Zakarum",
+      "bucket": "lore",
+      "categories": [
+        "Religion"
+      ],
+      "chars": 19102
+    },
+    {
+      "title": "Abyss (Diablo Immortal)",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 870
+    },
+    {
+      "title": "Al'maiesh",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 895
+    },
+    {
+      "title": "Andalon",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 2138
+    },
+    {
+      "title": "Angel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 21926
+    },
+    {
+      "title": "Angiris Council",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders",
+        "Angiris Council"
+      ],
+      "chars": 9493
+    },
+    {
+      "title": "Archangel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1832
+    },
+    {
+      "title": "Ardleon",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 592
+    },
+    {
+      "title": "Auriel",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 13360
+    },
+    {
+      "title": "Balzael",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 7669
+    },
+    {
+      "title": "Berheim",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 594
+    },
+    {
+      "title": "Chalad'ar",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 2162
+    },
+    {
+      "title": "Cruangel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 585
+    },
+    {
+      "title": "El'druin",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 7415
+    },
+    {
+      "title": "Elsiel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 579
+    },
+    {
+      "title": "Erelus",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 776
+    },
+    {
+      "title": "Erethon",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1188
+    },
+    {
+      "title": "Hadriel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 5303
+    },
+    {
+      "title": "Haziael",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 414
+    },
+    {
+      "title": "Heavenly Host",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders"
+      ],
+      "chars": 3436
+    },
+    {
+      "title": "Hephasto the Armorer",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 4657
+    },
+    {
+      "title": "Idahir",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1666
+    },
+    {
+      "title": "Ilarian",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 374
+    },
+    {
+      "title": "Immortal (Angel)",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 295
+    },
+    {
+      "title": "Imperius",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 23364
+    },
+    {
+      "title": "Inarius",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 36627
+    },
+    {
+      "title": "Itherael",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 9685
+    },
+    {
+      "title": "Kyrel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 4534
+    },
+    {
+      "title": "Lasciate",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 658
+    },
+    {
+      "title": "Lightwarped Guardian",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 390
+    },
+    {
+      "title": "Lucius",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 591
+    },
+    {
+      "title": "Luminarei",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders"
+      ],
+      "chars": 786
+    },
+    {
+      "title": "Lycander",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1885
+    },
+    {
+      "title": "Malthael",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 32413
+    },
+    {
+      "title": "Malthael's Scythes",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 767
+    },
+    {
+      "title": "Mikayel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1938
+    },
+    {
+      "title": "Netzrae",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1243
+    },
+    {
+      "title": "Padius",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1431
+    },
+    {
+      "title": "Reapers",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders"
+      ],
+      "chars": 4777
+    },
+    {
+      "title": "Sages of Wisdom",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders"
+      ],
+      "chars": 1160
+    },
+    {
+      "title": "Selathiel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 337
+    },
+    {
+      "title": "Shaddox",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 3332
+    },
+    {
+      "title": "Sicarai",
+      "bucket": "angels",
+      "categories": [
+        "Angelic orders",
+        "Angels"
+      ],
+      "chars": 788
+    },
+    {
+      "title": "Solarion",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 967
+    },
+    {
+      "title": "Talus'ar",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council"
+      ],
+      "chars": 1144
+    },
+    {
+      "title": "The Martyr",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1413
+    },
+    {
+      "title": "The Prophet",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 3811
+    },
+    {
+      "title": "Timeless Prison",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1797
+    },
+    {
+      "title": "Tormaros",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 894
+    },
+    {
+      "title": "Turush",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 692
+    },
+    {
+      "title": "Tyrael",
+      "bucket": "angels",
+      "categories": [
+        "Angiris Council",
+        "Horadrim"
+      ],
+      "chars": 74095
+    },
+    {
+      "title": "Verathiel",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 6427
+    },
+    {
+      "title": "Vestige Guardian",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 1435
+    },
+    {
+      "title": "Yaerius",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 2121
+    },
+    {
+      "title": "Yolstus",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 848
+    },
+    {
+      "title": "Yoventh",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 875
+    },
+    {
+      "title": "Zepydra",
+      "bucket": "angels",
+      "categories": [
+        "Angels"
+      ],
+      "chars": 2617
+    },
+    {
+      "title": "Andariel",
+      "bucket": "prime_evils",
+      "categories": [
+        "Lesser Evils"
+      ],
+      "chars": 21363
+    },
+    {
+      "title": "Azmodan",
+      "bucket": "prime_evils",
+      "categories": [
+        "Lesser Evils"
+      ],
+      "chars": 13878
+    },
+    {
+      "title": "Baal",
+      "bucket": "prime_evils",
+      "categories": [
+        "Prime Evils"
+      ],
+      "chars": 21861
+    },
+    {
+      "title": "Belial",
+      "bucket": "prime_evils",
+      "categories": [
+        "Lesser Evils"
+      ],
+      "chars": 23112
+    },
+    {
+      "title": "Diablo",
+      "bucket": "prime_evils",
+      "categories": [
+        "Prime Evils"
+      ],
+      "chars": 49685
+    },
+    {
+      "title": "Duriel",
+      "bucket": "prime_evils",
+      "categories": [
+        "Lesser Evils"
+      ],
+      "chars": 16559
+    },
+    {
+      "title": "Mephisto",
+      "bucket": "prime_evils",
+      "categories": [
+        "Prime Evils"
+      ],
+      "chars": 37211
+    },
+    {
+      "title": "Prime Evil",
+      "bucket": "prime_evils",
+      "categories": [
+        "Prime Evils"
+      ],
+      "chars": 12968
+    },
+    {
+      "title": "Aderes Cain",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 1642
+    },
+    {
+      "title": "Animus Revenants",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 316
+    },
+    {
+      "title": "Ardeg the Greedy",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 615
+    },
+    {
+      "title": "Bear Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 3339
+    },
+    {
+      "title": "Blackthorn Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 934
+    },
+    {
+      "title": "Bloodsworn",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 5142
+    },
+    {
+      "title": "Breath of Gamuel",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 353
+    },
+    {
+      "title": "Caldesann",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 4286
+    },
+    {
+      "title": "Cathan",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 3512
+    },
+    {
+      "title": "Chantodo",
+      "bucket": "factions",
+      "categories": [
+        "Archmages"
+      ],
+      "chars": 196
+    },
+    {
+      "title": "Coven",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 12818
+    },
+    {
+      "title": "Crane Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 1382
+    },
+    {
+      "title": "Cult of Damnation",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 3429
+    },
+    {
+      "title": "Cult of Hatred",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 533
+    },
+    {
+      "title": "Cult of Terror",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 4538
+    },
+    {
+      "title": "Deckard Cain",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 92700
+    },
+    {
+      "title": "Donan",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 15583
+    },
+    {
+      "title": "Elias",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 10372
+    },
+    {
+      "title": "Enslaved Magus",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 429
+    },
+    {
+      "title": "Forgotten Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 239
+    },
+    {
+      "title": "Fox Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 908
+    },
+    {
+      "title": "Hands of Akarat",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 622
+    },
+    {
+      "title": "Henknoc Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 785
+    },
+    {
+      "title": "Horadric Judicar",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 398
+    },
+    {
+      "title": "Horazon",
+      "bucket": "factions",
+      "categories": [
+        "Archmages"
+      ],
+      "chars": 12289
+    },
+    {
+      "title": "Horde of the Ninety Savages (Lore)",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 609
+    },
+    {
+      "title": "Hydra Triad",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 279
+    },
+    {
+      "title": "Iben Fahd",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 2664
+    },
+    {
+      "title": "Jacob Staalek",
+      "bucket": "factions",
+      "categories": [
+        "Characters",
+        "Horadrim",
+        "Nephalem"
+      ],
+      "chars": 15282
+    },
+    {
+      "title": "Jered Cain",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 5751
+    },
+    {
+      "title": "Keeper",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 750
+    },
+    {
+      "title": "Kutzin the Scholar",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 621
+    },
+    {
+      "title": "Leah",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 46068
+    },
+    {
+      "title": "Lorath Nahr",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 50547
+    },
+    {
+      "title": "Mikulov",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 350
+    },
+    {
+      "title": "Moonchildren",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 326
+    },
+    {
+      "title": "Mother's Embrace (Cult)",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 534
+    },
+    {
+      "title": "Mother's Kiss (Cult)",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 585
+    },
+    {
+      "title": "Mother's Mercy (Cult)",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 481
+    },
+    {
+      "title": "Mother's Warmth (Cult)",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 427
+    },
+    {
+      "title": "Mother's Whisper (Cult)",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 403
+    },
+    {
+      "title": "Nilfur",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 1767
+    },
+    {
+      "title": "Nor Tiraj",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 2269
+    },
+    {
+      "title": "Osric",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 1340
+    },
+    {
+      "title": "Owl Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 511
+    },
+    {
+      "title": "Oxen Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 2175
+    },
+    {
+      "title": "Radament",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 3899
+    },
+    {
+      "title": "Reanimated Vanguard",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 864
+    },
+    {
+      "title": "Shadow Wolf Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 2353
+    },
+    {
+      "title": "Shanar",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim",
+        "Nephalem"
+      ],
+      "chars": 15465
+    },
+    {
+      "title": "Sho-Ren",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 284
+    },
+    {
+      "title": "Skye",
+      "bucket": "factions",
+      "categories": [
+        "Archmages"
+      ],
+      "chars": 264
+    },
+    {
+      "title": "Snake Tribe",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 935
+    },
+    {
+      "title": "Tal Rasha",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 16061
+    },
+    {
+      "title": "Targos Clan",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 173
+    },
+    {
+      "title": "The Nameless",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 1276
+    },
+    {
+      "title": "The Shard-seeker",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 21658
+    },
+    {
+      "title": "The Unclean",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 2583
+    },
+    {
+      "title": "Tribe of Thunder",
+      "bucket": "factions",
+      "categories": [
+        "Barbarian Tribes"
+      ],
+      "chars": 846
+    },
+    {
+      "title": "Triune",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 12345
+    },
+    {
+      "title": "Walkers",
+      "bucket": "factions",
+      "categories": [
+        "Cults"
+      ],
+      "chars": 519
+    },
+    {
+      "title": "Wymund",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 930
+    },
+    {
+      "title": "Zayl",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 4204
+    },
+    {
+      "title": "Zoltun Kulle",
+      "bucket": "factions",
+      "categories": [
+        "Horadrim"
+      ],
+      "chars": 32743
+    },
+    {
+      "title": "Arreat Plateau",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1491
+    },
+    {
+      "title": "Arreat Summit",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2097
+    },
+    {
+      "title": "Battlefields of Eternity",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2399
+    },
+    {
+      "title": "Black Canyon Mines",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 253
+    },
+    {
+      "title": "Blood Cellar",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 406
+    },
+    {
+      "title": "Bridge Stores",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 415
+    },
+    {
+      "title": "Cain's House",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 392
+    },
+    {
+      "title": "Cairn Stones",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 807
+    },
+    {
+      "title": "Catacomb",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 278
+    },
+    {
+      "title": "Cells of the Condemned",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 460
+    },
+    {
+      "title": "Chamber of Queen Araneae",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 480
+    },
+    {
+      "title": "Chancellor's Tomb",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 598
+    },
+    {
+      "title": "Command Post",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 222
+    },
+    {
+      "title": "Crystalline Passage",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1237
+    },
+    {
+      "title": "Cyrangar Depths",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 900
+    },
+    {
+      "title": "Deluged Plane",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1623
+    },
+    {
+      "title": "Demon Road",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 164
+    },
+    {
+      "title": "Drifter Cavern",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 883
+    },
+    {
+      "title": "Farmer's Cellar",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1942
+    },
+    {
+      "title": "Flayer Dungeon",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1936
+    },
+    {
+      "title": "Forgotten Sands",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2867
+    },
+    {
+      "title": "Frozen River",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1375
+    },
+    {
+      "title": "Glacial Trail",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1031
+    },
+    {
+      "title": "Grasslands",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 360
+    },
+    {
+      "title": "Griswold's Fine Weapons",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 663
+    },
+    {
+      "title": "Guardian Tower",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 717
+    },
+    {
+      "title": "Halls of Anguish",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1452
+    },
+    {
+      "title": "Halls of Pain",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1357
+    },
+    {
+      "title": "Halls of Vaught",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1682
+    },
+    {
+      "title": "Hidden Conclave",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 247
+    },
+    {
+      "title": "Highlands Crossing",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1301
+    },
+    {
+      "title": "Highlands Passage",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 588
+    },
+    {
+      "title": "Icy Cellar",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1028
+    },
+    {
+      "title": "Infernal Pit",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1080
+    },
+    {
+      "title": "Istani",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 240
+    },
+    {
+      "title": "Kalinash",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 273
+    },
+    {
+      "title": "King Leoric's Tomb",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1646
+    },
+    {
+      "title": "Level 8 (Diablo I)",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1146
+    },
+    {
+      "title": "Moldy Tome",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1098
+    },
+    {
+      "title": "Nihlathak's Temple",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2414
+    },
+    {
+      "title": "Northern Highlands",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 753
+    },
+    {
+      "title": "Occupied Ruins",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 744
+    },
+    {
+      "title": "Old Tristram Road",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2833
+    },
+    {
+      "title": "Pit of Acheron",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1340
+    },
+    {
+      "title": "Poisoned Water Supply",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 854
+    },
+    {
+      "title": "Road to Alcarnus",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 243
+    },
+    {
+      "title": "Silzer plains",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 56
+    },
+    {
+      "title": "Steps of the Spirits",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 102
+    },
+    {
+      "title": "Stinging Winds",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 251
+    },
+    {
+      "title": "Storage Cellar",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 449
+    },
+    {
+      "title": "Sundered Canyon",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 334
+    },
+    {
+      "title": "Terror Rift",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 5854
+    },
+    {
+      "title": "The Ancients' Way",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1346
+    },
+    {
+      "title": "The Cursed Hold",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1580
+    },
+    {
+      "title": "The Hidden Cellar",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 486
+    },
+    {
+      "title": "The Lyceum",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1013
+    },
+    {
+      "title": "The Vault",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 5848
+    },
+    {
+      "title": "The Wheeping Hollow",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1718
+    },
+    {
+      "title": "The Worldstone Chamber",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 424
+    },
+    {
+      "title": "Throne of Destruction",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1311
+    },
+    {
+      "title": "Tinker's Hovel",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 435
+    },
+    {
+      "title": "Underground Passage",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2264
+    },
+    {
+      "title": "Westmarch Chapel",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 1481
+    },
+    {
+      "title": "Worldstone Keep",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 2528
+    },
+    {
+      "title": "Xephiria",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 173
+    },
+    {
+      "title": "Über Tristram",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 6232
+    },
+    {
+      "title": "Akeba",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2614
+    },
+    {
+      "title": "Alaric",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2746
+    },
+    {
+      "title": "Alunthe",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1592
+    },
+    {
+      "title": "Ancient Skull",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 3324
+    },
+    {
+      "title": "Aurel",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1103
+    },
+    {
+      "title": "Bersarik",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 6821
+    },
+    {
+      "title": "Brother Karel",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 731
+    },
+    {
+      "title": "Brother Larel",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 657
+    },
+    {
+      "title": "Brother Moek",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 542
+    },
+    {
+      "title": "Bul-Kathos",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 13544
+    },
+    {
+      "title": "Corvik",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 4877
+    },
+    {
+      "title": "Cyhrach the First Born",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1074
+    },
+    {
+      "title": "Daedessa",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2231
+    },
+    {
+      "title": "Esu",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1333
+    },
+    {
+      "title": "Ezek the Prophet",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 475
+    },
+    {
+      "title": "Fiacla-Géar",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 3265
+    },
+    {
+      "title": "Firstborn",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 5596
+    },
+    {
+      "title": "Gratian",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 3417
+    },
+    {
+      "title": "Helgrotha",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 6522
+    },
+    {
+      "title": "Hiram",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 617
+    },
+    {
+      "title": "Incarnate of Valostre",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1930
+    },
+    {
+      "title": "Indal of the Ancients",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 576
+    },
+    {
+      "title": "Indira",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 575
+    },
+    {
+      "title": "Johanna",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 5610
+    },
+    {
+      "title": "Kalan",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 7003
+    },
+    {
+      "title": "Kalmor",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 11025
+    },
+    {
+      "title": "Kessime",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 539
+    },
+    {
+      "title": "Kharazim",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 3011
+    },
+    {
+      "title": "Kion",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2791
+    },
+    {
+      "title": "Korlic",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 4135
+    },
+    {
+      "title": "Li-Ming",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 6440
+    },
+    {
+      "title": "Lidar",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 719
+    },
+    {
+      "title": "Madawc",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 4008
+    },
+    {
+      "title": "Naarah",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 7898
+    },
+    {
+      "title": "Namari",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2772
+    },
+    {
+      "title": "Nazeebo",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 4212
+    },
+    {
+      "title": "Nephalem Warrior",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 657
+    },
+    {
+      "title": "Nyx of the Ancients",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 568
+    },
+    {
+      "title": "Onore of the Ancients",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 576
+    },
+    {
+      "title": "Orek",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 944
+    },
+    {
+      "title": "Orzsebet",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1136
+    },
+    {
+      "title": "Philios (Nephalem)",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1423
+    },
+    {
+      "title": "Rathma",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 39696
+    },
+    {
+      "title": "Sargoth",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 4696
+    },
+    {
+      "title": "Sashee",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1149
+    },
+    {
+      "title": "Shay of the Ancients",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 573
+    },
+    {
+      "title": "Sonya",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2541
+    },
+    {
+      "title": "Talic",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 5267
+    },
+    {
+      "title": "The Chosen (Necromancer)",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 3815
+    },
+    {
+      "title": "The Crone",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 922
+    },
+    {
+      "title": "The Nephalem",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 10296
+    },
+    {
+      "title": "The Unspoken",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 1125
+    },
+    {
+      "title": "Uldyssian ul-Diomed",
+      "bucket": "nephalem",
+      "categories": [
+        "Characters",
+        "Nephalem"
+      ],
+      "chars": 10707
+    },
+    {
+      "title": "Urshi",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 2174
+    },
+    {
+      "title": "Valla",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 13317
+    },
+    {
+      "title": "Vampire Lord Zir",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 5765
+    },
+    {
+      "title": "Xereph of the Ancients",
+      "bucket": "nephalem",
+      "categories": [
+        "Nephalem"
+      ],
+      "chars": 569
+    },
+    {
+      "title": "\"Talva Silvertongue\"",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2195
+    },
+    {
+      "title": "\"Wrathful\" Osgar Reede",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 259
+    },
+    {
+      "title": "Aaron Bright",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 435
+    },
+    {
+      "title": "Abner Lockridge",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 286
+    },
+    {
+      "title": "Acolyte of Damnation",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1398
+    },
+    {
+      "title": "Addler",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 346
+    },
+    {
+      "title": "Adleric Nahr",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 704
+    },
+    {
+      "title": "Adrahau",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 990
+    },
+    {
+      "title": "Aelin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 390
+    },
+    {
+      "title": "Aerisrose",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 296
+    },
+    {
+      "title": "Aisah",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1154
+    },
+    {
+      "title": "Akinees",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2683
+    },
+    {
+      "title": "Albrecht",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 9586
+    },
+    {
+      "title": "Alento",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 234
+    },
+    {
+      "title": "Aleran",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 562
+    },
+    {
+      "title": "Alexi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 287
+    },
+    {
+      "title": "Aliza",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 450
+    },
+    {
+      "title": "Alkor",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 9149
+    },
+    {
+      "title": "Alyce",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 269
+    },
+    {
+      "title": "Alyssa",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1900
+    },
+    {
+      "title": "Ambrus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 456
+    },
+    {
+      "title": "Ameli",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 738
+    },
+    {
+      "title": "Amelia Cain",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 4343
+    },
+    {
+      "title": "Amolia",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 888
+    },
+    {
+      "title": "Anamarii",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 271
+    },
+    {
+      "title": "Andomiel Chu",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 282
+    },
+    {
+      "title": "Angmet",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1972
+    },
+    {
+      "title": "Annie",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 389
+    },
+    {
+      "title": "Another adventurer",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1804
+    },
+    {
+      "title": "Anselm",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 389
+    },
+    {
+      "title": "Antal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 642
+    },
+    {
+      "title": "Aodh Corraidhín",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2884
+    },
+    {
+      "title": "Apprentice Jeweler",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 341
+    },
+    {
+      "title": "Arailt",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 235
+    },
+    {
+      "title": "Archew",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 582
+    },
+    {
+      "title": "Archibald Kerne",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 199
+    },
+    {
+      "title": "Arenton",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 345
+    },
+    {
+      "title": "Aric",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 331
+    },
+    {
+      "title": "Arien",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 247
+    },
+    {
+      "title": "Arkaine",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1118
+    },
+    {
+      "title": "Arlyse",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 424
+    },
+    {
+      "title": "Armoda",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 340
+    },
+    {
+      "title": "Arthef",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 226
+    },
+    {
+      "title": "Asaier",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 369
+    },
+    {
+      "title": "Ashton Natoli",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 999
+    },
+    {
+      "title": "Ashusk",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 143
+    },
+    {
+      "title": "Askarra",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 335
+    },
+    {
+      "title": "Astraelly",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 259
+    },
+    {
+      "title": "Asylla's Handmaiden",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1165
+    },
+    {
+      "title": "Atanna",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 7772
+    },
+    {
+      "title": "Augustus Malevolyn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 380
+    },
+    {
+      "title": "Aymon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 143
+    },
+    {
+      "title": "Azid",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 212
+    },
+    {
+      "title": "Baek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 218
+    },
+    {
+      "title": "Baltair",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 419
+    },
+    {
+      "title": "Barnard",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 355
+    },
+    {
+      "title": "Basan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 290
+    },
+    {
+      "title": "Battlemaid Sarina",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1018
+    },
+    {
+      "title": "Bay",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2175
+    },
+    {
+      "title": "Beleaguered Farmer",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 261
+    },
+    {
+      "title": "Beronye",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 402
+    },
+    {
+      "title": "Bertram Thistwhistle",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 232
+    },
+    {
+      "title": "Beryn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 400
+    },
+    {
+      "title": "Big Adhelm",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1943
+    },
+    {
+      "title": "Blackthorne",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 689
+    },
+    {
+      "title": "Blaine",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 213
+    },
+    {
+      "title": "Blaise",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 205
+    },
+    {
+      "title": "Borad Nahr",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 464
+    },
+    {
+      "title": "Borzhou",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 318
+    },
+    {
+      "title": "Boss Gorman",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 806
+    },
+    {
+      "title": "Boyce",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2327
+    },
+    {
+      "title": "Brast",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 875
+    },
+    {
+      "title": "Brent Brewington",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 630
+    },
+    {
+      "title": "Bri Tunis",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 481
+    },
+    {
+      "title": "Brienne",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 521
+    },
+    {
+      "title": "Brother Adhelm",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2362
+    },
+    {
+      "title": "Buyard Cholik",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1288
+    },
+    {
+      "title": "Cadeus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2996
+    },
+    {
+      "title": "Calderos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 820
+    },
+    {
+      "title": "Caliem",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 983
+    },
+    {
+      "title": "Canace",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 322
+    },
+    {
+      "title": "Canny",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 338
+    },
+    {
+      "title": "Captain Ankers",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 682
+    },
+    {
+      "title": "Captain Crimson",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 597
+    },
+    {
+      "title": "Captain Daltyn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1010
+    },
+    {
+      "title": "Captain Haile",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3800
+    },
+    {
+      "title": "Captain Ravan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 682
+    },
+    {
+      "title": "Captain Rumford",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3940
+    },
+    {
+      "title": "Captain Wentworth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 973
+    },
+    {
+      "title": "Cara Levesti",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 604
+    },
+    {
+      "title": "Caravan Leader",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 602
+    },
+    {
+      "title": "Carlos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 284
+    },
+    {
+      "title": "Carys",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 320
+    },
+    {
+      "title": "Celia",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2259
+    },
+    {
+      "title": "Cellik",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 572
+    },
+    {
+      "title": "Chamal the Dainty",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 280
+    },
+    {
+      "title": "Chancellor Eamon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2121
+    },
+    {
+      "title": "Chaos Broker",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 292
+    },
+    {
+      "title": "Chau Thanh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 194
+    },
+    {
+      "title": "Chieftain Asgail",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 892
+    },
+    {
+      "title": "Chuanyang",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 366
+    },
+    {
+      "title": "Cidoqhor",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 256
+    },
+    {
+      "title": "Cirri",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 495
+    },
+    {
+      "title": "Commander Kaya",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1648
+    },
+    {
+      "title": "Corella",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 193
+    },
+    {
+      "title": "Corik Trost",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1827
+    },
+    {
+      "title": "Cornelius the Younger",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 921
+    },
+    {
+      "title": "Coshumat",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 569
+    },
+    {
+      "title": "Covetous Shen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 12511
+    },
+    {
+      "title": "Crazed Hermit",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1834
+    },
+    {
+      "title": "Cyprian",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 269
+    },
+    {
+      "title": "Damius",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 924
+    },
+    {
+      "title": "Damos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1032
+    },
+    {
+      "title": "Damotrius",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 584
+    },
+    {
+      "title": "Dargon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 358
+    },
+    {
+      "title": "Darlene",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 360
+    },
+    {
+      "title": "Darrick Lang",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1795
+    },
+    {
+      "title": "Dason",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 280
+    },
+    {
+      "title": "Daye",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 325
+    },
+    {
+      "title": "Delsere",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2113
+    },
+    {
+      "title": "Denis Genest",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 619
+    },
+    {
+      "title": "Denysov",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 359
+    },
+    {
+      "title": "Derek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1096
+    },
+    {
+      "title": "Dervin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 283
+    },
+    {
+      "title": "Devmir",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1632
+    },
+    {
+      "title": "Diomedes",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 961
+    },
+    {
+      "title": "Drian",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1378
+    },
+    {
+      "title": "Dya",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 739
+    },
+    {
+      "title": "Dying Villager",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 804
+    },
+    {
+      "title": "Edlin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1645
+    },
+    {
+      "title": "Elder Owen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1641
+    },
+    {
+      "title": "Elenta",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1112
+    },
+    {
+      "title": "Ellis Halstaff",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1770
+    },
+    {
+      "title": "Elstir",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 160
+    },
+    {
+      "title": "Emimei",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 342
+    },
+    {
+      "title": "Emma",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 499
+    },
+    {
+      "title": "Enkasi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 867
+    },
+    {
+      "title": "Enobakhare",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 215
+    },
+    {
+      "title": "Enoch White",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 860
+    },
+    {
+      "title": "Eos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 513
+    },
+    {
+      "title": "Eran",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 741
+    },
+    {
+      "title": "Esadora",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 546
+    },
+    {
+      "title": "Eshal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 354
+    },
+    {
+      "title": "Eskara",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3009
+    },
+    {
+      "title": "Etzlek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 177
+    },
+    {
+      "title": "Farlee the Illusionist",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 319
+    },
+    {
+      "title": "Farnham",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 9594
+    },
+    {
+      "title": "Farnum",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 734
+    },
+    {
+      "title": "Fellig",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 310
+    },
+    {
+      "title": "Ferrel",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 241
+    },
+    {
+      "title": "Fiona",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 234
+    },
+    {
+      "title": "Franklin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 269
+    },
+    {
+      "title": "Franklin Burroughs",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2644
+    },
+    {
+      "title": "Friedrich Bartholomew",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 371
+    },
+    {
+      "title": "Fuad the Cannibal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1312
+    },
+    {
+      "title": "Garand",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 266
+    },
+    {
+      "title": "Garvos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 626
+    },
+    {
+      "title": "Gatekeeper Wulf",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 143
+    },
+    {
+      "title": "Gavin the Thief",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1002
+    },
+    {
+      "title": "Geglash",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 6046
+    },
+    {
+      "title": "Geli",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1049
+    },
+    {
+      "title": "Genai",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 611
+    },
+    {
+      "title": "General Torion",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3432
+    },
+    {
+      "title": "Geoffrey Staalek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1907
+    },
+    {
+      "title": "Gheed",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 9833
+    },
+    {
+      "title": "Gileon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1797
+    },
+    {
+      "title": "Gillian",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 13682
+    },
+    {
+      "title": "Gohr",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 257
+    },
+    {
+      "title": "Gordon the Jackal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 562
+    },
+    {
+      "title": "Gorrel",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 622
+    },
+    {
+      "title": "Grand Inquisitor",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1414
+    },
+    {
+      "title": "Grand Maester",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2452
+    },
+    {
+      "title": "Greenstone",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 224
+    },
+    {
+      "title": "Greiz",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 6679
+    },
+    {
+      "title": "Greta",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 340
+    },
+    {
+      "title": "Grigoire, the Galvanic Saint",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1119
+    },
+    {
+      "title": "Gryzela",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 298
+    },
+    {
+      "title": "Guard Arkadi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 285
+    },
+    {
+      "title": "Guard Boza",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 231
+    },
+    {
+      "title": "Guard Cvetko",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 384
+    },
+    {
+      "title": "Guard Myronov",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 297
+    },
+    {
+      "title": "Guard Svitla",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 315
+    },
+    {
+      "title": "Guard Tarasa",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 331
+    },
+    {
+      "title": "Gustav",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 452
+    },
+    {
+      "title": "Gwenen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 192
+    },
+    {
+      "title": "Hadeen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 620
+    },
+    {
+      "title": "Haedrig's Apprentice",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 268
+    },
+    {
+      "title": "Haka",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 336
+    },
+    {
+      "title": "Halana",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 274
+    },
+    {
+      "title": "Halissa",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2688
+    },
+    {
+      "title": "Hamish",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 277
+    },
+    {
+      "title": "Hamit",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1026
+    },
+    {
+      "title": "Hand of Akarat (Backwater)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2135
+    },
+    {
+      "title": "Hanos Jeronnan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 169
+    },
+    {
+      "title": "Hanso",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 543
+    },
+    {
+      "title": "Havva",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 502
+    },
+    {
+      "title": "Hetty",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 858
+    },
+    {
+      "title": "Holus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3344
+    },
+    {
+      "title": "Hungering Moon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3384
+    },
+    {
+      "title": "Idalki",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 233
+    },
+    {
+      "title": "Iockin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 698
+    },
+    {
+      "title": "Iron Suzerain",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 454
+    },
+    {
+      "title": "Isbel",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1372
+    },
+    {
+      "title": "Iscea, Twofold Rebirth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 4306
+    },
+    {
+      "title": "Issat",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 232
+    },
+    {
+      "title": "Issatar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2293
+    },
+    {
+      "title": "Isthe",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 518
+    },
+    {
+      "title": "Istvan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 614
+    },
+    {
+      "title": "Itherius",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 276
+    },
+    {
+      "title": "Ivaanjav",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 233
+    },
+    {
+      "title": "Ivyeh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 262
+    },
+    {
+      "title": "Izel",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2344
+    },
+    {
+      "title": "Jayesh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 258
+    },
+    {
+      "title": "Jentulf",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3140
+    },
+    {
+      "title": "Jered Cain (The Order)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1892
+    },
+    {
+      "title": "Jerhyn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 13086
+    },
+    {
+      "title": "Jezran Rasheen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 432
+    },
+    {
+      "title": "Jolenth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 961
+    },
+    {
+      "title": "Jondo Mouren",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1564
+    },
+    {
+      "title": "Josiah",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 367
+    },
+    {
+      "title": "Julianne",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 492
+    },
+    {
+      "title": "Justus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 399
+    },
+    {
+      "title": "Kadin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 600
+    },
+    {
+      "title": "Kael Rills",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2020
+    },
+    {
+      "title": "Kael Rills (Diablo IV)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1016
+    },
+    {
+      "title": "Kaelan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1949
+    },
+    {
+      "title": "Kala (Diablo III)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2907
+    },
+    {
+      "title": "Kalin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 791
+    },
+    {
+      "title": "Kalkos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1869
+    },
+    {
+      "title": "Kandur",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 155
+    },
+    {
+      "title": "Karyna",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1424
+    },
+    {
+      "title": "Keelan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 371
+    },
+    {
+      "title": "Kentril Dumon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 759
+    },
+    {
+      "title": "Kevan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 959
+    },
+    {
+      "title": "Khaliun",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 341
+    },
+    {
+      "title": "Khleric",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 696
+    },
+    {
+      "title": "Kiana",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 509
+    },
+    {
+      "title": "Kiana (Backwater)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 567
+    },
+    {
+      "title": "Kindra",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 680
+    },
+    {
+      "title": "Klath-Ulna",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1919
+    },
+    {
+      "title": "Kohin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 828
+    },
+    {
+      "title": "Kormac",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 18814
+    },
+    {
+      "title": "Krudo",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 201
+    },
+    {
+      "title": "Krum",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 261
+    },
+    {
+      "title": "Krystabelle",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 494
+    },
+    {
+      "title": "Krystyna",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 210
+    },
+    {
+      "title": "Kuan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 249
+    },
+    {
+      "title": "Kuna",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 209
+    },
+    {
+      "title": "Kyla",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1499
+    },
+    {
+      "title": "Kyoshiro",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 483
+    },
+    {
+      "title": "Lachlan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 311
+    },
+    {
+      "title": "Lacthan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1810
+    },
+    {
+      "title": "Lady Adhelm",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3174
+    },
+    {
+      "title": "Lady Ansonia",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 380
+    },
+    {
+      "title": "Lady Dunhyld",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 607
+    },
+    {
+      "title": "Lady Victoria",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 963
+    },
+    {
+      "title": "Lady of Light",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 434
+    },
+    {
+      "title": "Laksmi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 907
+    },
+    {
+      "title": "Lakumba",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 321
+    },
+    {
+      "title": "Lamb",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 294
+    },
+    {
+      "title": "Lanali",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 333
+    },
+    {
+      "title": "Leon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 330
+    },
+    {
+      "title": "Leraye",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 341
+    },
+    {
+      "title": "Lester",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2034
+    },
+    {
+      "title": "Lieutenant Clyfton",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 925
+    },
+    {
+      "title": "Lieutenant Dunn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 928
+    },
+    {
+      "title": "Lieutenant Fizriah",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1017
+    },
+    {
+      "title": "Lieutenant Lavail",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1503
+    },
+    {
+      "title": "Lieutenant Vachem",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 539
+    },
+    {
+      "title": "Lily",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 269
+    },
+    {
+      "title": "Linn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3886
+    },
+    {
+      "title": "Liov Tzin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 325
+    },
+    {
+      "title": "Little Adhelm",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1628
+    },
+    {
+      "title": "Liya Khal’tib",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 323
+    },
+    {
+      "title": "Lizveth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 210
+    },
+    {
+      "title": "Locran",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 916
+    },
+    {
+      "title": "Lord Kertis",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 638
+    },
+    {
+      "title": "Lord Martanos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3380
+    },
+    {
+      "title": "Lord Wynton",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3025
+    },
+    {
+      "title": "Lord of Goats",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 960
+    },
+    {
+      "title": "Loren",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 415
+    },
+    {
+      "title": "Lucian",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 823
+    },
+    {
+      "title": "Lurk",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 478
+    },
+    {
+      "title": "Luskas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 847
+    },
+    {
+      "title": "Luuko",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 871
+    },
+    {
+      "title": "Luzja",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1124
+    },
+    {
+      "title": "Lyndon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 16062
+    },
+    {
+      "title": "Lyra",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1046
+    },
+    {
+      "title": "Lysander",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 6310
+    },
+    {
+      "title": "Magdalena",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2776
+    },
+    {
+      "title": "Magistrate Oleksii",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 357
+    },
+    {
+      "title": "Magistrate Oren",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2067
+    },
+    {
+      "title": "Magus Grunski",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 245
+    },
+    {
+      "title": "Maisie",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 268
+    },
+    {
+      "title": "Marenna Staalek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1210
+    },
+    {
+      "title": "Mari",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 387
+    },
+    {
+      "title": "Marietta",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 357
+    },
+    {
+      "title": "Marion",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 631
+    },
+    {
+      "title": "Marko",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 575
+    },
+    {
+      "title": "Markus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 549
+    },
+    {
+      "title": "Marta",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1955
+    },
+    {
+      "title": "Martine Chantille",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 491
+    },
+    {
+      "title": "Matthias",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 240
+    },
+    {
+      "title": "Mattis",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 658
+    },
+    {
+      "title": "Maurice",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1525
+    },
+    {
+      "title": "Mauricette",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 354
+    },
+    {
+      "title": "McMahon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1140
+    },
+    {
+      "title": "Mek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 527
+    },
+    {
+      "title": "Meridan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 442
+    },
+    {
+      "title": "Meriel Regodon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 621
+    },
+    {
+      "title": "Meris",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 877
+    },
+    {
+      "title": "Mervain",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1008
+    },
+    {
+      "title": "Millie",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 280
+    },
+    {
+      "title": "Miranka",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 515
+    },
+    {
+      "title": "Miray",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1009
+    },
+    {
+      "title": "Mishka",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 4313
+    },
+    {
+      "title": "Morbed",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1051
+    },
+    {
+      "title": "Mordullu",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 316
+    },
+    {
+      "title": "Morlath",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1330
+    },
+    {
+      "title": "Morrick",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 553
+    },
+    {
+      "title": "Mwinas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 514
+    },
+    {
+      "title": "Mysterious Man",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 668
+    },
+    {
+      "title": "Nachin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 592
+    },
+    {
+      "title": "Nadia",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 390
+    },
+    {
+      "title": "Nadya",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1951
+    },
+    {
+      "title": "Nan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 14607
+    },
+    {
+      "title": "Nash",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 238
+    },
+    {
+      "title": "Natara",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 220
+    },
+    {
+      "title": "Nathyn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 206
+    },
+    {
+      "title": "Natine",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1176
+    },
+    {
+      "title": "Nek the Brawler",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 933
+    },
+    {
+      "title": "Nerissa Natoli",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 5276
+    },
+    {
+      "title": "Netharaz",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 435
+    },
+    {
+      "title": "Nigel Cutthroat",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1174
+    },
+    {
+      "title": "Nikola",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1823
+    },
+    {
+      "title": "Noblewoman Kala",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 379
+    },
+    {
+      "title": "Nordine",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 710
+    },
+    {
+      "title": "Norrec Vizharan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1398
+    },
+    {
+      "title": "Nuhat",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2091
+    },
+    {
+      "title": "Obin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 461
+    },
+    {
+      "title": "Odart",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 989
+    },
+    {
+      "title": "Officer Hagan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 160
+    },
+    {
+      "title": "Omer",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 508
+    },
+    {
+      "title": "Omryn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 197
+    },
+    {
+      "title": "Orpheus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 391
+    },
+    {
+      "title": "Osip",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 256
+    },
+    {
+      "title": "Oskar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 454
+    },
+    {
+      "title": "Oswen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2290
+    },
+    {
+      "title": "Otseg",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 703
+    },
+    {
+      "title": "Owen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 194
+    },
+    {
+      "title": "Ozren",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 574
+    },
+    {
+      "title": "Pablo DeSoto",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 687
+    },
+    {
+      "title": "Paget",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 169
+    },
+    {
+      "title": "Paul",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 362
+    },
+    {
+      "title": "Pedron",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 287
+    },
+    {
+      "title": "Perithan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1474
+    },
+    {
+      "title": "Pete Mulland",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 410
+    },
+    {
+      "title": "Piers",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 237
+    },
+    {
+      "title": "Piri",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1136
+    },
+    {
+      "title": "Poor Zhumay",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 443
+    },
+    {
+      "title": "Priestess Cualli",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 217
+    },
+    {
+      "title": "Qacha",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 212
+    },
+    {
+      "title": "Qarak",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 311
+    },
+    {
+      "title": "Quang",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 516
+    },
+    {
+      "title": "Quentin Sharpe",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1716
+    },
+    {
+      "title": "Quov Tsin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 433
+    },
+    {
+      "title": "Raemi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 457
+    },
+    {
+      "title": "Rakhaan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 843
+    },
+    {
+      "title": "Ramesh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1061
+    },
+    {
+      "title": "Rane",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 182
+    },
+    {
+      "title": "Rasheed",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 805
+    },
+    {
+      "title": "Rashta",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 724
+    },
+    {
+      "title": "Rayeld",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 7760
+    },
+    {
+      "title": "Razmus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 453
+    },
+    {
+      "title": "Rea",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1360
+    },
+    {
+      "title": "Rebirth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1897
+    },
+    {
+      "title": "Redjack the Bandit",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 369
+    },
+    {
+      "title": "Reiter",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 12860
+    },
+    {
+      "title": "Renee",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 541
+    },
+    {
+      "title": "Rethald",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 561
+    },
+    {
+      "title": "Reyes",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 875
+    },
+    {
+      "title": "Rita",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 434
+    },
+    {
+      "title": "Roater",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 607
+    },
+    {
+      "title": "Robach",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 317
+    },
+    {
+      "title": "Rodger",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 305
+    },
+    {
+      "title": "Rodney",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 683
+    },
+    {
+      "title": "Rodyar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 298
+    },
+    {
+      "title": "Rondal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1749
+    },
+    {
+      "title": "Royal Guard (NPC)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 603
+    },
+    {
+      "title": "Ruza",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2122
+    },
+    {
+      "title": "Ryder",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 210
+    },
+    {
+      "title": "Sadun Tryst",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3079
+    },
+    {
+      "title": "Samina",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 988
+    },
+    {
+      "title": "Samuel Drest",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 8903
+    },
+    {
+      "title": "Sandro the Mouth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 969
+    },
+    {
+      "title": "Sankis",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 254
+    },
+    {
+      "title": "Sara",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 616
+    },
+    {
+      "title": "Sara (The Rose of Khanduras)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 375
+    },
+    {
+      "title": "Saron",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 313
+    },
+    {
+      "title": "Sasha",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1986
+    },
+    {
+      "title": "Sasha (Diablo Immortal)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 321
+    },
+    {
+      "title": "Selig",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 423
+    },
+    {
+      "title": "Serenthia",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 4977
+    },
+    {
+      "title": "Sergeant Burroughs",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 843
+    },
+    {
+      "title": "Sergeant Dalen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 771
+    },
+    {
+      "title": "Sergeant Pale",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 517
+    },
+    {
+      "title": "Seril",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 874
+    },
+    {
+      "title": "Sevrin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1498
+    },
+    {
+      "title": "Shahos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 309
+    },
+    {
+      "title": "Shal'baas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 662
+    },
+    {
+      "title": "Shala",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 368
+    },
+    {
+      "title": "Shingo",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 385
+    },
+    {
+      "title": "Siggard",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 13479
+    },
+    {
+      "title": "Silaria",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 331
+    },
+    {
+      "title": "Sir Gorash",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3045
+    },
+    {
+      "title": "Sivket the Meek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 260
+    },
+    {
+      "title": "Skular",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3289
+    },
+    {
+      "title": "Slavut",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1175
+    },
+    {
+      "title": "Slorak",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 149
+    },
+    {
+      "title": "Solan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 398
+    },
+    {
+      "title": "Sonth",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 428
+    },
+    {
+      "title": "Southal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 342
+    },
+    {
+      "title": "Steuart the Bold",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 260
+    },
+    {
+      "title": "Steward Wilfred",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 599
+    },
+    {
+      "title": "Storm Crow (Character)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 442
+    },
+    {
+      "title": "Strange Beggar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 834
+    },
+    {
+      "title": "Stuart",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 390
+    },
+    {
+      "title": "SuWong",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 285
+    },
+    {
+      "title": "Sukh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 607
+    },
+    {
+      "title": "Sulam",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 790
+    },
+    {
+      "title": "Sunwuko",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1722
+    },
+    {
+      "title": "Symon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 905
+    },
+    {
+      "title": "Taanish",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1478
+    },
+    {
+      "title": "Taissa",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2545
+    },
+    {
+      "title": "Taite",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1127
+    },
+    {
+      "title": "Talva Silvertongue",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3579
+    },
+    {
+      "title": "Tanooki",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 255
+    },
+    {
+      "title": "Tapeks",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 253
+    },
+    {
+      "title": "Tara",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 489
+    },
+    {
+      "title": "Tassi",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2450
+    },
+    {
+      "title": "Teckrin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 806
+    },
+    {
+      "title": "Tejal",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 328
+    },
+    {
+      "title": "Telgun",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 821
+    },
+    {
+      "title": "Tella",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 161
+    },
+    {
+      "title": "Telranden",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 155
+    },
+    {
+      "title": "Tempest Stone Thief",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 870
+    },
+    {
+      "title": "Teodar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 393
+    },
+    {
+      "title": "Thad",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 450
+    },
+    {
+      "title": "Thadar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 394
+    },
+    {
+      "title": "The Adversary",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 360
+    },
+    {
+      "title": "The Ascended",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 314
+    },
+    {
+      "title": "The Comtessa",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 5763
+    },
+    {
+      "title": "The Countess",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 10062
+    },
+    {
+      "title": "The Curator",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 8122
+    },
+    {
+      "title": "The Ferryman",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 902
+    },
+    {
+      "title": "The Hellgate Inquisitor",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 300
+    },
+    {
+      "title": "The Inquisitor (Character)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 236
+    },
+    {
+      "title": "The Mountebank",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2103
+    },
+    {
+      "title": "The Shepherd",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2071
+    },
+    {
+      "title": "The Silent Crow",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 221
+    },
+    {
+      "title": "The Warden",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2304
+    },
+    {
+      "title": "The Woodsman",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1334
+    },
+    {
+      "title": "Theodas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 445
+    },
+    {
+      "title": "Theradonn",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 169
+    },
+    {
+      "title": "Thiago the Bloodthirsty",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 939
+    },
+    {
+      "title": "Tiget",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 251
+    },
+    {
+      "title": "Tilnan the Collector",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 655
+    },
+    {
+      "title": "Toby",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 468
+    },
+    {
+      "title": "Tolos",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 687
+    },
+    {
+      "title": "Tomas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 298
+    },
+    {
+      "title": "Torin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 374
+    },
+    {
+      "title": "Tovri",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1012
+    },
+    {
+      "title": "Tremain the Priest",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 5702
+    },
+    {
+      "title": "Trester",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 376
+    },
+    {
+      "title": "Tsvemir",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 357
+    },
+    {
+      "title": "Tu de Qing",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 363
+    },
+    {
+      "title": "Tyik the Battler",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 380
+    },
+    {
+      "title": "Tylla",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 335
+    },
+    {
+      "title": "Ulric",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1479
+    },
+    {
+      "title": "Urik the Seer",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1463
+    },
+    {
+      "title": "Urzel Mordreg",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 365
+    },
+    {
+      "title": "Uyanga",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 217
+    },
+    {
+      "title": "Valstus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 744
+    },
+    {
+      "title": "Vani",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1756
+    },
+    {
+      "title": "Vas",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 517
+    },
+    {
+      "title": "Vauntus",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 351
+    },
+    {
+      "title": "Vendral Trost",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1439
+    },
+    {
+      "title": "Vic",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1285
+    },
+    {
+      "title": "Vierick",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 454
+    },
+    {
+      "title": "Vilek",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1947
+    },
+    {
+      "title": "Virgil",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 418
+    },
+    {
+      "title": "Virgil (Aether Walker)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 398
+    },
+    {
+      "title": "Virgil Cutthroat",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 310
+    },
+    {
+      "title": "Vithu",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1727
+    },
+    {
+      "title": "Viv Mesztros",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1010
+    },
+    {
+      "title": "Vo'Toyias",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 150
+    },
+    {
+      "title": "Vyrtan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 548
+    },
+    {
+      "title": "Walcot",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 350
+    },
+    {
+      "title": "Walddar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 280
+    },
+    {
+      "title": "Wandak",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 356
+    },
+    {
+      "title": "Wandering Priest",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 213
+    },
+    {
+      "title": "Wandering Trader",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1886
+    },
+    {
+      "title": "Warlord of Blood (Monster)",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3224
+    },
+    {
+      "title": "Warriv",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 4349
+    },
+    {
+      "title": "Watep the Sacrificed",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1040
+    },
+    {
+      "title": "Watts",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 724
+    },
+    {
+      "title": "Wendeline",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 499
+    },
+    {
+      "title": "Weskar",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 315
+    },
+    {
+      "title": "Willa Rathe",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 694
+    },
+    {
+      "title": "William Thorpe",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 244
+    },
+    {
+      "title": "Wirt",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 10752
+    },
+    {
+      "title": "Woodruh",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 3852
+    },
+    {
+      "title": "Wounded Man",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 416
+    },
+    {
+      "title": "Wretched Queen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 521
+    },
+    {
+      "title": "Xavier",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 270
+    },
+    {
+      "title": "Yaira",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1035
+    },
+    {
+      "title": "Yakin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1266
+    },
+    {
+      "title": "Yanashima",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 272
+    },
+    {
+      "title": "Ying-Yue",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 609
+    },
+    {
+      "title": "Yolk Chen",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 445
+    },
+    {
+      "title": "Yoon",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 244
+    },
+    {
+      "title": "Yuan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 226
+    },
+    {
+      "title": "Yverius",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2774
+    },
+    {
+      "title": "Yzan",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 144
+    },
+    {
+      "title": "Zach",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 209
+    },
+    {
+      "title": "Zamina",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 842
+    },
+    {
+      "title": "Zeun",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 1556
+    },
+    {
+      "title": "Zhong Yi Rou",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 756
+    },
+    {
+      "title": "Zorun Tzin",
+      "bucket": "characters",
+      "categories": [
+        "Characters"
+      ],
+      "chars": 2055
+    }
+  ]
+}

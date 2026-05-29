@@ -1,0 +1,905 @@
+
+======================================================================
+PAGE: Berserker Blood
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Berserker_Blood
+======================================================================
+
+Berserker Blood
+Faction
+Urkans
+Urkans
+Fakir
+Type
+Empire
+Focus
+Military
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +15% Attack
+Allied Units in the same Region have +15% Damage
+An
+Urkan
+Training made available by controlling
+Fakir
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The increase in Attack
+and Damage
+only applies to Units in the same Region as Fakir, not the other Urkans.
+Lore
+Urkan blood - or the equivalent - is potent stuff, and Fakir's ichor is no exception. When mixed with a rare mineral it becomes a fabulous draft of war, turning armies into beasts upon consumption. As it breaks down swiftly, it doesn't travel far.
+
+======================================================================
+PAGE: Chaka
+CATEGORIES: Support Units, Units, Urkans
+URL: https://endlesslegend.fandom.com/wiki/Chaka
+======================================================================
+
+Chaka
+Faction
+Urkans
+Unit Type
+Support
+Base Attributes:
+Life
+700
+Attack
+90
+Initiative
+30
+Speed
+6
+Defense
+80
+Damage
+50
+Range
+4
+Sight
+3
+Cost:
+Production
+N/A
+Chaka is one of the
+Urkans
+, and appears randomly over the course of the game. Chaka has the lowest Life
+and Damage
+of the Urkans, but the highest Defense
+and is able to make ranged attacks due to having the Long Range capacity.
+Lore
+Legends have it that Chaka is the shyest of the Urkans, reputedly roaming Auriga's emptier regions, and enjoying solitude more than conflict. Equally, however, Chaka is said to be the most ferocious of the three beasts, and there are many tales of its rage and destruction.
+Capacities
+Icon
+Name
+Effect
+Indestructible
+This unit cannot die.
+Winter Enervation
+-25% Attack
+during Winter
+-25% Defense
+during Winter
+-25% Initiative
+during Winter
+-25% Damage
+during Winter
+Brotherhood of Urkans
+-50% Damage
+dealt to Urkans
+Long Range
+Attack range of 4 tiles.
+-1 morale
+per adjacent enemey.
+Unsellable
+Cannot be sold on the Markteplace
+Flamewalker
+Takes no damage from lava flows
+Ash Breather
+Can regenerate life on volcanic terrain
+Slow Down
+50% battle movement
+for 2 turns
+on target.
+Urkan Training
+Chymical Warfare
+Urkans:
+Chaka
+Type:
+Empire
+Focus:
+Science
+Possessed with the unique ability to 'read' and transform chymical markers, while rooted Chaka can disrupt nearby enemies' scientific investigations and pass on genuine research to allies.
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produces +50% Science
+Enemy Cities in neighboring Regions produce -25% Science
+Monstrous Watchtower
+Urkans:
+Chaka
+Type:
+Empire
+Focus:
+Military
+With their towering height, Urkans naturally enjoy a peerless view of the surrounding terrain, but conveying what they see into useful intel can be difficult. Through beast-master training of Chaka, however, such information can be gleaned from all Urkans.
+Effects:
+Urkans under your control have +5 Vision Range
+Twitch Aura
+Urkans:
+Chaka
+Type:
+Empire
+Focus:
+Military
+Chaka emanates a natural pheromone that can allow sufficiently prepared allies' nervous systems to be sped-up, boosting response time and movement.
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +20% Initiative
+Allied Units in the same Region have +2 Movement
+Fecund Brood
+Urkans:
+Kazar & Chaka
+Type:
+Empire
+Focus:
+Military
+Via a careful chymical procedure, Urkans can be seeded with exotic concoctions that accelerate lice production under the exoskeletal plates.
+Effects:
+Urkans under your control spawn Lice 50% faster
+Urkan Power
+Urkans:
+Chaka & Fakir
+Type:
+Empire
+Focus:
+Military
+Together, Chaka and Fakir can be instructed to perform a display of such intimidating power that nearby friendly populations feel a deep sense of relief, while nearby enemy populations tremble in fear - and lose confidence in their leaders.
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +50 Approval
+Enemy Cities in neighboring Regions produce -50 Approval
+Coordinated Tremors
+Urkans:
+Kazar, Chaka, & Fakir
+Type:
+Empire
+Focus:
+Military
+Careful training by skilled beast-masters allows the Urkans to coordinate earth-shattering 'blows' that superpose over each other, producing long-distance attacks on fortifications.
+Effects:
+Urkans gain the "Tremors" Army Action, producing long distance Siege Damage
+
+======================================================================
+PAGE: Chymical Warfare
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Chymical_Warfare
+======================================================================
+
+Chymical Warfare
+Faction
+Urkans
+Urkans
+Chaka
+Type
+Empire
+Focus
+Science
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +50% Science
+Enemy Cities in neighboring Regions produce -25% Science
+An
+Urkan
+Training made available by controlling
+Chaka
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The change in Science
+production only applies to regions adjacent to Chaka, not the other Urkans.
+Lore
+Possessed with the unique ability to 'read' and transform chymical markers, while rooted Chaka can disrupt nearby enemies' scientific investigations and pass on genuine research to allies.
+
+======================================================================
+PAGE: Coordinated Tremors
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Coordinated_Tremors
+======================================================================
+
+Coordinated Tremors
+Faction
+Urkans
+Urkans
+Kazar, Chaka, & Fakir
+Type
+Empire
+Focus
+Military
+Effects:
+Urkans gain the "Tremors" Army Action, producing long distance Siege Damage
+An
+Urkan
+Training made available by controlling
+Kazar
+,
+Chaka
+, and
+Fakir
+. Requires 35 of a random Tier 3
+Luxury Resource
+to unlock. Unlocks the "Tremors"
+Army Action
+for all Urkans, which allows them to deal large amounts of Fortification Damage
+to a City from anywhere in the City's Region. Note that using Tremors doesn't put a siege on the affected City, and so doesn't reduce
+FIDSI
+, stop
+Trade Routes
+, or cause any of the other effects that occur during a Siege.
+Lore
+Careful training by skilled beast-masters allows the Urkans to coordinate earth-shattering 'blows' that superpose over each other, producing long-distance attacks on fortifications.
+
+======================================================================
+PAGE: Dust Leecher
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Dust_Leecher
+======================================================================
+
+Dust Leecher
+Faction
+Urkans
+Urkans
+Fakir
+Type
+Empire
+Focus
+Dust
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +20% Dust
+Enemy Cities in neighboring Regions produce -10% Dust
+An
+Urkan
+Training made available by controlling
+Fakir
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The change in Dust
+production only applies to regions adjacent to Fakir, not the other Urkans.
+Lore
+While rooted to the earth, Fakir can sense and exploit veins of Dust by piggybacking on existing mycelial webs. By directing the flows, this knowledge can be extremely profitable - and damaging.
+
+======================================================================
+PAGE: Endurance Training
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Endurance_Training
+======================================================================
+
+Endurance Training
+Faction
+Urkans
+Urkans
+Kazar & Fakir
+Type
+Empire
+Focus
+Military
+Effects:
+Removes penalties on Urkan due to Winter
+An
+Urkan
+Training made available by controlling
+Kazar
+and
+Fakir
+. Requires 25 of a random Tier 2
+Luxury Resource
+to unlock. Has the same effect on the Urkans as the Cold Operator
+Hero
+Skill
+by negating all negative
+winter
+effects, but only applies to Kazar and Fakir, not Chaka.
+Lore
+Experiments on the lice strains living on Kazar and Fakir have led to a stunning discovery: Their mutual interaction produces natural defenses making Urkans resilient to winter's effects.
+
+======================================================================
+PAGE: Fakir
+CATEGORIES: Cavalry Units, Units, Urkans
+URL: https://endlesslegend.fandom.com/wiki/Fakir
+======================================================================
+
+Fakir
+Faction
+Urkans
+Unit Type
+Cavalry
+Base Attributes:
+Life
+800
+Attack
+100
+Initiative
+30
+Speed
+6
+Defense
+60
+Damage
+60
+Range
+1
+Sight
+3
+Cost:
+Production
+N/A
+Fakir is one of the
+Urkans
+, and appears randomly over the course of the game. Fakir has the highest Attack
+of the Urkans.
+Lore
+Of the three Urkans who are the eternal adversaries of the Mykara, Fakir is the one who strikes the greatest fear into the fungal collective. Blessed with a extremely keen olfactory senses, legend has it that Fakir can track subterranean rhizome paths for leagues upon leagues.
+Capacities
+Icon
+Name
+Effect
+Indestructible
+This unit cannot die.
+Winter Enervation
+-25% Attack
+during Winter
+-25% Defense
+during Winter
+-25% Initiative
+during Winter
+-25% Damage
+during Winter
+Brotherhood of Urkans
+-50% Damage
+dealt to Urkans
+Unsellable
+Cannot be sold on the Markteplace
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Fast 2
++2 battle movement
+.
+Flamewalker
+Takes no damage from lava flows
+Ash Breather
+Can regenerate life on volcanic terrain
+Sweep Strike Back 4
+Overrides the default counter attack.
+Deals damage to the attacker and opponents next to both the unit and the attacker.
++125% Damage
+.
+Urkan Training
+Dust Leecher
+Urkans:
+Fakir
+Type:
+Empire
+Focus:
+Dust
+While rooted to the earth, Fakir can sense and exploit veins of Dust by piggybacking on existing mycelial webs. By  directing the flows, this knowledge can be extremely profitable - and damaging.
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produces +20% Dust
+Enemy Cities in neighboring Regions produce -10% Dust
+Urkan Conditioning
+Urkans:
+Fakir
+Type:
+Empire
+Focus:
+Military
+With Fakir under control, beast-masters are able to teach the entire Urkan entourage they command to act more independently, raising their dynamism.
+Effects:
+Urkans and Lice under your control have +20% Initiative
+Urkans and Lice under your control have +2 Movement
+Berserker Blood
+Urkans:
+Fakir
+Type:
+Empire
+Focus:
+Military
+Urkan blood - or the equivalent - is potent stuff, and Fakir's ichor is no exception. When mixed with a rare mineral it becomes a fabulous draft of war, turning armies into beasts upon consumption. As it breaks down swiftly, it doesn't travel far.
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +15% Attack
+Allied Units in the same Region have +15% Damage
+Urkan Power
+Urkans:
+Chaka & Fakir
+Type:
+Empire
+Focus:
+Military
+Together, Chaka and Fakir can be instructed to perform a display of such intimidating power that nearby friendly populations feel a deep sense of relief, while nearby enemy populations tremble in fear - and lose confidence in their leaders.
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +50 Approval
+Enemy Cities in neighboring Regions produce -50 Approval
+Endurance Training
+Urkans:
+Kazar & Fakir
+Type:
+Empire
+Focus:
+Military
+Experiments on the lice strains living on Kazar and Fakir have led to a stunning discovery: Their mutual interaction produces natural defenses making Urkans resilient to winter's effects.
+Effects:
+Removes penalties on Urkan due to Winter
+Coordinated Tremors
+Urkans:
+Kazar, Chaka, & Fakir
+Type:
+Empire
+Focus:
+Military
+Careful training by skilled beast-masters allows the Urkans to coordinate earth-shattering 'blows' that superpose over each other, producing long-distance attacks on fortifications.
+Effects:
+Urkans gain the "Tremors" Army Action, producing long distance Siege Damage
+
+======================================================================
+PAGE: Fecund Brood
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Fecund_Brood
+======================================================================
+
+Fecund Brood
+Faction
+Urkans
+Urkans
+Kazar & Chaka
+Type
+Empire
+Focus
+Military
+Effects:
+Urkans under your control spawn Lice 50% faster
+An
+Urkan
+Training made available by controlling
+Kazar
+and
+Chaka
+. Requires 25 of a random Tier 2
+Luxury Resource
+to unlock.
+Lore
+Via a careful chymical procedure, Urkans can be seeded with exotic concoctions that accelerate lice production under the exoskeletal plates.
+
+======================================================================
+PAGE: Healing Secretion
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Healing_Secretion
+======================================================================
+
+Healing Secretion
+Faction
+Urkans
+Urkans
+Kazar
+Type
+Empire
+Focus
+Military
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +20% Defense
+Allied Units in the same Region have +20% Life Regen
+An
+Urkan
+Training made available by controlling
+Kazar
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The bonus to Defense
+and Health Regen
+only applies to units in the same region as Kazar, not the other Urkans.
+Lore
+Urkans secrete a complex pheromone, which when correctly treated can aide nearby armies defenses and regeneration. The effect is thought to be connected to symbiotic relationships between normally-warring bacteria.
+
+======================================================================
+PAGE: Kazar
+CATEGORIES: Cavalry Units, Units, Urkans
+URL: https://endlesslegend.fandom.com/wiki/Kazar
+======================================================================
+
+Kazar
+Faction
+Urkans
+Unit Type
+Cavalry
+Base Attributes:
+Life
+1000
+Attack
+80
+Initiative
+30
+Speed
+6
+Defense
+60
+Damage
+80
+Range
+1
+Sight
+3
+Cost:
+Production
+N/A
+Kazar is one of the
+Urkans
+, and appears randomly over the course of the game. Kazar has the highest Life
+and Damage
+of the Urkans, but the lowest Attack
+.
+Lore
+The largest of the three great beasts, Kazar moves with an unhurried gait that belies its great strength and arrogance. Often crusted with precious ores when emerging from the depths, Kazar is sometimes the target of brave, or foolhardy, adventures who attempt to liberate the valuable stones.
+Capacities
+Icon
+Name
+Effect
+Indestructible
+This unit cannot die.
+Winter Enervation
+-25% Attack
+during Winter
+-25% Defense
+during Winter
+-25% Initiative
+during Winter
+-25% Damage
+during Winter
+Brotherhood of Urkans
+-50% Damage
+dealt to Urkans
+Unsellable
+Cannot be sold on the Markteplace
+Flamewalker
+Takes no damage from lava flows
+Ash Breather
+Can regenerate life on volcanic terrain
+Sweep Strike Back 4
+Overrides the default counter attack.
+Deals damage to the attacker and opponents next to both the unit and the attacker.
++125% Damage
+.
+Urkan Training
+Urkan Agriculture
+Urkans:
+Kazar
+Type:
+Empire
+Focus:
+Food
+With mycelial networks riddling the land, when a great beast is rooted to a region it can help to process tough nutrients, channeling sustenance from rivals to allies.
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produces +30% Food
+Enemy Cities in neighboring Regions produce -15% Food
+Reinforced Carapace
+Urkans:
+Kazar
+Type:
+Empire
+Focus:
+Military
+Applying a salve concocted from a rare mushroom onto the Urkan carapace gives the great beast and their minions a harder shell and better constitution.
+Effects:
++50% Life
+on Urkans
++50% Life
+on Urkan Lice
++50% Defense
+on Urkans
++50% Defense
+on Urkan Lice
+Healing Secretion
+Urkans:
+Kazar
+Type:
+Empire
+Focus:
+Military
+Urkans secrete a complex pheromone, which when correctly treated can aide nearby armies defenses and regeneration. The effect is thought to be connected to symbiotic relationships between normally-warring bacteria.
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +20% Defense
+Allied Units in the same Region have +20% Life Regen
+Fecund Brood
+Urkans:
+Kazar & Chaka
+Type:
+Empire
+Focus:
+Military
+Via a careful chymical procedure, Urkans can be seeded with exotic concoctions that accelerate lice production under the exoskeletal plates.
+Effects:
+Urkans under your control spawn Lice 50% faster
+Endurance Training
+Urkans:
+Kazar & Fakir
+Type:
+Empire
+Focus:
+Military
+Experiments on the lice strains living on Kazar and Fakir have led to a stunning discovery: Their mutual interaction produces natural defenses making Urkans resilient to winter's effects.
+Effects:
+Removes penalties on Urkan due to Winter
+Coordinated Tremors
+Urkans:
+Kazar, Chaka, & Fakir
+Type:
+Empire
+Focus:
+Military
+Careful training by skilled beast-masters allows the Urkans to coordinate earth-shattering 'blows' that superpose over each other, producing long-distance attacks on fortifications.
+Effects:
+Urkans gain the "Tremors" Army Action, producing long distance Siege Damage
+
+======================================================================
+PAGE: Monstrous Watchtower
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Monstrous_Watchtower
+======================================================================
+
+Monstrous Watchtower
+Faction
+Urkans
+Urkans
+Chaka
+Type
+Empire
+Focus
+Military
+Effects:
+Urkans under your control have +5 Vision Range.
+An
+Urkan
+Training made available by controlling
+Chaka
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock.
+Lore
+With their towering height, Urkans naturally enjoy a peerless view of the surrounding terrain, but conveying what they see into useful intel can be difficult. Through beast-master training of Chaka, however, such information can be gleaned from all Urkans.
+
+======================================================================
+PAGE: Reinforced Carapace
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Reinforced_Carapace
+======================================================================
+
+Reinforced Carapace
+Faction
+Urkans
+Urkans
+Kazar
+Type
+Empire
+Focus
+Military
+Effects:
++50% Life
+on Urkans
++50% Life
+on Urkan Lice
++50% Defense
+on Urkans
++50% Defense
+on Urkan Lice
+An
+Urkan
+Training made available by controlling
+Kazar
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The increase in Life
+and Defense
+only applies to Urkans and
+Urkan Lice
+you control.
+Lore
+Applying a salve concocted from a rare mushroom onto the Urkan carapace gives the great beast and their minions a harder shell and better constitution.
+
+======================================================================
+PAGE: Twitch Aura
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Twitch_Aura
+======================================================================
+
+Twitch Aura
+Faction
+Urkans
+Urkans
+Chaka
+Type
+Empire
+Focus
+Military
+Effects:
+While Urkan is in Army Form:
+Allied Units in the same Region have +20% Initiative
+Allied Units in the same Region have +2 Movement
+An
+Urkan
+Training made available by controlling
+Chaka
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The increase in Initiative
+and Movement
+only applies to Units in the same Region as Chaka, not the other Urkans.
+Lore
+Chaka emanates a natural pheromone that can allow sufficiently prepared allies' nervous systems to be sped-up, boosting response time and movement.
+
+======================================================================
+PAGE: Urkan Agriculture
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Agriculture
+======================================================================
+
+Urkan Agriculture
+Faction
+Urkans
+Urkans
+Kazar
+Type
+Empire
+Focus
+Food
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +30% Food
+Enemy Cities in neighboring Regions produce -15% Food
+An
+Urkan
+Training made available by controlling
+Kazar
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock. The change to Food
+production only applied to Regions neighboring Kazar, not the other Urkans.
+Lore
+With mycelial networks riddling the land, when a great beast is rooted to a region it can help to process tough nutrients, channeling sustenance from rivals to allies.
+
+======================================================================
+PAGE: Urkan Conditioning
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Conditioning
+======================================================================
+
+Urkan Conditioning
+Faction
+Urkans
+Urkans
+Fakir
+Type
+Empire
+Focus
+Military
+Effects:
+Urkans and Lice under your control have +20% Initiative
+Urkans and Lice under your control have +2 Movement
+An
+Urkan
+Training made available by controlling
+Fakir
+. Requires 15 of a random Tier 1
+Luxury Resource
+to unlock.
+Lore
+With Fakir under control, beast-masters are able to teach the entire Urkan entourage they command to act more independently, raising their dynamism.
+
+======================================================================
+PAGE: Urkan Lice
+CATEGORIES: Infantry Units, Units, Urkans
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Lice
+======================================================================
+
+Urkan Lice
+Faction
+Urkans
+Unit Type
+Infantry
+Base Attributes:
+Life
+120
+Attack
+40
+Initiative
+35
+Speed
+4
+Defense
+25
+Damage
+35
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+Urkan Lice are an infantry unit that act as a kind of
+Militia
+for the
+Urkans
+, as well as appearing in roaming armies where neutral Urkans are rooted. They are also unlocked as a unit design for the
+Mykara
+upon completing chapter 6 of their
+Faction Quest
+.
+Lore
+Lice-like organisms that make sanctuary under the Urkans' great exoskeletal plates, these creatures act like the fanatical guard of an inspirational monarch, fighting to protect their host with unflinching resolve and cold intelligence.
+Capacities
+Icon
+Name
+Effect
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Unsellable
+Cannot be sold on the Markteplace
+Free Counter
+Can counter once more.
+Flamewalker
+Takes no damage from lava flows
+Ash Breather
+Can regenerate life on volcanic terrain
+Sweep Strike Back 2
+Overrides the default counter attack.
+Deals damage to the attacker and opponents next to both the unit and the attacker.
++75% Damage
+.
+Equipment Slots
+Weapons
+Claws
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Urkan Power
+CATEGORIES: Urkans
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Power
+======================================================================
+
+Urkan Power
+Faction
+Urkans
+Urkans
+Chaka & Fakir
+Type
+Empire
+Focus
+Military
+Effects:
+While Urkan is rooted to a Region:
+Own and allied Cities in neighboring Regions produce +50 Approval
+Enemy Cities in neighboring Regions produce -50 Approval
+An
+Urkan
+Training made available by controlling
+Chaka
+and
+Fakir
+. Requires 25 of a random Tier 2
+Luxury Resource
+to unlock. The change in Approval
+only applies to Cities adjacent to Chaka or Fakir, not
+Kazar
+. The change applies twice if both Chaka and Fakir are adjacent to the same city.
+Lore
+Together, Chaka and Fakir can be instructed to perform a display of such intimidating power that nearby friendly populations feel a deep sense of relief, while nearby enemy populations tremble in fear - and lose confidence in their leaders.

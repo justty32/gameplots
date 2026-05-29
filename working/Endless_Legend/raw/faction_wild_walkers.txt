@@ -1,0 +1,397 @@
+
+======================================================================
+PAGE: Agache Shaman
+CATEGORIES: Support Units, Units, Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Agache_Shaman
+======================================================================
+
+Agache Shaman
+Faction
+Wild Walkers
+Unit Type
+Support
+Base Attributes:
+Life
+52
+Attack
+10
+Initiative
+30
+Speed
+4
+Defense
+30
+Damage
+12
+Range
+3
+Sight
+3
+Cost:
+Production
+30
+The Agache Shaman is a support unit for the
+Wild Walkers
+. The Shaman can be unlocked by
+researching
+it in Era I.
+Lore
+The Shamans of the Wild Walkers are masters of the Sharing, an ancient rite that channels the rage of beasts. They are dangerous in battle, fighting with both spells and claws.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Bark Skin 3
++75% Defense
+for 2 turns
+on friendly unit.
+Forest Rage
++50% Attack
+on forest tiles.
+Equipment Slots
+Weapons
+Magewand
+Quarterstaff
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Arc of the Builders
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Arc_of_the_Builders
+======================================================================
+
+Arc of the Builders
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Type
+Longbow
+Effects:
++95
+on unit
++20
+on unit
++9
+on unit
++75
+on unit
++40%
+on unit
++10%
+on unit
++10%
+on unit
++40%
+on unit
+Can be equipped by heroes only
+Capacities:
+Flying Slayer 4
+Costs:
+Resource
+18
+The Arc of the Builders is a
+Longbow
+exclusive to the
+Wild Walkers
+, received for completing Chapter 6 of their faction quest. In addition to being one of the strongest longbows in the game, it is also required that it be equipped on
+Ahote Zaltana
+in order to complete the first part of Chapter 7 of the Wild Walkers faction quest.
+Lore
+Discovered in ancient ruins by Zaltana and altered to his liking, this deadly weapons is marked to be used as a compass, ruler, scale, protractor, opisometer, stadimeter, tachymeter, and level.
+
+======================================================================
+PAGE: Dekari Ranger
+CATEGORIES: Ranged Units, Units, Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Dekari_Ranger
+======================================================================
+
+Dekari Ranger
+Faction
+Wild Walkers
+Unit Type
+Ranged
+Base Attributes:
+Life
+60
+Attack
+42
+Initiative
+34
+Speed
+4
+Defense
+14
+Damage
+22
+Range
+4
+Sight
+3
+Cost:
+Production
+60
+The Dekari Ranger is a ranged unit for the
+Wild Walkers
+. Two Rangers constitute the starting force for the Wild Walkers. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Accustomed to warfare first in the trees and then from the towers of their people, the archers of the Wild Walkers are among the most dangerous troops on Auriga. When striking from above, they can efficiently damage and cripple enemy units.
+Capacities
+Icon
+Name
+Effect
+Long Range
+Attack range of 4 tiles.
+-1 morale
+per adjacent enemey.
+Forest Rage
++50% Attack
+on forest tiles.
+Equipment Slots
+Weapons
+Longbow
+Crossbow
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Growing Buildings
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Growing_Buildings
+======================================================================
+
+Growing Buildings
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Industry
+Effects:
++25% building production cost reduction on cities.
+An Era V
+technology
+exclusive to the
+Wild Walkers
+which decreases the
+cost of buildings on cities by 25%. It is unlocked by completing Chapter 8 of the Wild Walkers faction quest.
+Lore
+Many things can be made to grow faster on Auriga; in some cases this applies also to the unliving.
+
+======================================================================
+PAGE: Survival Instinct
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Survival_Instinct
+======================================================================
+
+Survival Instinct
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Speed
+Effects:
++2 on movement
+when starting a turn with an enemy army in vision range on Wild Walkers.
+An Era II
+technology
+exclusive to the
+Wild Walkers
+which increases the
+movement speed of armies by 2 if they start their turn with an enemy army in vision range. Unlocked by completing Chapter 3 of the Wild Walkers faction quest.
+Mechanics
+The enemy army must be visible in order for the bonus to apply. Armies that are invisible due to the
+Stealth
+or
+Ghost Force
+capacities
+, or in the fog of war, or blocked by elevation, will not trigger the bonus.
+There is currently a bug where the bonus is recalculated when a game is loaded, giving applicable units an extra 2
+each time. This can be stacked infinitely, potentially allowing armies to move across the entire map in one turn.
+Lore
+Digging into the resources of their clan totem animals, Wild Walker units react with the speed of threatened beasts when enemy units are in sight.
+
+======================================================================
+PAGE: Tenei Walker
+CATEGORIES: Infantry Units, Units, Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Tenei_Walker
+======================================================================
+
+Tenei Walker
+Faction
+Wild Walkers
+Unit Type
+Infantry
+Base Attributes:
+Life
+180
+Attack
+22
+Initiative
+18
+Speed
+4
+Defense
+46
+Damage
+32
+Range
+1
+Sight
+3
+Cost:
+Production
+140
+The Tenei Walker is an infantry unit for the
+Wild Walkers
+. The Walker can be researched in the second
+Technology Era
+.
+Lore
+These incarnations of the powers of the forest followed the Wild Walkers when they emigrated from the vast woods of
+Auriga
+to the cities of the plains. A symbol of the origins of the Wild Walkers, Tenei Walkers are also powerful front-line fighters.
+Capacities
+Icon
+Name
+Effect
+Forest Rage
++50% Attack
+on forest tiles.
+Equipment Slots
+Weapons
+Claws
+Battle Axe
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: The Ogmakwan
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/The_Ogmakwan
+======================================================================
+
+The Ogmakwan
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Approval
+Effects:
++80
+on City
+Limited to one copy in your empire
+Costs:
+Production
+5000
+Upkeep
+10
+per turn
+A
+city improvement
+exclusive to the
+Wild Walkers
+obtained from
+The Ogmakwan
+technology which is unlocked by completing Chapter 7 of the Wild Walkers faction quest. Constructing The Ogmakwan is required to complete Chapter 8 of the Wild Walkers faction quest.
+Lore
+Strong as the structures of the Endless, with roots that reach deep into Auriga's crust and towers of impossible height, Zaltana's Ogmakwan is many things. Built from an enormous range of materials and assembled using physical principles no one else comprehends, Zaltana's great edifice will forever change the way structures are raised. It will also, with luck, help the Wild Walkers to survive the great Last Winter.
+
+======================================================================
+PAGE: The Ogmakwan (Technology)
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/The_Ogmakwan_(Technology)
+======================================================================
+
+The Ogmakwan (Technology)
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+City Improvement
+Focus
+Approval
+Effects:
+Unlocks The Ogmakwan for construction on cities
+An Era IV
+technology
+exclusive to the
+Wild Walkers
+which unlocks the construction of
+The Ogmakwan
+on cities. It is unlocked by completing Chapter 7 of the Wild Walkers faction quest.
+Lore
+Strong as the structures of the Endless, with roots that reach deep into Auriga's crust and towers of impossible height, Zaltana's Ogmakwan is many things. Built from an enormous range of materials and assembled using physical principles no one else comprehends, Zaltana's great edifice will forever change the way structures are raised. It will also, with luck, help the Wild Walkers to survive the great Last Winter.
+
+======================================================================
+PAGE: Visions of Glory
+CATEGORIES: Wild Walkers
+URL: https://endlesslegend.fandom.com/wiki/Visions_of_Glory
+======================================================================
+
+Visions of Glory
+Faction
+Wild Walkers
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Influence
+Effects:
++4
+when a city improvement is built on Wild Walkers
++4
+when a district is built on Wild Walkers
++4
+when a region improvement is built on Wild Walkers
+An Era I
+technology
+exclusive to the
+Wild Walkers
+which grants
+Influence for completing the construction of
+City Improvements
+,
+Districts
+, or other region improvements - such as resource extractors or
+watchtowers
+- in a city. It is unlocked by completing Chapter 2 of the Wild Walkers faction quest.
+Lore
+Though not superstitious, Wild Walkers have put some faith in signs and omens. As each new building rises in your empire, your people are energized by a hopeful future that is growing before their eyes.

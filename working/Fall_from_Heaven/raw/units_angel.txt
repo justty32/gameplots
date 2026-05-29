@@ -1,0 +1,363 @@
+
+======================================================================
+PAGE: Angel (Unit)
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Angel_(Unit)
+======================================================================
+
+Angel
+Race:
+Angel
+Unit Class:
+Melee Unit
+Requires:
+Mercurians
+Granted upon death of a unit with
+The Order
+,
+Empyrean
+, or
+Runes of Kilmorph
+OR granted upon razing a city with a
+Good
+civilization
+Starts With:
+Can use Bronze, Iron, Mithril Weapons
+1 Free Promotion
+Angel
+Info:
+4
++2
+Holy
+1
+Cost:
+N/A
+Upgrades To:
+Valkyrie
+Seraph
+Herald
+Ophanim
+Repentant Angel
+Angel of Death
+Strategy
+Treat your Angels like Great People that you can't settle until they're upgraded. Normally around this stage of the game when they come into play, Angels are weak and vulnerable to many enemies, especially those Assasins that would normally go after those magi instead. Keep in mind that the more experienced the Angel is, the more options of upgrading it will have as well.
+An interesting and overlooked fact is that if The Pyre of the Seraphic is accesible to you, Angels can sacrifice themsleves there to become Fire Elementals.
+Background
+I died as inanimate matter and arose a plant,    
+I died as a plant and rose again an animal.    
+I died as an animal and arose a man.    
+Why then should I fear to become less by dying?    
+I shall die once again as a man    
+To rise an angel perfect from head to foot!    
+Again when I suffer dissolution as an angel,    
+I shall become what passes the conception of man!    
+Let me then become non-existent, for non-existence    
+Sings to me in organ tones, 'To him shall we return.'
+Version History
+
+======================================================================
+PAGE: Angel of Death
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Angel_of_Death
+======================================================================
+
+Angel of Death
+Race:
+Angel
+Unit Class:
+Recon Unit
+Requires:
+Guilds (Tech)
+Mercurians
+Level 6
+Angel
+Starts With:
+Cannot Pillage
+-25% City Attack and Defense
+Can see
+Invisible
+Animals
+Immune to First Strikes
+1 First Strike
+Can explore rival territory
+Marksman
+Invisible
+Angel
+Vile Touch
+Info:
+8/6
++3
+Holy
+2
+Cost:
+N/A
+Upgrages From:
+Angel
+Special:
+Can View Rival City Details
+Reduces population of cities it attacks by 1
+Replaces:
+Shadow (Unit)
+Angels of Death are invisible and start with the Reaper promotion, decreasing the population of cities they attack by 1. Also they don't require the Council of Esus.
+"One may not escape the angel of death, nor say to him, 'Wait until I put my affairs in order,' or 'There is my son, my slave: take him in my stead.'" Where the angel of death appears there is no remedy.
+
+======================================================================
+PAGE: Herald
+CATEGORIES: Angel Units, Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Herald
+======================================================================
+
+Herald
+Race:
+Angel
+Unit Class:
+Disciple Unit
+Requires:
+Mercurians
+Animal Mastery
+Level 6
+Angel
+Starts With:
+Angel
+Cannot Pillage
+-20% City Attack
++50% vs
+Animals
+Can see
+Invisible
+Animals
+Can carry 1
+Hawk
+Better Results from Tribal Villages
+Can move through impassable terrain
+Subdue Animal
+Info:
+14
+2
+Cost:
+N/A
+Upgrades From:
+Angel
+Special:
+Can Cast
+Herald's Call
+Replaces:
+Beastmaster
+
+======================================================================
+PAGE: Host of the Einherjar
+CATEGORIES: Angel Units, Disciple Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Host_of_the_Einherjar
+======================================================================
+
+Host of Einherjar
+Race:
+Angel
+Unit Class:
+Disciple Units
+Requires:
+Summoned by
+Summon Host of the Einherjar
+Starts With:
+Cannot Pillage
+Angel
+Info:
+3
++2
+Holy
+1
+Cost:
+N/A
+Special:
+Summoned duration extended by 1 turn for every combat won
+The souls of those who died in honorable combat, and eager to return to it. Dead but not gone as long as their legends are sung, the Eiherjar can be called forth to fight against any odds, though if they win the battle they will stay to continue the fight, adding another verse to their song.
+
+======================================================================
+PAGE: Law Bringer
+CATEGORIES: Angel Units, Disciple Units
+URL: https://fallfromheaven.fandom.com/wiki/Law_Bringer
+======================================================================
+
+Law Bringer
+Race:
+Angel
+Unit Class:
+Disciple Units
+Requires:
+Sanctify
+cast on a
+Graveyard
+Starts With:
+Cannot Pillage
+Angel
+Info:
+4
++2
+Holy
+2
+Cost:
+N/A
+OUTDATED UNIT.  This unit has been replaced with the
+Host of the Einherjar
+
+======================================================================
+PAGE: Odio
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Odio
+======================================================================
+
+File:Placeholder
+Odio was the once powerful Archangel of the Angel of Rage, Aeron. After the Fall of Agares the Angel of Hope and now Despair, Aeron became the Angel of Strength to the Angel of Rage.
+When the One sundered the path of Heaven and Erebus all the angels except Agares created armies of angels that were loyal to them. They also created an angel that would be second in command other than themselves, this was called an "Archangel". Then when the Gods began the great battle called the "Gods War", all the angels fought to the death.
+Several of the neutral Gods saw what the war was doing to Erebus. They stood up against the rest of the Angels and threatened to attack anyone that wanted to wage more war. After seeing this the other gods obliged and created the Compact, but Odio wasn't finished with the war yet and unleashed an army of Ira onto the forces of the Angel of Earth, Kilmorph. Outraged by this Kilmorph quickly confronted the other Angels, and not wanting to start another gods war, everyone decided that Odio violated the Compact and should be punished for it. So Kilmorph grabbed Odio by the foot and pull him into the earth and eternally turned him into stone.
+To this day the place where Odio was petrified can be seen, people who lived close by named it Odio's Prison. It is not known whether Aeron has a new Archangel or not, or whether Odio's punishment will ever end.
+
+======================================================================
+PAGE: Ophanim
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Ophanim
+======================================================================
+
+Ophanim
+Race:
+Angel
+Unit Class:
+Mounted Unit
+Requires:
+Warhorses
+Mercurians
+Horse
+or
+Nightmare
+Level 6
+Angel
+Starts With:
+Can Use Bronze, Iron, and Mithril Weapons
+Does Not Receive Defensive Bonuses
++25% Withdrawal Chance
++50% vs
+Archery Units
+Flying
+Angel
+Info:
+9/6
++3
+Holy
+2
+Cost:
+N/A
+Upgrages From:
+Angel
+Replaces:
+War Chariot
+
+======================================================================
+PAGE: Repentant Angel
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Repentant_Angel
+======================================================================
+
+Repentant Angel
+Race:
+Angel
+Unit Class:
+Melee Unit
+Requires:
+Warhorses
+Mercurians
+Level 3
+Angel
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Angel
+Info:
+12
++4
+Holy
+3
+Cost:
+N/A
+Upgrades From:
+Angel
+Special:
+Loses 1 strength after killing any living unit
+Replaces:
+Knight
+Strategy
+Background
+Repentant Angels are powerful, but they lose 1 point of strength every time they kill a living creature.
+Version History
+
+======================================================================
+PAGE: Seraph
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Seraph
+======================================================================
+
+Seraph
+Race:
+Angel
+Unit Class:
+Melee Unit
+Requires:
+Rage
+Mercurians
+Level 6
+Angel
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Does Collateral Damage at 40% Strength
+Maximum 20% Damage on up to 4 units
+Fire I
+Angel
+Channeling I
+Chanelling II
+Divine
+Info:
+8/2
++3
+Holy
+1
+Cost:
+N/A
+Upgrades From:
+Angel
+Replaces:
+Berserker
+
+======================================================================
+PAGE: Valkyrie
+CATEGORIES: Angel Units
+URL: https://fallfromheaven.fandom.com/wiki/Valkyrie
+======================================================================
+
+Valkyrie
+Race:
+Angel
+Unit Class:
+Melee Unit
+Requires:
+Divine Essence
+Mercurians
+Level 9
+Angel
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Resurrected in the civilization's capital if killed
+Angel
+Info:
+6
++3
+Holy
+1
+Cost:
+N/A
+Upgrades From:
+Angel
+Special:
+Does not lose
+Immortal Promotion
+when respawned
+Replaces:
+Immortal
+Respawned in capital when killed.

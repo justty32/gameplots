@@ -1,0 +1,562 @@
+
+======================================================================
+PAGE: Altar of Channeling
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Altar_of_Channeling
+======================================================================
+
+Altar of Channeling
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Dust
+Effects:
++5
+per
+on city
++5
+on city
+Costs:
+Production
+1500
+A
+city improvement
+exclusive to the
+Broken Lords
+obtained from the
+Altar of Channeling
+technology which is unlocked by completing Chapter 8, part 1 of the Broken Lords faction quest. Constructing the Altar of Channeling in at least 3 of your cities is required to complete Chapter 8 of the Broken Lords faction quest.
+Lore
+Based on designs and concepts of the Endless - and therefore incomprehensible - these structures, when built, create a chain of holy sites that sense, absorb, and renew Dust.
+
+======================================================================
+PAGE: Altar of Channeling (Technology)
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Altar_of_Channeling_(Technology)
+======================================================================
+
+Altar of Channeling (Technology)
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+City Improvement
+Focus
+Dust
+Effects:
+Unlocks the Altar of Channeling for construction in cities
+An Era IV
+technology
+exclusive to the
+Broken Lords
+which unlocks the
+Altar of Channeling
+for construction in cities. It is unlocked by completing Chapter 8, part 1 of the Broken Lords faction quest.
+Lore
+Based on designs and concepts of the Endless - and therefore incomprehensible - these structures, when built, create a chain of holy sites that sense, absorb, and renew Dust.
+
+======================================================================
+PAGE: Archaeologist
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Archaeologist
+======================================================================
+
+Archaeologist
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+Empire
+Focus
+Science
+Effects:
++20% research cost reduction for Era I technologies on Empire.
+An Era I
+technology
+exclusive to the
+Broken Lords
+which reduces the research cost of Era I technologies by 20%. It is unlocked by completing Chapter 1 of the Broken Lords faction quest.
+Since the research discount is more beneficial the earlier it is acquired, it is highly recommended to complete Chapter 1 of the faction quest as quickly as possible. Not to mention, Chapter 2 of the faction quest will require a total of 12 technologies from Era I (10 with
+ELCP
+) to complete.
+Lore
+It is of great value to study the artifacts and history of Auriga - particularly with an eye to predicting its future.
+
+======================================================================
+PAGE: Dust Bishop
+CATEGORIES: Broken Lords, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Dust_Bishop
+======================================================================
+
+Dust Bishop
+Faction
+Broken Lords
+Unit Type
+Support
+Base Attributes:
+Life
+122
+Attack
+8 (16 with
+ELCP
+)
+Initiative
+6 (16 with
+ELCP
+)
+Speed
+4
+Defense
+28
+Damage
+30 (36 with
+ELCP
+)
+Range
+3
+Sight
+3
+Cost:
+Production
+120
+The
+Dust Bishop
+is a support unit for the
+Broken Lords
+. The Dust Bishop can be researched in the second
+Technology Era
+.
+Lore
+A holy leader within the church of the Broken Lords, they are responsible for the well-being of the troops with whom they serve. Able to summon the Blessed Curse in the midst of battle, their capability as healers is important on the battlefield.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Dust Care
+Can be healed with dust.
+Life Siphon
+Heals the adjacent friendly units of an amount equal to 35% of the damage inflicted when attacking.
+Equipment
+Weapons
+Longscepter
+Magewand
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+Trivia
+Dust Bishops were formerly named Black Bishops, but this was changed early in the Alpha stage of the game.
+
+======================================================================
+PAGE: Dust Crematorium
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Dust_Crematorium
+======================================================================
+
+Dust Crematorium
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+Empire
+Focus
+Dust
+Effects:
++1 XP converted into
+on empire
+An Era II
+technology
+exclusive to the
+Broken Lords
+which gives 1
+for every XP earned by units or heroes on the empire. It is unlocked by completing Chapter 4, part 1 of the Broken Lords faction quest.
+The Dust Crematorium is a major part of the Broken Lords' aggressive play style, as it makes winning combat extremely profitable: battles in the mid game can reward hundreds of dust, easily growing to thousands later. This is especially beneficial when playing against higher
+difficulty
+AI factions which can produce a seemingly, ahem, endless number of units.
+Because of how important this technology is, it is highly advised to unlock it as quickly as possible.
+Lore
+Battlefield salvage teams bring the Broken Lords dead to crematorium sites where their living essence and traces of Dust can be extracted.
+
+======================================================================
+PAGE: Endless Lode Crystal
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Endless_Lode_Crystal
+======================================================================
+
+Endless Lode Crystal
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+Insignia
+Effects:
++20
+on unit
+Can be equipped by Broken Lords heroes only
+Capacities:
+No Capacities
+Costs:
+Resource
+200
+The Endless Lode Crystal is an
+Insignia
+exclusive to the
+Broken Lords
+, received for completing Chapter 7 of their faction quest. The item is essential for the completion of Chapter 8 part 1, as it must be equipped on a Broken Lords hero governing a city along with the
+Quivering Circlet
+and
+Pendant of Judgement
+.
+Lore
+This beautifully shaped block of an unknown material or element, glowing in a deep red-gold color, is more than the crystal it appears to be. Certain markings indicate it was once part of some sort of great object.
+
+======================================================================
+PAGE: Pendant of Judgement
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Pendant_of_Judgement
+======================================================================
+
+Pendant of Judgement
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
++20
+on city
+Can be equipped by Broken Lords heroes only
+Capacities:
+No Capacities
+Costs:
+Resource
+100
+The Pendant of Judgement is a
+Tome
+exclusive to the
+Broken Lords
+, received for completing Chapter 5 of their faction quest. The item is essential for the completion of two parts of the Broken Lords faction quest: First, to complete Chpater 6 part 1, it must be equipped on a Broken Lords hero when searching the indicated ruin. Second, to complete Chapter 8 part 1, it must be equipped on a Broken Lords hero governing a city along with the
+Quivering Circlet
+and
+Endless Lode Crystal
+.
+Lore
+More than a mere pendant, this enormous, multi-piece brooch could be a series of detailed etchings - or a web of almost infinitely small cogs - and is certainly but one part of a whole.
+
+======================================================================
+PAGE: Penitent Chapel
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Penitent_Chapel
+======================================================================
+
+Penitent Chapel
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
++1% Broken Lords unit regeneration per pacified village (in same region) on Broken Lords
+An Era II
+technology
+exclusive to the
+Broken Lords
+which increases the passive health regeneration of Broken Lords units. Unlocked by completing Chapter 3, part 1 of the Broken Lords faction quest.
+The tooltip description is misleading: the +1% regeneration only counts the number of pacified
+villages
+in the same region
+. This is even more confusing given that the
+Mykara symbiosis effect for the Broken Lords
+has the exact same tooltip description, but counts all pacified villages in the empire.
+After unlocking, Broken Lords units will regenerate 0-3% of their health per turn, up from the baseline 0%. The regeneration effect works in owned or allied territory. Villages in question do not need to be rebuilt to count.
+Lore
+In friendly - or subservient - villages, Broken Lords consecrate chapels that feed life force of the inhabitants back to troops operating in the region.
+
+======================================================================
+PAGE: Quivering Circlet
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Quivering_Circlet
+======================================================================
+
+Quivering Circlet
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
++7
+on city
++7
+on city
++7
+on city
+Can be equipped by Broken Lords heroes only
+Capacities:
+No Capacities
+Costs:
+Resource
+50
+The Quivering Circlet is a
+Tome
+exclusive to the
+Broken Lords
+, received for completing Chapter 2 of their faction quest. It must be equipped to a Broken Lords hero assigned to a city, along with the
+Pendant of Judgement
+and
+Endless Lode Crystal
+, to complete Chapter 8, part 1 of the Broken Lords faction quest.
+Lore
+Though it fits comfortably around the skull, the constant vibration of this silver circlet and its ethereal lightness indicate an ancient and magical origin. Carefully placed holes indicate it was once part of a larger configuration.
+
+======================================================================
+PAGE: Ryder
+CATEGORIES: Broken Lords, Cavalry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Ryder
+======================================================================
+
+Ryder
+Faction
+Broken Lords
+Unit Type
+Cavalry
+Base Attributes:
+Life
+108
+Attack
+28
+Initiative
+26
+Speed
+6
+Defense
+34
+Damage
+28
+Range
+1
+Sight
+3
+Cost:
+Production
+60
+Ryder is an cavalry unit for the
+Broken Lords
+. Ryder can be researched in the first
+Technology Era
+.
+Lore
+Riding armored units bearing an appearance similar to themselves, the cavalry of the Broken Lords fall upon their enemies not merely with the force of their charge, but also with the lightning of their zealous faith.
+Capacities
+Icon
+Name
+Effect
+Dust Care
+Can be healed with dust.
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Life Drain 2
++2 Life
+drained per level from the target when attacking.
+Slow 1
+-1 battle Movement
+ELCP Changes
+With
+ELCP
+they have been buffed to have
+Life Drain 3
+instead:
+Icon
+Name
+Effect
+Dust Care
+Can be healed with dust.
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Life Drain 3
++4 Life
+drained per level from the target when attacking.
+Slow 1
+-1 battle Movement
+Equipment Slots
+Weapons
+Longspear
+Hammer
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Sighing Scepter of Auir
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Sighing_Scepter_of_Auir
+======================================================================
+
+Sighing Scepter of Auir
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
++30
+on unit
++10
+on unit
+Capacities:
+No Capacities
+Costs:
+Resource
+10
+Sighing Scepter of Auir
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
++20
+on unit
+Capacities:
+No Capacities
+Costs:
+Resource
+10
+The Sighing Scepter of Auir is a
+Talisman
+exclusive to the
+Broken Lords
+, received for completing Chapter 6 part 1 of their faction quest. The item is essential for the completion of Chapter 7 part 1 of the Broken Lords faction quest, which requires an army of 8 (6 if using a custom faction with the Anarchists
+trait
+) units all equipped with the Scepter. Fortunately, this task is made much easier due to the reward for completing Chapter 6 being 60 of the strategic resource the Scepter requires.
+The reason that there are two different Scepters shown is because there is a random chance to end up with one or the other, and determines which versions of Chapter 6 and 7 of the Broken Lords faction quest the player gets. While the only difference in gameplay between these two paths is the Scepter itself, there are slight differences in the name, description, summary, and outcome text of the quests.
+Lore
+If you place your ear on this white-blue metal rod you will hear something. Is it echoes of a distant bell, the keening of lost souls, or merely the wind?
+
+======================================================================
+PAGE: Stalwarts
+CATEGORIES: Broken Lords, Infantry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Stalwarts
+======================================================================
+
+Stalwarts
+Faction
+Broken Lords
+Unit Type
+Infantry
+Base Attributes:
+Life
+140
+Attack
+18
+Initiative
+10
+Speed
+3
+Defense
+46
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+60
+Stalwarts are an infantry unit for the
+Broken Lords
+. Two Stalwarts constitute the starting force for the Broken Lords. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+The mainstay and backbone of the Broken Lords' armies, the infantry units learn to take and hold ground at a slow but solid pace. Being touched by the Curse of the Lords, they are occasionally able to heal themselves by reducing the health of enemy troops.
+Capacities
+Icon
+Name
+Effect
+Dust Care
+Can be healed with dust.
+Soul Leech
+Recovers 20% Life
+when the target that is attacked this round dies before the end of the round.
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Sword
+Shield
+Claymore
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Synchronic Temple
+CATEGORIES: Broken Lords
+URL: https://endlesslegend.fandom.com/wiki/Synchronic_Temple
+======================================================================
+
+Synchronic Temple
+Faction
+Broken Lords
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+Units are instantly healed after a battle on empire
+An Era IV
+technology
+exclusive to the
+Broken Lords
+which makes it so that all units in the empire are fully healed after battles. It is unlocked by completing Chapter 8 of the Broken Lords faction quest.
+Lore
+All things on Auriga are linked through the presence and power of Dust. The Synchronic Temple permits the Broken Lords to tap into this essence, channeling the Dust of all things to heal wounded units after battle.

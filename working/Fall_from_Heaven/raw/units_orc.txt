@@ -1,0 +1,288 @@
+
+======================================================================
+PAGE: Goblin
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Goblin
+======================================================================
+
+Goblin
+Race:
+Orcish
+Unit Class:
+Recon Unit
+Requires:
+Clan of Embers
+Starts With:
+Cannot Pillage
+Can see
+Invisible
+Animals
+Better Reults from Tribal Villages
++50% vs
+Animals
+Orcish
+Info:
+2
+1
+Cost:
+15
+Upgrades To:
+Wolf Rider
+Special:
+Will automatically upgrade to
+Wolf Rider
+if combat with a
+Wolf
+or
+Wolf Pack
+is won
+Replaces:
+Scout
+It was originally thought that goblins were merely the runts of the Orc populations, but later it was confirmed that they are indeed a distinct species. What has been obvious from the first notice of these sad creatures is their dismal fate. They are kicked around by anyone above them in the Orc hierarchy, which is to say everyone. They get no respect from Orcs, Ogres, or Lizardmen, and even their Wolf mounts have been known to turn on goblins if they get a bit hungry. Some Goblins accept this fate, and they can be found doing the most menial tasks in the Barbarian villages. Most however channel this abuse into hatred for the outside world, and they are sent out ahead of Orc war bands to cause mayhem where ever they can. Woe to the worker or scout that is ambushed by a group of these goblins.
+
+======================================================================
+PAGE: Goblin Worker
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Goblin_Worker
+======================================================================
+
+Goblin Worker
+Race:
+Orcish
+Unit Class:
+No Unit Class
+Requires:
+Clan of Embers
+Starts With:
+Orcish
+Info:
+0
+2
+Cost:
+75
+Special:
+Builds at 90% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Replaces:
+Worker
+The majority of people in all civilizations throughout time have been workers. Whether engaged in farming, commerce, or industry, their actions form the economic infrastructure without which no nation can succeed. Over time, the endless activity of workers has reshaped the very suface of the land by mining hills, cutting down huge stretches of forest, and irrigating hostile terrain into fertile farmland.
+
+======================================================================
+PAGE: Ogre
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Ogre
+======================================================================
+
+Ogre
+Race:
+Orcish
+Unit Class:
+Melee Unit
+Requires:
+Iron Working
+Training Yard
+Clan of Embers
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Orcish
+Info:
+8
+1
+Cost:
+150
+Upgrades To:
+Ogre Warchief
+Stoneskin Ogre
+Replaces:
+Champion
+Pike men are disciplined troops wielding massive poles that they brace on the ground to counter cavalry charges. The Clan of Embers has no need of these formations; they have Ogres. Massive brutes swinging around tree trunks, they can send cavalry flying with a single swipe. Unintelligent, even compared to Orcs and Goblins, it doesn't take a great sage to realize when a company of cavalry is charging you, you'd better strike hard and fast.
+
+======================================================================
+PAGE: Ogre Warchief
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Ogre_Warchief
+======================================================================
+
+Ogre Warchief
+Race:
+Orcish
+Unit Class:
+Melee Unit
+Requires:
+Armored Cavalry
+Hippodrome
+Clan of Embers
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Orcish
+Info:
+13/11
+3
+Cost:
+300
+Upgrades From:
+Ogre
+In human societies 'chief' often denotes a wise and revered leader. Ogres, however, respect only strength. Leadership of their cities can change in a single brawl. Actually, when these brutes begin to march on human cities, they can change leadership with a single brawl as well. One look at what the War chief does to the first defender will often induce all the back up to flee in terror.
+
+======================================================================
+PAGE: Orc Slave
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Orc_Slave
+======================================================================
+
+Orc Slave
+Race:
+Orcish
+Unit Class:
+No Unit Class
+Requires:
+Purchased from
+Slave Ring
+OR
+Captured after combat
+Starts With:
+Orcish
+Info:
+0
+2
+Cost:
+N/A
+Upgrades To:
+Lunatic
+Special:
+Builds at 50% Workrate
+Can Build
+Farm
+Can Build
+Mine
+Can Build
+Road
+Can Build
+Quarry
+Can Build
+Camp
+Can Build
+Workshop
+Can Build
+Lumbermill
+Can Build
+Watermill
+Can Build
+Fort
+Can Build
+Winery
+Can Build
+Plantation
+Can Build
+Cottage
+Can Build
+Windmill
+Can Build
+Pasture
+Can Remove
+Jungle
+and
+Forest
+Can Sacrifice for 10
+Replaces:
+Slave
+A civilization with the Slavery civic will capture 25% of the units it defeats in combat and convert them into slave units. A slave acts like a worker, but builds at half the normal speed. Slaves can also be sacrificed to add a small amount of production to a city's current production.
+
+======================================================================
+PAGE: Stoneskin Ogre
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Stoneskin_Ogre
+======================================================================
+
+Stoneskin Ogre
+Race:
+Orcish
+Unit Class:
+Melee Unit
+Requires:
+Warhorses
+Hippodrome
+Clan of Embers
+Starts With:
+Can Use Bronze, Iron, Mithril Weapons
+Stoneskin
+Orcish
+Info:
+13/17
+3
+Cost:
+300
+Upgrades From:
+Ogre
+Ogres have tremendous regenerative ability and a very high tolerance for pain. Long lived ogres will typically be covered in scars, but these old wounds give them a thick layer of calluses, further reducing their susceptibility to pain. Their reflexes tend to be dulled somewhat, but killing a Stone-skin ogre is a tremendously difficult task. Even wounding one is rare, and is not recommended without a great withdrawal rate.
+
+======================================================================
+PAGE: Wolf Rider
+CATEGORIES: Orc Units
+URL: https://fallfromheaven.fandom.com/wiki/Wolf_Rider
+======================================================================
+
+Wolf Rider
+Race:
+Orcish
+Unit Class:
+Mounted Unit
+Requires:
+Horseback Riding
+Clan of Embers
+OR
+A
+Goblin
+defeating a
+Wolf
+in combat
+Starts With:
+>Does Not Receive Defensive Bonuses
++10% Withdrawal Chance
++40% vs
+Archery Units
+Orcish
+Info:
+4
+3
+Cost:
+60
+Upgrages From:
+Goblin
+Upgrades To:
+Chariot
+Replaces:
+Horseman
+"In battle, the wild ones copy the tactics of civilization, though they could not hope to understand them. They march in rough companies, but break into a frenzy at the first sight of the enemy, thus negating the formations. They hail a leader, but follow their own plans when his back is turned. They divide a portion of their force for cavalry, despite being unable to mount a horse. Although... of the Wolf Riders, I have gained a grudging respect, in their bravery at mounting such a fearsome beast--and at their aptitude for it."
+Excerpt from Lilar Jaswin's "Interactions among the lesser races," chapter IV

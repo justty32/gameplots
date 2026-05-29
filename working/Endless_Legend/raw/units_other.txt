@@ -1,0 +1,473 @@
+
+======================================================================
+PAGE: Artillery Ship
+CATEGORIES: Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Artillery_Ship
+======================================================================
+
+Artillery Ship
+Faction
+All
+Unit Type
+Juggernaut
+Base Attributes:
+Life
+244
+Attack
+28
+Initiative
+20
+Speed
+3
+Defense
+24
+Damage
+70
+Range
+4
+Sight
+3
+Cost:
+Production
+80
+10
+The Artillery Ship is a naval unit unlocked by the
+Artillery Ship technology
+in
+Research Era III.
+A city must have at least one exploited sea or lake tile where the Artillery Ship will spawn upon completion, which is normally designated by a movable Anchor icon in the city screen. If there is a naval army on that tile owned by the owner of the city with room for more units, the Artillery Ship will automatically be merged into that army upon completion. If the designated tile is occupied by an army with no more room, an enemy naval army, a
+transport ship
+, or a tile of ice shelf during
+winter
+, the Artillery Ship will spawn on the nearest available exploited sea or lake tile. If there are no available sea or lake tiles, construction of the Artillery Ship cannot be completed.
+Lore
+This unit is designed to fire explosive projectiles at enemy ships.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Long Range
+Attack range of 4 tiles.
+-1 morale
+per adjacent enemey.
+Artillery
+Unlocks the Army Action: Coastal Bombardment.
+-50% Attack
+when attacking or counter attacking an adjacent unit.
+-50% Damage
+when attacking or counter attacking an adjacent unit.
+Equipment Slots
+Weapons
+Broadside
+Trebuchet
+Armor
+Plating
+Hydrofoils
+Prow
+2
+Accessory
+Slots
+
+======================================================================
+PAGE: Bathysphere
+CATEGORIES: Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Bathysphere
+======================================================================
+
+Bathysphere
+Faction
+All
+Unit Type
+Submersible
+Base Attributes:
+Life
+60
+Attack
+38
+Initiative
+22
+Speed
+5
+Defense
+38
+Damage
+40
+Range
+1
+Sight
+4
+Cost:
+Production
+60
+10
+The Bathysphere is a naval unit unlocked by the
+Bathysphere technology
+in
+Research Era III.
+A city must have at least one exploited sea or lake tile where the Bathysphere will spawn upon completion, which is normally designated by a movable Anchor icon in the city screen. If there is a naval army on that tile owned by the owner of the city with room for more units, the Bathysphere will automatically be merged into that army upon completion. If the designated tile is occupied by an army with no more room, an enemy naval army, a
+transport ship
+, or a tile of ice shelf during
+winter
+, the Bathysphere will spawn on the nearest available exploited sea or lake tile. If there are no available sea or lake tiles, construction of the Bathysphere cannot be completed.
+Lore
+This highly secretive unit can travel almost invisibly beneath the waters.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Submersion
+Cannot be submerged on coastal water tiles
+x5 Defense
+when submerged
+Can pass through opponent units
+Ignores Endless Flames effects
+Cannot counter attack
+Ignores sea weather penalties
+Can see invisible units
+Will become invisible when submerged
+Invisibility doesn't work against adjacent army
+Equipment Slots
+Weapons
+Satchel Charges
+Endless Flames
+Armor
+Plating
+Hydrofoils
+2
+Accessory
+Slots
+
+======================================================================
+PAGE: Boarding Vessel
+CATEGORIES: Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Boarding_Vessel
+======================================================================
+
+Boarding Vessel
+Faction
+All
+Unit Type
+Interceptor
+Base Attributes:
+Life
+68
+Attack
+24
+Initiative
+26
+Speed
+6
+Defense
+36
+Damage
+36
+Range
+1
+Sight
+3
+Cost:
+Production
+30
+10
+The Boarding Vessel is a naval unit unlocked by the
+Boarding Vessel technology
+in
+Research Era I. It is the fastest of the available naval units, making it a very effective scouting vessel.
+A city must have at least one exploited sea or lake tile where the Boarding Vessel will spawn upon completion, which is normally designated by a movable Anchor icon in the city screen. If there is a naval army on that tile owned by the owner of the city with room for more units, the Boarding Vessel will automatically be merged into that army upon completion. If the designated tile is occupied by an army with no more room, an enemy naval army, a transport ship, or a tile of ice shelf during winter, the Boarding Vessel will spawn on the nearest available exploited sea or lake tile. If there are no available sea or lake tiles, construction of the Boarding Vessel cannot be completed.
+Lore
+This unit is designed to carry troops that attack enemy ships.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Equipment Slots
+Weapons
+Boarding Spikes
+Satchel Charges
+Armor
+Plating
+Hydrofoils
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Fire Ship
+CATEGORIES: Naval Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Fire_Ship
+======================================================================
+
+Fire Ship
+Faction
+All
+Unit Type
+Frigate
+Base Attributes:
+Life
+180
+Attack
+36
+Initiative
+18
+Speed
+4
+Defense
+28
+Damage
+24
+Range
+1
+Sight
+3
+Cost:
+Production
+60
+10
+The Fire Ship is a naval unit unlocked by the
+Fire Ship technology
+in
+Research Era II.
+A city must have at least one exploited sea or lake tile where the Fire Ship will spawn upon completion, which is normally designated by a movable Anchor icon in the city screen. If there is a naval army on that tile owned by the owner of the city with room for more units, the Fire Ship will automatically be merged into that army upon completion. If the designated tile is occupied by an army with no more room, an enemy naval army, a
+transport ship
+, or a tile of ice shelf during
+winter
+, the Fire Ship will spawn on the nearest available exploited sea or lake tile. If there are no available sea or lake tiles, construction of the Fire Ship cannot be completed.
+Lore
+This unit is designed to use the most dangerous of all naval weapons - fire.
+Capacities
+Icon
+Name
+Effect
+Naval Unit
+Cannot disembark or participate in ground battles
+Must be placed on a water tile
+Equipment Slots
+Weapons
+Endless Flames
+Dust Focal
+Armor
+Plating
+Hydrofoils
+Prow
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Militia
+CATEGORIES: Units
+URL: https://endlesslegend.fandom.com/wiki/Militia
+======================================================================
+
+Militia
+Faction
+All
+Unit Type
+Infantry
+Base Attributes:
+Life
+60
+Attack
+32
+Initiative
+10
+Speed
+4
+Defense
+24
+Damage
+16
+Range
+1
+Sight
+3
+Cost:
+Production
+N/A
+Militia are a special unit automatically generated in cities to serve as the first line of defense. Militia are garrisoned in cities, but do not count against the number of units that can be garrisoned in them, and will be automatically generated up to 4 by default so long as the city is not under siege. Additionally, militia are automatically equipped with the highest-tier Iron or Dust Longspear available, and cannot have their equipment changed. Militia also do not possess the same capacities as other units from that faction might - for example, the
+Broken Lords
+militia does not possess the Dust Care capacity, and so does regenerate health normally.
+Generally speaking, while militia provide a city with some additional defense, the militia units are fairly weak, and should not be the only thing defending a city if it under threat. If you expect your city to be attacked soon, it would be advisable to place some more units in the garrison for the city.
+Lore
+Every city can call up conscripts when its walls are threatened. The last line of defense, these civilian troops are ready to lay their lives down to protect their families.
+Capacities
+Icon
+Name
+Effect
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Longspear
+Armor
+None
+
+======================================================================
+PAGE: Scyther
+CATEGORIES: Units
+URL: https://endlesslegend.fandom.com/wiki/Scyther
+======================================================================
+
+Scyther
+Faction
+All
+Unit Type
+Flying
+Base Attributes:
+Life
+180
+Attack
+36
+Initiative
+42
+Speed
+6
+Defense
+50
+Damage
+40
+Range
+1
+Sight
+4
+Cost:
+Production
+250
+5
+5
+4
+4
+1
+1
+The Scyther is a unit unlocked by the
+Scyther
+technology in
+Research
+Era III
+. This technology can only be acquired by completing the Wings of Ruin
+side quest
+.
+The Scyther is the only unit able to wield the
+Scythe of Auriga
+unique weapon.
+Lore
+Created by the Endless in their purge of Auriga - and of any power that might withstand them - the Scythers were designed with one goal in mind: To destroy any beings whose strenght derived from Dust. Only partially effective during the Schism and Dust Wars, the units were left in hibernation when the Endless on Auriga disappeared.
+Capacities
+Note: If you play with
+ELCP
+, Scyther got the "Urkan Slayer 2" capacity. This unit is expensive and rarily seen, with the introduction of very strong Urkans it can now serve as alternative way to counter them.
+In vanilla game version
+Icon
+Name
+Effect
+Beam
+Overrides the default attack only.
+Allows to attack enemies behind the initial target up to 3 tiles.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Guardian Slayer 2
++100% Damage
+against Guardians
+.
++100% Attack
+against Guardians
+.
+With
+ELCP
+Icon
+Name
+Effect
+Beam
+Overrides the default attack only.
+Allows to attack enemies behind the initial target up to 3 tiles.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Guardian Slayer 2
++100% Damage
+against Guardians
+.
++100% Attack
+against Guardians
+.
+Urkan Slayer 2
++50% Damage
+dealt to Urkans.
+Equipment Slots
+Weapons
+Claymore
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Taskol
+CATEGORIES: Units
+URL: https://endlesslegend.fandom.com/wiki/Taskol
+======================================================================
+
+Taskol
+Faction
+Quest
+Unit Type
+Infantry
+Base Attributes:
+Life
+200
+Attack
+26
+Initiative
+14
+Speed
+4
+Defense
+56
+Damage
+30
+Range
+1
+Sight
+3
+Cost:
+Production
+N/A
+The Taskol is a unit encountered as part of the
+Victory Quest
+.
+Lore
+These brutish creatures are only found in certain ruins of the Endless. Created out of desperation when time and resources were running out, their simple structure allowed them to survive when so much of Auriga died.
+Capacities
+Icon
+Name
+Effect
+Beam
+Overrides the default attack only.
+Allows to attack enemies behind the initial target up to 3 tiles.
+Disease Immunity
+Provides immunity against any Disease or Parasitism
+Equipment Slots
+Weapons
+Claws
+Battle Hammer
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+Note: While the base unit design has the capability to equip these items, the unit faced in the victory quest will be equipped a with Tier 3 Iron Battle Hammer only.

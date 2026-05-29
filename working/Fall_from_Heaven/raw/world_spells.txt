@@ -1,0 +1,565 @@
+
+======================================================================
+PAGE: Arcane Lacuna
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Arcane_Lacuna
+======================================================================
+
+The Amurites' World Spell. Prevents all spells from being cast, spell casters, priests, demons, or even your world spell can't be used.
+
+======================================================================
+PAGE: Arcane Larcuna
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Arcane_Larcuna
+======================================================================
+
+The Amurites' World Spell. Prevents all spells from being cast, spell casters, priests, demons, or even your world spell can't be used.
+
+======================================================================
+PAGE: Ardor
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Ardor
+======================================================================
+
+DESCRIPTION
+Can be used once per game.
+Can only be used by the
+Grigori
+civilization.
+Resets the player's great person count.
+CONCEPT
+Great People are created when a certain amount of Great Person Points (GPP) has been achieved.  Each time a Great Person is created within a civilization, the number of GPP required to create that person increases.  The Grigori have a civilization specific bonus that allows them to generate an "Adventurer" as a Great Person with the Hero Promotion.  This person can be upgraded to a military unit depending on what your tech level allows you to build.
+The concept of this spell, and it's greatest effect is late-mid game to late game when the amount of GPP needed to generate the next Great Person is enormous.  This World Spell resets this value so that you may start to produce Great People as if you had never done this before.
+
+======================================================================
+PAGE: Ascension
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Ascension
+======================================================================
+
+Ascension is a ritual that can only be built by the
+Illians
+. It is the fifth and final Illian winter ritual; it is available at
+Omniscience
+and it requires that
+the Draw
+ritual be completed. When Ascension is completed,
+Auric Ulvin
+will ascend to godhood. The  Illian player will receive
+Auric Ascended
+, and the highest scored player that is not allied to the  Illians will receive
+the Godslayer
+.
+Ascension has a construction cost of 1200
+.
+
+======================================================================
+PAGE: Bane Divine
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Bane_Divine
+======================================================================
+
+Bane Divine
+Requires:
+Malevolent Designs
+Armageddon Counter
+of at least 70
+Info:
+All
+Disciple Units
+in the world are replaced with Tier 1 Disciples of the same religion
+Cost:
+10,000
+Type:
+Ritual
+Special:
+Double production speed with
+Death Mana
+or
+Entropy Mana
+, quadruple with both
+
+======================================================================
+PAGE: Birthright Regained
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Birthright_Regained
+======================================================================
+
+Birthright Regained
+Requires:
+Omniscience
+Info:
+Allows civilization to cast their
+World Spell
+twice
+Cost:
+700
+Type:
+Ritual
+
+======================================================================
+PAGE: Blood of the Phoenix
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Blood_of_the_Phoenix
+======================================================================
+
+Blood of the Phoenix
+Requires:
+Divine Essence
+Info:
+Grants the
+Immortal
+promotion to all of civilization's living units
+Cost:
+1,000
+Type:
+Ritual
+Special:
+Double production speed with
+Life Mana
+
+======================================================================
+PAGE: Elegy of the Sheaim
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Elegy_of_the_Sheaim
+======================================================================
+
+Elegy of the Sheaim
+Requires:
+Sheaim
+Way of the Wicked
+Info:
+Adds 5 to the
+Armageddon Counter
+Cost:
+600
+Type:
+Ritual
+Special:
+Can be completed unlimited times
+
+======================================================================
+PAGE: For the Horde
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/For_the_Horde
+======================================================================
+
+Cast by the
+Clan of Embers
+. Converts 50% of the world's barbarian orc and goblin units to your side, including
+Ogres
+,
+Warchieves
+and workers of
+Orchish race
+.
+
+======================================================================
+PAGE: Genesis
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Genesis
+======================================================================
+
+Genesis
+Requires:
+Commune with Nature
+Info:
+All tiles have
+Vitalize
+cast upon them, if tile is grassland with no improvments
+Bloom
+is cast
+Cost:
+1,250
+Type:
+Ritual
+Special:
+Double production speed with
+Nature Mana
+
+======================================================================
+PAGE: Glory Everlasting
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Glory_Everlasting
+======================================================================
+
+Glory Everlasting
+Requires:
+Righteousness
+Armageddon Counter
+at least 70
+Info:
+All
+Demon
+and
+Undead
+units in the world are destroyed
+Cost:
+10,000
+Type:
+Ritual
+Special:
+Double production speed with
+Life Mana
+or
+Law Mana
+, quadruple with both
+
+======================================================================
+PAGE: Hallowing of the Elohim
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Hallowing_of_the_Elohim
+======================================================================
+
+Hallowing of the Elohim
+Requires:
+Elohim
+Way of the Wise
+Info:
+Subtracts 5 from the
+Armageddon Counter
+Cost:
+600
+Type:
+Ritual
+Special:
+Can be completed unlimited times
+
+======================================================================
+PAGE: Hyborem's Whisper
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Hyborem's_Whisper
+======================================================================
+
+Hyborem's Whisper
+Requires:
+Hyborem
+Malevolent Designs
+Special Abilities:
+Take control of an Ashen Veil city
+Available To:
+Infernals
+The Infernal World Spell allows the player to take control of 1 of the top 3 most powerful cities in the world that worships the
+Ashen Veil
+religion. Power is determined by a combination of population, wonders, and culture (exact formula yet to be determined).
+Lore
+Ethne
+tossed in her sleep. She was haunted with visions of wicked step-sisters, Sidney in her blue and yellow dress, Dain, and a dinner table that extended into darkness. Tomorrow she would have to decide if she was going to commit her people to a war against the
+Infernal
+that many would never return from. If she didn't the Infernals would crush the
+Amurites
+, who were already on the verge of collapse. But if she joined the war it would escalate further and even more would die.
+In her dream Hyborem sat at the end of the dinner table.
+"Your logic guides you to one decision, and your morality to another." Hyborem stated.
+"Yes." Ethne found herself unable to lie to the
+Lord of the Balors
+.
+"Morality is an illusion, a dream without reason. It is the shifting wind." There was no trace of magical persuasion in Hyborem's voice and Ethne was free to respond as she wanted.
+"A queen must be more than an accountant emotionlessly weighing one option against each other. Morality sets our goals, logic tells us how to achieve them."
+Hyborem smiled, though it was empty of emotion.
+"Imagine that you stand on your palace wall..."
+As Hyborem spoke Ethne could see the city surrounding her palace. It was a quiet autumn night and the city was lit by occasional lanterns and moonlight. Then guard bells rang out. Ethne could see men running along the street. Five ran along the palace walls seeking the security of the palace gate. Another man ran off into the city.
+Guards along the palace walls starting shouting warnings and a
+werewolf
+lumbered out of the shadows, chasing after the group of five men. The five men rushed through the palace gate and the men called for Ethne's order, if they should drop the gate portcullis or not.
+"If you close the portcullis" Hyborem's voice cut through the scene, "the five will live, but the werewolf will turn on the single man running into the city and kill him. You save five men, but you doom another. What is the moral thing to do?"
+"I would drop the portcullis and save the five men" Ethne answered. As she did she saw the scene play out. The werewolf turned and cut down the single man before fleeing the city.
+The scene changed, once again Ethne stood on the palace wall, and once again the guard bells started ringing. Five men ran along the palace wall, but there was no man running into the city. Instead a man stood beside her on the wall, watching the attack below.
+This time the werewolf was closer, the five men wouldn't be able to reach the palace gate in time.
+Hyborem's voice cut in again, "Again five men will die if you do nothing. Again you can save them by sacrificing one man. But this time you must push that man off the palace wall. If you push him he will fall in front of the werewolf, who will stop to kill him, giving the five men enough time to get into the palace. What is the moral thing to do?"
+"I would not push the man off the castle wall." Ethne said confused.
+"This is the illusion of morality" Hyborem said as the scene faded back to the room with the table between them, "In both cases you have the same options, but you make different decisions in the name of morality. If you want to stand against the Infernal do it because it will save the most lives, it will increase your power, you will gain the treasures of hell. But do not allow your throne to be ruled by the wind."
+Ethne awoke, it was dawn and her meeting with the Amurite diplomats was a few hours away. She didn't feel like she had gotten any sleep at all, and the day was only going to get worse.
+Strategy
+This does not count as a declaration of war--you will still be at peace with the civilization you stole the city from (unless you were already at war with them).
+Note that no units will be present in the city once you take control of it. This means it is particularly susceptible to enemies immediately declaring war and recapturing their city.
+Consider using conventional methods to conquer enemy territory, and only using this spell to take a city when your armies can potentially reinforce it on the same turn.
+
+======================================================================
+PAGE: March of the Trees
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/March_of_the_Trees
+======================================================================
+
+Ljosalfar
+'s
+World Spell
+, and therefore one use only.
+All forests and ancient forests in your cultural borders will turn into new forests, and create a
+Treant
+on the tile, provided it is not occupied by an enemy.
+After 5 turns, all the Treants will disappear.
+
+======================================================================
+PAGE: Mother Lode
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Mother_Lode
+======================================================================
+
+Cast by the Khazad. The Mother Lode spell provides your empire with 25 gold for each mine in your cultural borders.
+For each flatlands square you own (Grassland, Plains, Desert, Tundra, Ice), there is a 10% chance of it turning into a hill. This includes Flood Plains.
+
+======================================================================
+PAGE: Nature's Revolt
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Nature's_Revolt
+======================================================================
+
+Nature's Revolt
+Requires:
+Righteousness
+Armageddon Counter
+at least 70
+Info:
+Turns
+Barbarian
+units into
+Animals
+Goblin Worker
+into
+Wolf
+Goblin
+into
+Lion
+Warrior
+into
+Lion
+Lizardman
+into
+Tiger
+Axeman
+into
+Bear
+All animals in the world receive
+Heroic Strength I
+,
+Heroic Strength II
+,
+Heroic Defense I
+, and
+Heroic Defense II
+Cost:
+1,000
+Type:
+Ritual
+Special:
+Double production speed with
+Nature Mana
+
+======================================================================
+PAGE: Purge the Unfaithful
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Purge_the_Unfaithful
+======================================================================
+
+Purge the Unfaithful
+Requires:
+Priesthood
+Info:
+Removes any non-state
+Religions
+and religious buildings from all cities
+Cost:
+350
+Type:
+Ritual
+Special:
+Causes revolts in cities where multiple religions are removed
+
+======================================================================
+PAGE: Raging Seas
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Raging_Seas
+======================================================================
+
+Raging Seas
+Lanun
+'s
+World Spell
+, and therefore one use only.
+Damages all non-Lanun units adjacent to a body of water, and has a chance to destroy non-Lanun improvements in the water, such as fishing boats.
+The damage will not cause players to declare war on you.
+
+======================================================================
+PAGE: Religious Fervor
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Religious_Fervor
+======================================================================
+
+Grants one priest of the state religion per city, with experience equal to the number of cities in the Malakim civilization with the state religion.
+Requires the
+Priesthood
+tech, natch.
+Comment: You can cast this early enough for the priests to make a credible boost to your military, or you can sacrifice them to spread your religion (priests are always succesful at spreading religion with the "Found Temple of (Name of Religion)" spell.)
+
+======================================================================
+PAGE: Rites of Oghma
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Rites_of_Oghma
+======================================================================
+
+Rites of Oghma
+Requires:
+Strength of Will
+Info:
+Creates new
+Mana Nodes
+on whole world
+Duel: 4 Nodes
+Tiny: 5 Nodes
+Small: 6 Nodes
+Standard: 7 Nodes
+Large: 8 Nodes
+Huge: 10 Nodes
+Cost:
+2,500
+Type:
+Ritual
+Special:
+Double production speed with
+Metamagic Mana
+
+======================================================================
+PAGE: River of Blood
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/River_of_Blood
+======================================================================
+
+River of Blood is the Calabim World Spell. It adds two population points to all of the Calabim cities, and subtracts two population points from all of the non-Calabim cities in the world.
+
+======================================================================
+PAGE: Samhain
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Samhain
+======================================================================
+
+Samhain is a ritual that can only be built once, and only by the
+Illians
+. It is the first of the Illian winter rituals. When built, it spawns Barbarian-aligned
+Frostlings
+, Frostling Archers, Frostling Wolf Riders, and the powerful Frostling leader, Mokka, on the map. Because these Frostlings are Barbarians, they will attack anyone - even the Illians that released them. To build Samhain, the Illians must have at least four cities under their control.
+Samhain has a construction cost of 200
+.
+
+======================================================================
+PAGE: Sanctuary
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Sanctuary
+======================================================================
+
+Cast by the
+Elohim
+. Expels all enemy units from your culture borders for 30 turns.
+
+======================================================================
+PAGE: Stasis
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Stasis
+======================================================================
+
+Stasis is the
+Illians
+' world spell. It is available right at the beginning of the game. When used, every civilization - except for the Illians - will have their research and production frozen. The amount of time in stasis scales based on game speed. On normal game speed, Stasis lasts for 20 turns.
+Details
+Most units can still be upgraded at the usual cost. An exception is that
+Adepts
+can not be upgraded to
+Mages
+while in stasis.
+Since spells can still be cast,
+Recruit
+can be used to generate units.
+
+======================================================================
+PAGE: Stir from Slumber
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/Stir_from_Slumber
+======================================================================
+
+Stir from Slumber is a ritual that can only be built by the
+Illians
+. It is one of the Illian winter rituals, available at
+Divine Essence
+. Additionally, this ritual requires that the Illians destroy another
+civilization
+before it can be built. When completed, the Illians will have
+Drifa the White Dragon
+join them.
+Stir from Slumber has a construction cost of 900
+.
+
+======================================================================
+PAGE: The Deepening
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/The_Deepening
+======================================================================
+
+The Deepening is a ritual that can only be built by the
+Illians
+. It is the third of the Illian winter rituals; it is available at
+Priesthood
+. When it is completed, the entire world will be cooled down - changing some of the deserts to plains, some of the plains and grassland to tundra, and some of the tundra to snow tiles. Additionally, it spawns a random amount of Blizzards on the map.
+The Deepening has a construction cost of 600
+.
+
+======================================================================
+PAGE: The Draw
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/The_Draw
+======================================================================
+
+The Draw is a ritual that can only be built by the
+Illians
+. It is the fourth of the Illian winter rituals; it is available at
+Strength of Will
+. When it is completed, the Illians will declare war on all other civilizations, the population of all Illian cities will be halved, and all Illian units will be damaged for 50% of their HP. The Illians cannot attempt diplomacy after the Draw has been completed. This ritual must be completed before the
+Ascension
+ritual can be built.
+The Draw has a construction cost of 900
+. It increases the
+Armageddon Counter
+by 10 when completed.
+
+======================================================================
+PAGE: The White Hand
+CATEGORIES: Rituals
+URL: https://fallfromheaven.fandom.com/wiki/The_White_Hand
+======================================================================
+
+The White Hand is a ritual that can only be built by the
+Illians
+. It is the second of the Illian winter rituals; it is available at
+Philosophy
+. When this ritual is completed, three
+Priests of Winter
+- under control of the Illians - will appear where the White Hand was built.
+The White Hand has a construction cost of 400
+.
+
+======================================================================
+PAGE: Warcry
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Warcry
+======================================================================
+
+Cast by the
+Hippus
+. Grants the Warcry promotion to all units.
+Warcry promotions grants:
+- Can attack multiple times per turn
+- +1 Movement range
+- +1 Strength
+- +5% Chance of wearing off each turn
+
+======================================================================
+PAGE: Wild Hunt
+CATEGORIES: World Spells
+URL: https://fallfromheaven.fandom.com/wiki/Wild_Hunt
+======================================================================
+
+Wild Hunt is the
+Doviello
+world spell.
+It creates a
+wolf
+for each of your units, the stronger the unit, the stronger the wolf produced.

@@ -1,0 +1,438 @@
+
+======================================================================
+PAGE: All Beings Are Siblings
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/All_Beings_Are_Siblings
+======================================================================
+
+All Beings Are Siblings
+Faction
+Cultists
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
++100 XP when recruiting a unit on empire
+An Era IV
+technology
+exclusive to the
+Cultists
+which provides additional experience to units, including those gained from converted Minor Faction villages. It is unlocked by completing Chapter 7 of the Cultists faction quest.
+Lore
+The Cult begins to grow, recruiting new tribes to its purpose. The first few conversions bring critical lessons in how to persuade and convince uneasy recruits.
+
+======================================================================
+PAGE: Destructive Analysis
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/Destructive_Analysis
+======================================================================
+
+Destructive Analysis
+Faction
+Cultists
+Obtained
+Era II
+Category
+Science and Industry
+Type
+Empire
+Focus
+Science
+Effects:
++1 Science
+stockpile per
+when a city is razed on empire
+An Era II
+technology
+exclusive to the
+Cultists
+which provides a
+Science Stockpile
+for each unit of population (not including those from pacified villages) on a city when it is razed. Because of the Cultist
+trait
+"Weapons of the Enemy", which razes enemy cities immediately upon capturing them, this can also be thought of as providing a Science stockpile for each unit of population on a city when it is captured.
+Lore
+Forever disgusted by the random waste and ruin of the Endless's civil war, the Cultists are careful to study and learn from the enemy cities that they deconstruct.
+
+======================================================================
+PAGE: Fanatic
+CATEGORIES: Cavalry Units, Cultists, Units
+URL: https://endlesslegend.fandom.com/wiki/Fanatic
+======================================================================
+
+Fanatic
+Faction
+Cultists
+Unit Type
+Cavalry
+Base Attributes:
+Life
+124
+Attack
+20
+Initiative
+30
+Speed
+6
+Defense
+30
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+The Fanatic is a cavalry unit for the
+Cultists of the Eternal End
+. The Fanatic can be researched in the first
+Technology Era
+.
+Lore
+Fanatics are massive due to their many robotic parts, and can use this weight to execute damaging cavalry charges.
+Capacities
+The Fanatic has no capacities.
+Equipment
+Weapons
+Claws
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Hand of the Unspoken
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/Hand_of_the_Unspoken
+======================================================================
+
+Hand of the Unspoken
+Faction
+Cultists
+Obtained
+Faction Quest
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
++3 converted unit(s) on empire
+An Era IV
+technology
+exclusive to the
+Cultists
+which increases the number of converted units that appear in a newly-converted village from 1 to 4. It is unlocked by completing Chapter 8 of the Cultists faction quest.
+Lore
+Certain converts to the cause become so fanatic that they leap to the Cultist's great purpose without any desire for protection or defense. Independent and fearless, they hand over their lives as instruments of the Queen's will.
+
+======================================================================
+PAGE: Nameless Guard
+CATEGORIES: Cultists, Ranged Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Nameless_Guard
+======================================================================
+
+Nameless Guard
+Faction
+Cultists
+Unit Type
+Ranged
+Base Attributes:
+Life
+84
+Attack
+46
+Initiative
+24
+Speed
+4
+Defense
+20
+Damage
+32
+Range
+3
+Sight
+3
+Cost:
+Production
+120
+The Nameless Guard is a ranged unit for the
+Cultists of the Eternal End
+. The Nameless Guard can be researched in the second
+Technology Era
+.
+Lore
+Tall and armed with excellent bows, the Nameless Guards are the eyes of the Cult and the first to strike enemies.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Equipment
+Weapons
+Longbow
+Crossbow
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Order of Isiver
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/Order_of_Isiver
+======================================================================
+
+Order of Isiver
+Faction
+Cultists
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
++35%
+on unit
++35%
+on unit
++35%
+on unit
+Can be equipped by cultists faction only
+Capacities:
+Regeneration 2
+Costs:
+Production
+40
+Resource
+3
+3
+The Order of Isiver is a
+Talisman
+exclusive to the
+Cultists
+, received for completing Chapter 2 of their faction quest. Unlike most other accessories gained from quests, the Order of Isiver can be equipped on non-hero units, but is still limited to Cultists units, such as the
+Preacher
+,
+Fanatic
+, and
+Nameless Guard
+Lore
+A part of the Unspoken that holds out a hope for peace and harmony, those who have been touched by the Unspoken when this personality was dominant formed a group to advance their particular interpretations of the religion of the Cult. This symbol of their collective will improves the survival chances of troops.
+
+======================================================================
+PAGE: Preacher
+CATEGORIES: Cultists, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Preacher
+======================================================================
+
+Preacher
+Faction
+Cultists
+Unit Type
+Support
+Base Attributes:
+Life
+36
+Attack
+8
+Initiative
+26
+Speed
+4
+Defense
+28
+Damage
+14
+Range
+3
+Sight
+3
+Cost:
+Production
+30
+The Preacher is a support unit for the
+Cultists of the Eternal End
+. Two Preachers constitute the starting force for the Cultists. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Trained to convert others to the cause of the Eternal End, the Preachers spread (by force if necessary) the teachings of the Cultists.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Unleashed Potential
++10% Attack
+on a targeted friendly unit for 3 rounds
++10% Defense
+on a targeted friendly unit for 3 rounds
++10% Initiative
+on a targeted friendly unit for 3 rounds
++10% Damage
+on a targeted friendly unit for 3 rounds
++10% Life
+on a targeted friendly unit for 3 rounds
+Equipment
+Weapons
+Quarterstaff
+Magewand
+Armor
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Shrine of Whispers
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/Shrine_of_Whispers
+======================================================================
+
+Shrine of Whispers
+Faction
+Cultists
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Science
+Effects:
++2%
+per converted village on cities
+Costs:
+Production
+800
+Resource
+30
+Upkeep
+4
+per turn
+A
+city improvement
+exclusive to the
+Cultists
+obtained from the
+Shrine of Whispers
+technology, which is unlocked by completing Chapter 6 of the Cultists faction quest. Constructing the Shrine of Whispers is required to complete Chapter 7 Part 1 of the Cultists faction quest.
+Lore
+Within each newly converted village a specialized shrine is constructed; it sifts prayers, thoughts, and conversations to obtain scientific information from tales and superstition.
+
+======================================================================
+PAGE: Shrine of Whispers (Technology)
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/Shrine_of_Whispers_(Technology)
+======================================================================
+
+Shrine of Whispers (Technology)
+Faction
+Cultists
+Obtained
+Faction Quest
+Category
+Science and Industry
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks the Shrine of Whispers for construction
+An Era III
+technology
+exclusive to the
+Cultists
+which unlocks the
+Shrine of Whispers
+for construction on cities. It is unlocked by completing Chapter 6 of the Cultists faction quest.
+Lore
+Within each newly converted village a specialized shrine is constructed; it sifts prayers, thoughts, and conversations to obtain scientific information from tales and superstition.
+
+======================================================================
+PAGE: The Wordless Will
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/The_Wordless_Will
+======================================================================
+
+The Wordless Will
+Faction
+Cultists
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
++35%
+on unit
++35%
+on unit
+Can be equipped by cultists faction only
+Capacities:
+Dark Proof
+Costs:
+Production
+100
+Resource
+3
+3
+The Wordless Will is a
+Talisman
+exclusive to the
+Cultists
+, received for completing Chapter 5 of their faction quest. Unlike most other accessories gained from quests, The Wordless Will can be equipped on non-hero units, but is still limited to Cultists units, such as the
+Preacher
+,
+Fanatic
+, and
+Nameless Guard
+.
+Lore
+The Queen may make noise, though buried as she is behind layers of protective shielding no one can know. Instead, her desires are known directly through telepathy and dreams, or indirectly through the actions and demands of her servitors. This particular insignia, an extension of her will, meticulously controls all the details of every being in the army's food, equipment, and mental state to maximize their military effectiveness.
+
+======================================================================
+PAGE: We Are Legion
+CATEGORIES: Cultists
+URL: https://endlesslegend.fandom.com/wiki/We_Are_Legion
+======================================================================
+
+We Are Legion
+Faction
+Cultists
+Obtained
+Era II
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
++40 XP when recruiting a converted unit on empire
+An Era II
+technology
+exclusive to the
+Cultists
+which provides additional experience to unit generated by converted Minor Faction villages.
+Lore
+As the number of converted troops increases, the Cultists learn much on how to integrate, train, and fanaticize other peoples. This experience serves them well.

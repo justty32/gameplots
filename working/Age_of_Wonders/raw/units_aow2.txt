@@ -1,0 +1,1790 @@
+
+======================================================================
+PAGE: Units (Age of Wonders II)
+CATEGORIES: Age of Wonders II units
+URL: https://ageofwonders.fandom.com/wiki/Units_(Age_of_Wonders_II)
+======================================================================
+
+This page covers The Wizard's Throne only. For units in Shadow Magic, see
+Units (Shadow Magic)
+.
+Units
+in
+Age of Wonders: The Wizard's Throne
+are entities that can move, capture structures, engage in combat, and perform other interactions and gameplay functions.
+Overview
+Wizards, heroes, and standard units
+For details on wizards and heroes, see:
+Wizard
+,
+Hero
+, and
+Hero library (Age of Wonders II)
+Units in
+Age of Wonders II: The Wizard's Throne
+fall into three general categories: wizards, heroes, and standard (i.e., normal) units.
+All units are subject to the
+unit statistics and combat mechanics
+system.
+All units can
+move
+on the overland and combat maps.
+All units can use
+abilities
+.
+Heroes and standard units have
+unit morale
+.
+Heroes and standard units can
+gain experience.
+Heroes have a specific class-based hero-leveling system, whereas standard units have two attainable experience levels (silver and gold) with fixed benefits.
+Wizards cannot gain experience or level up. Wizards are central to additional game mechanics, including the
+domain
+system and the use of wizard towers.
+Wizards and heroes can equip
+items
+. Standard units cannot equip them, but can still teleport items on the same hex to a hero or wizard.
+Wizards specialize in casting spells. Heroes have limited spell casting ability. Standard units cannot cast spells, but often have abilities that can replicate some of the functions of spells.
+Each
+race
+has a roster of trainable units, including race-specific units and units common to multiple races. Stats of standard units are listed below on this page. For stats of wizards and heroes, please see the articles linked above.
+Acquiring standard units
+Units can be produced in
+cities
+when the requisite structure has been built.
+Summoning spells can summon units at the expense of mana.
+Friendly units may offer to join your cause when approached. Units in stacks labeled as "refugees" will join at no cost.
+Units can be acquired from certain structures on the world map.
+Enemy units can be captured in combat by unit-capturing abilities, such as dominate.
+Unit attributes displayed on this page
+Lvl
+- The level of the unit, which determines for training, the unit's upkeep cost, and experience gain.
+Gold
+(
+) - The amount of gold needed to train one instance of the unit.
+Stats
+- Stats include attack
+, damage
+, defense
+, resistance
+, hit points
+, and movement
+. Movement points are given along with an icon corresponding to a movement ability:
+- The unit has Walking only
+- The unit has Forestry in addition to Walking
+- The unit has Mountaineering in addition to Walking
+- The unit has Cave Crawling in addition to Walking
+- The unit has Flying (
+) or Floating (
+Flt.
+)
+- The unit has Swimming in addition to Walking (
+), or has Sailing only (
+Sail.
+)
+Combat Abilities
+- The unit's Combat Abilities, which are abilities that are actively used during combat.
+Other Abilities
+- Other abilities not already reflected are listed here. Movement abilities that are already reflecting in the movement points column are not listed again in this column.
+The
+silver medal
+(
+) and
+gold medal
+(
+) icons indicate abilities gained at the silver and gold experience levels. In addition, all units gain +1
+, +1
+, and +1
+at the silver level, and an additional +1
+, +2
+, and +1
+at the gold level. Units with only ranged abilities do not gain attack and damage bonuses at the silver and gold levels, but gain levels in Marksmanship instead.
+Archons
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Militia
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+Holy Strike, Holy Protection
+Legionaire
+1
+35
+7
+5
+7
+5
+12
+24
+Strike
+Holy Strike, Holy Protection, Block
+Archer
+1
+30
+0
+0
+5
+5
+10
+24
+Archery
+Holy Protection
+Marksmanship I
+Marksmanship II
+Paladin
+2
+80
+9
+7
+8
+6
+16
+40
+Strike
+Turn Undead
+Holy Strike, Holy Protection, Charge, True Seeing, Mounted
+Holy Champion
+Avenger
+2
+80
+9
+7
+9
+13
+15
+28
+Strike
+Holy Bolts
+Turn Undead
+Holy Strike, Holy Immunity, True Seeing, Holy Champion, Death Immunity, Willpower
+Pegasus Rider
+3
+160
+12
+8
+8
+8
+17
+40
+Strike
+Holy Strike, Holy Protection, Charge, Vision II, Mounted
+Charioteer
+3
+130
+13
+9
+12
+8
+22
+40
+Strike
+Archery
+Holy Strike, Holy Protection, Marksmanship I, Charge, Mounted
+Marksmanship II
+Marksmanship III
+Titan
+4
+375
+15
+12
+15
+12
+32
+36
+Strike
+Round Attack
+Holy Strike, Holy Protection, Fire Immunity, Vision I, WIllpower
+Dark Elves
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Night Guard
+1
+20
+5
+5
+4
+5
+10
+24
+Strike
+Night Vision, Poison Protection, Magic Strike, First Strike
+Warrior
+1
+30
+7
+5
+6
+5
+12
+24
+Strike
+Night Vision, Poison Protection, Block, Magic Strike
+Archer
+1
+30
+0
+0
+4
+5
+10
+24
+Archery
+Night Vision, Poison Protection, Marksmanship I
+Marksmanship II
+Marksmanship III
+Executioner
+2
+90
+9
+7
+7
+6
+16
+40
+Strike
+Night Vision, Poison Protection, Charge, Life Stealing, Magic Strike, Mounted
+Bladedancer
+2
+100
+9
+7
+7
+8
+18
+24
+Strike
+Night Vision, Poison Immunity, Concealment, Poison Strike, Double Strike
+Shade
+3
+160
+12
+6
+8
+9
+15
+28
+Strike
+Night Vision, Poison Protection, Trail of Darkness, Life Stealing, Concealment, Physical Protection, Pass Wall, Magic Strike
+Unholy Champion
+Spider Queen
+3
+190
+13
+7
+9
+15
+20
+36
+Strike
+Web
+Night Vision, Poison Immunity, Magic Strike, Wall Climbing, Poison Strike, Death Protection
+Incarnate
+4
+300
+5
+2
+9
+12
+20
+32
+Flt.
+Strike
+Possess
+Night Vision, Poison Immunity, Magic Strike, Cold Immunity, Death Immunity, Fire Immunity, Lightning Immunity, Pass Wall, Willpower, Physical Protection
+Draconians
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Hatchling
+1
+30
+5
+5
+6
+5
+10
+28
+Strike
+Venomous Spit
+Poison Strike
+Marksmanship I
+Marksmanship II
+Charger
+1
+35
+7
+5
+7
+5
+12
+28
+Strike
+Charge
+Flamer
+1
+40
+5
+5
+6
+5
+10
+24
+Strike
+Fire Breath
+Fire Protection, Cold Weakness
+Fire Immunity
+Crusher
+2
+80
+10
+8
+7
+6
+20
+24
+Strike
+Wall Crushing
+Fire Protection
+Fire Immunity
+Slither
+2
+60
+9
+6
+6
+5
+12
+24
+Strike
+Venomous Spit
+Poison Strike, Concealment, Poison Immunity, Wall Climbing
+Marksmanship I
+Marksmanship II
+Elder
+3
+90
+8
+6
+7
+14
+18
+24
+Strike
+Magic Bolts
+Magic Strike, Magic Protection, True Seeing
+Marksmanship I
+Marksmanship II
+Flyer
+3
+160
+13
+8
+9
+9
+18
+40
+Strike
+Poison Immunity, Poison Strike, Vision II
+Red Dragon
+4
+370
+16
+10
+12
+14
+30
+40
+Strike
+Fire Breath
+Cause Fear, Magic Strike, Vision II, Fire Immunity, Dragon
+Dwarves
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Axeman
+1
+30
+6
+5
+6
+5
+12
+20
+Strike
+Poison Protection, Block
+Berserker
+1
+40
+8
+6
+5
+7
+13
+28
+Strike
+Poison Protection, Double Strike
+Crossbowman
+1
+30
+0
+0
+6
+5
+10
+20
+Fire Crossbow
+Poison Protection
+Marksmanship I
+Marksmanship II
+Boar Rider
+2
+90
+9
+7
+8
+7
+17
+32
+Strike
+Poison Protection, Charge, Mounted
+Engineer
+2
+60
+6
+6
+6
+6
+12
+20
+Strike
+Sabotage
+Poison Protection, Repair machine
+Mole
+3
+150
+12
+9
+9
+8
+21
+32
+Strike
+Poison Protection, Night Vision, Tunneling,
+Wall Crushing
+, Mounted
+Runemaster
+3
+190
+12
+10
+14
+13
+23
+24
+Strike
+Poison Protection, Fire Immunity, Fire Strike, Magic Protection
+Steam Tank
+4
+300
+0
+0
+14
+14
+32
+20
+Fire Cannon
+Steam
+Poison Immunity, Cold Protection, Marksmanship I, Fire Weakness
+Marksmanship II
+Marksmanship III
+Elves
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Glade Runner
+1
+20
+5
+4
+4
+5
+8
+36
+Strike
+Conealment
+Swordsman
+1
+30
+7
+5
+6
+5
+12
+24
+Strike
+Block
+Longbowman
+1
+30
+0
+0
+4
+5
+10
+24
+Archery
+Marksmanship I
+Marksmanship II
+Marksmanship III
+Nymph
+2
+30
+5
+4
+4
+8
+10
+24
+Strike
+Seduce
+Magic Strike
+Scout
+2
+70
+9
+7
+7
+6
+15
+40
+Strike
+Charge, Mounted, Vision I
+Druid
+3
+120
+10
+7
+8
+14
+15
+36
+Strike
+Control Animal
+Entangle
+Concealment
+Iron Maiden
+3
+220
+14
+9
+10
+12
+18
+40
+Strike
+Holy Champion, Magic Strike, Phase, Magical Mount, Willpower
+Fairy Dragon
+4
+340
+14
+11
+14
+16
+22
+40
+Strike
+Dragon, Magic Protection, Magic Strike, Phase, Vision II, True Seeing
+Frostlings
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Snowscraper
+1
+15
+5
+5
+4
+6
+8
+20
+Strike
+Frost Bolts
+Cold Protection, Fire Weakness
+Marksmanship I
+Marksmanship II
+Raider
+1
+25
+7
+5
+6
+6
+10
+20
+Strike
+Cold Protection, Fire Weakness, Block
+Shard Thrower
+1
+25
+0
+0
+4
+6
+10
+20
+Archery
+Cold Protection, Fire Weakness
+Marksmanship I
+Marksmanship II
+Wolf Raider
+2
+65
+9
+7
+8
+6
+14
+28
+Strike
+Cold Protection, Fire Weakness, Charge, Mounted
+Frost Witch
+2
+80
+6
+5
+6
+7
+12
+24
+Strike
+Frost Bolts
+Cold Immunity, Fire Weakness, Cold Strike, Snow Concealment, Path of Frost
+Marksmanship I
+Marksmanship II
+Icedrake Rider
+3
+120
+9
+7
+8
+7
+18
+40
+Strike
+Cold Protection, Fire Weakness, Mounted
+Mammoth Rider
+3
+195
+13
+12
+8
+9
+26
+30
+Strike
+Wall Crushing
+Cold Immunity, Fire Weakness, Charge, Mounted
+Doom Wolf
+4
+350
+15
+12
+10
+12
+24
+50
+Strike
+Cold Immunity, Cold Strike, Path of Frost, Animal
+Goblins
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Grunt
+1
+15
+5
+4
+4
+6
+8
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, First Strike
+Swordsman
+1
+20
+7
+5
+6
+6
+10
+20
+Strike
+Night Vision, Poison Immunity, Poison Strike, Block
+Darter
+1
+25
+0
+0
+5
+6
+8
+20
+Poison Darts
+Night Vision, Poison Immunity
+Marksmanship I
+Marksmanship II
+Bomber
+1
+30
+0
+0
+5
+6
+10
+28
+Self Destruct
+Night Vision, Poison Immunity
+Wolf Rider
+2
+60
+9
+6
+7
+7
+14
+28
+Strike
+Night Vision, Poison Protection, Charge, Mounted
+Butcher
+2
+70
+8
+8
+5
+6
+12
+20
+Strike
+Round Attack
+Night Vision, Poison Immunity, Life Stealing, First Strike
+Big Beetle
+3
+120
+12
+10
+8
+9
+18
+36
+Strike
+Wall Crushing
+Night Vision, Poison Immunity, Poison Strike, Tunneling, Mounted
+Wyvern Rider
+3
+100
+9
+6
+7
+7
+18
+40
+Strike
+Night Vision, Poison Immunity, Poison Strike, Vision II, Charge, Mounted
+Karagh
+4
+360
+17
+14
+11
+13
+30
+40
+Strike
+Night Vision, Poison Immunity, Charge
+Halflings
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Peasant
+1
+15
+4
+4
+4
+6
+8
+20
+Strike
+Concealment, First Strike
+Swordsman
+1
+25
+6
+5
+7
+6
+10
+20
+Strike
+Block
+Slinger
+1
+25
+0
+0
+5
+6
+8
+20
+Hurl Stones
+Marksmanship I
+Marksmanship II
+Marksmanship III
+Rogue
+2
+50
+7
+6
+7
+8
+14
+20
+Strike
+Poison Darts
+Concealment, Marksmanship I, Wall Climbing
+Marksmanship II
+Marksmanship III
+Pony Rider
+2
+60
+8
+6
+9
+7
+14
+28
+Strike
+Charge, Mounted
+Sheriff
+3
+110
+10
+7
+10
+9
+20
+28
+Strike
+Charge, Leadership I, Mounted, Bard's Skills, Smoky Haze
+Leadership II
+Leadership III
+Eagle Rider
+3
+100
+8
+8
+9
+7
+14
+40
+Strike
+Charge, Vision II, Mounted
+Leprechaun
+4
+280
+10
+7
+17
+18
+14
+28
+Strike
+Magic Bolts
+Taunt
+Magic Strike, Regeneration, Invisibility, Dispel Magic, Phase, Blurred, Willpower, Sabotage
+Marksmanship I
+Marksmanship II
+Humans
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Halberdier
+1
+20
+5
+5
+5
+5
+10
+24
+Strike
+First Strike
+Infantry
+1
+30
+7
+5
+7
+5
+12
+24
+Strike
+Block
+Crossbowman
+1
+30
+0
+0
+5
+5
+10
+24
+Fire Crossbow
+Marksmanship I
+Marksmanship II
+Cavalry
+2
+70
+9
+7
+8
+5
+16
+40
+Strike
+Charge, Mounted
+Swashbuckler
+2
+60
+8
+5
+7
+5
+12
+24
+Strike
+Fire Pistol
+Taunt
+Marksmanship I
+Marksmanship II
+Knight
+3
+80
+14
+9
+12
+8
+20
+40
+Strike
+Charge, Willpower, Mounted
+Witch
+3
+140
+8
+6
+6
+13
+13
+24
+Strike
+Magic Bolts
+Life Stealing, Death Strike, Physical Protection, Poison Protection
+Air Galley
+4
+330
+0
+0
+10
+10
+30
+40
+Shoot Javelin
+Transport VII, Marksmanship I, Vision II, Fire Weakness, Poison Immunity
+Marksmanship II
+Marksmanship III
+Orcs
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Impaler
+1
+20
+5
+5
+5
+4
+10
+24
+Strike
+Night Vision, First Strike
+Axeman
+1
+30
+7
+5
+7
+4
+12
+24
+Strike
+Night Vision, Block
+Archer
+1
+30
+0
+0
+5
+4
+10
+24
+Archery
+Night Vision
+Marksmanship I
+Marksmanship II
+Heavy Cavalry
+2
+75
+9
+7
+8
+5
+17
+36
+Strike
+Night Vision, Charge, Mounted
+Abomination
+2
+80
+7
+5
+6
+8
+12
+24
+Strike
+Entangle
+Venomous Spit
+Night Vision, Concealment, Poison Protection, Poison Strike
+Marksmanship I
+Marksmanship II
+Shaman
+3
+120
+14
+8
+8
+7
+13
+28
+Strike
+Control Animal
+Wall Climbing, Concealment, Poison Strike, Energy Drain
+Warlord
+3
+190
+16
+12
+13
+8
+22
+24
+Strike
+Round Attack
+Night Vision
+Leadership I
+Leadership II
+Glutton
+4
+340
+17
+13
+8
+15
+25
+36
+Strike
+Swallow Whole
+Night Vision, Poison Immunity, Death Protection
+Tigrans
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Shredder
+1
+30
+6
+5
+5
+5
+12
+24
+Strike
+Throw Blade
+Night Vision
+Marksmanship I
+Marksmanship II
+Hunter
+1
+30
+7
+5
+6
+5
+12
+34
+Strike
+Night Vision
+Fire Cat
+1
+30
+5
+0
+5
+5
+10
+24
+Fire Bolts
+Night Vision, Fire Protection
+Marksmanship I
+Marksmanship II, Fire Immunity
+Cat Master
+2
+80
+10
+7
+6
+7
+16
+34
+Strike
+Archery
+Night Vision, Mounted, Marksmanship I
+Marksmanship II
+Marksmanship III
+Prowler
+2
+70
+9
+7
+7
+8
+14
+28
+Strike
+Night Vision, Concealment, Wall Climbing
+Mystic
+3
+100
+7
+5
+9
+14
+14
+24
+Strike
+Magic Bolts
+Night Vision, Magic Strike, Phase, Blurred, Magic Protection
+Marksmanship I
+Marksmanship II
+Manticore
+3
+150
+11
+8
+10
+9
+20
+40
+Strike
+Night Vision, Vision II, Poison Strike
+Sphinx
+4
+360
+15
+10
+12
+16
+26
+32
+Strike
+Dominate
+Night Vision, Magic Strike, Fire Immunity
+Undead
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Zombie
+1
+15
+4
+4
+4
+4
+10
+20
+Strike
+Undead, Death Strike, Resurgence
+Swordsman
+1
+20
+6
+5
+5
+5
+10
+24
+Strike
+Undead, Block
+Archer
+1
+25
+0
+0
+4
+5
+10
+24
+Archery
+Undead
+Marksmanship I
+Marksmanship II
+Death Knight
+2
+70
+8
+6
+7
+6
+15
+40
+Strike
+Undead, Strike, Magical Mount
+Vampire
+2
+90
+9
+5
+6
+10
+14
+28
+Strike
+Seduce
+Undead, Concealment, Death Strike, Fire Weakness, Wall Climbing, Holy Weakness, Life Stealing
+Spectre
+3
+120
+8
+5
+10
+10
+14
+28
+Flt.
+Strike
+Undead, Pass Wall, Death Strike, Cold Immunity, Energy Drain, Physical Protection
+Bone Horror
+3
+190
+13
+11
+9
+8
+30
+28
+Strike
+Wall Crushing
+Undead, Cause Fear, Death Strike
+Dread Reaper
+4
+360
+13
+13
+13
+13
+26
+32
+Flt.
+Strike
+Undead, Cause Fear, Death Strike, Magic Strike, Path of Decay, Life Stealing, True Seeing, Energy Drain
+Unholy Champion
+Non-race-specific units
+Priest units
+Each race can produce one of the following priest units when a monastery is built in a city. Good races can produce High Priests, neutral races can produce Monks, and evil races can produce Black Priests.
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+High Priest
+2
+50
+5
+5
+6
+10
+12
+24
+Strike
+Turn Undead
+Holy Bolts
+Holy Strike, Holy Protection, Healing
+Marksmanship I
+Marksmanship II
+Monk
+2
+50
+5
+5
+6
+10
+12
+24
+Strike
+Turn Undead
+Magic Bolts
+Magic Strike, Holy Protection, Death Protection, Healing
+Marksmanship I
+Marksmanship II
+Black Priest
+2
+50
+5
+5
+6
+10
+12
+24
+Strike
+Turn Undead
+Death Bolts
+Death Strike, Death Protection, Healing
+Marksmanship I
+Marksmanship II
+Machines
+The following units are built from the Builder's Hall line of buildings in a city, and are common to all races.
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Pioneer
+2
+150
+0
+0
+5
+5
+14
+24
+(None)
+Build Outpost, Rebuild Structure, Build Roads, Poison Immunity, Fire Weakness
+Ballista
+2
+100
+0
+0
+5
+5
+10
+20
+Shoot Javelin
+Poison Immunity, Fire Weakness
+Marksmanship I
+Marksmanship II
+Catapult
+2
+100
+0
+0
+6
+6
+14
+20
+Hurl Boulder
+Hurl Firebomb
+Poison Immunity, Fire Weakness
+Marksmanship I
+Marksmanship II
+Cannon
+3
+150
+0
+0
+7
+7
+18
+20
+Fire Cannon
+Poison Immunity, Fire Weakness
+Marksmanship I
+Marksmanship II
+Galley
+3
+150
+0
+0
+9
+9
+40
+40
+Sail.
+Shoot Javelin
+Hurl Firebomb
+Transport VII, Vision I, Marksmanship I, Poison Immunity, Fire Weakness
+Marksmanship I
+Marksmanship II
+Transport Ship
+2
+100
+0
+0
+8
+8
+30
+35
+Sail.
+(None)
+Transport VII, Poison Immunity, Fire Weakness
+Summoned units
+The following units are classified as "summoned units" in the game manual. These units can all be summoned by a corresponding spell, and have the "summoned" property.
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Black Spider
+1
+6
+6
+5
+6
+12
+26
+Strike
+Web
+Summoned, Poison Strike, Wall Climbing, Night Vision
+Fairy
+1
+8
+5
+10
+9
+11
+32
+Strike
+Summoned, Magic Strike, Magic Protection, Concealment
+Zephyr Bird
+1
+7
+5
+6
+5
+10
+40
+Strike
+Summoned, Animal, Vision II
+Dire Boar
+1
+8
+6
+7
+4
+16
+40
+Strike
+Summoned, Animal, Charge
+Hell Hound
+1
+7
+7
+5
+6
+12
+32
+Strike
+Summoned, Fire Strike, Fire Immunity
+Lurker
+1
+6
+5
+4
+8
+11
+24
+Strike
+Venomous Spit
+Summoned, Poison Strike, Poison Protection, Water Concealment
+Marksmanship I
+Marksmanship II
+Water Dancer
+2
+10
+6
+8
+9
+14
+40
+Strike
+Summoned, Poison Immunity
+Magic Servant
+2
+6
+4
+6
+10
+10
+24
+Strike
+Magic Bolts
+Summoned, Magic Strike, Poison Immunity
+Marksmanship I
+Marksmanship II
+Efreet
+2
+12
+8
+7
+8
+16
+32
+Flt.
+Strike
+Summoned, Fire Strike, Fire Immunity, Poison Immunity, Cold Weakness
+Unicorn
+2
+7
+6
+7
+10
+12
+40
+Strike
+Summoned, Magic Strike, Phase, Charge,
+Northern Glow
+2
+8
+5
+8
+8
+10
+36
+Flt.
+Strike
+Summoned, Lightning Strike, Cold Immunity, Pass Wall, Vision II, Lightning Immunity, Physical Protection, Static Shield
+Minotaur
+2
+11
+9
+9
+6
+18
+32
+Strike
+Summoned, Night Vision
+Earth Elemental
+3
+12
+10
+14
+12
+25
+24
+Strike
+Wall Crushing
+Summoned, Magic Strike, Poison Immunity, Tunneling, Fire Protection
+Fire Elemental
+3
+15
+10
+9
+13
+20
+32
+Strike
+Summoned, Magic Strike, Fire Strike, Fire Immunity, Poison Immunity, Cold Weakness
+Air Elemental
+3
+14
+8
+10
+13
+17
+40
+Strike
+Summoned, Magic Strike, Lightning Strike, Physical Protection, Poison Immunity, Vision II, Lightning Immunity
+Water Elemental
+3
+12
+10
+12
+14
+25
+36
+Strike
+Summoned, Magic Strike, Poison Immunity,  Water Concealment, Fire Weakness
+Bone Dragon
+3
+15
+11
+10
+14
+27
+40
+Strike
+Black Breath
+Summoned, Death Strike, Death Immunity, Life Stealing, Dragon, Cause Fear, Undead, Vision II
+Angel
+4
+16
+10
+13
+13
+28
+40
+Strike
+Summoned, Holy Strike, Healing, Holy Champion, Holy Immunity, True Seeing, Vision II
+Black Angel
+4
+16
+10
+13
+13
+28
+40
+Strike
+Summoned, Death Strike, Death Immunity, Life Stealing, Poison Immunity, True Seeing, Unholy Champion, Vision II
+Ice Dragon
+4
+14
+12
+12
+13
+26
+40
+Strike
+Cold Breath
+Summoned, Cold Immunity, Night Vision, True Seeing, Vision II, Cause Fear, Dragon
+Basilisk
+4
+13
+12
+14
+14
+32
+36
+Strike
+Dominate
+Wall Crushing
+Summoned, Magic Strike, Poison Immunity, Fire Protection, Willpower
+Phoenix
+4
+16
+10
+12
+14
+26
+40
+Strike
+Fire Breath
+Summoned, Magic Strike, Vision II, Fire Immunity, Resurgence, Cold Weakness
+Great Wyrm
+4
+14
+11
+10
+14
+30
+40
+Strike
+Summoned, Lightning Strike, Poison Immunity, Lightning Immunity, Fire Weakness, Water Concealment, Static Shield
+Rogue creatures
+The following units are classified as "rogue creatures" in the game manual.
+Image
+Unit Name
+Lvl
+Combat
+Abilities
+Other Abilities
+Wolf
+1
+7
+5
+5
+5
+10
+28
+Strike
+Animal
+Rift Spawn
+2
+8
+6
+8
+11
+12
+40
+Strike
+Magic Strike, Death Immunity, Cold Immunity, Holy Immunity, Lightning Immunity, Poison Immunity, Magic Protection, Night Vision, Willpower, Summoned
+Rift Lord
+4
+14
+12
+13
+15
+30
+30
+Strike
+Wall Crushing
+Magic Strike, Death Immunity, Cold Immunity, Holy Immunity, Lightning Immunity, Poison Immunity, Magic Protection, Night Vision, Willpower, Cause Fear, Summoned
+See also
+Units (Shadow Magic)

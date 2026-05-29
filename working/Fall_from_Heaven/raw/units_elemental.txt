@@ -1,0 +1,333 @@
+
+======================================================================
+PAGE: Air Elemental
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Air_Elemental
+======================================================================
+
+Air Elemental
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Air Elemental
+Starts With:
+Elemental
+Flying
+Sentry I
+Sentry II
+Immune to Lightning
+Info:
+5
++2
+Lightning
++1
+Air
+Affinity
+2
+Cost:
+N/A
+Special:
+Creates a
+Lightning Elemental
+after combat
+"I can hardly see you when you are still. Are you a shade?"
+"I bring no darkness to the light."
+"You sound faint and distant. Are you a ghost?"
+"I had not life before this form."
+"So what exactly are you, then?"
+"I am of the wind and the sky and the air."
+
+======================================================================
+PAGE: Aurealis
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Aurealis
+======================================================================
+
+Aurealis
+Race:
+Elemental
+Unit Class:
+None
+Requires:
+Summoned
+by the
+Summon Aurealis
+spell.
+Starts With:
+Elemental
+Strength:
+6
++2
+Sun Affinity
+Movement:
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Azer
+CATEGORIES: Elemental Units
+URL: https://fallfromheaven.fandom.com/wiki/Azer
+======================================================================
+
+Azer
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Random Event after
+Elementalism
+is discovered and there is an open
+Desert
+or
+Plains
+within borders
+A random event that occurs from raiding a lair
+Starts With:
+Elemental
+Flying
+Immune to Fire
+Info:
+3
++6
+Fire
+1
+Cost:
+N/A
+Special:
+Explodes after death
+Starts fire in tiles it occupies
+
+======================================================================
+PAGE: Djinn
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Djinn
+======================================================================
+
+Djinn
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Djinn
+Starts With:
+Elemental
+Info:
+1
++1
+Affinity
+for all
+Mana
+2
+Cost:
+N/A
+Djinn are water spirits especially revered by desert peoples. Made of swirling mists, they normally have a human size and shape but have been known to play tricks on travelers by hiding inside bottles or lamps. Their ethereal nature allows them to access mana freely, though many Djinn don't bother with the practice required for useful spell. Even when they have abilities their masters lack, they'll often demand answers to riddles before performing commands. Many conjurers have searched for ways around this quirk, though the wiser ones will spend their time acquiring a sense of humor.
+Strategy
+Djinn can be summoned by a
+Channeling III
+caster with
+Metamatic III
+. However, it may be a good idea to promote your Archmages and Liches to a different summoning tree if you don't have at least 7-9 mana sources (Fire Elementals and Water Elementals have around 10 base strength, including the typed damage), so Djinn require a lot of mana to keep up. On the other hand, if you have ready access to a large number of mana nodes (e.g. Huge map with 15-20+ under your control), then Djinn are peerless summons due to their overwhelming strength.
+Note that Djinn +1 Affinity for all Mana is magic damage. Thus, avoid using them against units with Magic Resistance or Magic Immune.
+
+======================================================================
+PAGE: Earth Elemental
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Earth_Elemental
+======================================================================
+
+Earth Elemental
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Earth Elemental
+Starts With:
+Elemental
+Info:
+11
++1
+Earth
+Affinity
+1
+Cost:
+N/A
+Strategy
+A powerful but slow unit. The summoner has to get close to unleash it on its victims, but it is a formidable city or unit attacker, and even better, the summoner can summon a new one next turn.
+Background
+The ground. It is constant, and so easily taken for granted. All the more terrifying when it turns against you.
+
+======================================================================
+PAGE: Fire Elemental
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Fire_Elemental
+======================================================================
+
+Fire Elemental
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Fire Elemental
+Starts With:
+Elemental
+Immune to Fire
+Does collateral damage at 50% strength for a max of 30% damage on up to 4 units
+Info:
+6
++3
+Fire
++1
+Fire
+Affinity
+2
+Cost:
+N/A
+Special:
+Cannot enter
+Snow
+Some say the world will end in fire,
+Some say in ice.
+From what I've tasted of desire
+I hold with those who favor fire.
+But if it had to perish twice,
+I think I know enough of hate
+To say that for destruction ice
+Is also great
+And would suffice..
+
+======================================================================
+PAGE: Fireball
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Fireball
+======================================================================
+
+Fireball
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Fireball
+Starts With:
+Elemental
+Immune to Fire
+Does collateral damage at 50% strength for a max of 30% damage on up to 4 units
+Flying
+Cannot Pillage
+Immune to first strikes
+Can bombard city defenses at 10% per turn
+Explodes when killed
+Info:
+0
++4
+Fire
+1
+Cost:
+N/A
+Fireballs allow a quick distance attack that does collateral damage to other units in the stack.
+
+======================================================================
+PAGE: Lightning Elemental
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Lightning_Elemental
+======================================================================
+
+Lightning Elemental
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Spawns after
+Air Elemental
+wins combat
+Starts With:
+Elemental
+Immune to Lightning
+Blitz
+Cannot Pillage
+Does not receive defensive bonuses
+Heals 50% of damage after combat
+Info:
+0
++3
+Lightning
+1
+Cost:
+N/A
+
+======================================================================
+PAGE: Treant
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Treant
+======================================================================
+
+Treant
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Treant
+OR
+Ljosalfar
+casting
+March of the Trees
+OR
+Randomly spawns when enemies enter
+Ancient Forest
+of a civilization following
+Fellowship of Leaves
+Starts With:
+Elemental
+Vulnerable to Fire
+Cannot Pillage
+Info:
+10
+1
+Cost:
+N/A
+Special:
+If killed while on an unimproved tile, will create a
+New Forest
+The very heart of a mature forest, only a trained eye can discern a treant amidst the trees it protects. Incredibly long lived, they view the seasons as days, and rarely stir. It takes a man seeped in the lore of the forests and in tune with the deepest magics of the planet to awaken a treant, although they have been known on occasion to arise out of ancient forests when it is breached by invaders. Inevitably the outcome is heavy casualties to even well trained units, and the forest returns to sleep quickly. Usually the only evidence of the foiled attack is the mutilated corpses of the invaders, quickly absorbed into the ecosystem of the forest.
+
+======================================================================
+PAGE: Water Elemental
+CATEGORIES: Elemental Units, Summoned Units
+URL: https://fallfromheaven.fandom.com/wiki/Water_Elemental
+======================================================================
+
+Water Elemental
+Race:
+Elemental
+Unit Class:
+No Unit Class
+Requires:
+Unit casting
+Summon Water Elemental
+Starts With:
+Elemental
+Water Walking
+Info:
+8
++1
+Water
+Affinity
+1
+Cost:
+N/A
+Elementals are called to Erebus from an alternate plane, where Agares hid the jewels of pure creation. Such is the density of creative force on these planes that even pure energy can gain sentience and will, arising and dissipating in an endless cycle. These fleeting beings are called elementals. Water elementals are favorites of conjurers in coastal kingdoms. They can be sent dashing across the waves to disrupt any foreign vessels, destroying ships and scaring even the saltiest of sailors.

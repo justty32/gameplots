@@ -1,0 +1,1055 @@
+
+======================================================================
+PAGE: Gorgon
+CATEGORIES: Cavalry Units, Mykara, Units
+URL: https://endlesslegend.fandom.com/wiki/Gorgon
+======================================================================
+
+Gorgon
+Faction
+Mykara
+Unit Type
+Cavalry
+Base Attributes:
+Life
+100
+Attack
+20
+Initiative
+32
+Speed
+6
+Defense
+30
+Damage
+28
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+(60
+with ELCP)
+The Gorgon is a cavalry unit for the
+Mykara
+. The Gorgon can be unlocked by
+researching
+it in Era I.
+Lore
+Hitting hard and fast, Mykara gorgons are nimble fighters who can quickly take the battle to the enemy, but are best employed in shock attacks due to their relatively frail composition.
+Capacities
+Icon
+Name
+Effect
+Fungal Bloom Regen
++2% Health Regen
+per Fungal Bloom.
+Charge 1
++25% Attack
+if unit moves.
++10% Attack
+per movement point spent.
+Block 1
++10% Defense
+when attacked.
+Fast 1
++1 battle movement
+.
+Dual Wield
+Can equip 2 one-handed weapons
+-50% attribute bonuses on the left handed weapon.
+Equipment Slots
+Weapons
+Sword
+Axe
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Ipotane
+CATEGORIES: Mykara, Ranged Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Ipotane
+======================================================================
+
+Ipotane
+Faction
+Mykara
+Unit Type
+Ranged
+Base Attributes:
+Life
+55
+Attack
+30
+Initiative
+23
+Speed
+4
+Defense
+30
+Damage
+20
+Range
+3
+Sight
+3
+Cost:
+Production
+80
+(60
+with ELCP)
+The Ipotane is a ranged unit for the
+Mykara
+. Two Ipotanes constitute the starting force for the Mykara. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Highly mobile but relatively weak, Mykara ipotanes excel at harassing sorties intended to wear down the enemy from afar.
+Capacities
+Icon
+Name
+Effect
+Fungal Bloom Regen
++2% Health Regen
+per Fungal Bloom.
+Fast 1
++1 battle movement
+.
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Equipment Slots
+Weapons
+Quarterstaff
+Magewand
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Iron Veins
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Iron_Veins
+======================================================================
+
+Iron Veins
+Faction
+Mykara
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Exploitation
+Effects:
++3 FIDSI multiplier on Fungal Bloom
+An Era V
+technology
+exclusive to the
+Mykara
+which multiplies the
+FIDSI
+output of tiles exploited by
+Fungal Blooms
+by 3. This technology is unlocked by completing Chapter 8 of the Mykara
+Faction Quest
+.
+Lore
+Across the mycelial lands, a strengthening of the subterranean tendrils and rhizomes means greater quantities of precious resources can be carried back to the heart of the Mykaran collective.
+
+======================================================================
+PAGE: Kernel of Plentitude
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Kernel_of_Plentitude
+======================================================================
+
+Kernel of Plentitude
+Faction
+Mykara
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Science
+Effects:
++10
+per number of Cities on City
++10
+per number of Cities on City
++10
+per number of Cities on City
+Can only be built once in your Empire
+Costs:
+Production
+800
+20
+Upkeep
+6
+per turn
+A
+city improvement
+exclusive to the
+Mykara
+obtained from the
+Kernel of Plentitude
+technology which is unlocked by completing Chapter 7 of the Mykara
+Faction Quest
+. Constructing the Kernel of Plentitude is required to complete Chapter 8 of the Mykara Faction Quest.
+Lore
+An artifact of unknown providence, only the awesome power contained within this seed is certain. Once planted it will swiftly grow into a fungal tree of wonder, sustenance, and Dust.
+
+======================================================================
+PAGE: Kernel of Plentitude (Technology)
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Kernel_of_Plentitude_(Technology)
+======================================================================
+
+Kernel of Plentitude (Technology)
+Faction
+Mykara
+Obtained
+Faction Quest
+Category
+Military
+Type
+City Improvement
+Focus
+Science
+Effects:
+Unlocks the Kernel of Plentitude for construction on cities
+An Era III
+technology
+exclusive to the
+Mykara
+which unlocks the construction of the
+Kernel of Plentitude
+on cities. It is unlocked by completing Chapter 7 of the Mykara
+Faction Quest
+.
+Lore
+An artifact of unknown providence, only the awesome power contained within this seed is certain. Once planted it will swiftly grow into a fungal tree of wonder, sustenance, and Dust.
+
+======================================================================
+PAGE: Mykaran Lookout Tower
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Lookout_Tower
+======================================================================
+
+Mykaran Lookout Tower
+Faction
+Mykara
+Obtained
+Research Era III
+Type
+City Improvement
+Focus
+Vision
+Effects:
++20% Health Regen on Fungal Bloom
++20% Ally Health Regen on Fungal Bloom
++5 Vision
+on Fungal Bloom
+Watchtowers' Health Regen effects are applied to their adjacent Tiles
++Tile Output on Main City
+Costs:
+Production
+10
+A
+Fungal Bloom
+Expansion
+obtained from the
+Highway Outposts
+technology in
+Research Era III that replaces the
+Lookout Towers
+.  In addition to the other effects a standard Lookout Tower provides, the
+FIDSI
+output of the Mykaran Lookout Tower's tile is added to the Main City.
+Mykaran Lookout Towers replace the
+Mykaran Watchtower
+, and are automatically upgraded to the
+Mykaran Remotuscope Factory
+for no cost upon unlocking the
+Enlightened Trade
+technology.
+Lore
+Mykaran tendrils spread from the tower's foundations, leeching resources from the surrounding lands.
+
+======================================================================
+PAGE: Mykaran Luxury Resource Extractor
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Luxury_Resource_Extractor
+======================================================================
+
+Mykaran Luxury Resource Extractor
+Faction
+Mykara
+Obtained
+Research Era I, III, and IV
+Type
+Expansion
+Focus
+Exploitation
+Effects:
++1 Vision
+from Fungal Bloom
++1 [Luxury Resource] on Main City
++Tile Output on Main City
+Costs:
+Production
+6
+A
+Fungal Bloom
+Expansion
+exclusive to the
+Mykara
+that replaces the standard
+Luxury Resource
+Extractors. As with the standard Luxury Resource Extractors, the appropriate technology must be unlocked to build a Mykaran Luxury Resource Extractor on a given Luxury Resource deposit; i.e.
+Open-Pit Mine
+must be unlocked to build Mykaran Dye, Emerald, Gold, Spice, and Wine Extractors.
+In addition to providing +1 of the Extractor's resource on the Main City, Mykaran Luxury Resource Extractors also provide +1 Vision
+on the Extractor, and the
+FIDSI
+output of the Extractor's Tile is added to the Main City.
+Lore
+A Fungal Bloom overgrowth allowing the extraction of the [Luxury Resource] Luxury.
+
+======================================================================
+PAGE: Mykaran Minor Faction Village
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Minor_Faction_Village
+======================================================================
+
+Mykaran Minor Faction Village
+Faction
+Mykara
+Obtained
+Faction Trait
+Type
+Expansion
+Focus
+Minor Village
+Effects:
++2 Vision
+from Fungal Bloom
++Tile Output on Main City
+Costs:
+Production
+8
+A
+Fungal Bloom
+Expansion
+exclusive to the
+Mykara
+that can be built on any pacified or razed
+Minor Faction Villages
+in a neutral region or a region the Mykara control. Doing so will provide +2 Vision
+on the Village, and the
+FIDSI
+output of the Village's Tile is added to the Main City. Additionally, Minor Factions overgrown this way can be
+assimilated
+.
+Lore
+The Lore of the Mykaran Minor Faction Village varies depending on the Minor Faction Village that has been overgrown.
+Minor Faction
+Lore
+Bos
+The Bos settlement is still and silent, mycelial webs covering all.
+Ceratan
+The original webs of the Ceratan are hard to distinguish from the captor's mycelial filaments.
+Delvers
+The thick stone walls of the Delvers' village is overgrown with mycelial webs.
+Dorgeshi
+Beneath the overgrown webs, enmeshed Dorgeshi luxuries still faintly glitter.
+Erycis
+Nothing moves in the dark crevices and overhangs of the hydras' overgrown settlement.
+Eyeless Ones
+The mud huts of the Eyeless Ones lay cocooned in fungal webs.
+Gauran
+A skin of fungal growths lies over the entire Gauran village, including the now-silent arena.
+Geldirus
+No sign of the Geldrius' bleak settlement of branch and bone can be seen beneath the thick mycelial web.
+Haunts
+Wraith-like haunts can still be seen wandering over their overgrown former home.
+Hurnas
+An untouched Hurnas settlement is little more than a barren camp, and its overgrown form is no more impressive.
+Jotus
+The ferocious roars of the two-headed Tetike can be heard no more in this overgrown village.
+Kazanji
+The overgrown Kazanji village is a no longer a place of fear and fire.
+Nidya
+A great feeling of peace has settled on the overgrown Nidya settlement.
+Silics
+The angular slopes of the Silics settlement are draped in mycelial webs, eerie and silent.
+Sisters of Mercy
+Both the healer's square and the small gaol of the Sisters' village are covered in a fine blanket of mycelial filaments.
+Urces
+The pits and hovels of the Urces' overgrown hamlet stand in deathly silence.
+
+======================================================================
+PAGE: Mykaran Remotuscope Factory
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Remotuscope_Factory
+======================================================================
+
+Mykaran Remotuscope Factory
+Faction
+Mykara
+Obtained
+Research Era V
+Type
+Expansion
+Focus
+Vision
+Effects:
++25% health regen on Watchtower
++25% allly health regen on Watchtower
++7 vision
+on watchtower
+Watchtowers' Health Regen effects are applied to their adjacent Tiles
++Tile Output on Main City
++1 Exploitation Area
+Costs:
+Production
+12
+A
+Fungal Bloom
+Expansion
+obtained from the
+Enlightened Trade
+technology that replaces the
+Remotuscope Factory
+.  In addition to the other effects a standard Remotuscope Factory provides, the
+FIDSI
+output of the Mykaran Remotuscope's tile and the six surrounding Tiles is added to the Main City.
+This is the third and final version of the
+Mykaran Watchtower
+, and as such provides the greatest health regen and vision range. Upon unlocking the ability to build the Mykaran Remotuscope Factory, any preexisting Mykaran Watchtowers or
+Mykaran Lookout Towers
+will automatically be upgraded to Mykaran Remotuscope Factories for free.
+Lore
+Nothing can hide from the watchful eye of the Mykara.
+
+======================================================================
+PAGE: Mykaran Ruin
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Ruin
+======================================================================
+
+Mykaran Ruin
+Faction
+Mykara
+Obtained
+Faction Trait
+Type
+Expansion
+Focus
+Exploitation
+Effects:
++2 Vision
+from Fungal Bloom
+Tunnel Gateway
++Tile Output on Main City
+Costs:
+Production
+8
+A
+Fungal Bloom
+Expansion
+exclusive to the
+Mykara
+that can be built on Unspoiled and Temple
+Ruins
+. Once completed the Bloom will provide +1 Vision
+on the Ruin, and the
+FIDSI
+output of the Ruin's Tile is added to the Main City.
+Mykaran Ruins also become Tunnel Gateways, allowing the armies the Mykara control to use the Fast Travel
+Army Action
+. Doing so requires one Action Point and consumes the army's movement, but allows the army to instantly travel from one Mykaran Ruin to any other Mykaran Ruin on the map.
+Lore
+This ruin has been overgrown by the Mykara, now a gaping maw opens up to vast underground tunnels.
+
+======================================================================
+PAGE: Mykaran Strategic Resource Extractor
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Strategic_Resource_Extractor
+======================================================================
+
+Mykaran Strategic Resource Extractor
+Faction
+Mykara
+Obtained
+Research Era I, III, and IV
+Type
+Expansion
+Focus
+Exploitation
+Effects:
++1 Vision
+from Fungal Bloom
++1 [Strategic Resource] on Main City
++Tile Output on Main City
+Costs:
+Production
+6
+A
+Fungal Bloom
+Expansion
+exclusive to the
+Mykara
+that replaces the standard
+Strategic Resource
+Extractors. As with the standard Strategic Resource Extractors, the appropriate technology must be unlocked to build a Mykaran Strategic Resource Extractor on a given Strategic Resource deposit; i.e.
+Alchemist's Furnace
+must be unlocked to build Mykaran Titanium Extractors and Mykaran Glassteel Extractors.
+In addition to providing +1 of the Extractor's resource on the Main City, Mykaran Strategic Resource Extractors also provide +1 Vision
+on the Extractor, and the
+FIDSI
+output of the Extractor's Tile is added to the Main City.
+Lore
+A Fungal Bloom has overgrown this [Strategic Resource] Deposit, allowing the extraction of the resource.
+
+======================================================================
+PAGE: Mykaran Tower of Fidelity
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Tower_of_Fidelity
+======================================================================
+
+Mykaran Tower of Fidelity
+Faction
+Mykara
+Obtained
+3
+rd
+Winter
+Type
+Expansion
+Focus
+Vision
+Effects:
++20% Health Regen on Fungal Bloom
++20% Ally Health Regen on Fungal Bloom
++3 Vision
+on Fungal Bloom
++60 Retaliation Damage
+on Expansion
++Tile Output on Main City
++1 Exploitation Area
+Costs:
+Production
+10
+Resource
+10
+A
+Fungal Bloom
+Expansion
+unlocked from the
+Mykaran Tower of Fidelity
+Blessing
+, available at the start of the 3
+rd
+Winter
+, that the
+Mykara
+use instead of the standard
+Tower of Fidelity
+. Unlike the standard Tower of Fidelity, the Mykaran Tower of Fidelity provides +20% Health Regen on its tile, 60 Retaliation Damage
+regardless of the tower's Fortification
+, and the
+FIDSI
+output of the tower's tile and the six surrounding tiles is added to the Main City.
+The Mykaran Tower of Fidelity can be constructed instead of a
+Watchtower
+on a
+Watchtower Foundation
+, but does not get any of the bonuses Watchtowers do from the
+Imperial Highways
+,
+Highway Outposts
+, or
+Enlightened Trade
+technologies.
+Retaliation Damage
+is dealt to Units that start their turn in the Tower of Fidelity's vision range. Units of Empires you are at Peace or in an Alliance with are not affected by this damage.
+Lore
+Only the faithful and the true-hearted escape the wrath of this tower; those who come to destroy will be struck by its anger.
+
+======================================================================
+PAGE: Mykaran Tower of Fidelity (Blessing)
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Tower_of_Fidelity_(Blessing)
+======================================================================
+
+Mykaran Tower of Fidelity (Blessing)
+Faction
+Mykara
+Winter
+3
+rd
+Winter
+Cost
+20
+Type
+Expansion
+Focus
+Vision
+Effects:
+Unlocks Mykaran Tower of Fidelity for construction.
+A
+Blessing
+that can be unlocked in the 3
+rd
+Winter
+for 20
+Pearls. Unlocks the construction of the
+Mykaran Tower of Fidelity
+on Watchtower Foundations, which replaces the
+Mykaran Tower of Truth
+construction. This Blessing replaces the standard
+Tower of Fidelity
+Blessing.
+Upon unlocking this Blessing, any Mykaran Towers of Truth that have been built will be automatically upgraded to Mykaran Towers of Fidelity.
+Lore
+Only the faithful and the true-hearted escape the wrath of this tower; those who come to destroy will be struck by its anger.
+
+======================================================================
+PAGE: Mykaran Tower of Truth
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Tower_of_Truth
+======================================================================
+
+Mykaran Tower of Truth
+Faction
+Mykara
+Obtained
+1
+st
+Winter
+Type
+Expansion
+Focus
+Vision
+Effects:
++15% Health Regen on Fungal Bloom
++2 Vision
+on Fungal Bloom
++60 Retaliation Damage
+on Expansion
++Tile Output on Main City
+Costs:
+Production
+8
+Resource
+10
+A
+Fungal Bloom
+Expansion
+unlocked from the
+Mykaran Tower of Truth
+Blessing
+, available at the start of the 1
+st
+Winter
+, that the
+Mykara
+use instead of the standard
+Tower of Truth
+. Unlike the standard Tower of Truth, the Mykaran Tower of Truth provides +15% Health Regen on its tile, 60 Retaliation Damage
+regardless of the tower's Fortification
+, and the
+FIDSI
+output of the tower's tile is added to the Main City.
+The Mykaran Tower of Truth can be constructed instead of a
+Watchtower
+on a Watchtower Foundation, but does not get any of the bonuses Watchtowers do from the
+Imperial Highways
+,
+Highway Outposts
+, or
+Enlightened Trade
+technologies.
+Retaliation Damage
+is dealt to Units that start their turn in the Mykaran Tower of Truth's vision range. Units of Empires you are at Peace or in an Alliance with are not affected by this damage.
+If the
+Mykaran Tower of Fidelity
+Blessing has been unlocked, then the Mykaran Tower of Fidelity will replace the Mykaran Tower of Truth construction option, and any preexisting Tower of Truth will be  automatically and instantly replaced with Towers of Fidelity.
+Lore
+This tower acts as a defensive shield for the Mykara, striking those who would come and do ill to their empire.
+
+======================================================================
+PAGE: Mykaran Tower of Truth (Blessing)
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Tower_of_Truth_(Blessing)
+======================================================================
+
+Mykaran Tower of Truth (Blessing)
+Faction
+Mykara
+Winter
+1
+st
+Winter
+Cost
+10
+Type
+Expansion
+Focus
+Vision
+Effects:
+Unlocks Mykaran Tower of Truth for construction.
+A
+Blessing
+exclusive to the
+Mykara
+that can be unlocked in the 1
+st
+Winter
+for 10
+Pearls. Unlocks the construction of
+Mykaran Tower of Truth
+on
+Watchtower Foundations
+. Replaces the standard
+Tower of Truth
+Blessing.
+Lore
+This tower acts as a defensive shield for the Mykara, striking those who would come and do ill to your empire.
+
+======================================================================
+PAGE: Mykaran Watchtower
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Mykaran_Watchtower
+======================================================================
+
+Mykaran Watchtower
+Faction
+Mykara
+Obtained
+Research Era II
+Type
+City Improvement
+Focus
+Vision
+Effects:
++15% Health regen on Fungal Bloom
++3 Vision
+on Fungal Bloom
+Watchtowers' Health Regen effects are applied to their adjacent Tiles
++Tile Output on Main City
+Costs:
+Production
+8
+A
+Fungal Bloom
+Expansion
+obtained from the
+Imperial Highways
+technology in
+Research Era II that replaces the
+Watchtower
+. In addition to the other effects a standard Watchtower provides, the
+FIDSI
+output of the Mykaran Watchtower's tile is added to the Main City.
+Mykaran Watchtowers that have already been built are automatically upgraded to
+Mykaran Lookout Tower
+and
+Mykaran Remotuscope Factory
+for no cost upon unlocking the
+Highway Outposts
+and
+Enlightened Trade
+technologies, respectively.
+Lore
+Under the control of the Mykara, this tower will allow the fungal collective to see far and wide.
+
+======================================================================
+PAGE: Shambler
+CATEGORIES: Infantry Units, Mykara, Units
+URL: https://endlesslegend.fandom.com/wiki/Shambler
+======================================================================
+
+Shambler
+Faction
+Mykara
+Unit Type
+Infantry
+Base Attributes:
+Life
+130
+Attack
+10
+Initiative
+16
+Speed
+4
+Defense
+52
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+80
+(60
+with ELCP)
+The Shambler is an infantry unit for the
+Mykara
+. The Shambler can be unlocked by
+researching
+it in Era II.
+Lore
+Construed from the toughest, densest mycelial fibers, Mykara shamblers are slow and heavy, entangling and locking down enemies with their incredible defenses.
+Capacities
+Icon
+Name
+Effect
+Fungal Bloom Regen
++2% Health Regen
+per Fungal Bloom.
+Snare
+-100% Battle Movement
+on Target
+Equipment Slots
+Weapons
+Claws
+Battle Hammer
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Talisman of Courage
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Talisman_of_Courage
+======================================================================
+
+Talisman of Courage
+Faction
+Mykara
+Obtained
+Faction Quest
+Type
+Talisman
+Effects:
+No Effects
+Capacities:
+Urkan Slayer 2
+Costs:
+Resource
+3
+The Talisman of Courage is a unique
+Talisman
+exclusive to the
+Mykara
+that is received as a reward for completing Chapter 5 of the
+Mykara Faction Quest
+.
+Lore
+Infused with a strange ancient technology, the amulet was rumored to have been worn by legendary Drakken who fought the Urkans long ago.
+
+======================================================================
+PAGE: Testament of the Urkans
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Testament_of_the_Urkans
+======================================================================
+
+Testament of the Urkans
+Faction
+Mykara
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
+-30%
+on City
+-30%
+on City
+Capacities:
+No Capacities
+Costs:
+Resource
+10
+5
+The Testament of the Urkans is a
+Tome
+exclusive to the
+Mykara
+, received for completing Chapter 4 of their
+Faction Quest
+. It must be equipped to a Hero assigned to a City for a period of 8 turns to complete Chapter 5, part 1 of the Mykara faction quest, at which point it will be replaced with the
+Wild Urkans Guidebook
+.
+Lore
+A cryptic tome offering half-truths and speculations on the great Urkan beasts. Costly investigations will need to be performed before this becomes useful knowledge.
+
+======================================================================
+PAGE: Urkan Encampment
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Encampment
+======================================================================
+
+Urkan Encampment
+Faction
+Mykara
+Obtained
+Era II
+Category
+Military
+Type
+Empire
+Focus
+Military
+Effects:
+Allows you to garrison Units in tamed Urkans you control
+(
+ELCP
+only) +5 Max Unit Slots and +2 Reinforcement positions on Urkans
+An Era II
+technology
+exclusive to the
+Mykara
+which grants the ability to garrison
+Units
+in tamed
+Urkans
+that you control.
+Lore
+A union of sturdy engineering and pheromone manipulation, this knowledge allows the carapace of the great beasts to be used as a garrison for soldiers.
+
+======================================================================
+PAGE: Urkan Politics
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Urkan_Politics
+======================================================================
+
+Urkan Politics
+Faction
+Mykara
+Obtained
+Era III
+Category
+Empire and Expansion
+Type
+Diplomacy
+Focus
+Diplomatic Terms
+Effects:
+-20% Influence cost
+on Diplomatic Interactions for each controlled Urkan
+An Era III
+technology
+exclusive to the
+Mykara
+which grants a 20% reduction in Influence cost on
+Diplomatic Interactions
+for each controlled
+Urkan
+.
+Lore
+Understanding how an Urkan might be influenced gives a great advantage in diplomatic negotiations, and especially leads to many friendly overtures from rivals.
+
+======================================================================
+PAGE: Wild Urkans Guidebook
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Wild_Urkans_Guidebook
+======================================================================
+
+Wild Urkans Guidebook
+Faction
+Mykara
+Obtained
+Faction Quest
+Type
+Tome
+Effects:
++2
+per
+on City
++2
+per
+on City
+Capacities:
+No Capacities
+Costs:
+Resource
+10
+5
+The Wild Urkans Guidebook is a
+Tome
+exclusive to the
+Mykara
+, received for completing Chapter 5, Part 1 of their
+Faction Quest
+. It replaces the
+Testament of the Urkans
+.
+Lore
+Assembled from painstaking investigations inspired by speculative theories from the ancient "Testament of the Urkans" tome, the guidebook gives valuable insights into the great beasts, with tangential lessons in leadership.
+
+======================================================================
+PAGE: Zolya's Blade
+CATEGORIES: Mykara
+URL: https://endlesslegend.fandom.com/wiki/Zolya's_Blade
+======================================================================
+
+Zolya's Blade
+Faction
+Mykara
+Obtained
+Faction Quest
+Type
+Sword
+Effects:
++70
+on Unit
++50
+on Unit
++10
+on Unit
++55
+on Unit
++40%
+on Unit
++50%
+on Unit
++10%
+on Unit
++20%
+on Unit
+Can be equipped by Heroes only
+Capacities:
+Infantry Slayer 3
+Costs:
+Resource
+6
+Zolya's Blade is a unique
+Sword
+exclusive to the
+Mykara
+that is received as a reward for completing Chapter 3 of the
+Mykara Faction Quest
+. Equipping it to a Mykara Hero is necessary to complete Chapter 4 of the Mykara Faction Quest.
+Lore
+An heirloom of the great Vaulter line, Legend has it that Zolya's Blade was forged among the stars millenia past. Ingrained with hyperium, it gives off a faint amethyst glow.

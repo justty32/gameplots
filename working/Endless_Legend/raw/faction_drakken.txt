@@ -1,0 +1,471 @@
+
+======================================================================
+PAGE: Ancient
+CATEGORIES: Drakken, Support Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Ancient
+======================================================================
+
+Ancient
+Faction
+Drakken
+Unit Type
+Support
+Base Attributes:
+Life
+132
+Attack
+12
+Initiative
+34
+Speed
+4
+Defense
+38
+Damage
+28
+Range
+3
+Sight
+3
+Cost:
+Production
+120
+The Ancient is a support unit for the
+Drakken
+. The Ancient can be researched in the second
+Technology Era
+.
+Lore
+Sage and solemn, the Ancient is seldom found outside the halls and towers of Drakken cities. When it is, it generally means that a lot of enemies are going to die.
+Capacities
+Icon
+Name
+Effect
+Range
+Attack range of 3 tiles.
+-1 morale
+per adjacent enemy.
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Fast Learner 1
++25% to XP gains.
+Shared Wisdom
++1 Morale
+to adjacent units.
+Equipment Slots
+Weapons
+Claws
+Magewand
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Aura of Leadership
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Aura_of_Leadership
+======================================================================
+
+Aura of Leadership
+Faction
+Drakken
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Influence
+Effects:
++3
+per village
+(non-converted) on cities
+An Era I
+technology
+exclusive to the
+Drakken
+which grants 3
+on cities for each pacified village within it. Such villages do not need to be rebuilt, but must not be converted. It is unlocked by completing Chapter 2 of the Drakken faction quest.
+Lore
+You are a benevolent and polite neighbor, so every pacified village in your empire sings your praises. With each pacification, the status and reputation of your nation grows.
+
+======================================================================
+PAGE: Auriga Institute
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Auriga_Institute
+======================================================================
+
+Auriga Institute
+Faction
+Drakken
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Approval
+Effects:
+Requires an income of 20
+from the City
++20
+on City
++10
+on Approval (Fervent)
+Costs:
+Production
+800
+Resource
+5
+Upkeep
+4
+per turn
+A
+city improvement
+exclusive to the
+Drakken
+obtained from the
+Auriga Institute
+technology which is unlocked by completing Chapter 8 Part 1 of the Drakken faction quest. Constructing the Auriga Institute in every city the Drakken control is required to complete Chapter 8 of the Drakken faction quest.
+Lore
+This academic center brings together thinkers and researchers from across the planet. Sages of all nations come together to study the history, trends, and possible futures of Auriga.
+
+======================================================================
+PAGE: Auriga Institute (Technology)
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Auriga_Institute_(Technology)
+======================================================================
+
+Auriga Institute (Technology)
+Faction
+Drakken
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+City Improvement
+Focus
+Approval
+Effects:
+Unlocks the Auriga Institute for construction on cities
+An Era IV
+technology
+exclusive to the
+Drakken
+which unlocks the construction of the
+Auriga Institute
+on cities. It is unlocked by completing Chapter 8 Part 1 of the Drakken faction quest.
+Lore
+This academic center brings together thinkers and researchers from across the planet. Sages of all nations come together to study the history, trends, and possible futures of Auriga.
+
+======================================================================
+PAGE: Drakkenling
+CATEGORIES: Drakken, Infantry Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Drakkenling
+======================================================================
+
+Drakkenling
+Faction
+Drakken
+Unit Type
+Infantry
+Base Attributes:
+Life
+112
+Attack
+22
+Initiative
+18
+Speed
+4
+Defense
+42
+Damage
+22
+Range
+1
+Sight
+3
+Cost:
+Production
+90
+The Drakkenling is an infantry unit for the
+Drakken
+. Two Drakkenlings constitute the starting force for the Drakken. They do not need to be researched and can be trained immediately after settling a city.
+Lore
+Though it does not fly, the Drakkenling's agility and sharp reflexes still make it a frightening melee opponent.
+Capacities
+Icon
+Name
+Effect
+Fast Learner 1
++25% to XP gains.
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Longspear
+Sword
+Shield
+Armor
+Helm
+Cuirass
+Greaves
+1
+Accessory
+Slot
+
+======================================================================
+PAGE: Eye of the Endless
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Eye_of_the_Endless
+======================================================================
+
+Eye of the Endless
+Faction
+Drakken
+Obtained
+Faction Quest
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Vision
+Effects:
+Gives vision over all other empires on empire
+An Era IV
+technology
+exclusive to the
+Drakken
+which gives the ability to see everything that every other empire in the game can see.  It is unlocked by completing Chapter 8 of the Drakken faction quest.
+Lore
+Dust-driven and triggered by exploration of Endless ruins and artifacts, this permits a leader to gaze across Auriga and see the secrets of its many peoples.
+
+======================================================================
+PAGE: Oologic Nursery
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Oologic_Nursery
+======================================================================
+
+Oologic Nursery
+Faction
+Drakken
+Obtained
+Faction Quest
+Type
+City Improvement
+Focus
+Food
+Effects:
+Requires an income of 20
+from the city tiles
++10
+on city
++25 XP when recruiting a unit on units
+Costs:
+Production
+400
+Resource
+10
+20
+Upkeep
+2
+per turn
+A
+city improvement
+exclusive to the
+Drakken
+obtained from the
+Oologic Nursery
+technology which is unlocked by completing Chapter 3 Part 1 of the Drakken faction quest. Constructing the Oologic Nursery is required to complete Chapter 3 of the Drakken faction quest.
+Lore
+Gifted with strong social instincts and great knowledge of Endless technology, the Drakken build sophisticated centers for the incubation of their young.
+
+======================================================================
+PAGE: Oologic Nursery (Technology)
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Oologic_Nursery_(Technology)
+======================================================================
+
+Oologic Nursery (Technology)
+Faction
+Drakken
+Obtained
+Faction Quest
+Category
+Economy and Population
+Type
+City Improvement
+Focus
+Food
+Effects:
+Unlocks the Oologic Nursery for construction on cities
+An Era II
+technology
+exclusive to the
+Drakken
+which unlocks the construction of the
+Oologic Nursery
+on cities. It is unlocked by completing Chapter 3 Part 1 of the Drakken faction quest.
+Lore
+Gifted with strong social instincts and great knowledge of Endless technology, the Drakken build sophisticated centers for the incubation of their young.
+
+======================================================================
+PAGE: Protectors of Auriga
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Protectors_of_Auriga
+======================================================================
+
+Protectors of Auriga
+Faction
+Drakken
+Obtained
+Era I
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Minor Factions
+Effects:
++1 minor faction assimilation slot on empire
+An Era I
+technology
+exclusive to the
+Drakken
+which increases the number of
+minor faction
+assimilation
+slots by 1. Replaces the
+Native District
+technology available to all other major factions in Era II.
+Lore
+By their impressive size and kindly but authoritative words, these polished Drakken emissaries can assimilate even the most fearful and distrusting villages.
+
+======================================================================
+PAGE: Spheroid of Drakken Lore
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Spheroid_of_Drakken_Lore
+======================================================================
+
+Spheroid of Drakken Lore
+Faction
+Drakken
+Obtained
+Faction Quest
+Type
+Insignia
+Effects:
+Can be equipped by Drakken heroes only
+Capacities:
+Inspiring Leader 3
+Army Vision Range Boost 3
+Costs:
+Resource
+130
+The Spheroid of Drakken Lore is an
+Insignia
+exclusive to the
+Drakken
+, received for completing Chapter 4 of their faction quest. It must be equipped on a Drakken hero while searching ruins in order to complete Chapter 7 of the Drakken faction quest.
+Lore
+This strange orb seems to be a globe of Dust etched with Drakken figures. The closer one looks, however, the more it seems to be made of an infinitely detailed layering of models, texts, and diagrams.
+
+======================================================================
+PAGE: Tribal Council
+CATEGORIES: Drakken
+URL: https://endlesslegend.fandom.com/wiki/Tribal_Council
+======================================================================
+
+Tribal Council
+Faction
+Drakken
+Obtained
+Era III
+Category
+Empire and Expansion
+Type
+Empire
+Focus
+Minor Factions
+Effects:
++1 minor faction assimilation slot on empire
+An Era III
+technology
+exclusive to the
+Drakken
+which increases the number of
+minor faction
+assimilation
+slots by 1. Replaces the
+Cultural Indoctrination
+technology available to all other major factions in Era IV.
+Lore
+Emissaries of Minor Factions create a small council to learn each other's ways and study Drakken ways. Improved integration and understanding are the result.
+
+======================================================================
+PAGE: Wyvern
+CATEGORIES: Drakken, Flying Units, Units
+URL: https://endlesslegend.fandom.com/wiki/Wyvern
+======================================================================
+
+Wyvern
+Faction
+Drakken
+Unit Type
+Flying
+Base Attributes:
+Life
+100
+Attack
+34
+Initiative
+22
+Speed
+6
+Defense
+26
+Damage
+38
+Range
+1
+Sight
+4
+Cost:
+Production
+110
+The Wyvern is a flying unit for the
+Drakken
+. The Wyvern can be researched in the first
+Technology Era
+.
+Lore
+The scout and 'eyes' of the faction, Wyverns are used to patrol the skies near Drakken cities, warning of enemies.
+Capacities
+Icon
+Name
+Effect
+Fly
+Can fly over ridges and cliffs.
+Ignores line of sight.
+Fast Learner 1
++25% to XP gains.
+Fast 1
++1 battle movement
+.
+Equipment Slots
+Weapons
+Claws
+Armor
+Helm
+Cuirass
+1
+Accessory
+Slot

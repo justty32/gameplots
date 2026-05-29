@@ -1,0 +1,1641 @@
+
+======================================================================
+PAGE: Against the Grey
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Against_the_Grey
+======================================================================
+
+Against the Gray
+Description:
+Decius takes his battle to the
+Sidar
+Player civilization:
+Decius
+Victory:
+Defeat the Sidar civilizations.
+Defeat:
+You are defeated.
+Special rules:
+None
+Requires:
+Successful completion of the
+Wages of Sin
+scenario.
+Unlocks:
+Mulcarn Reborn
+Side quests:
+None announced
+Side quest reward:
+None announced
+
+======================================================================
+PAGE: Against the Wall
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Against_the_Wall
+======================================================================
+
+Against the Wall
+Description:
+The Khazad mean to move onto the surface of
+Erebus
+, but they are harassed by the mercenary armies of the
+Hippus
+. If you can build a surface empire and hold against their attacks they will give up their assault on this area.
+Player civilization:
+Arturus Thorne
+-
+Khazad
+Victory:
+You manage to hold five cities against Khazads men for 100 turns.
+Defeat:
+The Khazad civilization is destroyed.
+Special rules:
+To win this scenario you must build 5 cities and hold them for at least 100 turns. (Note that the counter resets if you fall below 5 cities at any point during the mission.)
+Each 50th turn the difficulty increases from the base difficulty that you began with, all the way to Diety.
+Requires:
+None
+Unlocks:
+None
+Side quests:
+None
+Side quest reward:
+None
+"Where you die I will die, and there I will be buried. May the Lord deal with me, be it ever so severely, if anything but death separates you and me."
+―ancient Umbraguard intonement
+Dwarves bent down and clutched the ground. They squeezed until their knuckles turned white from the strain and almost crawled across the mountainside refusing to let go with both hands at once. One group sat huddled beneath a rocky outcropping, as if trying to evade a storm, though the day was sunny and beautiful.
+Palais Adien stood just outside the tunnel entrance and stared into the sky. He slowly began to sway, then collapsed and vomited all over the ground. His brothers rushed to him, all careful not to look up.
+Arturus watched his kin struggle. A wild hare stopped briefly to look at the odd dwarves before hopping away. The dwarves were as equally confused by the bouncing rabbit as it was by the slinking dwarves.
+"Look out across the plains," Arturus shouted and then he waited for all the dwarves to do as he commanded. From here he could see the green and browns of distant hills, the blues of the inland lakes and the rich yellows of the fertile valleys. Once the dwarves were all looking, Arturus continued.
+"The mountain does not move. Even as the wind strikes it, as storms rage against it, the mountain does not move. With the open sky above and the underhome below, as ages pass, as empires and gods battle, the mountain does not move."
+At this point Arturus was standing in the open. He could see the fear in his clansmen's eyes as they looked at him. With only his feet touching the earth, it seemed as if he would be sucked off into the unknown. But he remained solid and determined.
+"We will be as the mountain. We will build the first Khazad surface cities here since the
+Age of Magic
+. And though we may face the dangers of this world, though creatures or the empires of men may attack, we, like the mountain, will not move."
+One by one the dwarves stood, then together they walked down the mountainside toward the site of their first city.
+Ending
+The men were simply gone. Arturus didn't know if their gold ran out or if they simply tired of the war. Such are the ways of men that the passion of one day are forgotten tomorrow.
+Regardless, the tide of onrushing horsemen had stopped and the
+Khazad
+were firmly encentrenched upon the surface of
+Erebus
+.
+Against the Wall ending picture
+
+======================================================================
+PAGE: Age of Ice
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Age_of_Ice
+======================================================================
+
+Age of Ice
+Description:
+The God of Winter has appeared on Erebus. If summer is ever to come again, you must defeat him. The only way to kill a God is with the Godslayer blade. Find all the pieces of the Godslayer, reforge them, and stop the God of Winter.
+Player civilization:
+Kylorin
+- The old
+Amurites
+Empire.
+Victory:
+Reforge the
+Godslayer
+and stop the God of Winter.
+Defeat:
+You are defeated.
+Special rules:
+There are
+Blizzards
+roaming the landscape.
+Age of Ice is a standalone grand-scenario that is packaged with Civilization IV Beyond the Sword.
+Based on the original Fall From Heaven mod, it serves as the prequel to Fall From Heaven II, allowing the player to experience the fall of
+Mulcarn
+from the perspective of
+Kylorin
+leading what eventually became the
+Amurites
+.
+The release details for this scenario can be found on Kael's site
+here
+.
+Background
+As per the scenario introduction:
+The Age of Magic ended when
+Bhall
+, the goddess of fire, succumbed to the whispers of
+Agares
+and fell. Her worshippers and creations were driven mad and fire, which had been a powerful ally to man, turned against him.
+Each good god was charged with the opposition of an evil god, Bhall was responsible for balancing
+Mulcarn
+, the god of winter. Finding himself unopposed Mulcarn broke the compact and moved into creation.
+Creation was on the verge of another open war between the gods, that which they had outlawed with the compact. To keep that from happening a deal was struck and the gods agreed that one god would enter creation to challenge Mulcarn. That god was
+Sucellus
+, the god of nature.
+The two gods battled across the face of creation. Entire civilizations, still recovering from the burning skies that marked the fall of Bhall were destroyed by their power. In the end Sucellus was killed and Mulcarn remained.
+Without a god of nature, the land fell beneath Mulcarn's eternal winter. All progress made by men in the
+Age of Magic
+was lost and in the 300 years since the
+Age of Ice
+began, men have become little more than nomadic savages, wandering in small tribes attempting to survive in the frozen world.
+The gods seemed to have forsaken man. Bound by their agreement they cannot enter creation and even if they did they would likely destroy the rest of mankind in their war.
+But some hope remains. The goddes
+Nantosuelta
+, who loved Sucellus, whispered to her most loyal follower, an archmage kept alive from a previous age and told him what he must do.
+Kylorin
+was unique among me, the first to be trained in the art of magic by the evil goddess
+Ceridwen
+, who he later betrayed to follow Nantosuelta]]. Directly instructed by both the evil goddess of conjuration and the good goddess of enchantment he was the most legendary figure of his age, and now he needed to be the most legendary figure of another age as well.
+Such is the gods' power that their will is physically manifested,. When two or more agree, that manifestation is even more potent. At the formation of the compact, a symbol of that agreement was created: a sword inscribed with the mark of each god. Each agreed that if they broke the compact they would be vulnerable to this sword, which came to bear the name
+Godslayer
+.
+The Godslayer has been broken into 3 pieces and over the 300 years those pieces have been moving closer to each other. Now they all lie in the area of
+Letum Frigus
+, the place where Sucellus was killed, the home of Mulcarn.
+Kylorin must go there and lead the bands of men that still survive there in a battle against Mulcarn and his forces. He must reforge the Godslayer and fight through to Letum Frigus, to do what a god had failed to do, and kill the God of Winter.
+The Dawn of Man
+After 350 years of blizzards and crushing ice, there is a slight lull in Winter's Fury, as if Mulcarn is distracted by something. Enough time for you, Kylorin, to lead your little band to the relative safety of a small valley.
+The days ahead will be difficult in this strange, inhospitable world. In order to expand and find resources, you will eventually have to take the fight to the strong and savage Doviello in the valleys to your west. Rumor has it they may have a piece of the
+Godslayer
+.
+Beyond the
+Doviello
+lies the heartland of Mulcarn's myraid followers, a land fraught with danger, but perhaps also home to objects of use to you. It is there you can find Mulcarn's throne, and the stronghold of the Frost Giants. Mulcarn wants the pieces of the Godslayer for himself. Perhaps his followers have found one for him?
+The final piece of the Godslayer has been lost beyond your sight, and the sight of all. But tribal legend tells of hidden, snowless valleys abundant with resoures to the North, and, more intriguingly, an island of warmth and plenty in a sea of meltwater. What could be keeping the cold touch of the blizzards away, you wonder?
+Dangers may come from the land, the skies, the very ground itself. Threats may reach you from beyond the grave, Be strong, be wary, be brave. The burden of freeing Erebus from the clutch of the God of Winter is now on your shoulders.
+Objectives
+Find the three pieces of the Godslayer.
+Take them to a city with a forge and reforge them.
+Find and kill Mulcarn.
+Strategy
+This scenario is pretty easy, if you know the right thing to do. Choose the hunter-hero, and send him up north. Let him gain a lot of promotions (including subdue beast), and then go further north, defeat the monster at the rock arch and defeat the bird Fiacra. If you were unable to defeat Fiacra, I'd suggest reloading, getting some more promotions and then trying again. Take Fiacra a little east, and get the Godslayer piece which is inside the volcano. Then send your hunter to the dungeon which will give you Knowledge of the Ether for free. Then just get your hunter killed, and get Epona as your next hero. Upgrade her to a sorceress. Use her fireballs, your melee units and Fiacra to defeat the Doviello and the Illians. Meanwhile, beeline to the technology which allows forges. Build a forge in any one of your cities, and get the Godslayer pieces (one from the Doviello capital, one from the Illian capital and the one from the north-eastern volcano) and reforge the Godslayer. You will get Kylorin. You will now get a message that Drifa has awoken. He has 80 strength, so don't even think of battling him. Instead, use Fiacra for scouting when Kylorin is getting to Letum Frigus. It is in the far west. When you reach just move Kylorin in there and finish Mulcarn.
+See also
+Fall from Heaven: Age of Ice
+—subforum on Civfanatics.
+
+======================================================================
+PAGE: Barbarian Assault
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Barbarian_Assault
+======================================================================
+
+Barbarian Assault
+Description:
+Lubruscum has long been the home of the
+Clan of Embers
+. If they can be removed here their grip on
+Erebus
+will be weakened.
+Player civilization:
+Ljosalfar
+,
+Elohim
+,
+Luchuirp
+,
+Hippus
+,
+Bannor
+or
+Amurites
+Victory:
+Defeat all the Clan of Embers civilizations.
+Defeat:
+You are defeated.
+Special rules:
+The lowest ranked player will be removed every 50 turns until only 5 players remain. This does not apply to the Clan of Embers players.
+Requires:
+None
+Unlocks:
+None
+Side quests:
+None announced
+Side quest reward:
+None announced
+Special reward:
+Completing this scenario reduces the amount of Barbarians in all other scenarios.
+The jungles of Labruscum cover what once was the heart of the Bannor empire. The fall of the Queen of Fire reduced that nation to ash and transformed her followers into a savage mix of orcs, goblins and other savage humanoids. Now Labruscum serves as the recruiting ground for the Clan of Embers, and if the Clan is to be stopped they must be defeated here.
+
+======================================================================
+PAGE: Beneath the Heel
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Beneath_the_Heel
+======================================================================
+
+Beneath the Heel
+Description:
+Regain the Pieces of Barnaxus for
+Auric Ulvin
+.
+Player civilization:
+None announced
+Victory:
+Regain the Pieces of Barnaxus.
+Defeat:
+You are defeated.
+Special rules:
+You cannot train units, instead they must be purchased. Auric pays you a bounty for every enemy unit you defeat.
+Requires:
+Successful completion of the
+Blood of Angels
+scenario.
+Unlocks:
+The Cult
+Side quests:
+None announced
+Side quest reward:
+None announced
+Strategy
+With your initial forces and the first few Horsemen you purchase, you can easily take a Worker or two from the Calabim down to the south (and raze their cities if you feel like it).
+Mounted Units are particularly useful in this scenario for covering a lot of ground quickly.
+Trivia
+The art for this scenario comes from the concept art for the dragon Kralkatorrik from
+Guild Wars
+.
+
+======================================================================
+PAGE: Blood of Angels
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Blood_of_Angels
+======================================================================
+
+Blood of Angels
+Description:
+Auric
+needs divine blood to start his rituals. Lead him in his campaign against the
+Bannor
+.
+Player civilization:
+None announced
+Victory:
+Defeat the Bannor civilization.
+Defeat:
+You are defeated.
+Special rules:
+Decleration of war are controlled by the scenario.
+Requires:
+Successful completion of the
+Return of Winter
+scenario.
+Unlocks:
+Beneath the Heel
+Side quests:
+None announced
+Side quest reward:
+None announced
+
+======================================================================
+PAGE: Children of Kylorin
+CATEGORIES: Age of Ice (scenario), Age of Ice scenario
+URL: https://fallfromheaven.fandom.com/wiki/Children_of_Kylorin
+======================================================================
+
+Note: The Children of Kylorin appears in the
+Age of Ice
+scenario. They do not appear in standard Fall from Heaven 2.
+A children of Kylorin is a blank slate unit that can be promoted to any other unit (provided the necessary enabling technology and building). They are also born with a
+mark
+that gives them one of more abilities.
+Civilopedia
+Melee unit
+Strength 0
+Movement 1
+Cannot enter Coast,
+Letum Frigus
+Start with marks that gives them access to
+spells
+.
+Background
+"He was our father in every way, our protector, leader and teacher. He raised our civilization from the shadows of humanity that was left after Mulcarn's triumph. He did this by the giving of his blood. In battle he bled alongside our armies, and when no other mortal dared go further he walked on alone. But he also shared his blood with us throuhgh his children. They were many, by multiple wives and each bore a mark of his unique heritage. These children were as men from the
+Age of Magic
+, and the power of that age coursed through them. After the fall of the white hand, after
+Kylorin
+left us, the legacy of the generations that came from him are his eternal gift to the
+Amurites
+."
+—
+Valledia the Even
+Marks =
+Each children of Kylorin appears with a number of random marks from the following list:
+Bat
+Can cast Haste (+1
+to living units in the stack)
+Dog
++50% XP in combat
+Horse
++1
++1 First Strike
+Rabbit
+Can cast
+Floating Eye (Age of Ice)
+(Scouting device)
+Rat
++20%
+Raven
+Can cast
+Raise Skeleton
+(cannon fodder free unit)
+Scorpion
+Can cast Warmth (destroys Blizzards)
+Strategy
+(to be written)
+
+======================================================================
+PAGE: Gift of Kylorin
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Gift_of_Kylorin
+======================================================================
+
+Gift of Kylorin
+Description:
+Dain means to pass the trails of the Cave of Ancestors.
+Player civilization:
+Amurites
+Victory:
+Pass the dungeon trail.
+Defeat:
+You lose your unit in the dungeon.
+Special rules:
+This is a dungeon adventure. You control one unit through the challenge of the scenario and if that unit dies you lose.
+Requires:
+None
+Unlocks:
+None
+Side quests:
+None announced
+Side quest reward:
+None announced
+During the
+Age of Magic
+Kylorin used magical trials to seperate common mages from the truly talented. The things that appeared in the trials were illusions, but the risk of death was real. Most died, but the few that passed the trials went on to be some of the most powerful archmages of their age.
+Some of the leaders in the current age, such as
+Os-Gabella
+and
+Perpentach
+, went through these trials when Patria was still the only empire of man. Other such as
+Laroth
+,
+Barbatos
+or
+Trenton Majosi
+are less well known survivors of the trials.
+It was hundred of years into the Age of Rebirth before Dain of the
+Amurites
+, discovered the records of these magical trials. They were considered archiac, a voilent reminder of the Partia during the darkest hours. The culture of the Amurites celebrated public study of magic and this was seen as a more enlightened approach.
+But Dain wondered how he compared to the Patrian archmages. And was even more interested in the greater talent the trial seemed to imbue in the lucky few who survived. Dain searched for, and found several locations of these trials, but most were simply empty towers, dungeons or cave labyrinths. Until in the year of 441 of the fourth age Dain found the location of one that was still active.
+The locals, a group of
+Balseraph
+fishermen living on the edge of their empire, long ago learned to avoid the cave; no one who entered it ever came out. They claimed death himself lived within it. They also claimed that chickens were divine, so Dain didn't take their warnings very seriously.
+With a spellstaff and healing salve ready, as those were the traditional aides given to those taking the trail, Dain entered the cave.
+
+======================================================================
+PAGE: Grand Menagerie (Scenario)
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Grand_Menagerie_(Scenario)
+======================================================================
+
+This article is about the scenario.  For the wonder, see
+Grand Menagerie
+.
+Grand Menagerie
+Description:
+Capture the animals for
+Keelyn
+'s Grand Menagerie.
+Player civilization:
+Falamar
+Victory:
+Capture one of all animals required for the
+Grand Menagerie
+.
+Defeat:
+None
+Special rules:
+None
+Requires:
+None
+Unlocks:
+The Radiant Guard
+The Momus
+Side quests:
+None
+Side quest reward:
+None
+"Falamar..." Chaeli whispered.
+He pushed her against one of the massive crates that littered the docks of Dunwich, The moon was well past its zenith and the narrow gap between two crates where they found themselves was hidden in shadows. It was a beautiful night, but the stink of the docks hung in the air.
+She leaned back as his kisses wandered down her neck to her very ample bosom. Only stopping when she playfully pulled his hands away when they reached inside her bodice.
+"Ain't ya ever wanted to be with the legendary Falamar?" he asked and she smiled radiantly, letting him grope her until he begain pulling up in her dress.
+"No, no," she said, "just kiss me."
+There was a second of anger in his eyes, even in her drunken haze Chaeli recognized it, she had seen it before from the men and it never ended well.
+He kissed her again raising her hands above her head where he held both with one of his hands. He held them so tightly they felt like they were menacled to the wall. His other hand reached down and pulled up her dress, tearing it aside and reaching hungrily into it.
+"No, Falamar," she yelled. Then when he wouldn't stop she bit his cheek.
+He let go of his dress and punched her full in the face, her head crunched agains the wooden crate and seagulls along the dock yelled in complaint and took to flight. She started crying as he reached again for her dress.
+"Did someone call me?" A man standing at the edge of the crates asked.
+The attacker, the man pretending to be Falamar, quickly let go of Chaeli and stepped away from the speaker. The speaker was a thin handsome man, lean and confident though he looked dangerous now, like a coiled snake. Though Chaeli felt unthreatened by him, her attacker felt differently and he immediately let go of Chaeli.
+"Captain Falamar," he stammered.
+"Issac?" Falamar answered, "I was sure I heard my name."
+Falamar, the real Falamar, kept advancing into the makeshift alley between the crates and Issac kept backing up. When Falamar reached Chaeli he asked her, "Are you okay?"
+She nodded and tried to wipe the tears from her eyes. She could already feel her face bruising up from the punch.
+"I'm sorry Falamar," Issac said, "sometimes I tell the gullie's I's you. Just a bit of wishful dreaming I suppose."
+"That is not the crime I am concerned about." Falamar answered. Then Falamar struck, jumping forward he caught the larger man by the collar and slammed him back against the crates. Issac drew his knife but Falamar knocked it easily aside. With Issac trapped against the crates Falamar punched him, splintering Issac's cheekbone so severely it left his left eye rollig loosely in its socket and his cheek ran flush with purple blood.
+"Go or I will give my sword to the lady and she will act out her desires on you, as you had intended for her."
+Issac scrambled away.
+Chaeli, stunned into silence until this moment, fell suddenly into uncontrollable tears. Falamar tilted up her face, checking her bruise and as her sobs quieted he gave her a slight smile.
+"Can I walk you home?"
+Chaeli only nodded in response. They walked in silence through the empty strees. Despice the truma it was still a beautiful night and as they approached the squat flat Chaeli shared with her family, she finally spoke.
+"I thought... he said he was you."
+Falamar waited until they stood before her door before he answered.
+"You deserve better than the Dunwich docks. Expect more from men, no matter their name."
+She nodded, not really understanding.
+"Will you be okay?" Falamar asked.
+"Yes, my father is home. I will be okay, thanks to you."
+Falamar gave her another slight smile, said good night and headed back toward the docks. They were supposed to have set sail hours ago but Falamar was late as usual. He arrived to find the ship and crew ready. Several men traded knowing glances as he came abord.
+"What was her name this time captain?" one called.
+"I didn't ask." Falamar responded.
+His men laughed and cheered, they all assumed incorrectly, but it boosted their spirits and Falamar saw little harm in it. The legend was certainly greater than the man, but when you regularly asked your men to face death sometimes it was easier if they believed a legend led them.
+Amergin, Falamar's first mate, had already loaded the supplies and made sure the crew was on board and relatively sober. He had questions but had been serving Falamar since they were both boys, so he knew he would get the answer when Falamar was ready.
+"Yes, Amergin, we will be sailing out by moonlight. I have a contract from a
+Balseraph
+princess and it seems we need to make up some time. She pays well, and needs us to trap some animals for her."
+"It's an unusual task for you." Amergin commented.
+"Easy gold and a damsel who needs help. It sounds exactly like me."
+Amergin smiled and ordered the crew to lift the anchor and set sail. Within seconds the ship was off to the Aegis Isles.
+Strategy
+This is the first scenario on the list, and is designed as a small tutorial in movement, therefore this scenario is rather easy. The Grand Menagerie requires you to get certain animals and build the Grand Menagerie. This is an easy scenario, hard to lose. Its a good scenario to learn the side game of hunting animals. You are required to search in different terrain for different animals: Tiger (Jungle), Gorilla (Jungle), Bear (Forest), Lion (Desert); Elephants will never attack--only defend.
+A simple way to do this is to send all of your Hunters east to the desert and fortify them on the hills, so that they gain experience from killing the (rapidly-reproducing) Lions. Attacking a Lion on a Desert tile also has its advantages.
+NOTE: Animals will never spawn on a tile that is visible by your forces--for example, if the entire desert region is revealed by your Hunters, no Lions will spawn.
+Animals to catch:
+Lion
+Bear
+(Polar)
+Wolf
+Tiger
+Gorilla
+After the Wonder is Built:
+Elephant
+Griffon
+Additional animals to catch:
+Hill Giant
+Sea Turtle
+Giant Spider
+Known Bugs
+Missing Griffon
+After you build the Wonder, try to find and capture the Griffon as fast as possible. If left to it's own devices, the Griffon may fly away from the island and go into a sort of "loop" at one of the corners of the map, where your hunters can't reach it. It's possible that the Griffon may return on its own after 50-100 turns, but in this case there's no shame in entering World Builder mode and placing another Griffon on the island, or at least giving yourself a boat that can carry hunters toward it.
+(Note: technically this may not be a bug, just a consequence of the random number generator for where the AI-controlled animal will go.)
+
+======================================================================
+PAGE: Into the Desert
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Into_the_Desert
+======================================================================
+
+Into the Desert
+Description:
+Follow
+Decius
+as he flees into the desert.
+Player civilization:
+Decius
+-
+Calabim
+/
+Malakim
+Victory:
+Must win a Religious victory.
+Defeat:
+The
+Malakim
+civilization is destroyed or another religion/civilization wins a religious victory.
+Special rules:
+None
+Requires:
+Successful completion of
+The Fall of Cuantine
+scenario.
+Unlocks:
+Wages of Sin
+Side quests:
+None
+Side quest reward:
+None
+Decius has fled the
+Bannor
+, seeking refuge across the sea, In the desert of Myrh dwell the
+Malakim
+, a morally upright people. He has had his fill of morale presumption, however, and seeks shelter amongst the more ethically flexible culture.
+The
+Calabim
+are an ancient order whose arstocracy prey on the weak of their society. Weakness had long since been drilled out of Decius.
+It is a blighted neigborhood on the outskirts of Prespur over which Decius has exerted influence. Between the battered humans who have had their wills broken and those petty thugs just stong enough to prey on them, he has no competition for the petty fiefdom he sets up, so long as the aristocrats do not deign to enter.
+Decius knows he is playing a dangerous game. When the
+bloodpets
+of the Vampiric lord come, his army is alert and dispatches them promptly. Flauros himself, however, is harder to handle. He personally slays Decius's army of exiles and criminals, leaving the bodies for the Moroi. Decius himself is far too interesting to do in, however.
+"We have few immigrants here, and fewer still with your skills. Why do you come to our land, only to wallow in the filth of the livestock?"
+Decius folds his arms. "I kept every code and rule of my home, only to have them turn me out. I am through with rules and submission to authority. I will rise to the top, or die on my feet."
+Flauros smiled. "Whether you know it or not, you have come to the right place then. Our nation is a meritocracy in ways the Bannor would never hope to emulate. Those undeserving are consumed, while those who prove themselves are rewarded beyond their keen. I offer you a chance to start down this path. I will give you command of a small foce. Eliminate the Hill Giants that have been preying on our countryside."
+Decius nodded. "Very well. But with the rabble you call soldier, I don't give good odds of my survival."
+"Either way it will be entertaining."
+Note: If you do not want to spoil the scenario content please skip the [Scenario conversation] section
+Background
+Status:
+Peace with others until you find the
+Mirror of Heaven
+.
+Other Civilizations:
+Calabim
+with 2 cities,
+Khazad
+with 3 cities,
+Elohim
+with 3 cities,
+Svartalfar
+with 3 cities and another
+Malakim
+civilization led by a new leader Kane with 6 cities. Also there are going to be alot of barbarian cities.
+Player:
+Starts with one city,1
+Swordsman
+, 1 Camel Archer, 1
+Horseman
+, 1
+Worker
+, 1
+Lightbringer
+, 1
+Archer
+, 1
+Decius
+, 1 Supplies, 1
+Hunter
+. Later on when you find the Mirror of Heaven, you get 2
+Settlers
+and 1
+Vicar
+and you find Varn Gosam.
+In this scenario you play as Decius who has fleed and betrayed from
+The Order
+. He comes across the Malakim capital and the Malakim accept him in. Later on a women named Talia (whom is Varn Gosams wife) sees your potential as a leader but to prove it she sends you to find
+Varn Gosam
+. After that you declare war on the Calabim because they threatened the
+Empyrean
+religion and to win the game you have to win a religous victory.
+Scenario conversation
+An obese, pale man, carried on a litter by a slaves watches Decius training his units for the assault on Dirage.
+Decius walks over after organizing a scout partol. "I don's suppose you've come to enlist," he says. The man has the clear signs of Calabim aristocracy, but Decius takes the measure of satisfaction from refusing to acknowledge it.
+"I am the govenor of this city. Flauros decrees that I must cooperate with you, find out what you need to research for you task. I pleases him to give this authorit to such as yourself, for reasons I couldn't grasp."
+Decius thought for a moment. "If I am successful, I will have the cusp of an empire. Feudalism would be useful for this, tough..." He glanced up at the govenor, realizing he wanted more than to build an empire for lazy fools like these. Deception. Poison. Tools like these could help him in a conflict with his benefactor Flauros or other foes to come. Religion was a useful tool for controlling a nation, but he decided it would be a poor ideo to invite such foreign influence and invite the eye of meddling goods.
+Last priests
+The primitive encampment of the Hill Giants is razed, and the Giants themselves feeding the vultures. In one hut dwell a score of human slaves, their eyes lighting up at the sight of the destruction fo their captors. One young man in tattered yellow clothes approaches Decius. "In the name of Lugus the Light, I thank you sir."
+"Who is this Lugus? Your feudal lord?"
+"Nay, good sir, he is the god of light, whose wisdowm enlightens all the people of this desert."
+Decius yanks the mans chains, pulling him to his knees. "Not wise enought to keep you safe, nor alert you when you speak to a foe."
+Flauros is pleased to see that Decius has the mettle he suspected. Less so to hear the Ecclesiastic. "I have not seen a priest of Lugus for over six hundred years, and now one appears on my borders? This is an ill sign."
+Decius raises an eyebrown. "Six hundred years? The Prelates spoke of devil-men living in the desert og Myrh. I hadn't expected they were being quite so literal."
+"I have no allegiance to Hell, simply similar to tactics-extracting power from mortals. I trust this dosn't strain our working arrangement?"
+Decius shrugged. "I've little illusions about how you treat your subjects. What you do with their souls is even less my concern. I've passed your test. What is next?"
+"The Bannor were fools to discard such a useful tool as you. Efficient and heartless. But I need guile as well. Lugus is an old foe, and not one to release a grudge. His cult gaining ground here means trouble for us. I need you to strike down these Ecclesiastics, without drwaing us into direct confrontation with the desert tribes."
+"I've seen your power. Give me command of a larger force of vampires and we can be ruling this entire desert."
+"I have shared our secret with you, Decius, but wish it to remain that. If we take ourselves into the battlefield, we will be hunted down by all the nations. Better to stay on the edges of the civilized world. Lugus has other enemies that may aid us, however, without asking questions. Let us encourage the Council of Esus among our lands, and train men who can strike without revealing their masters. Use them to eliminate the disciples of Lugus, and the power I wield may be yours."
+"Very well, we will do this your way, Flauros."
+Opposition
+Flauros looks up as Decius and his troops enter the palace. "Ah, commander, how go our plans?"
+Decius crosses his arms. "I've tired things your way. This
+Empyrean
+religions is only gaining followers. It is time to be more aggressive."
+"We have dicussed why that is not among your options."
+"This
+Varn Gosam
+had called a meeting of tribal leaders. My spies tell me they are leaning toward uniting with him. Your foes will hold much more power in this region unless we acto to stop them. I will take your army to the Malakim capital and burn it to the ground. That should keep the sand rats in their place."
+"You will act within the limits I have set for you. Or I will tear you to shreds."
+Decius rised blade. "Can you do so before I get in a single hit?" Flauros laughed, drawing his own blade, but Decius continued, "Becuase the Council's assassins have shown me a few things. Such as a rare desert plant, the extracts of which can cause a man pain like he's never known for as long as he lives. Perhaps you are willing to chance that over the course of you very long life you can find an antidote. Or that the effects will wear off after only a few hundred years. But why not chance that your power can be used beyond playing shepherd to a broken people, can rather shape the world stage to our benefit?"
+Flauros stood a moment, gazing at Decius. Then he sheathed blade. "My sister would have killed you, and lived with the pain. Very well, take what you need. Raze every city with the Empyrean. If you bring calamity upon us, I will survive, and you will not, no matter the trump you hold. If you gamble succeeds, you will have a place among us forever."
+A new beginning
+Decius earned a place among the Calabim through grit and guile, and has forced them to take a more competitive place among the nations of
+Erebus
+. Just as competition is heating up on the other side of the desert of Myrh. Word comes through the Undercouncil of dark plans reaching fulfullment, as the
+Sheaim
+complete their masterstroke and unleash the
+Infernals
+into the world. This is not the Calabim would have preferred, but does present opportunities. Flauros offers Decius the opportunity to see how best he can exploit this brutal war. The remnants of the Malakim have taken arms in defense of their friends, so Decius sets out in a fleet of ships to flank them on the foothills of Tempus Mor.
+
+======================================================================
+PAGE: Lord of the Balors
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Lord_of_the_Balors
+======================================================================
+
+Lord of the Balors
+Description:
+Take your army into the Fane of Lessers and destroy the throne of hell.
+Player civilization:
+None announced
+Victory:
+Defeat the
+Infernals
+.
+Defeat:
+You are defeated.
+Special rules:
+None
+Requires:
+Successful completion of
+The Radiant Guard
+scenario.
+Successful completion of the
+Wages of Sin
+scenario.
+Unlocks:
+None
+Side quests:
+None announced
+Side quest reward:
+None announced
+Special reward:
+Completing this scenario reduces the Infernal's power in all the other scenarios.
+
+======================================================================
+PAGE: Mulcarn Reborn
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Mulcarn_Reborn
+======================================================================
+
+Mulcarn Reborn
+Description:
+Auric
+means to ascend to godhood. If
+Erebus
+is to be saved from another
+Age of Ice
+you must stop him.
+Player civilization:
+None announced
+Victory:
+You must defeat Auric Ulvin.
+Defeat:
+You lose any unit too early.
+Special rules:
+You will be placed in control of the weakest member of your team. You must coordinate your unit's forces together, because if any member fall, you will likely be in control of them when they do.
+Requires:
+Successful completion of
+The Black Tower
+scenario.
+Successful completion of
+The Cult
+scenario.
+Successful completion of the
+Against the Grey
+scenario.
+Unlocks:
+None
+Side quests:
+None announced
+Side quest reward:
+None announced
+This is the end game scenerio.  You have to beat all other scenerio's, minus the 4 side quests, to get to this one.
+
+======================================================================
+PAGE: Return of Winter
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Return_of_Winter
+======================================================================
+
+Return of Winter
+Description:
+Mahala has commanded you to aide the Illians. If they are to survive you must destroy the armies that are arrayed against them.
+Player civilization:
+Doviello
+Victory:
+Defeat the enemy.
+Defeat:
+If you or the Illian civilization is destroyed.
+Special rules:
+If the
+Illians
+are destroyed you lose.
+Requires:
+None
+Unlocks:
+Blood of Angels
+Side quests:
+None announced
+Side quest reward:
+None announced
+The
+Age of Rebirth
+has begun and new empires are forming across
+Erebus
+. As the snow retreats so does the power of the
+Doviello
+. Our people turn on each other for our meager resources or abandon us entierly. Withing a few generations most believe we will be gone, the starving pet of a defended god.
+But our prophets say that there is hope. A man born among the
+Illians
+is the resurrected form of
+Mulcarn
+and can ascend into the role of the God of Winter. Some refuse to listen, but there is no alternative if we are to survive. You gather your tribe, to deliver this message and your allegiance ot the Illians but you arrive to find them under attack. The "
+goodly
+" empires have banded together to wipe them out, if the man in the prophecy is to survive you must save the Illians form the attack.
+Strategy:
+Consider expanding towards the east, where there exists a good amount of fertile land. After constructing several cities (for a total of 3-5), the first targets of opportunity are the Bannor to the immediate North and the Kuriotates to the far North, as these two empires pose the largest threat to the Illians in the near term. The Elohim in the far northeast almost never attack the Illians, and the Grigori should not be attacked until you have a way to negate their hero melee units that will inevitably be made.
+
+======================================================================
+PAGE: Scenarios
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Scenarios
+======================================================================
+
+Scenarios are the campaigns of Fall from Heaven II. This is the complete list of scenarios that exist under the Fall from Heaven II scenario folder. Keep in mind that this only includes the scenarios that specifically are within the folder of Fall from Heaven II. This means that the grand-scenario
+Age of Ice
+, is not included here. This list is listed as it is in-game, and the list goes as follows:
+ARC I: Focuses on
+Falamar
+of the
+Lanun
+Grand Menagerie
+The Momus
+The Radiant Guard
+The Black Tower
+ARC II: Focuses on
+Decius
+of the
+Bannor
+/
+Calabim
+The Fall of Cuantine
+Into the Desert
+Wages of Sin
+Against the Grey
+ARC III: Focuses on the
+Doviello
+and the
+Illians
+Return of Winter
+Blood of Angels
+Beneath the Heel
+The Cult
+FINAL ARC:
+Mulcarn
+Reborn (Requires completion of ARC I through ARC III)
+Mulcarn Reborn
+Stand-Alone Campaigns
+Against the Wall
+Barbarian Assault
+The Splintered Court
+Gift of Kylorin
+Lord of the Balors
+Fall from Heaven II
+Civilizations
+Leaders
+Religion
+Units
+Buildings
+Scenarios
+Guilds
+Wonders & Rituals
+Spells
+Promotions
+Game Concepts
+Traits
+
+======================================================================
+PAGE: The Black Tower
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Black_Tower
+======================================================================
+
+The Black Tower
+Description:
+Tebryn
+means to destroy the world. He has gathered his generals around him and has bent the power of the Dead Lands to his control. If
+Armageddon
+is to be prevented Tebryn must be stopped here.
+Player civilization:
+Lanun
+-
+Falamar
+Victory:
+Defeat Averax, Gosea and Malchavic
+Defeat Tebryn
+Defeat:
+You are defeated.
+Special rules:
+Human units won't heal in this scenario. Human units that die are reborn as demonic units under Tebryn's control. Tebryn's lands can't be entered until all the other Sheiam players are defeated.
+Requires:
+Successful completion of
+The Radiant Guard
+scenario.
+Unlocks:
+Mulcarn Reborn
+Side quests:
+None announced
+Side quest reward:
+None announced
+Rhoanna
+lay tangled in the sheets. She was as beautiful and fierce as any woman, and a life spent in the saddle had turned last night's passion into an athletic event.
+Falamar
+had always felt himself a more than adequate, some had said legendary, lover but Rhoanna was insatiable. Falamar slipped quietly from the bed in the fear that if she awoke she would not let him escape. He felt the sudden sympathy for the wild mustangs Rhoanna had ridden until they broke and surrendered to her will.
+Up on deck the sea air revived him and he streched and called for a report form Amergin, and a got tea from the deck hand.
+"No rum captain?" the deck hand asked.
+"My body aches enough this morning Rory, best to at least keep my mind sharp." Falamar answered, then turning to Amergin he said, "How close are to the Dead Lands?"
+"We will be upon them by midday. There are already reports that the
+Sheaim
+are readying for us, and our advance ship returned during the night crewed by skeletons. We had to sink it ourselves."
+Falamar's eye widened and he called down to Rory in the mess, "on second thought I'll take a bit of rum with that, on the side." Looking back at Amergin he asked, "Anything else?"
+"The Dead Lands appears much as our own except at its heart where it's as defiled as
+Hyborem
+'s own lands. Tebryn has a spell around these lands that keeps anyone from enering without his approval. This spell is maintained by ritualists in the capital cities of his generals, Averax, Gosea and Malchavic. Until they are destroyed we won't be able to assault Tebryn directly."
+Rory placed the hot tea and rum at Falamar's side and asked, "Anything else captain?"
+"No, thank you Rory." Falamar quickly drank the rum before asking Amergin to continue.
+"There are reports that men who die within this region find their souls drawn to the black tower, where they are transformed into hellish versions of themselves,
+skeletons
+,
+wraiths
+,
+sect of flies
+,
+eidolons
+and such. I cannot imagine a worse fate for a man's soul, and for us it means that we will face any we lose in battle."
+"I'm going to need more rum!" Falamar yelled to Rory, who quickly scrambled to refill Falamar's goblet.
+"Anything else Amergin?" Falamar asked.
+"The living seem unable to heal here. Those injured in battle against the skeleton ships bleed as if their wounds were fresh. These lands are cursed, and it does not favor us."
+Falamar downed the second rum, "And what of the rum?"
+"We are well-stocked captain."
+"Lock away my enemy in an unassailable location, subject me to the threat of eternal damnation as some wretched bone pile, remove from me even the tiny gifts of health and healing, but leave the rum."
+"Aye captain." Amergin grinned, a rare sight on the first mate.
+"You had best rouse our guest and tell her everything you told me. We will need all the strength we have by midday."
+Victory
+There was a celebration that would make
+Perpentach
+himself jealous. When Tebryn died the black tower collapsed around him. Many wondered if he survived the attack until they noticed that the corruption of the land began to heal, as did the injured men. Everywhere men of various nations drank, sung and for the first time in months, relaxed.
+Falamar grabbed a bottle of rare
+Svartalfar
+wine and went to find Rhoanna. The war kept them both so busy that he hadn't seen her for weeks, and he found himself almost as excited to see her as he was to defeat the Sheaim.
+He found her in a small group of her captains along with a Hippus messenger that Falamar didn't recognize. Expecting cheers from the group of Falamar stopped when he noticed they spoke in hushed somber tones, even while the rest of the army celebrated around them. Even Rhoanna's dark eyes were swollen and red; she had been crying. But there were no tears now, only anger and determination.
+"Is everything alright?" Falamar asked. He set the wine down as it felt inappropriate to stand there dumbly holding it.
+The captains quited, they saluted Falamar bud didn't answer the question. Rhoanna gave Falamar a weary smile, she was happy to see him and felt somehow relieved to have him close despite the recent news.
+"Tasunke is the head of the Aroul-Hippi, the most powerful Hippus clan. He is, he was, as close to as we have to a king."
+She paused here. Falamar knew who Tasunke was, she had spoken frequently of him with both frustration and admiration. But even outside of Rhoanna's tales there weren't many in
+Erebus
+who hadn't heard of the mercenary king of the Hippus.
+"The Illians are rising in the north." Rhoanna continued, "and they had hired Tasunke to fight for them. When they were finished with him, they killed him and turned on the Aroul-Hippi. There are a fragile few that were able to escape the purge. Altheriol-ta-Mealthiel is gone, our people are slaughtered and the only armies that remain are those that fought here."
+Falamar sat down beside Rhoanna. The captains' faces were stern but it was obvious they had been arguing the next steps. Despite their great respect for Falamar, they considered this a Hippus matter and weren't willing to involve him unless Rhoanna did. But Falamar could guess the points of the argument, some of them wanted to seek revenge and attack the Illians and others wanted to withdrawl into lands that were safe and rebuild.
+"The fate of the Hippus and Lanun are intertwined. You have our strength and friendship if you desire it."
+"Even if we sail agains the Illians?" Rhoanna asked, "We have reports that their leader means to resurrect the god of winter and cast us into eternal winter. They prepare now for the ritual. Would you be so quick to jump from the fires of the Sheaim into the freezing winds of the Illians?"
+Falamar thought about it. He hadn't expected another war, and knew his men had more that earned their rest. They would be remembered for generations for what they had accomplished here. How could he ask them to exchange that for another desperate war?
+Rhoanna knew he would join her when she saw his crooked smile.
+"That depends," Falamar asked, "would we get to share a flagship again?"
+Strategy
+The easiest way to win this scenario is to found the Order, get Valin Phaneul and lots of crusaders. And then tech to Righteousness and get Sphener, who start with Medic 3 and can heal other units in his stack with the heal stack. Invading the southern Clan of Embers island is not neccessary. However, you need to ensure that there is copper on your starting island.
+If you were able to save the Lurchip in the previous scenario: The Momus, this helps a great deal, as golems are able to heal still, thus not needing a straight path into religion. Mass Pye Zombies are always a threat when on the mainland. So Stack O' Deaths are never a good idea in this scenario.
+If you have the time and/or interest, massed Arcane Barges (with Fire II mages if you want to go overboard) are extremely effective at softening up all of the Sheaim coastal cities, allowing for an easier invasion.
+
+======================================================================
+PAGE: The Cult
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Cult
+======================================================================
+
+The Cult
+Description:
+Auric
+seeks Pristin Pass, the legendary resting place of the war machines of the gods.
+Player civilization:
+None announced
+Victory:
+Take the scenarios dungeon area and defeat the enemy civilizations.
+Defeat:
+You are defeated.
+Special rules:
+This scenario features a dungeon area that hs to be conqured to successfully complete it.
+Requires:
+Successful completion of the
+Beneath the Heel
+scenario.
+Unlocks:
+Mulcarn Reborn
+Side quests:
+None announced
+Side quest reward:
+None announced
+
+======================================================================
+PAGE: The Fall of Cuantine
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Fall_of_Cuantine
+======================================================================
+
+The Fall of Cuantine
+Description:
+The
+Bannor Empire
+is a nation born of tragedy, struggle, and endless war. A people sustained by piety, honor, and unyielding discipline. An uncompromising people gathers many enemies, but the Bannor have no shortage of heroes. Such as
+Decius
+, a man brave, loyal, and ever steadfast. But an uncompromising man gains many enemies as well. In the Fall of Cuantine, Decius is called upon to face a threat that grows near the heart of the Empire, in the seemingly peaceful Adian Fields...
+Player civilization:
+Decius
+-
+Bannor
+Victory:
+You accomplish the
+Orders
+tasks.
+Defeat:
+You lose Rosier in battle or disobey Sabathiel.
+Special rules:
+Rosier must survive.
+Requires:
+None
+Unlocks:
+Into the Desert
+Side quests:
+None
+Side quest reward:
+None
+Decius wipes the goblin blood from his sword and without pause begins the next task - razing the fort the goblins were using to launch attacks at the Bannor outpost. He is soon interrupted by a messenger. "Decius Achare, you are requested by the Lady Commanders." Decius nods and sets his men to tearing down the goblin fortifications.
+"Decius, I am sending you back to Torrolerial."
+"Yes milady. May I speak freely?"
+"Of course."
+"Why send a man of action back to the capital? This seems a demotion to me."
+Capria
+smiles. "No, it is not a demotion nor is it my decision. The Diviner claims it is of great importance that you do so, or all of the Empire is imperiled. So go at once and report to your father." Decius turned to gather supplies, and was rading homeward within the hour.
+Decius entered the meeting hall of House Achare's stonghold. "I have come, Lord Commander, though I know not why. Lord Capria had good use of me in the front."
+Lord Samatheon replied, "We are off the field, my son, you can drop my title. Your name has gained some renown, and I would grant you your command. Though you are right to suspect that I would leave you to Lady Capria until the completion of her campaign if I could. While the Diviners are as fourthcoming as usual, they mst be heeded, and they have expressed grave concerns about supernatural threats in this region. Since your brother has taken his command sought to reinforce the Labuscrum, I need a commander I can trust for House Achare's legions. I place you in command of our expeditionary force; unfortunately you will be need an 'advisor.'"
+"I thank you for your trust, father, I shall do you proud."
+"As the priests say, first to your god, then to your king, then to your comander. Go therefore to the Abbey of Brigit's Light, then to the duties they have for our forces. Return home when you can, for I would like much to hear news of your travels. Dismissed."
+Note: If you do not want to spoil the scenario content please skip the [Scenario conversation] section
+Background
+In this scenario, you play as Decius, who has orders from Bannor (who currently follow
+Order
+) are trying to defeat evil "unpure" nations. When this scenario is completed
+Into the Desert
+is unlocked. That scenario is a direct follower of this one.
+Player:
+Decius (Bannor), starts with 1 Cities (2 if you count the one Sabthiel gives you), 2 Axemen, 2 Archers, 2 Hunters with Combat I, Supplies, 2 Wolves, Decius (Great General) and a Worker.
+Other Civs:
+Sabathiel, starts with 5 cities (But give one to you and loses one to a scripted Barbarian attack, so he technically starts with 3), starts with some Warriors and workers.
+Status:
+Permanent Alliance, but not on a team.
+Hannah the Irin, founds Octopus Overlords from the start and starts with some Warrior, Workers and Drown.
+Status:
+Peace, will not declare war until a certain scripted point in the storyline.
+Scenario conversation
+"Welcome, Decius. We have been expecting you. My name is Confessor Wallon. It is Sabathiel's will that I accompany you. The Diviner' have great fears about the safety of our southwest settlements, indeed, of the whole empire if the threat growing there spreads. We should set out there at once."
+There is a lair ahead, a dwelling of barbarians that will menace civilized lands until defeated. But this one is guarded by a Barbarian Hero. Confessor Wallon speaks, "Our forces seems reluctant to fight, despite my exhortations. I bid thee research
+Orders from Heaven
+, that we might make use of the Oath-taker Heroes. In fact, I find your tardiness to study the will of Junil dissapointing, but that is a matter for another time. Heroes such as Rosier will grow more powerful with time, so you can wait until this battle is to our advantage.
+The taint of Junil
+The Confessor walks among the ruins of the lair. "This is surely the taint Junil has warned us of. We must eliminate the camp and everyone in it."
+Rosier is reluctant to follow his command. "Many of these twisted men were slaves and captives. By what right do we put them to the sword?"
+"The Bannor Empire is the sole beacon of hope for this world. Should we allow taint to spread this close to the hearth of the Empire?"
+"We should trust our god enough to let innocent men return to their homes."
+"...Perhaps you are right. Very well, Commander Decius, should they give their Oath to Rosier, I will permit them return to their homes. Then we should return to the Abbey."
+Purge the lands
+Your confessor approaches you as you prepare your army to move. "Commander Decius, we have uncovered the source of the taint we discovered in the jungles. In fact, it stems from the ports of the
+Lanun
+. We had negotiated trade relations with the Lanun, but apparently they have allowed their cities to be infested by the Overlords. We must wipe out every city with the
+Octopus Overlords
+religion.
+Rosier says "So you only freed the twisted men in order to track them down and destroy them?"
+"If these people have given their souls to demons, their lives are forfeit. If their Oaths hold true, they shall dwell with Junil forever. Either way we shall protect the Bannor from this taint, and the power of the good shall not fade nor flicker from the face of Erebus."
+"This seems less of good than of power to me, Decius." says Rosier.
+The drown arise
+A Speaker is brought before you as you watch the destruction of the Lanun's
+Temple of the Overlords
+. "Your trespass here is unforgivable! This sacred ground rings with echoes of the depths."
+"You allegiance to evil has sealed your fate." Wallon says.
+"Fate is ours to twist, and vengeance mine to take. Rise, servants!"
+Decius scans the horizon, then shouts to his advisors, "Look to the horizon!
+Drown
+rise from the depths and head for Cuantine. We cannot get there before them on foot."
+Rosier says "The artifacts of these cultists, I have seen them used to travel over water."
+"We cannot risk the taint these bear," the Confessor tells him.
+"Foolish priest, it is worth the risk. You gamble the lives of our people for your purity's sake? You follow your law, then, and I will follow my own heart." Rosier dons the mask of the Speaker, and heads towards the waves.
+The fate of Rosier
+The priests were wrong," Rosier argued. "I used the forbidden power and am neither tainted nor possessed. I am as much my own man as I ever was, if not more."
+Rosier, you have broken your vows, submit to the confessor and face the trail.
+I see no evil here, but you have transgressed the word of a Confessor. You will not be welcome here and I cannot take you in.
+Final words
+Decius returns home and spends a night feasting and telling tales with the men of his Father's holdings. Rosier's parting words haunt him, however, and he retires early. From under his bed comes an inky black snake, hissing and swaying as it crawls up him. Decius tries to grab it but cannot move, and the snake speaks to him. "Noble one... you serve loyally and unquestioningly. How is your service repaid? Such a hard life. Surely such skill and valor as your should be better rewarded. You deserve power and wealth beyond your station. Is honor such a dear currency to you?"
+Finally Decius finds his voice. "Away!" He reaches for the snake, but it slithers away, under his bed. Decius reaches for it, finally grasping the thing and strangling it with his bare hands until...
+Until he awakes to his father's voice. "Are you alright my son... Decius, by god, what are you doing?"
+Decius is on his knees with his hands wrapped around an octopus headed idol which glows faintly in the dark.
+"I had a nightmare. A demon was tempting me, and..."
+"And it looks to me like you gave in. I would have never thought you capable of this blasphemy. But nor would I have suspected Rosier, either. We shall leave this for the Confessors to determine."
+"I have seen how the Order judges, and would ask you to trust your own judgement. Trust your own son!"
+"I must rather trust my own eyes, Decius."
+"Then I guess I must trust my feet, Lord Commander." Decius swung, smacking his father with the idol. His father staggered back, and Decius rushed past, heading for the stables before alarm could be given.
+He was a fugutive, which is almost as bad as a confession. He would have no succor within the Empire. And the Empire's reach was well beyond its borders-forts lie north, east, and south. And to the west lie Lanun. He almost stopped. He believed in law, in order, he had sworn his life to the unending crusade against evil. A hundered times he had risked that life on the field of battle. But he would not die the heretic's death, reviled and anathematized.
+The diviners would not look at this valorous history, nor could they what had actually happened. They would look into his heart, and read any doubt as disloyalty.
+He spurred his horse toward the west.
+When he arrived in Innsmouth there was a ship heading across the great sea, carrying spices, furs, and slaves. He was recognized as their enemy - but not, to his luck, as their commander. His horse, and the bit of gold he had in his saddlebag bought him one way passage, no question asked. Or just one question.
+"We go to the desert of Myrh, Bannorman. We can let you off with the
+Calabim
+, or you can hire a guide to take you to
+Malakim
+city. What is your choice?"
+I will go to the Malakim. I cannot turn my back on my beliefs, even if the land that I served has wronged me. Among the honest Malakim perhaps I can find some solace.
+I will go to the Calabim. Better to hide where the so-called righteous fear to tread. Among the feared Calabim I can make my way less encumbered by the laws that have bound me to now.
+The Beginning of the Fall
+Leave 1 unit to guard your initial City,
+Barbarians
+are at both the  North and South of your starting area.  You are asked to bring your forces to another nearby Bannor city.  When you do so, you will get a
+Confessor
+, and the City (at this point you should've switched to Order for it's bonus.  If not, do now or you'll lose the Confessor.).  Sabathiel orders you to go reclaim a Southern city claimed by Barbarians.
+Before the Siege
+Try building 2
+Warriors
+to defend your cities to free up troops for the assault. Make good use of the Supplies and Worker, because this Scenario requires a lot of fighting  and you'll need to secure of some resources and build some start buildings. Also, have your
+Hunters
+and Confessor battle nearby Barbarian units, so the Hunters can get subdue animal and the Confessor can get Command I(and there are some pretty useful Barbarian units to the South, so try defeating them with the Confessor; it's a good chance for spare troops.) Also, try to start researching
+Orders from Heaven
+,
+BUT DON'T FINISH IT
+. You'll see why in the section below. Also, cast
+Bless
+on your units if your haven't yet.  +1 strength can make a difference. Horseback Riding is  also recommended.
+Retake the City and Defeat Muirin
+Head south with your Hunters, Confessor,
+Axemen
+, and possibly
+Archers
+if your have Warriors now defending your cities.  There are many Animals around the area, and take advantage of this with your Hunters.  When you reach the city, you find a
+Javelin Thrower
+and a
+Mercenary
+.  These shouldn't be a probem for your Axemen, but try using the Confessor to take them out (as you have a 10% chance of gaining them). The Mercenaries automatically will attack the first unit in their borders, so they are easy pickings, and the Javelin Throwers aren't that much stronger either. Move west. When you get there, the Confessor (if he hasn't died) notes that the men are too afraid to attack Muirin, a Hero Zombie with 3 +1 Unholy strengh and Fear. Now finish Orders from Heaven, and you'll trigger an event giving you Rosier Oathtaker, which is pretty much
+Rosier the Fallen
+with white clothing and Order instead of
+Ashen Veil
+.  Use Rosier to blast Muirin off his perch and burn the little lair he had been standing on.
+NOTE: Rosier actually has a hard time dealing with
+Muirin
+due to the Hero Zombie's defensive bonuses.
+If you're still waiting for Orders from Heaven to finish...
+There's a Barbarian city to the West for easy pickings.  You should have enhanced your army by now,  and their are only a few Orc Warriors there.  Use the Confessor if you want some Orcs, but if you want just the city, send your Axemen, one unit to defend the city, and
+Horsemen
+.
+The Fall of Cuantine, and the "Defeat" of the Overlords.
+The Confessor now says we must fight the
+Lanun
+, having declared
+Octopus Overlords
+unpure. You goal is to raze the capital city (RAZE, not capture. IF you capture it, the scenario becomes glitched, and you can still play but can't win or lose) This part's pretty simple. You can take the other cities if your want, but thats pretty much a waste of time. If you do take a Lanun city, once the revolt has ended, build a sea vessel and load something onto it. If you  have some spare troops on the east side of the map, move them north to Sabathiel's coastal city.
+We are Under Attack!
+A Lanun cultist decides to go for a last ditch effort and summons 2 Barbarian Drown around Sabthiel's coastal city. That's the reason for the defenders. Other wise, you can sit around and do nothing. The chances of the drown winning are actually pretty lame.
+Decius's "Betrayal" (Choice)
+After killing the
+Drown
+again, Rosier (who apparently used unholy magic) boasts that he broke Bannor law but feels no different. You can either (politely) ask him to face the Council, or rudely kick him out. This has no effect on the story (you flee the Bannor either way), and it is unclear if this has any gameplay effect.  In the end, Decius dreams of a demon in the form a snake coming to tempt him. His father wakes him, sees him clutching an Octopus idol, and brands him a apostate. Decius then flees to a Bannor port and is given the choice of going to the territory of the Calabim (vampires) or Makakim (desert nomads).  Based on the choice you make, you either start the next scenario as the
+Calabim
+or the
+Malakim
+.
+Known Bugs
+The scenario can become glitched and not allow you to continue on to the next scenario in some cases:
+If you capture the enemy capital city. Make sure to
+raze
+the capital, not capture it.
+If you achieve any of the standard victory conditions, since they are all enabled. Be careful about eradicating
+Octopus Overlords
+from captured cities.
+Trivia
+The art for this scenario comes from the loading screen for the Charr Homelands from
+Guild Wars
+.
+
+======================================================================
+PAGE: The Momus
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Momus
+======================================================================
+
+The Momus
+Description:
+Perpentach holds a contest between various warlords and the winner receives a great reward from the clown king. The others rarely survive.
+Player civilization:
+Falamar
+Victory:
+Defeat all other civilizations except
+Perpentach
+.
+Defeat:
+You are defeated.
+Special rules:
+Perpentach controls all declerations of warfare in the game, and changes them based on his whims. He may order everyone to dogpile one opponent, or declare that everyone should fight everyone.
+Requires:
+Successful completion of the
+Grand Menagerie
+scenario.
+Unlocks:
+None
+Side quests:
+Destroy all other civs except Beeri Bawl and Perpentach, which unlocks the ability to ally with Beeri and defeat Perpentach.
+Side quest reward:
+Gain access to Luchuirp allies in a later mission.
+"Falamar."
+There was nothing but darkness.
+"Falamar."
+I twisted in my dreams. I still imagined the tentacle around my leg through the veil of fear and emptiness. I drifted toward eternal sleep, but something wouldn't let me go.
+"Falamar."
+I opened my eyes and there was water all around, a world without earth or sky. I floated weightless in the current, forever falling in the sea's caress.
+There was another above me, a woman, but as inhuman as she was beautiful. She was as the tide, powerful but yielding.
+"Who are you?" I asked.
+"I am Condatis, the archangel of
+Danalin
+, God of the Sea."
+Afraid, I tried to swim away from her. I wasn't religious but I had seen enough temples and asylums of those that worshipped Danalin to suspect that this wasn't the afterlife I intended. Even if it did feature floating billowy maidens.
+"Danalin? As in the overlords? Is this the heaven for cultists and zealots?"
+She looked hurt. There was pain in her eyes, and love. I regretted my words.
+"No." she replied.
+"Oh... are you my reward?"
+"No!" she said, this time there was anger in her eyes.
+I seemed to be getting this all wrong so I just floated silently and let her speak.
+"I led you to
+Keelyn
+so that she would take you to her father, but
+Hastur
+predicts my actions. An achmage,
+Tebryn Arbandi
+, means to destroy creation. Go to the Momus, convince him to supply you with a fleet then sail through the Arduro Straight to the Dead Lands. Defeat Tebryn so I have time to defeat Hastur."
+"You sure you don't want
+Capria
+, or that guy that killed
+Mulcarn
+? I'm more of a steal-the-kings's-galleon kind of hero."
+She smiled, "My young prince, we must all make do with what we have."
+The water rippled and her face replaced with the bearded face of Amergin. He was pulling me up on the beach.
+"Falamar, are you okay?"
+"I'm okay," I stammered through racking coughs, "how are the men?"
+"Some are fine, others haven't been recovered yet."
+I understood his meaning and picked myself up. After recovering far too few of my men from the sea we went to meet with
+Perpentach
+. He ignored the threat of Tebryn and my pleas for help. But he was holding a competition between warlords, and he promised to supply the navy I required if I won. With few men and no ships, we had little choice but to enter.
+Background
+In this scenario, Falamar must fight his way out of a random war contest made by Perpentach. It's a very tricky game, as many things can happen. This can also be a very long scenario, and the turn limit (about 550 turns on normal) will be a looming threat here, as even if you are vastly in the lead, you will lose the challenge if you let time run out before all enemy civs are destroyed. As a result, this match is strictly military and favors lightning-fast rushes over prolonged seiges.
+Player:
+Falamar
+(
+Lanun
+), starts with two
+Settlers
+, two Swordsmen, two Archers, and sometimes an extra unit depending on what patch you've installed.
+Other Cilivisations
+:
+Perpentach
+(Balseraph), starts with 3 cities and decides the diplomacy for all other players.
+Beeri Bawl
+, Luichuirp.
+Mahon the Butcher, Calabim.
+Duke Sallos, Infernal.
+Tya Kiri, Amurites.
+Captain Uldanor, Hippus.
+Weevil, Pickle, and Hyde, Balseraph.
+Furia the Mad, Balseraph.
+Melisandre, Balseraph.
+Status:
+Permanent Alliance with everyone, but not on a team. There is a secret way to declare war on him though.
+Strategy
+(Note: This is one player's approach to the mission. The background is accurate, but there are other ways of winning the mission.)
+Before I begin, I want to note a few things in this game.
+All Living units ingame will have
+Mutated
+automatically, so some of your units may start uber strong or wimpy weak, depending on the promotions they get.
+Perpentach will have the following descisions of who fights who:
+1)
+Peace.
+Initially set at the beggining, no one fights and can't declare war. Once
+Perpentach
+makes his first declaration, he will not return the game to a Peace status again. However, if a civilization that is the target of a Dogpile declaration is destroyed, all players will be at peace until Perpentach makes a new declaration.
+2)
+Free For All.
+All Civs fight.
+3)
+Dogpile you.
+Apparently Perpentach hates the
+Lanun
+or he wouldn't have this option. Needless to say, everyone is going to attack you.
+4)
+Dogpile Another Civilization.
+All players go to war against a single civilization. Although Perpentach may only declare this against one other civilization during your playthrough, he can declare a Dogpile on any civilization in the game. He seems to focus this declaration on whichever player is in the lead, either in terms of empire size, military power, or both. Therefore, he's likely to harass the same player repeatedly with this declaration and, once you establish a strong lead, completely forget about it.
+And note that there is only one good civ (Beeri Bawl of the Luchuirp) and that the
+Infernals
+are out already. This is intentional: they will be extremely difficult to beat because they'll have high Mane creation meaning lots of expansion and units. It's also very difficult to predict what will happen during this scenario because of Perpentach, so I'll just try to outline a basic strat here.
+The Calm Before the Circus
+In this very short period or time, your best bet is to settle right where you started, or a little to the left. The other city should be a bit more southeast. These will most likely be the only cities you have for a while, because there's not a lot of room to expand. If you can get a third or fourth city down with no war, lucky you.
+Here's a few things you'll want to do before things get crazy:
+Found Order.
+This is the perfect counter to those damned Infernals, who will no longer be able to leech off your troops. Try to spread the faith so you can choke their Mane source off, but don't be too hopeful: All the other civs will attempt to adopt
+Fellowship of Leaves
+,
+Runes of Kilmorph
+,
+Octopus Overlords
+, or
+Ashen Veil
+.
+Get Spellcasters.
+You'll want the Spell Boosts, and if you can get a
+Mage
+, try to get a summon or damage spell.
+Scout the world.
+This is best done by trading maps with the other contestants before you lose relations with them due to enforced (by Perpentach) declarations of war. Alternatively, you can accomplish this on foot, but there are some goody huts and lairs, and there are few barbs starting on the map, so get moving with a
+Hunter
+or two. You can also try to get to other portions of the world with a ship and access to the Maelstrom, but watch out if they land in that
+Kraken
+- Filled lake.
+Develop Military.
+How you do this is up to you, but
+Archers
+are nice.
+Try to trade while you can.
+At this point, most civs are okay with you, but the HUGE relations penalty you get thanks to all the fights will eventually have you all shunning each other.
+Tech
+Trading will give you a head start. Even better, try to bribe civs with gold.
+Look Keelyn, the Contest has started!
+At about some point Perpentach yells out his first declaration of war for the contestants. If you haven't founded
+Order
+yet, that's alright, but try to get it done. You should send your armies out in at least groups of three, and don't try to take cities yet, you don't have the power. Just pick off units and capture
+Workers
+(Especially workers, that way you don't need to produce your own. I ended up taking 4 workers from the careless Infernal AI and the 2 that I started with to make a grand total of 6.). Try to tech up.
+At Peace Again?
+Whenever Perp yells stop or Dogpile Beeri, try to tech up while you can and continue to build up your army. That way, if you're at war again at least you came prepared.
+"Second war involving you"
+By now, your army should have grown enough to take a few cities from the weaker Civs. This is where Order comes in handy: Any cities liberated by the Order normally will have an
+Acolyte
+(or
+Crusader
+if Fanatiscism was researched), meaning free priests and guards. Eventually after so many wars, you'll eventually dominate enough that the other civs will fall easily. Don't forget that Order allows you to get
+Valin Phanuel
+off the bat and
+Sphener
+later on.
+"
+What else should I try in peace time?"
+Well, there are a few tricks that can put you ahead.
+Try adopting other
+religions
+temporarily to get their priests and UU's. It's beneficial in many ways:
+The
+Council of Esus
+gives you the ability to harrass without Perp noticing.
+Runes of Kilmorph
+increases production and defense.
+Fellowship of Leaves
+will give you summoners (which are really hard to gain because of the time you'll spend at war). Try to get a Satyr so you can take that Kraken.
+Octopus Overlords
+are great for just being able to swim.
+The Ashen Veil
+actually isn't a good choice thanks to the Infernals. But if you can get a
+Ritualist
+, that Ring of Fire can be worth it.
+Diseased Corpses
+make good Border Partols, and
+Beasts of Agares
+(Try making these in one of your captured cities) are just damn strong.
+The
+Empyrean
+gives you Chalid. Enough said.
+Go for resources that can buffer your military. If you can, try to get to Tier 3 units.
+And of course, try to convert everyone to order.
+Build
+Guybrush Threepwood
+, but only take chances with the Black Wind if you have time.
+Here's a neat little secret: Since you absolutely cannot go to war without Perpentach's permission, in this scenario you can damage allies with area-of-effect spells (like Maelstrom and Tsunami) without risk of retribution. So you can soften up rival cities while waiting for a war declaration, and there's nothing they can do about it.
+Eventually, your opponents will succumb to attrition city by city and you'll win the contest (assuming you haven't run out of time).
+OR.... (Scroll down if you're interested, this is an in-game secret...)
+"What about Beeri?"
+If you, Perp, and Beeri are the last three civs alive, Beeri offers his alliance to you. Take it. Although Perp may be well developed and harder to take on than Beeri (who by now should just have
+Mud Golems
+thanks too all the carnage), it only takes marginally longer to win and Beeri will come to aid you in
+The Black Tower (scenario)
+. With the Elves (depending on who you played as in
+The Splintered Court (scenario)
+), the
+Bannor
+(who you can gain in a later scenario), and the
+Hippus
+(gotten automatically from the campaign), you should have a minimum of 1 and a maximum of 3 allies by the completion of The Black Tower (scenario).
+Alternative Strategies
+Octopus Overlords
+While every religion's strengths come in to play here, none gives you more leverage against all other enemies like the Octopus Overlords religion. Why? One word: Tsunami. The Octopus Overlord disciple unit, the
+Cultist
+, has a powerful spell that assaults all nearby tiles adjacent to a water tile with massive cold damage, occasionally destroying tile improvements as well. In other scenarios this is convenient for attacking coastal cities, but in this scenario
+nearly all of the cities are coastal
+, meaning your Cultist units are pretty much walking ICBMs.
+Build and use Cultists to sack cities with a fraction of the time and manpower a standard catapult-based seige would take. Group no less than 3 Cultists with about a dozen Swordsmen, Boarding Parties, or
+Drown
+and march along the coast, making sure all your units remain on the same tile and that no friendly units or structures are within 2 tiles. Position your army right next to your target city on a coast tile, and have all your cultists cast Tsunami at once. This should severely damage all units defending that city, as well as annihilating nearby farms and mines, crippling your enemy. Have your melee units move in to conquer. If you don't capture the city in one turn, just cast Tsunami at the start of every turn until your forces take the city. Even if the city has a 40% defense rating and is being protected by a hero unit with five strength promotions, the Tsunami spells should bring them to their knees. The city should be yours in 2-3 turns.
+If the enemy tries to retake your newly-acquired city with an army triple the size of the one in your city, the Cultists are still your ace in the hole. Wait until the rival forces are within two tiles of your coastal city, then pummel them with Tsunami spells. By the time they reach the walls of your city, their strongest units could be down to less than 1.0 strength and can be repelled by a single archer.
+What's more, the Cultist unit can walk on water. Group them with Drown and
+Stygian Guard
+units, and you can launch a formiddable sea-based sneak attack without ever building a navy. This is useful for hitting the northeastern empires from behind, or if you decide you want to eliminate the Krakens in the central lake.
+Whatever you do, don't use the Tsunami spell to defend your core cities unless it's your last resort. Tsunami destroys tile improvements and damages units, even your own. One cast in your capital city can cause you to lose valuable resources.
+Release the Kraken!
+This may sound counterintuitive, but don't try to kill the two Krakens in the central lake. For one, you'll waste valuable time (and naval units) that should be used to eliminate your rivals. But also, the Krakens are in fact there to help you! They'll go after any naval units that enter their lake, rival civs included, and can take out triremes and galleons faster than you can. This means that, while those Krakens rule the central sea, you won't have to worry about a naval invasion. Rivals that would try to hit your capital city by sea will instead have to slog through Calabim and Amurite territory to reach it, and then they would have to march their armies through chokepoints you can easily defend.
+You, on the other hand, really don't need to use the central lake. Perpentach will control a majority of the lakeside territory, so there are only two or three rivals you can reach by boat through the central sea. The lake only becomes a viable tactical route if you decide to side with Beeri against Perpentach late in the game, and at that point you will probably already have two or three powerful armies standing right outside Balseraph borders.
+Trivia
+The art for this scenario comes from the loading screen for The Battle Isles from
+Guild Wars
+.
+
+======================================================================
+PAGE: The Radiant Guard
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Radiant_Guard
+======================================================================
+
+The Radiant Guard
+Description:
+Protect the citizens of Burne the Gleaming until they complete the Mercurian Gate. Kill 100 Infernal units before any attack Bourne to win.
+Player civilization:
+Falamar
+Victory:
+Kill 100
+Infernal
+units before any reach Bourne. And kill
+Basium
+or
+Hyborem
+.
+Defeat:
+Bourne the Gleaming city is destroyed.
+Special rules:
+Player cannot go farther west than the starting location. The Infernal recieve free units in their cities every turn.
+Requires:
+Successful completion of
+The Momus
+scenario.
+Unlocks:
+The Black Tower
+Lord of the Balors
+Side quests:
+Destroy the city of Bastradam.
+Side quest reward:
+Free units.
+Rhoanna
+spoke to the unit commander in hushed tones. He wore the same golden armor as his men, but had passed through a few more winters, and his authority was obvious from the respect his men showed him. Falamar noticed that black tattoos snaked up from under his armor and wrapped around his neck and his left hand was covered with intricate tattoos, which was highly unusual for a commander of the
+Radiant Guard
+. He also looked pained, stressed beyond even the ravages of war.
+Rhoanna walked back to where Falamar and the crew waited.
+"He says Bourne is threatened from internal and external forces. He wants us to lead the troops in the field, to keep the Infernals from attacking Bourne while they fight the heretics inside the city."
+Falamar walked close enough that they could talk without anyone overhearing.
+"Who is the commander? He looks afraid of more than death."
+Rhoanna glanced back at the commander who was in the process of splitting his men, some to return to the city and other to stay and await orders.
+"His name is Mikel, he's the son of an Emry," she answered. "He grew up among the
+Sheaim
+before splitting and dedicating his life to the
+Empyrean
+."
+"That explains the tattoos. But that should make him less afraid of war."
+"The heretics have captured his wife and three-year-old daugher. They demanded he take his men and abandon the city and he has refused. There isn't much hope he will be able to save them."
+She said the last part softly, but Mikel was behind her and had heard it. If the words affected him he didn't show it.
+"I am the shield until the sword comes free," he intoned. "If you hold the line I will scourge the heretics from Bourne and
+Basium
+will have a base to launch his war from. If the Infernals slip through your line then Bourne will fall and the devils will consume this land. I will give you some of the guard to stand with you. Will you battle
+Hyborem
+?"
+"Yes," Falamar answered without hesitation, "take care of Bourne and leave the devils to us."
+Note: If you do not want to spoil the scenario content please skip the [Choosing sides] section
+Strategy
+You arrive in the land with units scattered about. It involves some Radiant Guards, some mounted units and three boats. Your goal is to prevent any Infernal units to come beyond your border into the city of Bourne.
+A little south-east lies the city of Bastradam which you will be given a secondary objective to destroy in about turn 10. Depending on the difficulty and how well you know the game it is possible to take, but rather hard as you have a limited amount of troops. To the far east lies the Dead Lands where Hyborem and the majority of the Infernals lie.
+In the beginning Hyborem will send
+Diseased Corpses
+among
+Hellhounds
+. Then as the game escalates harder units like
+Beast of Agares
+and
+Champions
+will try to breach through.
+When you have successfully killed 100 Infernal units you will be presented with a choice, where a blueskinned demon ask you to destroy the city of Bourne. If you do as the demon says you will come at a very hard war with Basium. You will win the scenario if you refuse however.
+Choosing sides
+A deep blue demon with a goat's head and shattered bones approaches under the flag of diplomacy.
+"You lead your men well, and we bear no love for Tebryn. We offer free passage through our lands, if you will join us in sacking Bourne the Gleaming.
+The seas belong to the Lanun, and you are in no position to negotiate the terms of its travel. Tell your master we are done playing with his armies and we mean to end this game.
+I tire of the
+Empyrean
+and prefer the company of the night. Very well, we will join you against the Mercurians.
+If you choose the first choice you will have to go into the Dead Lands and fight
+Hyborem
+. By doing so you will win the scenario.
+If you choose the second choice, you will be facing the
+Mercurians
+as the enemy and you will be objectived to kill Basium. This will make peace with Hyborem. When you manage to kill Basium, you will win the scenario.
+Good Ending
+Verchiel dropped to his knees and cried. He was an angel of Lugus, lord of the dawn and revelation, but he was unable to deliver his message. He knew where Mikel's wife and daughter were imprisoned, Verchel was kneeling beside them in the ether. But Mikel was too full of fear and doubt to hear the angel's voice. The city's priests either didn't understand the message or were too busy praising the victory against the Infernals. Even now the heretics sat in the barrack's main hall planning to kill their two prisoners and dump the bodies into the sewers. They were the only one floor above them and after weeks of being held within the barracks, the prisoners only had a few minutes left to live.
+"Why are you crying?"
+Verchiel stopped in surprise. He looked up to see Meegan, Mikel's three year old daughter looking at him quizzically.
+"Can you see me child?" Verchiel asked, equally puzzled.
+"Of course. What is your name?" she asked.
+Hallah, Meegan's mother, sat staring at the iron-bound door of the cell as she had for weeks. The room they were trapped in was an old storage room, and still had a pile of old tools and supplies in it. She had been through it a dozen times but there was nothing that could help her escape. She tried to stay strong while Meegan was awake, and save her tears for when her daugther was sleeping. She was so lost in her thoughts it took her a minute to realize Meegan was holding a conversation with an old broom.
+"Chipmunk, who are you talking to?"
+Meegan smiled, "His name is Verchiel, he's an angel and he will help us get back to daddy."
+Hallah had no words. At three years old her daughter had gone crazy. Hallah wasn't sure if she should be jealous of her daughter's hope, or condemn her for it.
+"We need something shiny," Meegan said, going again through the pile of supplies. She finally found an old copper plate that seemed to statisfy her and she cleaned it as well as possible with the hem of her dress.
+Hellah heard the door to the basement open. This time instead of the single footsteps of someone bringing them food she heard a group coming down the stairs. Hallah pulled Meegan into her arms and when she squirmed Hallah told her to be quiet.
+There was a jingle of keys and then the door opened. Six men, all of the conspirators were here. Two had swords drawn, one a knife and another had a rope he looked about to put to use.
+"Sorry deary," he said, "your husband's too stubborn for his own good."
+At that Meegan tore free of her mothers grip and stood protectively in front of her. She held the polished copper plate above her head and the men stepped back a bit at the sudden move. Nothing happened.
+Then Meegan asked the broom, "what do I say?"
+"Come on deary," the man carrying the rope said, "ain't no joy in killing a child. But it's either you go into the sewers or I go into the dungeon, and I ain't fool enough to consider that.
+"You cannot hide your actions," Meegan shouted in a voice half her own and half unworldy, "Lugus will reveal all. If you mean to escape, then flee now into the darkness; this area has been claimed by the rose of summer!"
+Hallah was more surprised than the men and they took a stunned step backwards. But realizing that no matter the threat they wern't about to be cowed by a three-year-old with an old plate, one of the swordsmen stepped towards Meegan.
+The copper plate exploded in light. It was as if Meegan held the sun itself abode her head. The men covered their eyes in pain, light flooded the storage room, the hallway and up into the barrack itself. Breaking free of every window or crack in the barracks wall light came spilling out onto the dark streets of Bourne. The Radiant Guard knew immediately that the power of Lugus was manifest within the city and rushed toward the barracks.
+One of the kidnappers yelled for his men to stand firm. The light burnt through to his eyes even when they were closed and covered by him arm. He placed his sword in front of him and risked one peek at where he thought the little girl was standing. When he looked he saw a golden angel standing before him with a blazing sword.
+"You will not harm these people," the angel said.
+The heretics fled up out of the barracks and into the street where they were met by the radiant guard and quickly arrested. Mikel was just starting to question one when his wife and daughter stepped out of the barracks. If there is any true hope or happiness left in
+Erebus
+, it existed there as Mikel swept them both up into his arms. It was hours before he let go of either of them.
+Evil Ending
+The savant examined Mikel. Mikel was tied to a post that had been erected behind a small granary. The
+Infernals
+had several people tied up within the city and refused to kill anyone yet, and they wanted to make sure none of the prisoners could see each other, so each was alone. But they could hear each other in pain and agony. It was worse to imagine what was happening to the others than to actually see it. Especially with the horrifying demons that now walked the streets of Bourne. Except for being tied up Mikel had been left alone, but apparently it was his turn now.
+A few members of the
+Sect of Flies
+came into the yard. They were decrepit and foul. They were named for the thousands of flies that lived on and about them, but worse parasites lived and feasted in their flesh. Their skin crawled with the pressure of the creatures that burrowed within it and their stench was like sweat and rotten flesh, as if a corpse had gone for a long jog.
+Mikel wasn't afraid. He had seen horrible things when he lived among the
+Sheaim
+and he had already accepted that he was going to die here. He prayed to Lugus for the purification of his soul, for forgiveness for his own weakness in being unable to protect the city, and for the souls of his wife and doughter who had been taken from him weeks ago. He was not afraid until he saw who they dragged into the yard.
+It was his wife Hallah. She was still alive, but beaten and bruised. They hadn't killed her, for a moment he was grateful for that, until he realized what they had saved her for.
+The Sect of Flies started by pulling off her clothes. She screamed and looked at Mikel in terror and shame as they debased themselves upon her. Their parasites fed on her as well, and they spread through any place they touched. For hours they abused her in increasingly painful ways until finally her spirit was broken and she just lay quiet as they acted out their desires upon her. In time the burrowing parasites could be seen under her flesh and her body twitched and spasmed to the pain of being consumed from the inside out.
+By the time Hallah died Mikel had no prayers left in him. He had threatened, screamed, cried and finally begged for it to stop but the devils had ignored all of it. Mikel questioned everything in his life that lead him to this moment, was sorry for every decision. And that was before they brought out his daughter. By the time that torment was done the only thing left within Mikel was pain and hatred.
+
+======================================================================
+PAGE: The Splintered Court
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/The_Splintered_Court
+======================================================================
+
+The Splintered Court
+Description:
+The first summer in over 400 years finds the Svartalfar and the Lojsalfar returning to their ancient home to rekindle their civil war. You fight the battle to see what elven nation will survive in the
+Age of Rebirth
+.
+Player civilization:
+Svartalfar
+or
+Ljosalfar
+.
+Victory:
+Defeat the opposing civilization.
+Defeat:
+You are defeated.
+Special rules:
+Each turn is represented by one of 8 day cycles: Dawn, Morning, Noon, Afternoon, ect. Different events trigger on different turns. Baron Duin's forces turn into
+werewolves
+every dusk and back to men at dawn. The vampires of the
+Calabim
+are weak during daylight turns.Players cannot build settlers in this scenario. Instead they will occasionally recieve immigrants to their cities which the player can outfit as a variety of units for enough gold.
+Requires:
+None
+Unlocks:
+None
+Side quests:
+None announced
+Side quest reward:
+None announced
+When
+Sucellus
+withdrew from
+Erebus
+his children were left to rule themselves. They decreed that they would be ruled by two queens, each for half of the year. One queen ruled the summer court and under her the elves nurtured beauty and art, and trained in the vigilant defense of their empire. The other queen ruled the winter court which was made up of the mischievous members of the fey kingdom, the tricksters, illusionists and those fond of laughter and nights spent dancing under the stars. It continued like this all though the
+Age of Magic
+. The elven empire grew and revered Sucellus.
+That lasted until the god of Winter entered creation and dropped Erebus into an unending winter. Faeryl, queen of the winter court, refused to abandon her throne for as long as winter remained. The elves prayed for help and Sucellus answered, coming personally into creation to battle the god of winter. But Sucellus was killed in that battle and his children were left alone and godless.
+Faeryl ordered that the worship of the dead god was useless and that the empire should instead revere
+Esus
+, the god of night and deception. The shrines of Sucellus were torn down and the priests unwilling to abandon their old faith were rejected from the elven nation. But the summer court rallied against this. Under Arendel, queen of the summer court, they raised an army and attacked the members of the winter court, dropping the elves into a bloody civil war.
+As the world continued to cool from the presence of
+Mulcarn
+and the death of Sucellus it became less and less habitable. In time only small isolated pockets remained where the bands of elves could survive. Between the civil war and the cold both sides neared extinction. Eventually the winter made travel and attacks impossible and both sides were forced to put aside their war.
+Over 400 years later Mulcarn was killed and summer returned. The surviving generation of elves were able to travel again, and they have not forgotten the Umbrawood, thir ancient homeland, or the war that has not been settled. Now they meet again within the Umbrawood and this war must be played out to see who will control the elves in this new age.
+Background
+After the Age of Ice the
+Svartalfar
+and
+Ljosalfar
+begin their civil war anew. Arendel Phaedra leads
+Amelanchier
+and Thessa against
+Faeryl Viconia
+, Volanna and
+Rivanna the Wraith Lord
+. Baron Duin Halfmorn, Alexis, and Falamar also appear in this scenario.
+Regardless of who wins the war, Faeryl Viconia ends up becoming leader of the elves- either directly as commander of the victorious Svartalfar, or impersonating Arendel while the real Arendel is buried alive in the coffin supposedly containing Faeryl.
+Strategy
+Regardless of which side you play, you'll need money to fund the migrants that appear in your city as units and any heroes you can use.
+Fellowship of Leaves
+and
+Council of Esus
+are the only two religions, and 1 is claimed by your opponent, regardless of who it is. Just build up a big army full of powerful units, and you'll probably win.
+Notes
+Storywise, it's probably better to play as Faeryl. She wins either way, and her starting advantages give newer players a better chance. Her mana and Alakazan are also more suited for this scenario.
+If you play as Faeryl, Baron Duin Halfmorn will offer his aid once you defeat
+Amelanchier
+, if you make the captured elf into a werewolf.
+Alexis
+gives a similar offer, only with
+Thessa
+being defeated instead. Although having an extra side is useful, both Amelanchier and Thessa will somehow escape and return as an enemy of later scenarios. Besides, Alakazan and Esus put together should be more than enough.
+Take note of the billions of goody huts and lairs around the place. This is a good place for troops to get experience as well as get aid.
+Although
+Falamar
+won't have too much of an impact, try to trade with him a bit. You may get some useful mana and
+techs
+.
+
+======================================================================
+PAGE: Wages of Sin
+CATEGORIES: Scenarios
+URL: https://fallfromheaven.fandom.com/wiki/Wages_of_Sin
+======================================================================
+
+Wages of Sin
+Description:
+New alliances ignite in a religious war in the mountains of Tempus Mor.
+Player civilization:
+Decius
+-
+Calabim
+/
+Malakim
+Os-Gabella
+-
+Sheaim
+Victory:
+Destroy 3 civilizations of opposing alignment to win.
+Defeat:
+You are defeated.
+Special rules:
+Defeat at least 3 players of opposing
+alignment
+.
+Requires:
+Successful completion of
+Into the Desert
+.
+Unlocks:
+Against the Grey
+Lord of the Balors
+Side quests:
+None
+Side quest reward:
+None
+Path of Os-Gabella
+Abnoba oversaw the chanting of the ritualists. Not a word was misspoke. They had had the importance of this ritual made extremely clear. He turned to his queen, seated in her throne gazing impassively at the magic circle in the dim candle light.
+"I cannot say that this will grant you what you seek, milady."
+"No, likely it will not.
+Hyborem
+'s powers are great indeed, but even he lacks the power to rescind a blessing given by twenty-one in concert. It seems I am destined to see the end of this world."
+"If anything would bring the apocalypse upon our world, it would be this ritual.
+Agares
+'s followers will be bound to this world..." She trailed off as a sudden shaking almost knocked her to her feet. "Milady! Are we besieged?"
+"Abonoba... foolish child, what did you expect the rearrangement of the universe to feel like? Although doubtless the
+Bannor
+camp at our borders would take this as provocation and besiege us, and it would be to our advantage to let them face the Infernals and rip this land sunder... our spies tell us that they shall soon have to return home and face a worse surprise in the halls of Torrolerial. So we must find some other targets for our new patron Hyborem."
+The Ashen Veil
+preistess smiled. "The north."
+Os-Gabella beckoned. From the shadows came a Succubus. "If Hyborem has done his part from Hell, his forces should be emerging near Tempus Mor. The civil war of the Elven states should distract them enough for Hyborem to gain ground." The Succubus nodded and left the hall.
+"And we?"
+Os-Gabella smiled. "As we have ever done. Bring discord and strife until this world is unfit for the great experiment is was built for."
+Rosier the Fallen
+Ritualists painted symbols onto the armor the knight was to wear. It was midnight, and the blood they used came from warriors freshly sacrificed. Abnoba outlined the plans for the Sheaim forces, but he had other thoughts on his mind. "Decius is here, Abnoba. Leading Calabim forces."
+"Yes, this is true."
+"Why did you not tell me sooner? You know I want his blood. That and the blood of any fool of the Bannor."
+"We did not shelter you so you could defy our plans. But your hunger for revenge need not be frustrated if you look deeper. Decius has started down the same path you trod, the path that shall lead to him championing our ideals. He has seen the imperfection of the virtuous. He will find the emprtiness of self and finally embrace the futility of existence. His life is forbidden you, but the path of destruction in Tempus Mor is wide. Now ride, Knight of the Veil."
+Rosier donned his helm and mounted. Taking up sword and shield he followed the path out.
+Defeats
+A Svartalfar spy was waiting in Os-Gabella's chambers when she retired for the night. "This game of Faeryl's many intimidate some, but it merely annoys me to have to kill so many of her spies," Os-Gabella said.
+"I come with a message, dear firend of the Svaralfar. An opportunity. A tale of conversation overheard in the palace of a another friend. The wife of Varn Gosam, a woman of greatly divergent temperament, request the Calabim withdrawal from our alliance. Decius declines the offer, overly politely. There is more here than diplomacy. A risk that Decius may be swayed, but far as he has come, he has scant recourse to go back. If she were to have a moment of weakness though, it would stab at the heart of the Overcouncil."
+Os-Gabella smiled. "Perhaps if we alienate Decius... make him lonely, to long for a companion, he would seek out this woman in the future. Make sure he knows his fortune depends on his alleiance to us, however."
+Betrayal
+Talia walked unescorted from the Calabim borders through the savannah. It was early morning, and she headed towards the rising sun, towards home.
+Decius
+had just released her from a captivity that she had forgotten wasn't voluntary. He had dascinated her, and she had betrayed her husband
+Varn Gosam
+to her baser instincts. But she learned much on the man whose armies opposed hers, and she comforted herself with the thought that this information might aid her people in stopping the Calabim.
+"Do you know how the Sea of Sorrow was named?" The voice came from the shadows of a rock formation as she passed by.
+"Who's there? I have been granted passage as a prisoner exchange by Decius of the Calabim."
+An old crone in dusty purple robes emerged from the shadows. "There once was a great king who ruled over this land. Lord of all he would survey. His palace stood on a cliff overlooking the sea on the western edge."She paused.
+Talia gave her no further promting. "I have no time for your story. I am too long delayed from my home already." She turned away and hurried on, but found the woman ahead of her.
+"It is his sorrow from which this sea draws its name. A great king who had everything he asked for given. And he climbed the tower stairs to throw himself to his death in the crashing sea beneath."
+"What concern is this of mine? Kings come and go; all creatures suffer. I must return to my people, who struggle with a threat to every living thing under the sun!" The dust around her feet rose swirling around her, cutting off the old woman, and again Talia turned towards home.
+This time she saw the woman step from thin air in front of her. "What caused a sorrow so great to make him disdain his own life? Do you not know the story?" The Crone looked into Talia's eyes, who this time held her gaze. "That which he most treasured was shown to be false. A promise shown a lie. A wife shown untrue."
+"Spirit be gone! Do not... do not judge me."
+"The king's greatest desire was for his trusted queen to stand loyally by his side and help him to rule justly. He was too kind to send her away, too wise to trust her again, too idealistic to live with his dream out of reach. His death was the only solution within his grasp."
+"It would be better had he never learned of this," Talia said softly.
+"He will learn of it," the Crone said.
+"He is too true to do that. The king could not be happy... not while the queen who betrayed him still lived."
+The old woman turned away, releasing Talia from her gaze. Talia shook her head, then turned away, running towards home.
+The crone's ancient façade faded away. She removed a small mirror from her robes, and sprinkled a powder over it, revealing a dreary castle in a hellish landscape. "The seeds are planted, Lethe. Follow this one. Take her guilt and pain as supplication, and lead her to your embrace."
+Then after one final look to the fleeing Talia, Os-Gabella spoke a arcane command and returned to her palace.
+Os-Gabella stalked alon, apprising the hellish landscape that greeted their progress here. This was once a forest, perhaps even an elven town, though little remained to suggest it. She stopped down and picked up a skull, then let it drop from her fingers. The Infernals' handiwork. There was a certain beauty to the empriness that made her wistful. Her plan was a long-term one, and while she was well suited for patience, she longed for rest. "So far to go..." she muttered, dropping the skull.
+"You've gone far enough." Os-Gabella whirled to see the speaker, a cloked human man with a blade already poised to strike. She did not try to stop him. The strange hunter feinted and spun, impaling her heart in the blink of an eye.
+"Alas. I hadn't expected you would succeed." She grasped his head and began chanting. A moment later his body fell to the charred fields, his head residing in a separate plane altogether.
+When Os-Gabella returned to Galveholm, the captain of her spies was waiting for her. "Interesting news, milady.
+Ethne the White
+of the
+Elohim
+has been slain."
+"Death is ubiquitous, or so I'm told."
+"Her archmages were unable to resurrect her. Apparently her assassin has a blade which could send her soul straight to the next world."
+Os-Gabella inhaled sharply. "Contact Decius. Offer him whatever he names if he retrieves this sword. Meanshile, the chaos spreads. Already Infernal forces are coming to aid our Arch-mage ally Tebryn. They will surely defeat the Empyrean stronghold of Bourne the Gleaming, as it has been riddled from withing by corruption. And all across Erebus, our war will spill. Come, end of all things. Bring me release."
+Strategy
+If the player has chosen the Malakim, Chalid Astrakein is the best and easiest way to win.

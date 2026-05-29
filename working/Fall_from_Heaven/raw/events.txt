@@ -1,0 +1,206 @@
+
+======================================================================
+PAGE: Ars Moriendi
+CATEGORIES: Armageddon Events, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Ars_Moriendi
+======================================================================
+
+Ars Moriendi
+Race:
+Demon
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Barbarian
+Armageddon Counter
+at 70
+Starts With:
+Does Not Receive Defensive Bonuses
+Spawns a
+Wraith
+after each combat
+Demon
+Fear
+Magic Immune
+Vile Touch
+Info:
+13
++6
+Death
++5
+Unholy
++2
+Death
+Affinity
+3
+Cost:
+0
+Parih stood unmoving, surrounded by the chaos of the battlefield. The screams and clash of weapons were only distant echoes to him. Soldiers fought and died for the ground he stood on, but he did not budge. They pushed through him, and he could not feel it.
+His broken body lay before him, covered with blood and indistinguishable from the corpses of enemies that lay around him. The
+Hippus
+had appeared so different to him, like another breed of men, before now. A lifetime of stories meant to turn hearts against them, extolling the differences in their culture and history. But now they looked the same, battered and bloody.
+The world faded around him, it would be as if Parih's vision grew worse except he felt so real and the world seemed to be nothing but a dream. The sounds of battle were replaced by the whispered prayers of the soldiers. A few requesting protection, most asking for the death of their enemies, all scared.
+"Are you prepared for death?"
+The words reached into Parih, seeking the answer, touching every dark thought he maintained. A man on a pale horse rode toward him and though Parih felt evil from the man he was unable to lie.
+"I'm scared."
+"Do not be afraid of death, you have been dead before. Do you believe that time began when you were born? Do you believe your soul to be immortal?"
+Parih was unable to answer. The demon smirked.
+"You are not the catalyst of creation, flesh is an unfit and temporary vessel for a soul. If you know that your soul exists after your life ends, shouldn't you believe that it existed before your birth? And if your soul existed in a place before your birth, why would it not return there after your death?"
+The demon paused, reading Parih's thoughts, making sure this was the correct moment.
+"Take my hand mortal and I will lead you to the afterlife."
+Parih reached out and took Ars skeletal hand. In that instant the memories of his life were lost and he was reborn as one of the mindless Mane legions of hell.
+"That soul was not yours to claim demon!"
+Ars turned to see a
+Valkyrie
+with her weapon drawn. She paled when she recognized him, instinctively stepping back even though he hadn't made any move towards her.
+"I am unbound, and claim any I choose."
+He rode forward and the Valkyrie moved out of his way.
+Entering Erebus
+...and the last of the four shall be called Ars Morendi; not to be known by any other name by mortals, as none will know him and live...
+...he shall be the most cruel and powerful of the horsemen, dousing the spark of life in mortal souls through his presence alone, yet many shall come to greet him with longing rather than despair…
+...his shall be the final embrace, as countless souls will fall to his blade, only to rise again to join his dark retinue of wailing spirits; yearning now to consume the souls of their former families, friends and neighbours…
+..he shall leave in his wake an empty world; once proud cities fallen into ruin, marketplaces once filled with laughter and conversation now desolate and abandoned, the only voices heard the rushing of dead leaves in the cold wind...
+-
+Apocalyptic Warnings
+
+======================================================================
+PAGE: Buboes
+CATEGORIES: Armageddon Events, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Buboes
+======================================================================
+
+Buboes
+Race:
+Demon
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Barbarians
+Armageddon Counter
+at 50
+Starts With:
+Does Not Receive Defensive Bonuses
+Demon
+War
+Fear
+Magic Immune
+Blitz
+Flying
+Info:
+25
++2
+Unholy
+3
+Cost:
+0
+Special:
+Equip the sword
+War
+(+3 unholy strength and +1 to the AC for every living unit killed)
+Automatically Razes any City he is in at the start of the turn
+I am unborn of flesh, untouched by death, the enemy of peace and rest. That weakness in a sword yet unbroken, that would fail its wielder in battle and cost his life, or crack that will form in the capstone under to much pressure and cause the house to crumble.
+In that age any thought of the gods was mirrored in creation. Trees were Sucellus’s green musing on the golden pillars of heaven, butterflies the scattered whims of gentle Amathaon. But these gods knew fear as well, and even their fear became manifest. I am their fear of war, of the battles, rage and pain that even they are victim to.
+Bound and hidden, as is their fear, I am still a part of creation. And if unbound I will act out their fears upon the land, and
+Erebus
+will crumble under my sword.
+Entering Erebus
+...and the second of the four shall be called Buboes, though the unfortunate survivors of the initial reign of
+Stephanos
+will come to know him as the Warbringer...
+…dissent and strife shall reign amidst the lands while he rides along the crest of a wave of human blood, revelling in the torrent of death and destruction following in his wake…
+...men, women and children of all creeds and nations shall raise their flags for causes long forgotten, battling friend and foe alike 'till only scattered survivors on broken fields remains, soon to be struck down by the horseman's unforgiving blade...
+-
+Apocalyptic Warnings
+Notes
+The name "Buboes" comes from the plural form of the word "
+Bubo
+", a swelling of the lymph nodes as caused by several diseases.
+
+======================================================================
+PAGE: Stephanos
+CATEGORIES: Armageddon Events, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Stephanos
+======================================================================
+
+Stephanos
+Race:
+Demon
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Barbarian
+Armageddon Counter
+at 40
+Starts With:
+Does Not Receive Defensive Bonuses
+Demon
+Fear
+Magic Immune
+Command I
+Equip the
+Crown of Command
+(+30% capture percent).
+Info:
+20
++10
+Unholy
+3
+Cost:
+N/A
+... as the people remain blind to the imminent threat to their world despite previous signs, four harbingers of destruction shall arrive, riding dread steeds and each keeping the shadow of terror as a constant companion...
+...and the first of the four shall be known as Stephanos, though the terrified mortals in their whispers of dread will name him the Conquerer. He shall claim the lands of mortals as his own, he shall slay the armies of men who attempts to stand against him, and soon all the empires will fall to his unyielding rule...
+-
+Apocalyptic Warnings
+
+======================================================================
+PAGE: Yersinia
+CATEGORIES: Armageddon Events, Demon Units
+URL: https://fallfromheaven.fandom.com/wiki/Yersinia
+======================================================================
+
+Yersinia
+Race:
+Demon
+Unit Class:
+Mounted Unit
+Hero
+Requires:
+Barbarian
+Armageddon Counter
+at 60
+Starts With:
+Does Not Receive Defensive Bonuses
+Demon
+Fear
+Magic Immune
+Cannibalize
+Plague Carrier
+Diseased
+Info:
+15
++5
+Unholy
++10
+Poison
+3
+Cost:
+N/A
+Special:
+Equip the dagger
+Athame
+(+3 poison strength and spreads plague).
+Automatically Razes Cities.
+"Father abandoned child, wife husband, one brother another; for this illness seemed to strike through the breath and sight. And so they died. And none could be found to bury the dead for money or friendship. Members of a household brought their dead to a ditch as best they could, without priest, without divine offices ... great pits were dug and piled deep with the multitude of dead. And they died by the hundreds both day and night... And as soon as those ditches were filled more were dug ... And I, Agnolo di Tura, called the Fat, buried my five children with my own hands. And there were also those who were so sparsely covered with earth that the dogs dragged them forth and devoured many bodies throughout the city. There was no one who wept for any death, for all awaited death. And so many died that all believed it was the end of the world."
+Entering Erebus
+...and the third of the four shall be called Yersinia, known amongst mortals as the Witherer. He shall ride across the charred and burned battlefields, travelling to the few settlements that continue to exist in the doomed world, and with him shall fly a terrible plague on black wings, to sweep down upon the poor souls in his path…
+…many shall perish with horrible suffering, parents shall watch their children wither and die before their eyes, lovers shall be torn from each others' arms by the horrid embrace of entropy, and the sole comfort to those left behind in the land of the living will be the knowledge that they are soon to follow…
+…and he shall cause crops to wither and animals to perish in his wake, so that those who survive the plague will think longingly of even the first blight as a time of plenty, as they vainly seek to sate their hunger with ashes and dust...
+-
+Apocalyptic Warnings
+Notes
+The name "Yersinia" comes from
+Yersinia Pestis
+, the scientific name of the bacterium responsible for the Black Death.
