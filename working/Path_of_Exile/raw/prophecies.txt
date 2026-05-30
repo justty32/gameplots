@@ -1,0 +1,5664 @@
+
+======================================================================
+PAGE: A Call into the Void
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Call_into_the_Void
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Call into the Void
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Dishonourable Death
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Dishonourable_Death
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Dishonourable Death
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Firm Foothold
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Firm_Foothold
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Firm Foothold
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Forest of False Idols
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Forest_of_False_Idols
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Forest of False Idols
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Gracious Master
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Gracious_Master
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Gracious Master
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+(Not in patch note) No longer offered by
+Navali
+when spending
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+2.3.0
+Introduced to the game.
+References
+
+======================================================================
+PAGE: A Master Seeks Help
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help
+======================================================================
+
+A Master Seeks Help
+is the name shared by five different
+prophecies
+. Each prophecy involves completing a mission from one of the five
+masters
+.
+List of A Master Seeks Help prophecies
+There are five prophecies that share the name 'A Master Seeks Help', one for each master.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Legacy sealed prophecies
+The following sealed prophecies can no longer be obtained except by trading with other players in a
+permanent league
+. They are visually and functionally identical to the corresponding sealed prophecies that can be obtained normally.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Divination cards
+The following
+divination cards
+can be exchanged for A Master Seeks Help:
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+This
+disambiguation
+page lists articles associated with the title
+A Master Seeks Help
+.
+If an
+internal link
+led you here, you may wish to change the link to point directly to the intended article.
+
+======================================================================
+PAGE: A Master Seeks Help (Alva)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Alva)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a
+prophecy
+. It is one of five prophecies that share the name '
+A Master Seeks Help
+', all of which involve completing a mission from one of the five
+masters
+. This one requires completing a mission from
+Alva
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Catarina)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Catarina)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Einhar)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Einhar)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a
+prophecy
+. It is one of five prophecies that share the name '
+A Master Seeks Help
+', all of which involve completing a mission from one of the five
+masters
+. This one requires completing a mission from
+Einhar
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Elreon)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Elreon)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Haku)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Haku)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Jun)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Jun)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a
+prophecy
+. It is one of five prophecies that share the name '
+A Master Seeks Help
+', all of which involve completing a mission from one of the five
+masters
+. This one requires completing a mission from
+Jun
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.6.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Niko)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Niko)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a
+prophecy
+. It is one of five prophecies that share the name '
+A Master Seeks Help
+', all of which involve completing a mission from one of the five
+masters
+. This one requires completing a mission from
+Niko
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Tora)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Tora)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Vagan)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Vagan)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Vorici)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Vorici)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a sealed
+prophecy
+. It can no longer be obtained except by trading with other players in a
+permanent league
+. It is visually (including the flavour text) and functionally identical to the corresponding sealed prophecy that can be obtained normally:
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+(Niko).
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Master Seeks Help (Zana)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Master_Seeks_Help_(Zana)
+======================================================================
+
+For other prophecies of the same name, see
+A Master Seeks Help
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Master Seeks Help
+is a
+prophecy
+. It is one of five prophecies that share the name '
+A Master Seeks Help
+', all of which involve completing a mission from one of the five
+masters
+. This one requires completing a mission from
+Zana
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Prodigious Hand
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Prodigious_Hand
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Prodigious Hand
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Regal Death
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Regal_Death
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Regal Death
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.3.1c
+The "A Regal Death" prophecy can now be completed by killing Atziri in the Temple of Atzoatl, Garukhan, The Vulture Queen, or Shakari.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Rift in Time
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Rift_in_Time
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Rift in Time
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Valuable Combination
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Valuable_Combination
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Valuable Combination
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Vision of Ice and Fire
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Vision_of_Ice_and_Fire
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Vision of Ice and Fire
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: A Whispered Prayer
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/A_Whispered_Prayer
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+A Whispered Prayer
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+3.0.0
+Rare Monster changed from Frost Priest to Frost Preacher
+
+======================================================================
+PAGE: Abnormal Effulgence
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Abnormal_Effulgence
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Abnormal Effulgence
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Against the Tide
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Against_the_Tide
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Against the Tide
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Agony at Dusk
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Agony_at_Dusk
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Agony at Dusk
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: An Unseen Peril
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/An_Unseen_Peril
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+An Unseen Peril
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+An Unseen Peril only activates upon opening a
+strongbox
+, rather than entering a map, so multiple instances of this prophecy can be sealed and taken into the map as items and activated every time you wish to open a strongbox. This creates a strong synergy with
+Monstrous Treasure
+as well as modifiers to the Magic monsters of an area. Note that you will need to activate a new Unseen Peril before every strongbox you wish to open this way.
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Anarchy's End I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Anarchy's_End_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Anarchy's End I
+is a sealed
+prophecy
+. It is a part of
+Anarchy's End
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Anarchy's End II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Anarchy's_End_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Anarchy's End II
+is a sealed
+prophecy
+. It is a part of
+Anarchy's End
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Anarchy's End III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Anarchy's_End_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Anarchy's End III
+is a sealed
+prophecy
+. It is a part of
+Anarchy's End
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Anarchy's End IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Anarchy's_End_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Anarchy's End IV
+is a sealed
+prophecy
+. It is a part of
+Anarchy's End
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ancient Doom
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ancient_Doom
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ancient Doom
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+It will only trigger in the Ancient Pyramid, however NOT in
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+,
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+, or
+Maze Map
+. The map variants of
+Vaal Oversoul
+have different names:
+Vessel of the Vaal
+and
+Shadow of the Vaal
+respectively.
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ancient Rivalries I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ancient_Rivalries_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ancient Rivalries I
+is a sealed
+prophecy
+. It is a part of the
+Ancient Rivalries
+prophecy chain.
+This prophecy is no longer offered by Navali.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+The Ancient Rivalries chain can no longer be obtained from Navali. Existing chains can still be completed.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ancient Rivalries II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ancient_Rivalries_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ancient Rivalries II
+is a sealed
+prophecy
+. It is a part of the
+Ancient Rivalries
+prophecy chain.
+This prophecy is no longer offered by Navali.
+Notes
+Able to complete it wearing
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+The Ancient Rivalries chain can no longer be obtained from Navali. Existing chains can still be completed.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ancient Rivalries III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ancient_Rivalries_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ancient Rivalries III
+is a sealed
+prophecy
+. It is a part of the
+Ancient Rivalries
+prophecy chain.
+This prophecy is no longer offered by
+Navali
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+The Ancient Rivalries chain can no longer be obtained from Navali. Existing chains can still be completed.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ancient Rivalries IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ancient_Rivalries_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ancient Rivalries IV
+is a sealed
+prophecy
+. It is a part of the
+Ancient Rivalries
+prophecy chain.
+This prophecy is no longer offered by Navali.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+The Ancient Rivalries chain can no longer be obtained from Navali. Existing chains can still be completed.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Baptism by Death
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Baptism_by_Death
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Baptism by Death
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Battle Hardened
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Battle_Hardened
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Battle Hardened
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.4.0
+Introduced to the game.
+
+======================================================================
+PAGE: Beyond Sight I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Beyond_Sight_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Beyond Sight I
+is a
+prophecy
+. It is a part of
+Beyond Sight
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.2
+Enabled the Beyond Sight prophecy chain.
+
+======================================================================
+PAGE: Beyond Sight II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Beyond_Sight_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Beyond Sight II
+is a sealed
+prophecy
+. It is a part of
+Beyond Sight
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.2
+Enabled the Beyond Sight prophecy chain.
+
+======================================================================
+PAGE: Beyond Sight III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Beyond_Sight_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Beyond Sight III
+is a sealed
+prophecy
+. It is a part of
+Beyond Sight
+prophecy chain.
+Bameth Cultists
+seem can spawn everywhere, once you enter the map the prophecy quest tracker will appear on top right corner of screen then searching throught the area and kill them will lead you to complete this prophecy
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.2
+Enabled the Beyond Sight prophecy chain.
+
+======================================================================
+PAGE: Beyond Sight IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Beyond_Sight_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Beyond Sight IV
+is a
+prophecy
+. It is a part of
+Beyond Sight
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.2
+Enabled the Beyond Sight prophecy chain.
+
+======================================================================
+PAGE: Black Devotion
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Black_Devotion
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Black Devotion
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Blind Faith
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Blind_Faith
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Blind Faith
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Blinding Light
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Blinding_Light
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Blinding Light
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.2b
+Introduced to the game.
+
+======================================================================
+PAGE: Blood in the Eyes (prophecy)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Blood_in_the_Eyes_(prophecy)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Blood in the Eyes
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Blood of the Betrayed
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Blood_of_the_Betrayed
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Blood of the Betrayed
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Bountiful Traps
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Bountiful_Traps
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Bountiful Traps
+is a sealed
+prophecy
+. The prophecy is able to stack with
+Zana
+'s
+Ambush league
+mod.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Brothers in Arms
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Brothers_in_Arms
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Brothers in Arms
+is a sealed
+prophecy
+. Navali can no longer offer this prophecy.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+(Not in patch note) Drop disabled .
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Burning Dread
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Burning_Dread
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Burning Dread
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Cleanser of Sins
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Cleanser_of_Sins
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Cleanser of Sins
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Cold Blooded Fury
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Cold_Blooded_Fury
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Cold Blooded Fury
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+may be worn or in your inventory.  Glace is in the
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+'s arena.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Cold Greed
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Cold_Greed
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Cold Greed
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Crimson Hues
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Crimson_Hues
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Crimson Hues
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Crushing Squall
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Crushing_Squall
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Crushing Squall
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Custodians of Silence
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Custodians_of_Silence
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Custodians of Silence
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Dance of Steel
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Dance_of_Steel
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Dance of Steel
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Dark Instincts
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Dark_Instincts
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Dark Instincts
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Darktongue's Shriek
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Darktongue's_Shriek
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Darktongue's Shriek
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Day of Sacrifice I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Day_of_Sacrifice_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Day of Sacrifice I
+is a
+prophecy
+. It is a part of
+Day of Sacrifice
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Day of Sacrifice II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Day_of_Sacrifice_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Day of Sacrifice II
+is a
+prophecy
+. It is a part of
+Day of Sacrifice
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Day of Sacrifice III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Day_of_Sacrifice_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Day of Sacrifice III
+is a
+prophecy
+. It is a part of
+Day of Sacrifice
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Day of Sacrifice IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Day_of_Sacrifice_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Day of Sacrifice IV
+is a
+prophecy
+. It is a part of
+Day of Sacrifice
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Rivalry I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Rivalry_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Rivalry I
+is a sealed
+prophecy
+. It is a part of
+Deadly Rivalry
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Rivalry II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Rivalry_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Rivalry II
+is a sealed
+prophecy
+. It is a part of
+Deadly Rivalry
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Rivalry III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Rivalry_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Rivalry III
+is a sealed
+prophecy
+. It is a part of
+Deadly Rivalry
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Rivalry IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Rivalry_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Rivalry IV
+is a sealed
+prophecy
+. It is a part of
+Deadly Rivalry
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Rivalry V
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Rivalry_V
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Rivalry V
+is a sealed
+prophecy
+. It is a part of
+Deadly Rivalry
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Random area Spawn
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Deadly Twins
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Deadly_Twins
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Deadly Twins
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+No longer be consumed by Maps whose bosses have been slain by The Elder or his Guardians.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Defiled in the Sceptre
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Defiled_in_the_Sceptre
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Defiled in the Sceptre
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Gallery
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Dying Cry
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Dying_Cry
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Dying Cry
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Echoes of Lost Love
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Echoes_of_Lost_Love
+======================================================================
+
+This article needs to be updated
+for the following reason: There's no listing for this prophecy on POE trade (Harbinger). It might be drop disabled since 3.0.
+Please
+update this article
+to reflect newly available information.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Echoes of Lost Love
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Echoes of Mutation
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Echoes_of_Mutation
+======================================================================
+
+This article needs to be updated
+for the following reason: There's no listing for this prophecy on POE trade (Harbinger). It might be drop disabled since 3.0.
+Please
+update this article
+to reflect newly available information.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Echoes of Mutation
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Echoes of Witchcraft
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Echoes_of_Witchcraft
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Echoes of Witchcraft
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.1c
+Fixed a bug where the
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Prophecy could trigger and be consumed without being completable. This prophecy will no longer appear for characters above level 18.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: End of the Light
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/End_of_the_Light
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+End of the Light
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ending the Torment
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ending_the_Torment
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ending the Torment
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Erased from Memory
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Erased_from_Memory
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Erased from Memory
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Erasmus' Gift
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Erasmus'_Gift
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Erasmus' Gift
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Faith Exhumed
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Faith_Exhumed
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Faith Exhumed
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.4.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fallow At Last
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fallow_At_Last
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fallow At Last
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fated Connections
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fated_Connections
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fated Connections
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Tips
+If your item is already six-socketed, you won't be able to use Jeweller's Orbs on it. However, you can force it back to having fewer sockets using the
+Crafting Bench
+, which will restore the ability to use Jeweller's Orbs on it.
+You can only do it only with Jeweller's Orb, not once.
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fear's Wide Reach
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fear's_Wide_Reach
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fear's Wide Reach
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fire and Brimstone
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fire_and_Brimstone
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fire and Brimstone
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fire and Ice
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fire_and_Ice
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fire and Ice
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fire from the Sky
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fire_from_the_Sky
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fire from the Sky
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Fire, Wood and Stone
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Fire,_Wood_and_Stone
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Fire, Wood and Stone
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Flesh of the Beast
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Flesh_of_the_Beast
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Flesh of the Beast
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+Some areas in this list are below level 50, meaning a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+obtained there would have an item level that is below the requirement to have 6
+sockets
+. While this can be fixed with the 6 socket
+crafting recipe
+, it is recommended to finish this prophecy in
+Act 9
+, a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+, or any map with
+Area is inhabited by Abominations
+.
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Forceful Exorcism
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Forceful_Exorcism
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Forceful Exorcism
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: From Death Springs Life
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/From_Death_Springs_Life
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+From Death Springs Life
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: From The Void
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/From_The_Void
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+From The Void
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Gilded Within
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Gilded_Within
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Gilded Within
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Golden Touch
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Golden_Touch
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+For Golden Touch achievement, see
+Large Chest
+.
+Golden Touch
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Graceful Flames
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Graceful_Flames
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Graceful Flames
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Greed's Folly
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Greed's_Folly
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Greed's Folly
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Heart of the Fire
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Heart_of_the_Fire
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Heart of the Fire
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Changed target and location.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Heavy Blows
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Heavy_Blows
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Heavy Blows
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Hidden Reinforcements
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Hidden_Reinforcements
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Hidden Reinforcements
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Hidden Vaal Pathways
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Hidden_Vaal_Pathways
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Hidden Vaal Pathways
+is a
+prophecy
+.
+The prophecy may activate as soon as a player enter an area which can contain a
+Vaal side area
+. For that reason, players must make sure they immediately go where they want if they do not want to waste their prophecy (good trick for a vaal area challenge). Also, do not forget that some areas have two vaal areas that can spawn.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.1
+The Hidden Vaal Pathways prophecy now triggers in any area you enter that can support a side area, rather than with a low random chance.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Holding the Bridge
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Holding_the_Bridge
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Holding the Bridge
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Hunter's Lesson
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Hunter's_Lesson
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Hunter's Lesson
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Ice from Above
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Ice_from_Above
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Ice from Above
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: In the Grasp of Corruption
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/In_the_Grasp_of_Corruption
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+In the Grasp of Corruption
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Kalandra's Craft
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Kalandra's_Craft
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Kalandra's Craft
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.4.0
+Fixed a bug where the "Kalandra's Craft" Prophecy triggered on chests when it states that it only triggers on monsters.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Last of the Wildmen
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Last_of_the_Wildmen
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Last of the Wildmen
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Lasting Impressions
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Lasting_Impressions
+======================================================================
+
+For the notable passive skill, see
+Lasting Impression
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Lasting Impressions
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Changed reward quantity.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Lightning Falls
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Lightning_Falls
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Lightning Falls
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Living Fires
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Living_Fires
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Living Fires
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Lost in the Pages
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Lost_in_the_Pages
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Lost in the Pages
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+3.0.0
+Changed to only be completable in maps.
+
+======================================================================
+PAGE: Monstrous Treasure
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Monstrous_Treasure
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Monstrous Treasure
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+Area contains 36
+strongboxes
+.
+Only available in
+map
+.
+All non fixed-placed monsters are packed into a strongbox.
+Able to stack with other sources of strongboxes (Ex.
+Zana's ambush mod
+, Ambush
+Scarabs
+,
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+).
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The Prophecy 'Monstrous Treasure' now completes upon opening the final strongbox in the area.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mouth of Horrors
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mouth_of_Horrors
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mouth of Horrors
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mysterious Invaders
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders
+======================================================================
+
+Not to be confused with
+The Invader
+.
+Mysterious Invaders
+is the name shared by five different
+prophecies
+.
+Variants
+There are five variants of this prophecy, one for each
+damage type
+.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.1
+Beyond portals for the Mysterious Invaders prophecy will now close when the pack has been killed.
+2.3.0
+Introduced to the game.
+This
+disambiguation
+page lists articles associated with the title
+Mysterious Invaders
+.
+If an
+internal link
+led you here, you may wish to change the link to point directly to the intended article.
+
+======================================================================
+PAGE: Mysterious Invaders (Chaos)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders_(Chaos)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mysterious Invaders
+is a sealed
+prophecy
+.
+Variants
+There are 5 variants of the
+Mysterious Invaders
+prophecy, one for each element.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mysterious Invaders (Cold)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders_(Cold)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mysterious Invaders
+is a sealed
+prophecy
+.
+Variants
+There are 5 variants of the
+Mysterious Invaders
+prophecy, one for each element.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mysterious Invaders (Fire)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders_(Fire)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mysterious Invaders
+is a sealed
+prophecy
+.
+Variants
+There are 5 variants of the
+Mysterious Invaders
+prophecy, one for each element.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mysterious Invaders (Lightning)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders_(Lightning)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mysterious Invaders
+is a sealed
+prophecy
+.
+Variants
+There are 5 variants of the
+Mysterious Invaders
+prophecy, one for each element.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Mysterious Invaders (Physical)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Mysterious_Invaders_(Physical)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Mysterious Invaders
+is a sealed
+prophecy
+.
+Variants
+There are 5 variants of the
+Mysterious Invaders
+prophecy, one for each element.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Nature's Resilience
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Nature's_Resilience
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Nature's Resilience
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Nemesis of Greed
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Nemesis_of_Greed
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Nemesis of Greed
+is a
+prophecy
+.
+Tips
+The most efficient way to find a monster with Inner Treasure is to enter a map with the
+Lua error: Error: invalid field alias "mods.name"; aliases cannot contain dots or quotes..
+prefix mod.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.1
+The Nemesis of Greed prophecy is no longer available in Normal Difficulty.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Notched Flesh
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Notched_Flesh
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Notched Flesh
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+(Not in patch note) The objective was changed from
+Pocked Miner
+to
+Pocked Mason
+.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Overflowing Riches
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Overflowing_Riches
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Overflowing Riches
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Path of Betrayal
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Path_of_Betrayal
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Path of Betrayal
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Plague of Frogs
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Plague_of_Frogs
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Plague of Frogs
+is a
+prophecy
+. The spawned frogs seem to cluster up around monster and move away when a monster next to them is killed.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Locations
+any outdoor map
+The Imperial Gardens
+The Northern Forest (Act 7)
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Plague of Rats
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Plague_of_Rats
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Plague of Rats
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Pleasure and Pain
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Pleasure_and_Pain
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Pleasure and Pain
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.6.2
+Pleasure and Pain prophecy can now be completed in Core Map.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Pools of Wealth
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Pools_of_Wealth
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Pools of Wealth
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Possessed Foe
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Possessed_Foe
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Possessed Foe
+is a sealed
+prophecy
+.
+Goal
+Kill a Unique Monster which is possessed by a
+Tormented Spirit
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.1
+Harbingers and The Beachhead map boss can no longer be possessed by a Tormented Spirit from the
+Possessed Foe
+Prophecy. This made the map impossible to complete.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Power Magnified
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Power_Magnified
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Power Magnified
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Prophecy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Prophecy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Navali
+'s interface used to seek, view and seal prophecies
+The 3 steps required to upgrade a Unique item into a Fated Unique item, in this example upgrading
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+to
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+For the leagues, see
+Prophecy league
+.
+Prophecies
+are visions of a character's future, provided by
+Navali
+. They can be purchased for one
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+and are stored in the prophecy screen. These prophecies influence the future of what happens to the player's character. Some can change areas to generate different encounters or to force various outcomes to occur. Others trigger when a condition occurs and change the result.
+For an additional cost of
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+ranging from 1 to 9,
+Navali
+can seal prophecies, turning them into items so that they are tradeable. This allows players to delay their fate, or capitalize on it. Sealing prophecy chains will reset the quest state of that prophecy chain to 1. Conversely activating a sealed prophecy will set the quest state to the activated one, no matter where the state has been before
+[
+citation needed
+]
+.
+Prophecies that do not trigger upon loading an area will not trigger ever for that area unless sealed and reused. This does not include
+maps
+.
+There are currently 230 Prophecies that can spawn in the game.
+However as of the update of
+3.17.0
+prophecies are no longer available as due to the removal of
+Navali
+. And prophecies that were sealed in the inventory or stash has been removed. And the prophecies tab in the
+Challenges
+page has also been removed including the prophecies within the tab.
+Master missions
+One of these prophecies can be randomly acquired from a set of 5
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Crafting
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Fated Uniques
+Each of these prophecies results in the transformation of a certain unique item into a
+Fated item
+.
+Unique weapons such as
+The Dancing Dervish
+must be in your inventory or equipped for the prophecy to apply. Prior to
+Version 3.1.0
+it was required to have the unique item equipped.
+The unique items needed to complete these prophecies must
+not be corrupted
+. Sockets, item level, implicit rolls (including enchantments) and explicit rolls that appear on both versions of the unique item are unchanged.
+A random fated unique prophecy can be acquired from a set of 3
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Tempest
+All of these
+Tempests
+except for
+Vaal Winds
+grant 30% additional item quantity and rarity, which stacks additively with other sources of item quantity and rarity affecting the area.
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Encounter
+Reward: Unique
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Reward: Currency
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Reward: Nothing
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Reward: Others
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Prophecy chains
+See
+Category:Prophecy chains
+See also
+List of removed prophecies
+Version history
+Version
+Changes
+3.5.0
+Adjusted the weightings of many prophecies.
+You can now complete the steps of many prophecy chains in various maps.
+Prophecies which can trigger in maps no longer lock their triggers to specific maps out of their possible pool. In other words, if you attempt to open a map where a Prophecy might trigger and it doesn't, it may trigger next time you open it. Previously, if it did not trigger in that map, it never would.
+Prophecies that previously forced the appearance of one of the old Masters now force the appearance of one of the new ones instead.
+3.0.0
+Cruel and Merciless difficulties have been removed. Costs to Seal prophecies no longer increase from the former Normal Difficulty cost.
+The
+Ancient Rivalries
+prophecy chain is no longer available.
+2.4.0c
+The drop rate of
+Silver Coins
+has been increased.
+Fixed a bug where
+The Feral Lord V
+and
+The Unbreathing Queen V
+couldn't be completed when using Atlas versions of the maps.
+2.4.0
+The Prophecy system (previously a challenge league) has been added to the core game. You can now find and rescue Navali in The Climb.
+Navali can now be invited to your hideout and she doesn't consume a slot that would be used by a Forsaken Master.
+When seeking Prophecies from Navali in your hideout, the difficulty used is now the latest difficulty in which your character has ever accessed the Twilight Strand.
+Silver Coin
+now drop less often than before, as Prophecy is not the main league mechanic now.
+The sealing cost for most Prophecies has been slightly reduced.
+The highest level that some Prophecies can spawn at has been reduced.
+The Normal difficulty version of
+The Forgotten Soldiers
+prophecy has been made easier.
+Fixed a bug where the "
+Kalandra's Craft
+" Prophecy triggered on chests when it states that it only triggers on monsters.
+2.3.2
+Enabled the
+Beyond Sight
+prophecy chain.
+When you have multiple Prophecies that can affect an
+area
+, the one that is picked is now done so more intelligently.
+We no longer display the Mission Failed message in the middle of the screen if you enter an area with the mission already failed.
+Navali
+dialogue will now be interrupted when another
+NPC
+begins to talk. She also interrupts herself if already telling you about a Prophecy.
+Fixed the
+map device
+consuming your Prophecy if you cancel map activation.
+The Invader Prophecy will no longer trigger in areas that cannot spawn
+Invasion bosses
+.
+Mission complete and failure text will now disappear when you leave and return to an area.
+2.3.1
+Added two more prophecies and one prophecy chain.
+The seal costs of Unique and Fated Unique prophecies have been reduced. They now occur less often, reducing the amount of backtracking in the end-game.
+The occurrence chances of various prophecies have been reduced with the goal of less backtracking in the end-game.
+Navali
+will no longer offer
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+The original design intent was that only one could be used per run. We can't prevent multiple of these prophecies applying, and that ruins the intended rewards of the Labyrinth.
+Some prophecies have been disabled from triggering in problematic unique maps.
+Prophecy monsters using Chaos Bombs now have a description showing this.
+Fixed an exploit case with chain prophecies where players could get the final part of a chain after consuming that final part but not yet completing it.
+2.3.0
+Introduced to the game in
+Prophecy leagues
+.
+
+======================================================================
+PAGE: Rebirth
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Rebirth
+======================================================================
+
+This page is about the prophecy.  For the divination card, see
+Rebirth (divination card)
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Rebirth
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Reforged Bonds
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Reforged_Bonds
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Reforged Bonds
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Resistant to Change
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Resistant_to_Change
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Resistant to Change
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Risen Blood
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Risen_Blood
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Risen Blood
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Roth's Legacy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Roth's_Legacy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Roth's Legacy
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Severed Limbs
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Severed_Limbs
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Severed Limbs
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Smothering Tendrils
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Smothering_Tendrils
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Smothering Tendrils
+is a sealed
+prophecy
+that grants
+Lua error: Error: invalid field alias "mods.name"; aliases cannot contain dots or quotes..
+to a transmuted map. When both Smothering Tendrils and
+Golden Touch
+are active prophecies, Smothering Tendrils has priority.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Soil, Worms and Blood
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Soil,_Worms_and_Blood
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Soil, Worms and Blood
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Song of the Sekhema
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Song_of_the_Sekhema
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Song of the Sekhema
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Storm on the Horizon
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Storm_on_the_Horizon
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Storm on the Horizon
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Storm on the Reef
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Storm_on_the_Reef
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Storm on the Reef
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Moved to
+Act 6 - The Brine King's Reef
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Strong as a Bull
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Strong_as_a_Bull
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Strong as a Bull
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Sun's Punishment
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Sun's_Punishment
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Sun's Punishment
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Thaumaturgical History I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Thaumaturgical_History_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Thaumaturgical History I
+is a sealed
+prophecy
+. It is a part of
+Thaumaturgical History
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act I  :The Prison WP > The upper Prison ( The Warden's Quarters)
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Thaumaturgical History II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Thaumaturgical_History_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Thaumaturgical History II
+is a sealed
+prophecy
+. It is a part of
+Thaumaturgical History
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Only
+act II : The Western Forest
+Version history
+Version
+Changes
+3.2.0
+Clarified the description, indicating it only triggers in
+Act 2
+.
+3.1.2
+Can no longer trigger in
+Act 6
+'s
+Western Forest
+.
+3.1.0
+Voll's Proclamation in The Western Forest is now destroyed in Part 2. You should check it out. It's pretty neat.
+(undocumented) Thaumaturgical History II can be triggered in
+Act 6
+'s
+Western Forest
+, but unable to complete as a bug
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+(undocumented) Can be trigged in
+Act 6
+'s
+Western Forest
+2.3.0
+Introduced to the game.
+References
+
+======================================================================
+PAGE: Thaumaturgical History III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Thaumaturgical_History_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Thaumaturgical History III
+is a sealed
+prophecy
+. It is a part of
+Thaumaturgical History
+prophecy chain.
+Act II : The Chamber of Sins level 1
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Thaumaturgical History IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Thaumaturgical_History_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Thaumaturgical History IV
+is a
+prophecy
+. It is a part of
+Thaumaturgical History
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act IV : The Harvest
+Version history
+Version
+Changes
+3.0.0
+Many Prophecies have been reworked for compatibility in
+Act 5
+and upwards. Prophecies are no longer bound to a specific
+difficulty
+and can be triggered and completed in any relevant area.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Aesthete's Spirit
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Aesthete's_Spirit
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Aesthete's Spirit
+is a sealed
+prophecy
+. This prophecy is no longer offered by Navali.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Alchemist
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Alchemist
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Alchemist
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Ambitious Bandit I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Ambitious_Bandit_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Ambitious Bandit I
+is a
+prophecy
+. It is a part of
+The Ambitious Bandit
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+This prophecy can be triggered in several
+Act 2
+zones, however it appears that the prophecy is linked to one randomly chosen specific zone when it is activated. Consequently, one should keep searching different zones instead of repeatedly opening new instances of the same zone.
+Upon entering the specific zone containing the quest, the related prophecy text appears in the quest tracking area.
+Version history
+Version
+Changes
+3.0.0
+Increased the likelihood that the Prophecy 'Ambitious Bandit I' would trigger in Act II areas.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Ambitious Bandit II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Ambitious_Bandit_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Ambitious Bandit II
+is a
+prophecy
+. It is a part of
+The Ambitious Bandit
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Ambitious Bandit III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Ambitious_Bandit_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Ambitious Bandit III
+is a
+prophecy
+. It is a part of
+The Ambitious Bandit
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+When proc the prophecy in The Library with a high level character, the item level of the amulet is 70.
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Apex Predator
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Apex_Predator
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Apex Predator
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Beautiful Guide
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Beautiful_Guide
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Beautiful Guide
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Beginning and the End
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Beginning_and_the_End
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Beginning and the End
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Bishop's Legacy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Bishop's_Legacy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Bishop's Legacy
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.4.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Blacksmith (prophecy)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Blacksmith_(prophecy)
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Blacksmith
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Prophecy has been disabled
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Bloody Flowers Redux
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Bloody_Flowers_Redux
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Bloody Flowers Redux
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+(not in patch notes) Now trigged in
+The Grain Gate
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Bowstring's Music
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Bowstring's_Music
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Bowstring's Music
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Brothers of Necromancy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Brothers_of_Necromancy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Brothers of Necromancy
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Notes
+The Necromancers are not marked on the minimap and they spawn in separate packs.
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Brutal Enforcer
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Brutal_Enforcer
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Brutal Enforcer
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Child of Lunaris
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Child_of_Lunaris
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Child of Lunaris
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Corrupt
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Corrupt
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Corrupt
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Cursed Choir
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Cursed_Choir
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Cursed Choir
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Dreaded Rhoa
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Dreaded_Rhoa
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Dreaded Rhoa
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Dream Trial
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Dream_Trial
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Dream Trial
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.4.2
+"The Dream Trial" Prophecy can no longer trigger on maps that have the Sextant mod that forces Zana to be present.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Dreamer's Dream
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Dreamer's_Dream
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Dreamer's Dream
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Eagle's Cry
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Eagle's_Cry
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Eagle's Cry
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Emperor's Trove
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Emperor's_Trove
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Emperor's Trove
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.1
+Navali
+will no longer offer The Emperor's Trove.
+The original design intent was that only one could be used per run. We can't prevent multiple of these prophecies applying, and that ruins the intended rewards of the Labyrinth.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Fall of an Empire
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Fall_of_an_Empire
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Fall of an Empire
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Feral Lord I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Feral_Lord_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Feral Lord I
+is a sealed
+prophecy
+. It is a part of
+The Feral Lord
+prophecy chain.
+This prophecy can be fulfilled by slaying the corrupted animals from the
+Southern Forest
+in
+Act 2
+or
+Act 6
+, as well as
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act II : The Southern Forest
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Feral Lord II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Feral_Lord_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Feral Lord II
+is a
+prophecy
+. It is a part of
+The Feral Lord
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act VII : The Northern Forest
+Version history
+Version
+Changes
+3.13.0
+(Not in patch note)
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+now eligible as the objective area.
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Feral Lord III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Feral_Lord_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Feral Lord III
+is a
+prophecy
+. It is a part of
+The Feral Lord
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Monsters
+All monster spawned by this prophecy are known as "Echo of the Verdant" and seems to be kind of lightning domain.
+Below is the list of "Echo of the Verdant" and the skill id for the skills they use:
+Monster names
+skill ids
+Echo of the Verdant
+Melee
+•
+ScavengerThrow
+Echo of the Verdant
+Melee
+•
+SnakeProjectile
+Echo of the Verdant
+Melee
+•
+MonsterViperStrike
+Echo of the Verdant
+Melee
+•
+SandLeaperDodgeLeft
+•
+SandLeaperDodgeRight
+Echo of the Verdant
+Melee
+•
+DanceOnCorpse
+•
+MonsterLeapSlamVulture
+•
+VultureWait
+•
+VultureWait2
+Echo of the Verdant
+Melee
+•
+SnakeProjectile
+Echo of the Verdant
+Melee
+•
+MonsterViperStrike
+Echo of the Verdant
+Melee
+•
+SandLeaperDodgeLeft
+•
+SandLeaperDodgeRight
+Version history
+Version
+Changes
+3.13.0
+(Not in patch note) Can now be triggered in
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+(undocumented) Add
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+,
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+as locations
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Feral Lord IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Feral_Lord_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Feral Lord IV
+is a
+prophecy
+. It is a part of
+The Feral Lord
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+The Vulture can spawn anywhere in the zone, so you should check all the borders.
+Gallery
+Act 3: The City of Sarn
+Act 8: The Grand Promenade
+Act 8: The Imperial Fields
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+(undocumented) Added Maps of Sarn to locations
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the
+Pale Council
+chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Feral Lord V
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Feral_Lord_V
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Feral Lord V
+is a
+prophecy
+. It is the last part of
+The Feral Lord
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Gallery
+Yriel, the Feral Lord in Mud Geyser Map
+Version history
+Version
+Changes
+3.0.0
+The Pale Council encounter in
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+has been rebalanced and is, in general, be more difficult. Defeating the Pale Council will earn you one of four new unique items exclusively available from them.
+(not in patch notes) The old Pale Council exclusive items were moved to the final step of the Pale Council prophecy chain.
+2.3.0e
+Fixed a bug where Yriel, the Feral Lord could not be summoned during the encounter with Ventarus in the Feral Lord V prophecy.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Flayed Man
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Flayed_Man
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Flayed Man
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Flow of Energy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Flow_of_Energy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Flow of Energy
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Forgotten Garrison
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Forgotten_Garrison
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Forgotten Garrison
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Forgotten Soldiers
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Forgotten_Soldiers
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Forgotten Soldiers
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.4.0
+The Normal difficulty version of the "The Forgotten Soldiers" prophecy has been made easier.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Fortune Teller's Collection
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Fortune_Teller's_Collection
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Fortune Teller's Collection
+is a sealed
+prophecy
+.
+Gallery
+Appearance of Chest
+Example Contents
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Drops are limited to those available for the specific map.
+[
+citation needed
+]
+Version history
+Version
+Changes
+2.3.1
+Introduced to the game.
+
+======================================================================
+PAGE: The Four Feral Exiles
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Four_Feral_Exiles
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Four Feral Exiles
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The God of Misfortune
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_God_of_Misfortune
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The God of Misfortune
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Gallery
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+See also
+Rukuku, the Pagan God
+, a race league monster
+
+======================================================================
+PAGE: The Great Leader of the North
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Great_Leader_of_the_North
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Great Leader of the North
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Great Mind of the North
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Great_Mind_of_the_North
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Great Mind of the North
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Hardened Armour
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Hardened_Armour
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Hardened Armour
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Hollow Pledge
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Hollow_Pledge
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Hollow Pledge
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Hungering Swarm
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Hungering_Swarm
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Hungering Swarm
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Invader
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Invader
+======================================================================
+
+Not to be confused with
+Mysterious Invaders
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Invader
+is a
+prophecy
+.
+Goal
+Kill an
+Invasion Boss
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.2
+The Invader Prophecy will no longer trigger in areas that cannot spawn
+Invasion bosses
+.
+2.3.1
+Introduced to the game.
+
+======================================================================
+PAGE: The Jeweller's Touch
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Jeweller's_Touch
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Jeweller's Touch
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Can not be used on
+Shroud of the Lightless (1 Abyssal Socket)
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Karui Rebellion
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Karui_Rebellion
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Karui Rebellion
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+(undocumented)
+The Karui Rebellion
+now take place in
+The Grain Gate
+of
+Act 8
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The King and the Brambles
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_King_and_the_Brambles
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The King and the Brambles
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The King's Path
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_King's_Path
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The King's Path
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Lady in Black
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Lady_in_Black
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Lady in Black
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Last Watch
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Last_Watch
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Last Watch
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Lost Maps
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Lost_Maps
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Lost Maps
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Is now fulfilled in the Act 7 Chamber of Sins.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Lost Undying
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Lost_Undying
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Lost Undying
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Malevolent Witch
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Malevolent_Witch
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Malevolent Witch
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Mentor
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Mentor
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Mentor
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.5.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Misunderstood Queen
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Misunderstood_Queen
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Misunderstood Queen
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Mysterious Gift
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Mysterious_Gift
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Mysterious Gift
+is a
+prophecy
+.
+Notes
+The lowest
+item level
+of the five determines the
+item level
+of the resulting
+unique
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Nest
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Nest
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Nest
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0g
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+prophecy now requires a rare
+Noxious Tarantula
+, instead of the
+Brooding Tarantulas
+which could not spawn in Endgame maps.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Nightmare Awakens
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Nightmare_Awakens
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Nightmare Awakens
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Petrified
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Petrified
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Petrified
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Plaguemaw I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Plaguemaw_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Plaguemaw I
+is a
+prophecy
+. It is the first part of
+The Plaguemaw
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0e
+The costs for sealing the prophecy Plaguemaw I have been substantially reduced.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Plaguemaw II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Plaguemaw_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Plaguemaw II
+is a
+prophecy
+. It is a part of
+The Plaguemaw
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act VII : The Crypt
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Plaguemaw III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Plaguemaw_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Plaguemaw III
+is a sealed
+prophecy
+. It is a part of
+The Plaguemaw
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Plaguemaw IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Plaguemaw_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Plaguemaw IV
+is a
+prophecy
+. It is the fourth part of
+the Plaguemaw
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+The objective: Arcanist's Strongbox looks like
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.1.0
+The Hedge Maze
+has been removed and both
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+and the
+Trial of Ascendancy
+have been moved into
+The Imperial Gardens
+.
+(Not in patch note) The Plaguemaw IV prophecy now triggers in
+The Imperial Gardens
+as well.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Plaguemaw V
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Plaguemaw_V
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Plaguemaw V
+is a
+prophecy
+. It is a part of
+The Plaguemaw
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Gallery
+Eber, the Plaguemaw and his throne
+Version history
+Version
+Changes
+3.0.2
+The Plaguemaw V Prophecy can now be completed in the
+Crystal Veins
+or a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+The Pale Council encounter in
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+has been rebalanced and is, in general, be more difficult. Defeating the Pale Council will earn you one of four new unique items exclusively available from them.
+(not in patch notes) The old Pale Council exclusive items were moved to the final step of the Pale Council prophecy chain.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Prison Guard
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Prison_Guard
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Prison Guard
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Prison Key
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Prison_Key
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Prison Key
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Queen's Sacrifice
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Queen's_Sacrifice
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Queen's Sacrifice
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Queen's Vaults
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Queen's_Vaults
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Queen's Vaults
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.7.2
+The Queen's Vaults prophecy can now trigger when defeating Atziri, Queen of the Vaal in The Temple of Atzoatl.
+3.3.1b
+Killing Atziri in the Temple of Atzoatl now counts for The Queen's Vaults prophecy.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Scout
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Scout
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Scout
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Servant's Heart
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Servant's_Heart
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Servant's Heart
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Sharpened Blade
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Sharpened_Blade
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Sharpened Blade
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Silverwood
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Silverwood
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Silverwood
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Singular Spirit
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Singular_Spirit
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Singular Spirit
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Sinner's Stone
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Sinner's_Stone
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Sinner's Stone
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Snuffed Flame
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Snuffed_Flame
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Snuffed Flame
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Soulless Beast
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Soulless_Beast
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Soulless Beast
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Stockkeeper
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Stockkeeper
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Stockkeeper
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Storm Spire
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Storm_Spire
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Storm Spire
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Sword King's Passion
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Sword_King's_Passion
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Sword King's Passion
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Trembling Earth
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Trembling_Earth
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Trembling Earth
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Twins (prophecy)
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Twins_(prophecy)
+======================================================================
+
+For other uses, see
+The Twins (disambiguation)
+.
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Twins
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Unbreathing Queen I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Unbreathing_Queen_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Unbreathing Queen I
+is a sealed
+prophecy
+. It is a part of
+The Unbreathing Queen
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act VII : The Fellshrine Ruins
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Unbreathing Queen II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Unbreathing_Queen_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Unbreathing Queen II
+is a sealed
+prophecy
+. It is a part of
+The Unbreathing Queen
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+The Labyrinth (lvl33) : First area
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Unbreathing Queen III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Unbreathing_Queen_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Unbreathing Queen III
+is a sealed
+prophecy
+. It is a part of
+The Unbreathing Queen
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act VI : The Beacon
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Unbreathing Queen IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Unbreathing_Queen_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Unbreathing Queen IV
+is a sealed
+prophecy
+. It is a part of
+The Unbreathing Queen
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act VII : Temple of Decay level 1
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.0
+Location has been switched to The Temple of Decay in Act 7.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Unbreathing Queen V
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Unbreathing_Queen_V
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Unbreathing Queen V
+is a
+prophecy
+. It is a part of
+The Unbreathing Queen
+prophecy chain.
+The prophecy will spawn
+Volkuur, the Unbreathing Queen
+as boss, as well as skeleton side bosses
+Terese Napora
+,
+Rania Skyborne
+and
+Lora, The Contender
+. The map also contains other monster such as
+Volkuur's Flameguard
+,
+Volkuur's Frostguard
+and
+Volkuur's Stormguard
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Volkuur also have a chance to drop
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Crafting Bench option "Suffixes cannot be changed" can be unlocked in the same room.
+Version history
+Version
+Changes
+3.0.0
+(Not in patch note) Due to the introduction of the new set of unique items. Old set of unique items that was exclusive to
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+encounter are now move to the last prophecy of that respective prophecy chain.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Undead Brutes
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Undead_Brutes
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Undead Brutes
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Undead Storm
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Undead_Storm
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Undead Storm
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Vanguard
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Vanguard
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Vanguard
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Note that the area level of
+The Dried Lake
+is 34, less than the min level to have 6 sockets. Read
+item level
+for details.
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Walking Mountain
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Walking_Mountain
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Walking Mountain
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Ward's Ward
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Ward's_Ward
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Ward's Ward
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Warmongers I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Warmongers_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Warmongers I
+is a sealed
+prophecy
+. It is a part of
+The Warmongers
+prophecy chain.
+Kill the
+Warbands
+in one of the following locations:
+The Docks
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Warmongers II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Warmongers_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Warmongers II
+is a sealed
+prophecy
+. It is a part of
+The Warmongers
+prophecy chain. Kill the Warbands in one of the following locations:
+The Imperial Gardens
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Warmongers III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Warmongers_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Warmongers III
+is a sealed
+prophecy
+. It is a part of
+The Warmongers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Warmongers IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Warmongers_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Warmongers IV
+is a sealed
+prophecy
+. It is a part of
+The Warmongers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Random Area Spawn
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Watcher's Watcher
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Watcher's_Watcher
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Watcher's Watcher
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Tips
+For faster results, use
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+and
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+to re-roll a
+strongbox
+until you get the
+prefix
+mod:
+Guarded by 3 Rare Monsters
+in one of the given
+areas
+.
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: The Wealthy Exile
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/The_Wealthy_Exile
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+The Wealthy Exile
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Touched by the Wind
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Touched_by_the_Wind
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Touched by the Wind
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Trapped in the Tower
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Trapped_in_the_Tower
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Trapped in the Tower
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.2.0
+Introduced to the game.
+
+======================================================================
+PAGE: Trash to Treasure
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Trash_to_Treasure
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Trash to Treasure
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Twice Enchanted
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Twice_Enchanted
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Twice Enchanted
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unbearable Whispers I
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unbearable_Whispers_I
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unbearable Whispers I
+is a sealed
+prophecy
+. It is a part of
+Unbearable Whispers
+prophecy chain.
+Video
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unbearable Whispers II
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unbearable_Whispers_II
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unbearable Whispers II
+is a
+prophecy
+. It is a part of
+Unbearable Whispers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act III : The Spectre of God
+How to Find it
+The Sceptre of God is in act 3. You can run through the area until you see a red mark on the mini map (like the one marking objectives in daily missions) to identify the mob you need to kill.
+There are three floors to The Sceptre of God, so make sure to check all of them.
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unbearable Whispers III
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unbearable_Whispers_III
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unbearable Whispers III
+is a
+prophecy
+. It is a part of
+Unbearable Whispers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Act IV : The Harvest
+Version history
+Version
+Changes
+3.5.0
+You can now complete the steps of many prophecy chains in various maps.
+3.0.2
+Fixed a bug where the Unbearable Whispers III Prophecy was not correctly triggering from the Act 6 or Act 9 Shavronne encounters.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the Pale Council chain steps, now take place in new locations.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unbearable Whispers IV
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unbearable_Whispers_IV
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unbearable Whispers IV
+is a
+prophecy
+. It is a part of
+Unbearable Whispers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unbearable Whispers V
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unbearable_Whispers_V
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unbearable Whispers V
+is a sealed
+prophecy
+. It is a part of
+Unbearable Whispers
+prophecy chain.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Inya also have a chance to drop
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+.
+Crafting Bench option "Prefixes cannot be changed" can be unlocked in the same room.
+Gallery
+The Labyrinth final room and the Whispering Tome
+Version history
+Version
+Changes
+3.6.3b
+Fixed a bug where the
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+prophecy could trigger in the
+Labyrinth
+but not spawn monsters if a party member entered the final
+Izaro
+encounter before you.
+3.0.0
+Many Prophecies have been reworked for compatibility in Acts 5 and upwards. Prophecies are no longer bound to a specific difficulty and can be triggered and completed in any relevant area. Some Prophecies, such as several of the
+Pale Council
+chain steps, now take place in new locations.
+The Pale Council encounter has been rebalanced and is, in general, be more difficult. Defeating the Pale Council will earn you one of four new unique items exclusively available from them.
+(undocumented)
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+can now drop from the boss of the
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+prophecy
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Undead Uprising
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Undead_Uprising
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Undead Uprising
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Unnatural Energy
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Unnatural_Energy
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unnatural Energy
+is a sealed
+prophecy
+.
+Notes
+Found in upper sceptre by the central corpse lift
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Vaal Invasion
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Vaal_Invasion
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Vaal Invasion
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Vaal Winds
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Vaal_Winds
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Vaal Winds
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Visions of the Drowned
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Visions_of_the_Drowned
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Visions of the Drowned
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Vital Transformation
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Vital_Transformation
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Vital Transformation
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Waiting in Ambush
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Waiting_in_Ambush
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Waiting in Ambush
+is a sealed
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Weeping Death
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Weeping_Death
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Weeping Death
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Wind and Thunder
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Wind_and_Thunder
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Wind and Thunder
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+2.3.0g
+Added
+Galvanic Ribbons
+to the pool of monsters that can spawn in Endgame
+maps
+. This will allow players to complete the
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+prophecy.
+2.3.0
+Introduced to the game.
+
+======================================================================
+PAGE: Winter's Mournful Melodies
+CATEGORIES: Prophecies
+URL: https://pathofexile.fandom.com/wiki/Winter's_Mournful_Melodies
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Winter's Mournful Melodies
+is a
+prophecy
+.
+Lua error: Error: invalid field alias "prophecies.objective"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+You are no longer required to have the subject of a fated unique Prophecy equipped, and can now complete such prophecies by merely holding the unique item in your inventory while killing the correct boss.
+2.3.0
+Introduced to the game.

@@ -1,0 +1,1396 @@
+
+======================================================================
+PAGE: Act
+CATEGORIES: Acts
+URL: https://pathofexile.fandom.com/wiki/Act
+======================================================================
+
+Quick Guide:
+This article has a
+quick guide
+that shows you how to complete the acts in the fastest possible manner along with the most suitable leveling gear.
+Acts
+divide Path of Exile's storyline into sections. Each act has its own
+quests
+,
+town
+,
+NPCs
+and an
+act boss
+at the end.
+Since
+The Fall of Oriath
+expansion, there have been ten acts broken into
+two
+parts
+, each part spanning a large arc within the storyline. New acts were generally added to the game with every major
+expansion
+until the release of the ten-act system.
+Current acts
+See
+Wraeclast
+for more information
+Act 1
+Act 2
+Act 3
+Act 4
+Act 5
+Act 6
+Act 7
+Act 8
+Act 9
+Act 10
+Epilogue
+Trivia
+New players will take around 3–5 hours to play through each act
+Experienced players can complete all the acts in around 8–10 hours by speedrunning them
+Each act takes about 12 months to develop depending on available development resources
+Version history
+Version
+Changes
+3.0.0
+Added Acts Five through Ten.
+Removed the
+Cruel
+and
+Merciless
+difficulty
+levels. Path of Exile is now a single ten-act playthrough.
+2.0.0
+The Awakening introduces Path of Exile's fourth act, which is set in and around the mining town of Highgate, north of Sarn.
+Act Four contains 14 new areas to explore, 40 new monster varieties to fight, 6 new quests to complete and 9 new bosses to defeat!
+Highgate contains a cast of new NPCs that have full voice acting.
+1.0.0
+Added six new world areas (in all three difficulty levels) across three new tilesets. There are three new quests.
+Added a grand finale boss fight.
+(Editor's note: the zones
+Imperial Gardens
+,
+Hedge Maze
+,
+The Library
+,
+The Archives
+,
+The Sceptre of God
+,
+The upper Sceptre of God
+and the boss
+Dominus
+were added to
+Act 3
+expanding it)
+0.10.0
+The City of Sarn, Path of Exile's third act, is now available! It includes 21 areas based on 8 new tilesets, 18 completely new monster types and over 90 monster variations.
+Unknown
+Act 2
+was added some time during the alpha for which patch notes are missing
+References
+
+======================================================================
+PAGE: Act 1
+CATEGORIES: Act 1
+URL: https://pathofexile.fandom.com/wiki/Act_1
+======================================================================
+
+The map of Act 1
+Act One
+is
+Path of Exile
+'s first storyline
+act
+, taking place on the shores of
+Wraeclast
+. In this act, the exile washes up and makes for a settlement, before pushing on to discover what lies beyond. This includes Axiom Prison, where
+Brutus
+guards, and Siren's Cove, where
+Merveil
+lures sailors to their deaths.
+It covers
+monster levels
+1–13. Its town is
+Lioneye's Watch
+.
+NPCs
+:
+Nessa
+(jewelry, flask, and gem vendor)
+Tarkleigh
+(weapon and armour vendor)
+Bestel
+Navali
+Quests
+Enemy at the Gate
+Mercy Mission
+Breaking Some Eggs
+A Dirty Job
+The Dweller of the Deep
+Prisoner of Fate
+The Caged Brute
+The Marooned Mariner
+The Siren's Cadence
+The Way Forward
+The Lord's Labyrinth
+Progression
+The Twilight Strand
+1
+↓
+Lioneye's Watch
+↓
+The Coast
+2
+→
+The Tidal Island
+3
+↓
+The Mud Flats
+4
+→
+The Fetid Pool
+5
+↓
+The Submerged Passage
+5
+→
+The Flooded Depths
+6
+↓
+The Ledge
+6
+↓
+The Climb
+7
+↓
+The Lower Prison
+8
+↓
+The Upper Prison
+9
+↓
+The Warden's Quarters
+9
+↓
+The Warden's Chambers
+9
+↓
+Prisoner's Gate
+10
+↓
+The Ship Graveyard
+11
+→
+The Ship Graveyard Cave
+12
+↓
+The Cavern of Wrath
+12
+↓
+The Cavern of Anger
+13
+↓
+Merveil's Lair
+13
+Version history
+Version
+Changes
+3.15.0
+We have rebalanced various monsters found throughout Act One to make them more dangerous. Note, the balance changes made to Act One Bosses and monsters also apply to their Endgame Map versions.
+Monster life has been increased by roughly 46% at level 1, tapering down to the same amount of life at level 84. Some bosses and monsters in Act 1, such as Hillock and Oozeback have had their life reduced to partially counteract this change.
+For full changes. Read
+Version 3.15.0 § Act 1 Changes
+3.7.0
+Improved the early-game experience. Fights in the first three Acts will be tougher but more responsive, involved and dynamic. This includes fights against basic monsters!
+3.0.0
+Removed the
+Cruel
+and
+Merciless
+difficulty levels. Path of Exile is now a single ten-act playthrough.
+2.0.0
+Due to 2.0 progression balancing zone levels changed to
+Normal
+1-13,
+Cruel
+40-44,
+Merciless
+56-59
+The
+Waypoint
+in
+The Mud Flats
+has been moved to
+The Coast
+.
+The Lower Submerged Passage
+and
+The Upper Submerged Passage
+have been combined into a new zone
+The Submerged Passage
+The Coves
+area has been removed.
+Before
+0.10.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 10
+CATEGORIES: Act 10
+URL: https://pathofexile.fandom.com/wiki/Act_10
+======================================================================
+
+The map of Act 10
+Act ten
+is
+Path of Exile
+'s tenth storyline
+act
+, and the fifth
+act
+of Part Two. In this act, the exile returns to Oriath, courtesy of
+Lilly Roth
+(gem vendor), to kill
+Kitava
+once and for all. Landing on the docks, the exile is greeted by
+Lani
+, who tells a harrowing tale of escape from the Overseer's Tower after
+Vilenta
+betrays her and
+Bannon
+. The exile must find
+Bannon
+, awake
+Innocence
+and kill
+Kitava
+.
+It covers
+monster levels
+64-67 and its town is
+Oriath Docks
+.
+NPCs
+:
+Lani
+(jewelry and flask vendor)
+Weylam Roth
+(weapon and armour vendor)
+Lilly Roth
+(gem vendor)
+Sin
+Bannon
+Innocence
+Quests
+Safe Passage
+Map to Tsoatha
+No Love for Old Ghosts
+Vilenta's Vengeance
+Death and Rebirth
+An End to Hunger
+Progression
+Oriath Docks
+↓
+The Cathedral Rooftop
+64
+↓
+The Reliquary
+67
+←
+The Ravaged Square
+64
+→
+The Ossuary
+67
+↙
+↓
+↘
+The Control Blocks
+66
+The Torched Courts
+65
+The Canals
+66
+↓
+↓
+The Desecrated Chambers
+65
+The Feeding Trough
+67
+Version history
+Version
+Changes
+3.2.0
+Added a new
+Act Ten
+area:
+The Control Blocks
+. Could this be where
+Vilenta
+has been hiding out this whole time?
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 2
+CATEGORIES: Act 2
+URL: https://pathofexile.fandom.com/wiki/Act_2
+======================================================================
+
+The map of Act 2
+Act Two
+is
+Path of Exile
+'s second storyline
+act
+. In this
+act
+, the exile is driven farther inland. Among the forests, riverways and caves, groups of bandits have built fortified camps and openly challenge one another while extorting food and supplies from a small, struggling village. In the north, an ancient Vaal spirit is stirring in the dark.
+It covers monster levels 13–23. Its town is
+The Forest Encampment
+.
+NPCs
+:
+Yeena
+(
+jewelry
+,
+flask
+, and
+gem
+vendor
+)
+Greust
+(
+weapon
+and
+armour
+vendor)
+Eramir
+Silk
+Helena
+Master
+:
+Einhar, Beastmaster
+Quests
+The Great White Beast
+Einhar's Hunt
+Einhar's Menagerie
+Intruders in Black
+Through Sacred Ground
+Sharp and Cruel
+The Root of the Problem
+Deal with the Bandits
+The Bandit Lord Alira
+The Bandit Lord Kraityn
+The Bandit Lord Oak
+Safe and Sound
+Shadow of the Vaal
+The Lord's Labyrinth
+Progression
+Chamber of Sins Level 2
+16
+↑
+The Southern Forest
+13
+Chamber of Sins Level 1
+15
+↓
+↑
+The Forest Encampment
+→
+The Old Fields
+14
+→
+The Crossroads
+15
+→
+The Broken Bridge
+16
+↓
+↓
+↓
+The Western Forest
+17
+←
+The Riverways
+15
+The Den
+15
+The Fellshrine Ruins
+16
+↓
+↓
+↓
+Weaver's Chambers
+18
+The Wetlands
+19
+The Crypt Level 1
+17
+↓
+↓
+Vaal Ruins
+20
+The Crypt Level 2
+18
+↓
+Northern Forest
+21
+→
+The Dread Thicket
+21
+↓
+The Caverns
+22
+↓
+Ancient Pyramid
+23
+Version history
+Version
+Changes
+3.0.0
+The Waypoint in
+The Chamber of Sins Level 2
+has been moved to
+The Chamber of Sins Level 1
+.
+Cruel and Merciless difficulties have been removed.
+2.0.0
+Due to 2.0 progression balancing zone levels changed to
+Normal
+13-23,
+Cruel
+44-48,
+Merciless
+59-63
+The Chamber of Sins Level 3
+has been replaced by
+The Chamber of Sins Level 2
+. Its Waypoint is now at the start of the new
+The Chamber of Sins Level 2
+.
+The Wetlands
+area has been moved prior to
+The Vaal Ruins
+. They now connect to
+The Riverways
+. You can now find
+Oak
+without having killed
+Lorrata
+(the tree).
+A Waypoint has been added to
+The Riverways
+.
+The Blackwood
+has been removed.
+The Vaal Ruins Level 1
+and
+The Vaal Ruins Level 2
+have been merged. Its waypoint has been removed.
+A new area,
+The Northern Forest
+, has been added after the Vaal Ruins.
+The Dread Thicket
+is now attached to the Northern Forest rather than the Wetlands.
+The Dread Thicket
+is now always 50%.
+The Caverns Level 1
+and
+The Caverns Level 2
+have been merged.
+
+======================================================================
+PAGE: Act 3
+CATEGORIES: Act 3
+URL: https://pathofexile.fandom.com/wiki/Act_3
+======================================================================
+
+The map of Act 3
+Act Three
+is
+Path of Exile
+'s third storyline
+act
+. In this
+act
+, the exile visit the ancient city of Sarn, capitol of the Eternal Empire. The city is inhabited by undead and Blackguard soldiers from Oriath.
+Dominus
+and
+Piety
+perform gruesome experiments in their laboratories, trying to unlock the power of the virtue gems.
+It covers
+monster levels
+23–33. Its town is
+The Sarn Encampment
+.
+NPCs
+:
+Clarissa
+(jewelry, flask, and gem vendor)
+Hargan
+(weapon and armour vendor)
+Maramoa
+Grigor
+Quests
+Lost in Love
+Victario's Secrets
+Sever the Right Hand
+Fiery Dust
+The Gemling Queen
+The Ribbon Spool
+A Swig of Hope
+A Fixture of Fate
+Piety's Pets
+Sceptre of God
+The Lord's Labyrinth
+Progression
+The City of Sarn
+23
+↓
+The Sarn Encampment
+↓
+The Crematorium
+25
+←
+The Slums
+24
+↓
+Lunaris Temple Level 2
+30
+The Sewers
+26
+→
+The Marketplace
+26
+→
+The Catacombs
+27
+↑
+↓
+↓
+Lunaris Temple Level 1
+29
+←
+The Ebony Barracks
+29
+The Battlefront
+27
+→
+Solaris Temple Level 1
+27
+↓
+↓
+↓
+↓
+The Docks
+29
+Solaris Temple Level 2
+28
+↓
+The Library
+30
+←
+The Imperial Gardens
+30
+↓
+↓
+The Archives
+31
+The Sceptre of God
+32
+↓
+The Upper Sceptre of God
+33
+Version history
+Version
+Changes
+3.0.0
+Removed the
+Cruel
+and
+Merciless
+difficulty levels. Path of Exile is now a single ten-act playthrough.
+Removed The Warehouse and the three sewers
+2.0.0
+Due to 2.0 progression balancing zone levels changed to
+Normal
+23-33,
+Cruel
+48-54,
+Merciless
+63-67
+Clarissa
+has been moved into the
+City of Sarn
+(from the Slums).
+The Slums
+no longer attaches to
+The Warehouse District
+.
+You can no longer access
+The Warehouse District
+or beyond without opening the Sewers (by finding
+Tolman
+and freeing
+Clarissa
+).
+The Sewer Waterway
+has been removed.
+The Marketplace Sewers
+now has two entrances in
+the Marketplace
+.
+The Marketplace
+waypoint has been moved.
+The Ebony Barracks
+waypoint has been moved.
+Lunaris Temple Level 1
+and
+Lunaris Temple Level 2
+have been merged. The waypoint is now in this merged area.
+Piety
+'s boss arena in
+Lunaris Temple Level 2
+has been changed.
+1.0.0
+Added six new world areas (in all three difficulty levels) across three new tilesets. There are three new quests.
+Added a grand finale boss fight.
+The
+Eternal Laboratory
+has been visually revamped and is now present in the
+Solaris Temple
+. In Normal and Cruel difficulties, it contains
+lore
+.
+0.10.0
+The City of Sarn, Path of Exile's third act, is now available! It includes 21 areas based on 8 new tilesets, 18 completely new monster types and over 90 monster variations.
+
+======================================================================
+PAGE: Act 4
+CATEGORIES: Act 4
+URL: https://pathofexile.fandom.com/wiki/Act_4
+======================================================================
+
+The map of Act 4
+Act Four
+is
+Path of Exile
+'s fourth storyline
+act
+. In this act , the exile travels to Highgate, a former Empire mining city that is now inhabited by a band of Maraketh. They guard the mountain where Sekhema
+Deshret
+sealed the
+Beast
+after it
+destroyed the Eternal Empire
+. The Beast now stirs and its master,
+Malachai
+, hopes to remake the world in the image of Nightmare.
+Lady Dialla
+seeks the exile's help to destroy the Beast permanently.
+It covers
+monster levels
+33–40. Its town is
+Highgate
+.
+NPCs
+:
+Petarus and Vanja
+(jewelry, flask, and gem vendor)
+Kira
+(weapon and armour vendor)
+Tasuni
+(trades divination cards)
+Lady Dialla
+Oyun
+Master
+:
+Niko, Master of the Depths
+Quests
+Breaking the Seal
+Niko's Fuel
+Niko's Mine
+Niko's Explosives
+An Indomitable Spirit
+The King of Fury
+The King of Desire
+Corpus Malachus
+The Eternal Nightmare
+Progression
+The Aqueduct
+33
+↓
+The Dried Lake
+34
+←
+Highgate
+→
+The Ascent
+40
+↓
+The Mines Level 1
+34
+↓
+The Mines Level 2
+35
+↓
+Kaom's Dream
+37
+←
+The Crystal Veins
+36
+→
+Daresso's Dream
+37
+↓
+↓
+↓
+Kaom's Stronghold
+38
+Belly of the Beast Level 1
+38
+The Grand Arena
+38
+↓
+Belly of the Beast Level 2
+39
+↓
+The Harvest
+40
+Version history
+Version
+Changes
+3.0.0
+Added The Ascent.
+2.4.2
+Removed the Kaom's Path area and modified Kaom's Stronghold and Kaom's Dream to compensate for its removal.
+2.0.0
+The Awakening introduces Path of Exile's fourth act, which is set in and around the mining town of
+Highgate
+, north of Sarn.
+Act Four contains 14 new areas to explore, 40 new monster varieties to fight, 6 new quests to complete and 9 new bosses to defeat!
+Highgate contains a cast of new NPCs that have full voice acting.
+
+======================================================================
+PAGE: Act 5
+CATEGORIES: Act 5
+URL: https://pathofexile.fandom.com/wiki/Act_5
+======================================================================
+
+The map of Act 5
+Act Five
+is
+Path of Exile
+'s fifth storyline
+act
+. In this
+act
+, the exile returns to Oriath to find the slaves in revolt. The leader of the revolt claims allegiance to
+Kitava
+, a Karui god of corruption. The exile seeks to kill
+High Templar Avarius
+in order to end the tyranny of the Templars.
+It covers
+monster levels
+41–45, and its town is
+Overseer's Tower
+.
+NPCs
+:
+Utula
+(weapon and armour vendor)
+Lani
+(jewelry & flask vendor)
+Vilenta
+Sin
+Bannon
+(weapon and armour vendor (post-Avarius)
+Lilly Roth
+Quests
+Return to Oriath
+The Key to Freedom
+In Service to Science
+Death to Purity
+The King's Feast
+Kitava's Torments
+The Ravenous God
+Progression
+The Slave Pens
+41
+↓
+Overseer's Tower
+↓
+The Control Blocks
+41
+↓
+Oriath Square
+42
+↓
+The Templar Courts
+42
+↓
+The Chamber of Innocence
+43
+Once
+Innocence
+is killed, Act 5's structure will change permanently. The
+Chamber of Innocence
+waypoint will remain, but areas between the Control Blocks and the Torched Courts will become hidden again and the related waypoints will be unusable until rediscovered.
+The Slave Pens
+41
+↑
+Overseer's Tower
+↓
+The Control Blocks
+41
+The Cathedral Rooftop
+45
+↑
+The Reliquary
+44
+←
+The Ruined Square
+44
+→
+The Ossuary
+44
+↑
+The Torched Courts
+44
+↑
+The Chamber of Innocence
+43
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 6
+CATEGORIES: Act 6
+URL: https://pathofexile.fandom.com/wiki/Act_6
+======================================================================
+
+The map of Act 6
+Act Six
+is
+Path of Exile
+'s sixth storyline
+act
+, and the start of
+Part Two
+. After failing to prevent the reawakening of
+Kitava
+, the exile has fled
+Oriath
+and now returns to the relative safety of
+Wraeclast
+.
+The exile relies on the guidance of divine
+Sin
+, who initially suggests claiming
+Shavronne's soul
+from Axiom Prison. While they reencounter some familiar faces along the way, the exile must also confront a
+reawakened Karui god
+and finally go in search of
+The Brine King
+.
+It covers
+monster levels
+45-50, and its town is
+Lioneye's Watch
+.
+NPCs
+:
+Lilly Roth
+(gem vendor)
+Tarkleigh
+(weapon and armour vendor)
+Bestel
+(magic and potion vendor)
+Sin
+Quests
+Fallen from Grace
+Bestel's Epic
+The Father of War
+Essence of Umbra
+The Cloven One
+The Puppet Mistress
+The Brine King
+Progression
+The Twilight Strand
+45
+↓
+Lioneye's Watch
+↓
+The Coast
+45
+→
+The Tidal Island
+45
+↓
+The Mud Flats
+46
+↓
+The Karui Fortress
+46
+↓
+The Ridge
+46
+↓
+The Lower Prison
+47
+↓
+Shavronne's Tower
+47
+↓
+Prisoner's Gate
+47
+↓
+The Western Forest
+48
+↓
+The Riverways
+48
+→
+The Wetlands
+48
+↓
+The Southern Forest
+49
+↓
+The Cavern of Anger
+49
+↓
+The Beacon
+49
+↓
+The Brine King's Reef
+50
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 7
+CATEGORIES: Act 7
+URL: https://pathofexile.fandom.com/wiki/Act_7
+======================================================================
+
+The map of Act 7
+Act Seven
+is
+Path of Exile
+'s seventh storyline
+act
+, and the second
+act
+of Part Two. In this act, the exile lands at the broken bridge that was once ruled by
+Kraityn
+. Now the bridge is home to Yeena, Helena and Eramir, who fled
+The Forest Encampment
+after the gods returned.
+Sin asks the exile to acquire the soul of
+Maligaro
+, who is hiding in his own realm. Meanwhile, the Vaal gods have been released and are tormenting the remaining inhabitants of the Forest Encampment:
+Greust
+has been possessed by
+Ralakesh
+, and
+Silk
+has wandered into the forest and gained a new obsession for
+spiders
+.
+It covers
+monster levels
+51-54, and its town is
+The Bridge Encampment
+.
+NPCs
+:
+Helena
+(weapon and armour vendor)
+Yeena
+(magic and potion vendor)
+Eramir
+Weylam Roth
+Sin
+Master
+:
+Alva, Master Explorer
+Quests
+The Silver Locket
+Essence of the Artist
+No Time like the Present
+Web of Secrets
+The Master of a Million Faces
+In Memory of Greust
+Queen of Despair
+Kishara's Star
+Lighting the Way
+The Mother of Spiders
+Progression
+The Bridge Encampment
+↓
+Maligaro's Sanctum
+52
+The Broken Bridge
+50
+↑
+↓
+The Chamber of Sins Level 1
+52
+←
+The Crossroads
+51
+→
+The Fellshrine Ruins
+51
+→
+The Crypt
+51
+↓
+The Chamber of Sins Level 2
+52
+→
+The Den
+53
+↓
+The Ashen Fields
+53
+↓
+The Northern Forest
+53
+→
+The Dread Thicket
+53
+↓
+The Causeway
+54
+↓
+The Vaal City
+54
+↓
+The Temple of Decay Level 1
+54
+→
+The Temple of Decay Level 2
+55
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 8
+CATEGORIES: Act 8
+URL: https://pathofexile.fandom.com/wiki/Act_8
+======================================================================
+
+The map of Act 8
+Act Eight
+is
+Path of Exile
+'s eighth storyline
+act
+, and the third
+act
+of
+Part Two
+. In this act, the exile returns to the Sarn Encampment in search of
+Doedre Darktongue
+, who has taken up residence in the city's sewers.
+Solaris and Lunaris
+, the city's matron gods, have awoken and started to battle.
+Maramoa
+requests the exile do something before the fighting endangers the encampment.
+Tolman
+has risen in an undead form, and
+Clarissa
+seeks to revive him fully.
+Grigor
+has returned to his home of Ezomyr in search of a cure for his deformities.
+It covers
+monster levels
+55-59, and its town is
+The Sarn Encampment
+.
+NPCs
+:
+Hargan
+(weapon and armour vendor)
+Clarissa
+(magic and potion vendor)
+Maramoa
+Sin
+Quests
+Essence of the Hag
+Love is Dead
+The Gemling Legion
+Reflection of Terror
+The Wings of Vastiri
+Lunar Eclipse
+Solar Eclipse
+Progression
+The Sarn Ramparts
+55
+↓
+The Sarn Encampment
+↓
+The Toxic Conduits
+56
+↓
+The Grand Promenade
+56
+←
+Doedre's Cesspool
+56
+→
+The Quay
+57
+→
+The Grain Gate
+57
+↓
+↓
+The High Gardens
+58
+←
+The Bath House
+57
+The Imperial Fields
+58
+↓
+↓
+The Lunaris Temple Level 1
+59
+←
+The Lunaris Concourse
+58
+→
+The Harbour Bridge
+60
+←
+The Solaris Concourse
+58
+←
+The Solaris Temple Level 1
+59
+↓
+↓
+The Lunaris Temple Level 2
+59
+The Solaris Temple Level 2
+59
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Act 9
+CATEGORIES: Act 9
+URL: https://pathofexile.fandom.com/wiki/Act_9
+======================================================================
+
+The map of Act 9
+Act nine
+is
+Path of Exile
+'s ninth storyline
+act
+, and the fourth
+act
+of Part Two. In this act, the exile returns to
+Highgate
+, whose waters run red with the blood of
+the slain Beast
+. Sin's plan for defeating
+Kitava
+involves waking a Dark Ember from the corpse of
+the Beast
+, as it was
+the Beast
+that kept the gods sleeping over the eons. Like elsewhere, one of
+Highgate's
+residents has been enthralled by a god. Here it is
+Kira, Servant of Garukhan
+, who has kidnapped
+Oyun
+as a sacrifice to
+Garukhan
+. In the power vacuum that follows,
+Irasha
+and
+Tasuni
+vie for leadership.
+It covers
+monster levels
+61-64. Its town is
+Highgate
+.
+NPCs
+:
+Petarus and Vanja
+(jewelry, flask, and gem vendor)
+Irasha
+(weapon and armour vendor)
+Tasuni
+(trades divination cards)
+Sin
+Master
+:
+Jun, Veiled Master
+Quests
+The Immortal Syndicate
+The Storm Blade
+Fastis Fortuna
+The Ruler of Highgate
+Queen of the Sands
+Recurring Nightmare
+Progression
+The Blood Aqueduct
+61
+↓
+Highgate
+↓
+The Descent
+61
+↓
+The Vastiri Desert
+61
+→
+The Oasis
+61
+↓
+The Foothills
+62
+→
+The Boiling Lake
+62
+↓
+The Tunnel
+62
+↓
+The Quarry
+63
+→
+The Refinery
+63
+↓
+The Belly of the Beast
+63
+↓
+The Rotting Core
+64
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Part one
+CATEGORIES: Acts
+URL: https://pathofexile.fandom.com/wiki/Part_one
+======================================================================
+
+Part one
+refers to the first part of
+Path of Exile
+'s
+storyline. In part one, the exile explores the dangerous lands of
+Wraeclast
+.
+Part one includes these acts:
+Act 1
+Act 2
+Act 3
+Act 4
+Act 5
+Achievements
+Name
+Description
+Fall of Oriath
+Complete Part 1.
+See also
+Part two
+Epilogue
+
+======================================================================
+PAGE: Part two
+CATEGORIES: Acts
+URL: https://pathofexile.fandom.com/wiki/Part_two
+======================================================================
+
+Part two
+refers to the second part of
+Path of Exile
+'s
+storyline. In part two, the exile returns to familiar places in
+Wraeclast
+after having awoken the gods in
+Act 5
+.
+Introduced in
+The Fall of Oriath
+expansion, these acts take place in the same regions as their
+part one
+counterparts, and bear some similarities to the repeated-playthrough
+Difficulty
+system they replaced. However new characters, stories, and systems are introduced, most notably
+Sin
+and
+The Pantheon
+.
+Part two includes these acts:
+Act 6
+Act 7
+Act 8
+Act 9
+Act 10
+Plot summary
+After failing to stop the reawakening of
+Kitava
+, his hunger threatens to consume the whole of Oriath and Wraeclast. Sin has a plan to deal with the god, but he requires the souls of
+Shavronne
+,
+Maligaro
+, and
+Doedre
+, which will enable him to collect the
+Dark Ember
+from the Beast. These souls happen to be convenient returns to past glories, being located in the same regions as the bosses in
+part one
+. Finally, upon collecting the Ember, the exile returns to Oriath for a final showdown against Kitava.
+In addition to Kitava, the death of the
+Beast
+has awakened many other gods in the world. In Acts 6-8 these gods wreak havoc over Wraeclast, and eliminating them supplements the tasks from Sin regarding the thaumaturgists' souls. These tasks often bring the exile back in contact with familiar NPCs from the earlier regions, such as
+Nessa
+,
+Greust
+, and
+Silk
+. As a reward for doing so, Sin is also capable of infusing the exile with a portion of the defeated gods' powers.
+The six
+Trials of Ascendancy
+formerly located in Cruel and Merciless difficulties are located in Acts 6-7 as well as Acts 8-10 respectively.
+Achievements
+Name
+Description
+Sin and Salvation
+Complete Part 2.
+See also
+Part one
+Epilogue
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game

@@ -1,0 +1,1112 @@
+
+======================================================================
+PAGE: Captured Soul of Ciergan, Shadow Alchemist
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Ciergan,_Shadow_Alchemist
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Ciergan, Shadow Alchemist
+is a
+Pantheon soul
+obtained by defeating the
+Ciergan, Shadow Alchemist
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Lunaris
+Pantheon Power
+to grant
+Avoid Projectiles that have Chained
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+(Not documented in patch note) The objective has moved from
+The Hallowed Husk
+to
+Ciergan, Shadow Alchemist
+Unknown
+(Not documented in patch note) The objective has moved from
+Ambrius, Legion Slayer
+to
+The Hallowed Husk
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Corruptor Eedaiak
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Corruptor_Eedaiak
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Corruptor Eedaiak
+is a
+Pantheon soul
+obtained by defeating the
+Corruptor Eedaiak
+, map boss of
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+. It can be given to
+Sin
+to upgrade the
+Soul of the Brine King
+Pantheon Power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+(Not documented in patch note) The objective has changed from
+Champion of the Hollows
+to
+Corruptor Eedaiak
+3.12.0
+(Not documented in patch note) The objective has changed from
+Shadow of the Vaal
+to
+Champion of the Hollows
+Unknown
+(Not documented in patch note) The objective has changed from
+Belcer, the Pirate Lord
+to
+Shadow of the Vaal
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Drek, Apex Hunter
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Drek,_Apex_Hunter
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Drek, Apex Hunter
+is a
+Pantheon soul
+obtained by defeating the
+Drek, Apex Hunter
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Ralakesh
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Erebix, Light's Bane
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Erebix,_Light's_Bane
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Erebix, Light's Bane
+is a
+Pantheon soul
+obtained by defeating the
+Soul of Erebix, Light's Bane
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Gruthkul
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Gisale, Thought Thief
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Gisale,_Thought_Thief
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Gisale, Thought Thief
+is a
+Pantheon soul
+obtained by defeating the
+Gisale, Thought Thief
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Arakaali
+Pantheon Power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+The objective has changed from
+Shavronne the Sickening
+to
+Gisale, Thought Thief
+Unknown
+The objective has changed from
+Spinner of False Hope
+to
+Shavronne the Sickening
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Glace
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Glace
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Glace
+is a
+Pantheon soul
+obtained by defeating the
+Glace
+, the map boss of
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+. It can be given to
+Sin
+to upgrade the
+Soul of the Brine King
+Pantheon Power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.1
+The “30% increased Stun and Block Recovery” upgraded Soul of the Brine King Pantheon Power is no longer obtained by capturing Otesha, one of the Iceberg Map bosses. It is now obtained by capturing Glace, the Beach Map boss.
+3.15.0
+This objective has moved from
+Puruna, the Challenger
+to
+Otesha, the Giantslayer
+.
+3.13.0
+This objective has moved from
+Glace
+to
+Puruna, the Challenger
+.
+Unknown
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game
+
+======================================================================
+PAGE: Captured Soul of Gorulis, Will-Thief
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Gorulis,_Will-Thief
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Gorulis, Will-Thief
+is a
+Pantheon soul
+obtained by defeating the
+Gorulis, Will-Thief
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Ryslatha
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Mephod, the Earth Scorcher
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Mephod,_the_Earth_Scorcher
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Mephod, the Earth Scorcher
+is a
+Pantheon soul
+obtained by defeating the
+Mephod, the Earth Scorcher
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Abberath
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Found on Summit Map
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Nassar, Lion of the Seas
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Nassar,_Lion_of_the_Seas
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Nassar, Lion of the Seas
+is a
+Pantheon soul
+obtained by defeating the
+Nassar, Lion of the Seas
+map boss in
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+. It can be given to
+Sin
+to upgrade the
+Soul of the Brine King
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+This objective has moved from
+Sumter the Twisted
+to
+Nassar, Lion of the Seas
+3.13.0
+This objective has moved from
+Fragment of Winter
+to
+Sumter the Twisted
+3.12.0
+This objective has moved from
+Nassar, Lion of the Seas
+to
+Fragment of Winter
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Nightmare's Omen
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Nightmare's_Omen
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Nightmare's Omen
+is a
+Pantheon soul
+obtained by defeating the
+Nightmare's Omen
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Solaris
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+This objective has changed from
+Erythrophagia
+to
+Nightmare's Omen
+3.13.0
+This objective has changed from
+The Gorgon
+to
+Erythrophagia
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Pesquin, the Mad Baron
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Pesquin,_the_Mad_Baron
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Pesquin, the Mad Baron
+is a
+Pantheon
+Soul and can be found in the
+Factory Map
+. It can be given to
+Sin
+to upgrade the [Soul of Solaris]]
+Pantheon Power
+, to grant
+50% chance to avoid Ailments from Critical Strikes
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+The objective has changed from
+Kitava, The Destroyer
+to
+Pesquin, the Mad Baron
+of
+Factory Map
+.
+Unknown
+The objective has changed from
+The Infernal King
+to
+Kitava, The Destroyer
+of
+Lava Lake Map
+.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Queen of the Great Tangle
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Queen_of_the_Great_Tangle
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Queen of the Great Tangle
+is a
+Pantheon soul
+obtained by defeating the
+Queen of the Great Tangle
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Arakaali
+Pantheon Power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Stalker of the Endless Dunes
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Stalker_of_the_Endless_Dunes
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Stalker of the Endless Dunes
+is a
+Pantheon soul
+. It can be given to
+Sin
+to upgrade the
+Soul of Garukhan
+Pantheon power
+.
+Acquisition
+This item is obtained by activating a
+map device
+with a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+along with a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+, and then killing
+Stalker of the Endless Dunes
+. The captured soul item will be in whichever map device was used to open the map.
+Version history
+Version
+Changes
+Unknown
+The upgrade now applies to Soul of Garukhan instead of Soul of the Brine King.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Tahsin, Warmaker
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Tahsin,_Warmaker
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Tahsin, Warmaker
+is a
+Pantheon soul
+obtained by defeating the
+Tahsin, Warmaker
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Tukohama
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Terror of the Infinite Drifts
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Terror_of_the_Infinite_Drifts
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Terror of the Infinite Drifts
+is a
+Pantheon soul
+obtained by defeating the
+Terror of the Infinite Drifts
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Shakari
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of The High Templar
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_The_High_Templar
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of The High Templar
+is a
+Pantheon soul
+obtained by defeating
+The High Templar
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Lunaris
+Pantheon power
+, to grant
+5% chance to Dodge Attack and Spell Hits if you've
+been Hit Recently
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+The objective has moved from
+Shock and Horror
+to
+The High Templar
+Unknown
+The objective has moved from
+Sebbert, Crescent's Point
+to
+Shock and Horror
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Tunneltrap
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Tunneltrap
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Tunneltrap
+is a
+Pantheon soul
+obtained by defeating the
+Tunneltrap
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Lunaris
+Pantheon power
+, to grant
+10% chance to avoid Projectiles
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+The objective has moved from
+Ancient Architect
+to
+Tunneltrap
+Unknown
+The objective has moved from
+Merveil, the Returned
+to
+Ancient Architect
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Varhesh, Shimmering Aberration
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Varhesh,_Shimmering_Aberration
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Varhesh, Shimmering Aberration
+is a
+Pantheon soul
+obtained by defeating the
+Varhesh, Shimmering Aberration
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Yugul
+Pantheon power
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+(undocumented) Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Vision of Justice
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Vision_of_Justice
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Vision of Justice
+is a
+Pantheon soul
+obtained by defeating the
+Vision of Justice
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Solaris
+Pantheon power
+to grant
+Take no Extra Damage from Critical Strikes if you have taken a Critical Strike Recently
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+The objective has changed from
+Eater of Souls
+to
+Vision of Justice
+.
+Unknown
+The objective has changed to
+Eater of Souls
+of
+Core Map
+.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Captured Soul of Witch of the Cauldron
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Captured_Soul_of_Witch_of_the_Cauldron
+======================================================================
+
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Captured Soul of Witch of the Cauldron
+is a
+Pantheon soul
+obtained by defeating the
+Witch of the Cauldron
+map boss. It can be given to
+Sin
+to upgrade the
+Soul of Arakaali
+Pantheon power
+, to grant
++25% Chaos Resistance against Damage Over Time
+.
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Lua error: Error: invalid field alias "items.drop_text"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.13.0
+The objective has changed from
+Excellis Aurafix
+to
+Witch of the Cauldron
+3.13.0
+The objective has changed from
+Thraxia
+to
+Excellis Aurafix
+Unknown
+The target has changed to
+Thraxia
+of
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+Unknown
+The target has changed from
+Armala, the Widow
+of
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Pantheon Soul
+CATEGORIES: Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Pantheon_Soul
+======================================================================
+
+Pantheon Soul
+Item class
+(?)
+Also referred to as:
+Main page:
+The Pantheon
+Pantheon Soul
+is an
+item class
+introduced in the
+Fall of Oriath
+expansion. Pantheon soul items can be given to
+Sin
+to unlock
+Pantheon
+bonuses. Similar to
+Quest items
+, Pantheon souls cannot be traded or modified.
+Acquisition
+Pantheon souls are obtained by activating a
+map device
+with a
+Lua error: Error: invalid field alias "items._pageName"; aliases cannot contain dots or quotes..
+along with a certain
+map
+, and then killing its boss. The captured soul item will be in whichever map device was used to open the map.
+List of Pantheon Souls
+Lua error: Error: invalid field alias "items._pageID"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Soul of Abberath
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Abberath
+======================================================================
+
+Soul of Abberath
+Soul of Abberath
+Location(s)
+Prisoner's Gate
+The
+Soul of Abberath
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Abberath, the Cloven One
+in Act 6.
+Upgrading
+In order to upgrade Abberath, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Arakaali
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Arakaali
+======================================================================
+
+Soul of Arakaali
+Soul of Arakaali
+Location(s)
+The Temple of Decay Level 2
+The
+Soul of Arakaali
+is a Major god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Arakaali, Spinner of Shadows
+at the end of Act 7.
+Upgrading
+In order to upgrade Arakaali, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Garukhan
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Garukhan
+======================================================================
+
+Soul of Garukhan
+Soul of Garukhan
+Location(s)
+The Quarry
+The
+Soul of Garukhan
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Garukhan, Queen of the Winds
+in Act 9.
+Upgrading
+In order to upgrade Garukhan, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+Upgraded Soul of Garukhan Pantheon power no longer grants 6% increased Movement Speed if you haven't been Hit Recently, now grants Cannot be Blinded and You cannot be Maimed.
+3.5.0
+(Not in patch note) The map bosses you are required to defeat to upgrade your Pantheon are mostly shuffled with new map series that released in each new league since this patch.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Soul of Gruthkul
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Gruthkul
+======================================================================
+
+Soul of Gruthkul
+Soul of Gruthkul
+Location(s)
+The Dread Thicket
+The
+Soul of Gruthkul
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Gruthkul, Mother of Despair
+in Act 7.
+Upgrading
+In order to upgrade Gruthkul, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Lunaris
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Lunaris
+======================================================================
+
+Soul of Lunaris
+Soul of Lunaris
+Location(s)
+The Harbour Bridge
+The
+Soul of Lunaris
+is a Major god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Lunaris, Eternal Moon
+at the end of Act 8.
+Upgrading
+In order to upgrade Lunaris, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Ralakesh
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Ralakesh
+======================================================================
+
+Soul of Ralakesh
+Soul of Ralakesh
+Location(s)
+The Ashen Fields
+The
+Soul of Ralakesh
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Ralakesh, Master of a Million Faces
+in Act 7.
+Upgrading
+In order to upgrade Ralakesh, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+Upgraded Soul of Ralakesh Pantheon power no longer grants Cannot be Blinded and You cannot be Maimed, now grants Corrupted Blood cannot be inflicted on you if you have at least 5 Corrupted Blood Debuffs on you.
+3.5.0
+(Not in patch note) The map bosses you are required to defeat to upgrade your Pantheon are mostly shuffled with new map series that released in each new league since this patch.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Soul of Ryslatha
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Ryslatha
+======================================================================
+
+Soul of Ryslatha
+Soul of Ryslatha
+Location(s)
+The Wetlands
+The
+Soul of Ryslatha
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Ryslatha, the Puppet Mistress
+in Act 6.
+Upgrading
+In order to upgrade Ryslatha, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Added to the game.
+
+======================================================================
+PAGE: Soul of Shakari
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Shakari
+======================================================================
+
+Soul of Shakari
+Soul of Shakari
+Location(s)
+The Sand Pit
+(
+The Oasis
+)
+The
+Soul of Shakari
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Shakari, Queen of the Sands
+in Act 9.
+Upgrading
+In order to upgrade Shakari, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Solaris
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Solaris
+======================================================================
+
+Soul of Solaris
+Soul of Solaris
+Location(s)
+The Harbour Bridge
+The
+Soul of Solaris
+is a Major god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Solaris, Eternal Sun
+at the end of Act 8.
+Upgrading
+In order to upgrade Solaris, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Tukohama
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Tukohama
+======================================================================
+
+Soul of Tukohama
+Soul of Tukohama
+Location(s)
+The Karui Fortress
+The
+Soul of Tukohama
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Tukohama, Karui God of War
+in Act 6.
+Upgrading
+In order to upgrade Tukohama, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+
+======================================================================
+PAGE: Soul of Yugul
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_Yugul
+======================================================================
+
+Soul of Yugul
+Soul of Yugul
+Location(s)
+The High Gardens
+The
+Soul of Yugul
+is a Minor god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Yugul, Reflection of Terror
+in Act 8.
+Upgrading
+In order to upgrade Yugul, players need to follow the
+upgrading guide
+and capture the following souls:
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.15.0
+Upgraded Soul of Yugul Pantheon power no longer grants 5% reduced Cold Damage taken if you've been Hit Recently, now grants 20% reduced Effect of Curses on you.
+3.5.0
+(Not in patch note) The map bosses you are required to defeat to upgrade your Pantheon are mostly shuffled with new map series that released in each new league since this patch.
+3.1.0
+The map bosses you are required to defeat to upgrade your Pantheon have, for the most part, changed.
+3.0.0
+Introduced to the game.
+
+======================================================================
+PAGE: Soul of the Brine King
+CATEGORIES: Boss monsters, Pantheon Soul
+URL: https://pathofexile.fandom.com/wiki/Soul_of_the_Brine_King
+======================================================================
+
+Soul of the Brine King
+Soul of the Brine King
+Location(s)
+The Brine King's Reef
+The
+Soul of the Brine King
+is a Major god within
+The Pantheon
+. It is automatically captured by
+Sin
+after the player kills
+Tsoagoth, The Brine King
+at the end of Act 6.
+Upgrading
+In order to upgrade the Brine King, players need to follow the
+upgrading guide
+, WHICH IS FUCKING OUTDATED AND HAD ME WASTE CHAOS ORBS FOLLOWING IT GO TO THE NEW FUCKING WIKI
+YOU OWE ME TWO CHAOS ORBS
+Lua error: Error: invalid field alias "pantheon.id"; aliases cannot contain dots or quotes..
+Version history
+Version
+Changes
+3.0.0
+Introduced to the game.
