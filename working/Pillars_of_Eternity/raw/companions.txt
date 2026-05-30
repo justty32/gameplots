@@ -1,0 +1,4625 @@
+
+======================================================================
+PAGE: Avowed companions
+CATEGORIES: Avowed companions
+URL: https://pillarsofeternity.fandom.com/wiki/Avowed_companions
+======================================================================
+
+In
+Avowed
+, there are a total of four
+companions
+who can join your party:
+Giatta
+,
+Kai
+,
+Marius
+, and
+Yatzli
+. Each companion has their own combat specialities, unique personalities, and story arcs to explore.
+Companions are core to the game and are deeply intertwined with the main story and the party.
+Overview
+Concept art of the four companions in Avowed.
+Party
+Only two of the four companions may accompany you at any given time.
+Some companions can be recruited earlier or later, but they'll all join your party by certain known points in the game. When not in the party, companions can be found at the
+party camp
+, where they can be interacted with or asked to rejoin the party. There are "a few cases" where you must include a particular companion in your party because their knowledge or expertise is relevant to the situation, otherwise it's up to you.
+Commands
+You can issue basic orders to companions both in and out of combat, via the action radial. For example, you can ask them to interact with the environment, move to a particular spot, perform a basic task, or cast a context-aware ability. Each companion has their own set of unique commands that may be used during
+exploration
+of the world, and to solve puzzles in dungeons.
+Firestarter (Kai):
+Orders Kai to burn away webs, brambles, or other flammable obstacles.
+Combat
+In combat, companions will engage enemies at will, and are limited to a specific mode of attack depending on the companion. For example, Kai will often engage enemies in close-quarters combat. The player can command to cast their
+abilities
+on command, although generally they can fight on their own and assist the party without intervention.
+More specific AI behaviors of companions cannot be modified.
+During battles, companions will provide real-time tactical advice and commentary. They'll warn you about incoming attacks, point out enemy weaknesses, suggest different strategies, offer updates on their own status.
+Like the player character, companions also gain experience, level up, and you can choose to learn new abilities or improve existing abilities. Each companion has their own unique
+ability tree
+which is focused around the combat archetype of that companion, but is not as extensive as the player character's trees. Their stats improve as they level up, based upon a predefined path.
+Companions cannot be outfitted with equipment of any type, including armor, weapons, and consumables, and their current equipment does not appear in the character menu.
+Quests and dialogue
+The player has a number of quest-based interactions with companions, each has their own personal story arc. Your interactions and dialogue with companions can influence them down a particular course and shape the outcome of their story. Companions don't have a strict approval system, and you won't have to "maintain" your companions and their relationship with you to keep them in the party.
+By extension, there are no romance options for companions, as there was in both
+Pillars
+games.
+.
+You can engage in dialogue and speak with all companions at the
+party camp
+, but not while exploring the open world. During dialogue with other characters, current party members will offer their insights. While exploring, companions will react to the world, providing commentary on locations, characters, creatures, and events. This can include historical facts, personal opinions, and humorous observations.
+Training
+Each companion can offer the player a training session when spoken to in the party camp. These training sessions will grant a choice of a +2 bonus to one of two specific
+attributes
+, or a +1 bonus to both attributes. The attributes trained depends on the companion spoken to, but all companion trainings may be gained in a single playthrough.
+List of companions
+Portrait
+Name
+Archetype
+Race
+Culture
+Background
+Found at
+Training
+Kai
+Fighter
+Coastal aumaua
+Rauatai
+Soldier
+Dawnshore
+,
+Claviger's Landing
+Might
+,
+Constitution
+Marius
+Ranger
+Mountain dwarf
+Pargrunen
+Hunter
+Paradis
+, The Grinning Balarok
+Dexterity
+,
+Constitution
+Giatta
+Wizard
+Ocean human
+Vailian Republics
+Scientist
+Emerald Stair
+,
+Fior
+Intellect
+,
+Resolve
+Yatzli
+Wizard
+Hearth orlan
+Scholar
+Shatterscarp
+,
+Thirdborn
+Perception
+,
+Intellect
+References
+
+======================================================================
+PAGE: Calisca
+CATEGORIES: Pillars of Eternity characters, Pillars of Eternity companions
+URL: https://pillarsofeternity.fandom.com/wiki/Calisca
+======================================================================
+
+Calisca
+Biography and appearance
+Game
+Pillars of Eternity
+Race
+Meadow human
+Gender
+Female
+Culture
+The Dyrwood
+Background
+Explorer
+Colors
+Statistics
+Class
+Fighter
+Level
+1
+Health
+2400
+300
+Accuracy
+2 / 2
+Interrupt
+6
+Concen.
+84
+Damage
+13-19
+/ 8-13
+Attributes
+Mig
+17
+Con
+14
+Dex
+10
+Per
+12
+Int
+12
+Res
+13
+Defenses
+Def
+4
+Fort
+23
+Ref
+5
+Will
+20
+DR
+/
+AR
+Base
+7
+Burn
+7
+Crush
+7
+Corrode
+7
+Pierce
+6
+Freeze
+9
+Slash
+9
+Shock
+7
+Gameplay
+Location
+Encampment
+Quests
+A Moment's Respite
+,
+Ruins of Cilant Lis
+Companion
+Temporary
+Equipment
+Body
+Scale Armor
+Weapon
+Set
+Battle Axe
+Torch
+Technical
+Character ID
+Companion_Calisca
+Guid
+b1a7e809-0000-0000-0000-000000000000
+Calisca
+(
+CAH-lee-shah
+) is a female
+fighter
+and temporary
+companion
+in
+Pillars of Eternity
+.
+Background
+Calisca has two brothers and one sister. Her parents reside in
+The Living Lands
+, and her sister
+Aufra
+lives in
+Gilded Vale
+. Her brothers live in
+Rauatai
+and the
+Aedyr Empire
+, respectively. She meets the player character while traveling to Gilded Vale to check on her sister's safety in light of recent events in the area. She mentions doing guide work in the
+Ixamitl Plains
+before setting out for Gilded Vale.
+Interactions
+This character is a
+party member
+.
+This character is
+involved in
+quests
+.
+A Moment's Respite
+Ruins of Cilant Lis
+This character has
+other interactions
+.
+Your dialogue with Calisca (after picking the Springberry) is used to
+further specialize
+your background with a "specific background" and "reason for leaving". Your decisions here are saved, influence the journal/biograph entries, and are even carried over to
+Pillars of Eternity II: Deadfire
+. Besides adding some role-playing flavour, these choices are very rarely checked in dialogue later in the game.
+Quests
+During the game's prologue, Calisca is assigned to assist the player in tracking down a
+Springberry
+bush in order to concoct a medicinal tea. After the berries have been collected, she suggests that she and the player find
+Sparfel
+, who was supposed to be gathering water. Upon discovering that Sparfel's pack is laying near the river unattended, Calisca suggests that he's gone hunting again (despite specific instructions not to do so.) He is then seen stumbling out of the treeline with an arrow jutting out of his back. Afterwards, Calisca and the player are attacked by the two Glanfathan raiders responsible for Sparfel's death. Later, a confrontation occurs between the player and the leader of the Glanfathan raid. Following the defeat of the Glanfathans, a powerful magical storm phenomena occurs, and the survivors are forced to flee into the ruins of
+Cilant Lîs
+.
+Calisca's fate is pre-determined; she will always die during the game's prologue. However, there are four different ways that she can meet her end:
+If the player chooses to slay everyone in the caravan (by simply attacking them) instead of pursuing the quest to gather the Springberries, Calisca will become hostile and die at the hands of the player. Upon attacking anyone in the caravan, the quest objective of
+A Moment's Respite
+will change to "Slaughter the caravan."
+If the player selects an option that causes
+Heodan
+to be injured by the Glanfathan Leader during the confrontation at the end of the night, and is saved during the storm event, he will insist on resting once the party enters Cilant Lîs. Should the player side with him and rest, Calisca will leave the party during the night, steal the party's waterskin, and die on the floor tile trap in the center of the dungeon.
+If the above condition occurs, but the player disarms the floor trap and slays all of the monsters in the dungeon
+before
+resting, Calisca will leave during the night as usual, but she will safely avoid the floor tile trap—only to be killed outside by the cultists of the
+Leaden Key
+before the player arrives.
+She will die right next to the player when the cultists activate the
+adra
+artifact (along with Heodan if he's present) shortly after the party exits the dungeon if:
+Heodan dies during the storm event.
+Heodan is not injured in the confrontation with the Glanfathans.
+Heodan IS injured, but the player never rests in Cilant Lîs.
+The player sides with Calisca and refuses Heodan's request to rest.
+Trivia
+Calisca and Aufra's parents can be found in Avowed at Claviger's Landing, who tells the player that they are unaware of Calisca's fate.
+Behind the scenes
+The portrait which was used for her during the E3 demo was a female
+human
+player character
+portrait
+.
+Calisca is voiced by
+Cindy Robinson
+, the same actor who voices
+Sagani
+.
+Calisca was written by
+Eric Fenstermaker
+.
+References
+
+======================================================================
+PAGE: Companions (Deadfire)
+CATEGORIES: Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Companions_(Deadfire)
+======================================================================
+
+This article is about companions in
+Pillars of Eternity II: Deadfire
+. For companions in
+Pillars of Eternity
+and expansions, see
+Pillars of Eternity companions
+.
+In
+Pillars of Eternity II: Deadfire
+, there are seven
+companions
+you can recruit for your party. Three of them return from the previous game - if they died during the
+events
+of the previous game, they won't be available for hire. Some companions can be romanced by the Watcher (regardless of gender).
+Companions are divided into two groups. One are full fledged companions with narrative, story interaction, romance and personal quests. The others are
+sidekicks
+, unique characters which may be acquired through quests that have their own voice actors, but will not offer any further interaction once hired.
+A maximum of four companions / sidekicks may be chosen to accompany the player on their adventure at any given time.
+When a companion joins the party, you may choose up to three preset
+class
+options, typically two single classes and one
+multiclass
+combination of the two, or one single class and two multiclasses derived from it, giving players more freedoms as to what role they want their companion to play in the party.
+List of companions
+Companions
+Portrait
+Name
+Class options
+Race
+Culture
+Background
+Found at
+Romance
+Aloth
+Wizard
+Battlemage
+(
+Fighter
++
+Wizard
+)
+Spellblade
+(
+Rogue
++
+Wizard
+)
+Wood elf
+Aedyre
+Gentry
+Recruited during
+Stranded
+, in
+Port Maje
+either at the
+Engwithan Digsite
+or in
+Port Maje Harbor
+, in front of
+Governor Clario's Estate
+Yes
+Edér
+Fighter
+Rogue
+Swashbuckler
+(
+Fighter
++
+Rogue
+)
+Meadow human
+The Dyrwood
+Farmer
+Available from the beginning during the
+Prologue
+No
+Maia Rua
+Ranger
+Scout
+(
+Ranger
++
+Rogue
+)
+Geomancer
+(
+Ranger
++
+Wizard
+)
+Island aumaua
+Rauatai
+Marksman
+Kahanga Palace
+,
+Serpent's Crown
+,
+Neketaka
+: In the throne room
+Yes
+Pallegina
+Paladin
+Crusader
+(
+Fighter
++
+Paladin
+)
+Herald
+(
+Chanter
++
+Paladin
+)
+Avian godlike
+The Vailian Republics
+Soldier
+Her location depends on the outcome of her quest in
+Pillars of Eternity
+(see
+here
+for more information). She either appears in the throne room of
+Kahanga Palace
+,
+Serpent's Crown
+, or in front of the docks in
+Queen's Berth
+.
+No
+Serafen
+Cipher
+Barbarian
+Witch
+(
+Barbarian
++
+Cipher
+)
+Wild orlan
+Príncipi sen Patrena
+Raider
+Ship encounter shortly after fixing the Defiant and leaving
+Vilario's Rest
+Yes (limited)
+Tekēhu
+Druid
+Chanter
+Theurge
+(
+Chanter
++
+Druid
+)
+Marine godlike
+Deadfire Archipelago
+Artist
+Watershaper's Guild
+,
+Periki's Overlook
+,
+Neketaka
+Yes
+Xoti
+Priest
+Monk
+Contemplative
+(
+Monk
++
+Priest
+)
+Savannah
++
+meadow
+human
+Readceras
+Farmer
+Port Maje Harbor
+,
+Port Maje
+/
+Temple of Gaun
+,
+Neketaka
+(depending on your actions). If you have searched the Engwithan Digsite before coming to Port Maje, she will be at the Temple of Gaun in Neketaka.
+Yes
+Sidekicks
+There are also six
+sidekicks
+that can join your party. Sidekicks are a new character type that sits somewhere between a companion and a hired-adventurer in terms of depth of detail. Sidekicks give you more options as to who can join your party - though they don't expand the current party cap of five.
+Portrait
+Name
+Class options
+Race
+Culture
+Background
+Found at
+Fassina
+Wizard
+Loremaster
+(
+Chanter
++
+Wizard
+)
+Sorcerer
+(
+Druid
++
+Wizard
+)
+Ocean folk
+Vailian Republics
+Arcane Apprentice
+The Dark Cupboard
+,
+Periki's Overlook
+. Via dialogue without additional checks after completing the quest
+The Archmage's Vault
+Konstanten
+Chanter
+Barbarian
+Howler
+(
+Barbarian
++
+Chanter
+)
+Mountain dwarf
+Dyrwood
+Drifter
+The Wild Mare
+(second floor),
+Queen's Berth
+,
+Neketaka
+Mirke
+Monk
+Brawler
+(
+Fighter
++
+Monk
+)
+Shadowdancer
+(
+Monk
++
+Rogue
+)
+Hearth orlan
+Príncipi sen Patrena
+Raider
+(
+Rum Runner's Pack
+)
+Deadlight Court
+,
+Fort Deadlight
+(before confronting
+Benweth
+)
+Rekke
+Fighter
+Brawler
+(
+Fighter
++
+Monk
+)
+Brute
+(
+Barbarian
++
+Fighter
+)
+Storm folk
+Yezuha
+Missionary
+Flotsam event, eastern edge of the world map at
+15° 02′ S, 69° 05′ E
+.
+Vatnir
+Priest
+Celebrant
+(
+Chanter
++
+Priest
+)
+Zealot
+(
+Priest
++
+Rogue
+)
+Endings godlike
+The White that Wends
+Drifter
+(
+Beast of Winter
+)
+Harbinger's Watch
+Ydwin
+Mindstalker
+(
+Cipher
++
+Rogue
+)
+Cipher
+Rogue
+Pale elf
+The White that Wends
+Scientist
+Spire of the Soul-Seers
+,
+The Sacred Stair
+,
+Neketaka
+Companion relations
+Main articles:
+Companion relationship
+,
+Romance
+Each of the companions will establish relationships with you and
+other
+companions in the course of the game's events and conversations. What each companion likes and dislikes is determined by his character traits (helpfully displayed on the reputation pages) and eventually builds up to either like or dislike. Notably, friction between different companions can get to the point where they will issue an ultimatum and demand that you choose one of them and leave. This is particularly common with characters that have opposing traits:
+Aloth
+dislikes the pride that both
+Serafen
+and
+Tekēhu
+demonstrate. Even
+Xoti
+can get on his nerves, though this is offset by her dutiful responses.
+Xoti
+and
+Pallegina
+won't get along due to their opposing views on religion.
+A way to minimize exposure is to ensure that you don't mix characters of opposing traits too much - and put those with common traits together.
+References
+
+======================================================================
+PAGE: Edér Teylecg
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions, Pillars of Eternity characters
+URL: https://pillarsofeternity.fandom.com/wiki/Edér_Teylecg
+======================================================================
+
+Edér Teylecg
+Biography and appearance
+Game
+Pillars of Eternity
+Pillars of Eternity II: Deadfire
+Race
+Meadow human
+Gender
+Male
+Culture
+The Dyrwood
+Background
+Farmer
+Colors
+Statistics
+Class
+Fighter
+Level
+7
+Health
+1144
+143
+Accuracy
+20 / 20
+Interrupt
+6
+Concen.
+84
+Attributes
+Mig
+16
+Con
+16
+Dex
+11
+Per
+12
+Int
+10
+Res
+13
+Defenses
+Def
+46
+Fort
+57
+Ref
+34
+Will
+34
+DR
+/
+AR
+Base
+7
+Burn
+7
+Crush
+7
+Corrode
+7
+Pierce
+6
+Freeze
+9
+Slash
+9
+Shock
+7
+Skills
+Alchemy
+3
+Athletics
+2
+Streetwise
+2
+Survival
+2
+Gameplay
+Location
+Gilded Vale
+Quests
+Fragments of a Scattered Faith
+The Lighted Path
+Companion
+Permanent
+Equipment
+Neck
+Cape
+Body
+Saint's War Armor
+Weapon
+1
+Pipe
+Weapon
+2
+War Bow
+Technical
+Character ID
+Companion_Eder
+Guid
+b1a7e800-0000-0000-0000-000000000000
+Edér Teylecg
+is a male
+human
+fighter
+and recruitable
+companion
+in
+Pillars of Eternity
+and
+Pillars of Eternity II: Deadfire
+.
+He can be recruited in
+Gilded Vale
+after completing
+Visions and Whispers
+. In the sequel, he's automatically a part of your party.
+Background
+Edér is a 32 year old, broad man with straw-colored hair, a light beard
+and stands 6'2" (188 cm) tall. His scale armor, blade, and pipe are his most easily recognizable attributes — together with a laid-back, blackly humorous outlook on life. Expect no less from a veteran of the
+Saint's War
+. Though people tend to dismiss him as somewhat of a simpleton due to his appearance, background, and partiality to enjoying smoking
+whiteleaf
+, Edér often proves to surprisingly observant of his surroundings and rather well-articulated.
+Edér hails from
+Gilded Vale
+, the little village out on Dyrwood's frontier. The youngest son of two farmers, he grew up alongside his older brother,
+Woden
+. Despite some occasional sibling rivalry with Woden, Edér by and large idolized his brother and looked up to him. Like their parents, he and Woden were devotees of
+Eothas
+for much of their early life, but this changed forever when St. Waidwen overthrew
+Readceras
+and turned it into a theocracy with him as the living incarnate of Eothas. As he marched his armies down into Dyrwood, thereby starting the Saint's War, Woden decided to enlist, much to the chagrin of his family. Both his parents and Edér argued that he should remain with his people, rather than go to war against his own god. Edér, in a fit of rage, had a major fight with his brother, flinging every horrid thing he could think of at him — and failing to convince him. A few months later, Edér decided that his brother might be right after all and followed his lead, enlisting with the Dyrwoodan army.
+He did not believe Waidwen to be the true incarnation of Eothas because of his punishment of non-believers, more akin to a vengeful god like
+Skaen
+or
+Woedica
+than the god of light. However, he wasn't aware that Woden wound up fighting for Readceras, turning away from
+Defiance Bay
+and marching to
+Readceras
+, enlisting with Waidwen's army... And eventually perishing in the Third Battle of
+Clîaban Rilag
+.
+Edér continued to serve with distinction, right up to the 'Dyrwoodan Hello' at Halgot Citadel, when Waidwen found himself at the receiving end of the Godhammer bomb. Edér returned to Gilded Vale alongside his captain, trying to find solace after the experience of the war and loss of his brother.
+Welcomed as a hero, he quickly found employment on a farm, with his former captain becoming his headman. However, as the
+Hollowborn crisis
+intensified and
+the Purges
+of Eothasian followers began, rumors began to circulate that his brother actually fought for Readceras. Edér was saved from the noose by his war record and his headman's vouching for him, but the rumors planted a seed of doubt in his mind about the true loyalties of his brother. The prejudice against Eothasians only intensified with time. Edér's parents eventually grew concerned for their own safety and moved across the ocean to
+Aedyr
+, with Edér staying behind out of habit. His luck held for a while, even as the tree in the courtyard of the former Eothasian temple in Gilded Vale filled with followers of the
+Splintered God
+.
+However, by the time the
+Watcher
+came to Gilded Vale, Edér's luck was running out. As the sole remaining worshipper of Eothas, he reasoned that was only a matter of time until
+Raedric's
+goons found an excuse to hoist him on the tree as the nineteenth victim of the Lord's madness.
+Pillars of Eternity
+Edér joins the Watcher, seeing an opportunity to help him learn the fate of
+Woden
+in the
+Saint's War
+.
+If Edér's personal quest is left unresolved and he therefore didn't find out the details about what happened to Woden, Edér grows disillusioned with his life in the Dyrwood and decides to journey over the ocean to Aedyr, to be with his parents. However, if his quest is completed, and depending on whether the Watcher reinforced his belief in the gods or encouraged him to find a new way in life, Edér either finds a new calling in Dyrford or strengthens his faith as an Eothasian.
+Traveling with the Watcher proved to be the adventure of his life. A simple farmer from Gilded Vale wound up taking down the head of an
+ancient cult
+, learning the truth about the gods, and eventually deciding to take his life further.
+Pillars of Eternity II: Deadfire
+(If Edér joined the Night Market):
+Edér joined the Night Market after meeting a member of the organization in typical Eder fashion: Bashing his head into the target after a game of Orlan's Head went awry. When the man noticed the symbol of Eothas that Edér carried of his chest, the two started talking — and a month or two later, Edér was introduced to the group. Most of the time, he helped Eothasians get out of bad situations, setting them up with better jobs, though the usual power struggles within the group cost a few of their charges their lives — something Edér isn't quite sure was necessary.
+(If Edér became mayor of Dyrford):
+Inspired by the Watcher's example to be more proactive in helping out people, rather than relying on the gods to do so, Edér remembered the small village of Dyrford that him and the Watcher had journey through previously and how the place had plenty of problems, and so he journeyed there hoping to offer whatever help he could in getting the village back on its feet. Upon arriving Edér sought out Dyrford's mayor, and arranged a meeting with him. The mayor, however, turned out to be a member of the secret Skaen cult in the area, and tried to attack Edér off-guard, but Edér made short work of him and chopped his head clean off. Upon emerging from the fight with the mayor's head in his hand, the villagers hailed Edér as a hero and quickly pronounced him their new mayor, and his position was soon confirmed by the local  thayn. Under Edér's rule he drove out the last of Skaen's kind and enforcing his own brand of frontier justice and brought some life back into the ailing village by drawing in settlers with promises of free land, a trick he had learned from someone else. Life was fair and safe under his rule... Though he was always missing something, or rather someone: Someone to show his work to. Someone like Elafa.
+(If Edér went back to his parents in Aedyr):
+Edér was welcomed back by open arms by his mother and father, and soon settled down for some time in his old work as farmhand at their farm. The peaceful times did not last for long though, as some of the bad blood towards Eothasian worshipers had carried back to Aedyr, and Edér and his parents were subjected to occasional incidents of harassment. When a group of brigands one day tried to drive Edér's parents from their land with threats of violence, Edér drew his weapon against them and expertly slew them all in combat. This outburst of violence created a rift between Edér and his parents; although they were grateful for him protecting them, they still thought that his use of deadly force had been disproportionate, and though they didn't say so out loud, Edér could still sense that they had become somewhat scared of him as a result. Edér decided that the best he could do for his parents was to let them have peace, and so he left their home again, journeying back to Dyrwood.
+Edér heard of the destruction of
+Caed Nua
+at
+Eothas
+' hands and returned to help the Watcher once more — and helped charter the ship to bring the Watcher closer to
+Eothas
+in the
+Deadfire Archipelago
+. He's grown ever more sarcastic as a result of his experiences - though he hasn't lost any of his good nature or love of cuddly animals. However, the return of his god hasn't done anything to help him resolve the underlying conflict over his religion and morals — if anything, it only amplified it. He doesn't know whether following him is the right path — or if there isn't one — and hopes that the Watcher can help him.
+Another concern is his old flame. Edér never stopped loving her and would like to find her among the waters of the Deadfire. Particularly after he realizes that she had a son after the last time they were together — a chance that it is his son drives Edér forward.
+Interactions
+Pillars of Eternity
+This character is a
+party member
+.
+This character is
+involved in
+quests
+.
+Fragments of a Scattered Faith
+Companion
+Edér is an incredibly powerful fighter character, effectively immune to most challenges that the enemy can try and throw at him by the endgame. He's particularly powerful as a tank, locking down enemies and typically remaining as the last man standing.
+Despite his firepower, Edér is polite, laid-back, and possessed of a particularly dark type of black humor. He loves animals and tends to pet them at any opportunity - with their caretakers' consent. This is regardless of whether it's
+Sagani
+'s
+Itumaak
+or
+Simoc
+'s
+stelgaer
+.
+Companion quest
+Edér's companion quest is
+Fragments of a Scattered Faith
+. Completing this quest will require you to have a
+Reputation
+of moderately positive with
+Defiance Bay
+.
+Edér asks the Watcher to help him seek answers as to the rumors circulating around his brother's loyalties, as Maerwald was too damaged to provide assistance himself. Seeking to know whether he did truly join Waidwen in his rampage, Edér and the Watcher investigate the militia records in Defiance Bay, which the Watcher is granted access to as a result of their positive reputation in the city. Upon reading up on it, Edér discovers his brother did indeed fight for Readceras. Confused, he asks the Watcher to visit his brother's last battlefield. With the aid of multiple artifacts and a Cipher, the Watcher is able to glimpse the journey of Edér's brother through the Dyrwood and into Readceras. They discover he personally met with Waidwen, but is unable to discover what they talked about due to an intense energy radiating off Waidwen, which disrupts the Watcher's abilities in the present day. Shortly thereafter, the vision shows the final battle, and then ends. Upon revealing what they saw, Edér is distraught to discover how little they have learned, and is now deeply troubled by the possibility that he may have abandoned his god when he needed him. He thanks the Watcher for their assistance as they continue their journey.
+Endings
+Edér's endings
+change depending on his views of faith. A neutral or positive value will renew his faith, while a negative value will have him focus efforts elsewhere in his ending slides.
+There are several conversations where the player can influence this trait:
+After entering Defiance Bay for the first time and speaking with the Dozens
+Faith
+→ "People hide behind symbols so they can't be questioned."
+-1
+→ "There must be plenty of other groups that are better reflections of the figures that inspired them."
++1
+→ "Too bad. I wouldn't mind seeing something like that."
+-1
+→ "Surely Magran has worthier followers."
++1
+Upon discovering Abydon's shrine in
+Crucible Keep
+→ "It seems like some members do still take their ideals seriously."
++1
+→ "For all we know, maybe Abydon IS telling him to."
+-1
+→ "They don't seem all bad. They're keeping peace in Defiance Bay."
++1
+→ "And the nobles will respond that their gods told them that they're the only true nobles."
+-1
+After completing his quest
+Fragments of a Scattered Faith
+→ "What would your brother have to say about that?"
++2
+→ "You did what you had to. Even if Waidwen was Eothas, his actions were destructive."
+-2
+→ "It does seem like you put your faith in the wrong side. He'd have brought unity, even if it was by force."
++2
+Pillars of Eternity II: Deadfire
+This character is a
+party member
+.
+This character
+starts
+quests
+.
+The Lighted Path
+Companion
+Edér is the first companion you receive in your party as long as he didn't die in the first game.
+As a result of his quest
+Fragments of a Scattered Faith
+during the events of
+Pillars of Eternity
+, he wears either
+Night Market Amulet
+(if he joined the Night Market ), or the
+Dyrwoodan Mayoral Medallion
+(if he became the mayor of
+Dyrford
+).
+He can be a Fighter, a Rogue, or a multiclass of the two (Swashbuckler). He's as powerful as he was in
+Pillars of Eternity
+and a strong member of any party.
+Once you pick
+Xoti
+up, he will mention the Dawnstars and a friend from Gilded Vale he would like to look up while in Deadfire. with Insight 2, Perception 11, or Diplomacy 2 you can press the issue and learn that she's a one-time lover of his, with a penchant for really,
+really
+loud screaming when she climaxes. Oh, Edér, you rapscallion.
+More importantly, Edér is grappling with his doubts about Eothas. Once your reputation passes the first threshold, he will ask for your input on how to maintain your moral compass in the face of impossible odds and taking the right path (assuming he has a high opinion of you) and whether it's possible to follow Eothas still.
+Reputation
+Edér likes:
+Anti-Leaden Key:
+Despises the Leaden Key and the violence and manipulation for which it is responsible.
+Animal Kindness:
+Appreciates kindness and sentimentality toward animals of all kinds.
+Pro-Eothasians:
+Supports the followers of Eothas.
+Lighthearted:
+Appreciates jokes and levity in life, even in the darkest of circumstances.
+Traditional:
+Respects and enjoys cultural traditions and believes they are worthwhile to observe and practice.
+Edér dislikes:
+Animal Cruelty:
+: Has a negative reaction to people who are cruel or callous toward animals.
+Anti-Eothasians:
+: Does not respond well to criticism of or hostility toward the followers of Eothas.
+Pro-Leaden Key:
+Distrusts the Leaden Key and those who make excuses for it.
+Relationships
+Edér is inclined towards
+Xoti
+, a fellow follower of Eothas, though her zealousness initially keeps him away.
+If
+Aloth
+did not suppress Iselmyr, Edér has several conversations with her in which they joke at Aloth's expense. However, he eventually tires of Iselmyr's bashing.
+Edér can't be romanced, and if the Watcher tries and is an
+Orlan
+, he will cite his inability to overcome his racial prejudices as the reason for turning the Watcher down.
+Deadfire endings
+Edér's endings change depending on:
+Saving Bearn (or not) during his personal quest
+The Lighted Path
+.
+Renewing/decreasing his faith in
+Eothas
+, which happens during conversations in his quest as well as below.
+After Edér recalls the story of the little girl and Eothas.
+"And that's the whole story. Doesn't have much explanation. What do you make of it?"
+Faith
+→ "Eothas loved the girl and was determined to help her."
++1
+→ "The girl knew the consequences. Eothas let her decide."
++1
+→ "Eothas' heart is bigger than his brain."
+-1
+→ "I fell asleep almost immediately."
+-1
+After Act 3.
+"But how many times do we have to stand by and watch, while someone with some big idea wrecks the world trying to make it happen?"
+→ "We thwarted one calamity. Eothas is just exchanging it for a different one."
+-2
+→ "The gods must face kith and be judged for their actions."
++2
+→ "Eothas' plan is not the best way. There has to be a peaceful solution."
+-2
+→ "It's kith nature to seek truth. What we saw in Dyrwood will happen again and again unless Eothas stops it."
++2
+Statistics
+Note:
+This section applies to
+Pillars of Eternity
+only!
+Bonuses
+Attributes
++1
+Might
+(Race:
+Human
+)
++1
+Resolve
+(Race:
+Human
+)
++1
+Resolve
+(Culture:
+The Dyrwood
+)
+Skills
++1
+Athletics
+(Class:
+Fighter
+)
++1
+Athletics
+(Background:
+Farmer
+)
++1
+Lore
+(Class:
+Fighter
+)
++1
+Survival
+(Class:
+Fighter
+)
++1
+Survival
+(Background:
+Farmer
+)
+Abilities
+Fighting Spirit
+(Race:
+Human
+)
+Constant Recovery
+(Class:
+Fighter
+)
+Second Wind
+(
+Athletics
+> 1)
+Initial points
+Edér's initial
+skill
+,
+talent
+, and
+ability
+distribution depends on the level of the Watcher when he is first added to the party, but only if the "Auto Level Companions" option is checked in the difficulty settings.
+With auto-levelling enabled, companions will be levelled following a preset point distribution. The player is still free to distribute points into whatever skills, abilities, and talents they desire when a companion levels up, and they may be completely retrained at an
+inn
+. Edér always starts at a minimum of level 2 (the stats above are before he joins the party).
+With auto-levelling disabled, companions are not levelled, and the player may choose their own point distribution. Edér starts at level 1 with the requisite experience to level him up to the current player level or level 2, whichever is higher.
+Level
+Skills
+Abilities
+Talents
+STEA
+ATHL
+LORE
+MECH
+SURV
+1
+Knock Down
+2
+0
+5
+1
+0
+2
+Rapid Recovery
+3
+2
+5
+1
+0
+2
+Defender
+4
+2
+7
+1
+0
+2
+Weapon Focus: Ruffian
+5
+2
+8
+1
+0
+2
+Weapon Specialization: Ruffian
+6
+3
+8
+1
+0
+4
+Hold the Line
+7
+3
+8
+1
+0
+4
+Confident Aim
+8
+3
+9
+1
+0
+4
+Superior Deflection
+9
+3
+10
+1
+0
+4
+Armored Grace
+10
+3
+10
+1
+0
+4
+Bloody Slaughter
+11
+3
+11
+1
+0
+4
+Unbroken
+12
+3
+12
+1
+0
+4
+Body Control
+13
+3
+12
+1
+0
+4
+Take the Hit
+14
+3
+13
+1
+0
+4
+Weapon Mastery: Ruffian
+15
+3
+13
+1
+0
+4
+Triggered Immunity
+16
+3
+14
+1
+0
+5
+Bear's Fortitude
+Trivia
+Edér was written by
+Eric Fenstermaker
+.
+He is voiced by
+Matthew Mercer
+, who also voices
+Aloth
+.
+During the Kickstarter campaign, he was called Edair but his name was changed to Edér to reflect the language of the
+Dyrwood
+.
+Eder's portrait is based on the late Max von Sydow.
+Edér's class changed during development from a fighter to a
+rogue
+, and then back again.
+Edér has the unique
+background
+Farmer
+, which provides +1
+Survival
+and
+Athletics
+Before
+version
+1.03, Edér had the following Attributes: Mig: 16 Con: 16 Dex: 11 Per: 10 Int: 13 Res: 12.
+To speak to Edér without first completing
+Visions and Whispers
+, use the console commands
+SetGlobalValue
+n_old_watcher_main 1
+and
+SetGlobalValue
+b_Met_Caldara 1
+Gallery
+Old design from the Kickstarter campaign.
+Ingame model of Edér
+Edér in Gilded Vale
+Edér on the Defiant in POE2
+Promotional image for
+Pillars of Eternity II: Deadfire
+References
+
+======================================================================
+PAGE: Fassina
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Fassina
+======================================================================
+
+Fassina
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Race
+Ocean
+human
+Gender
+Female
+Culture
+The Vailian Republics
+Background
+Arcane Apprentice
+Personality
+Stoic
+Statistics
+Classes
+Wizard
+Loremaster
+(
+Chanter
++
+Wizard
+)
+Sorcerer
+(
+Druid
++
+Wizard
+)
+Subclass
+Conjurer
+Level
+5
+Attributes
+Health: 74
+Mig
+13
+Con
+11
+Dex
+12
+Per
+12
+Int
+16
+Res
+14
+Accuracy
+50
+Penetration
+8
+Defenses
+Def
+: 36
+Fort
+: 35
+Ref
+: 40
+Will
+: 62
+DR
+3
+Elemental DR
+Slash
+: 3
+Pierce
+: 3
+Crush
+: 3
+Shock
+: 3
+Freeze
+: 3
+Burn
+: 3
+Corrode
+: 3
+Abilities
+Fighting Spirit
+,
+Parrying Blade
+,
+Blast
+,
+Interfering Barrage
+,
+Combat Focus
+,
+One-Handed Style
+,
+Conjurer
+,
+Concelhaut's Parasitic Staff
+,
+Conjure Familiar
+,
+Ghost Blades
+,
+Kalakoth's Sunless Grasp
+,
+Arcane Veil
+,
+Binding Web
+,
+Concelhaut's Corrosive Siphon
+,
+Necrotic Lance
+,
+Expose Vulnerabilities
+,
+Kalakoth's Minor Blights
+,
+Essential Phantom
+,
+Maura's Writhing Tentacles
+,
+Malignant Cloud
+,
+Wall of Force
+,
+Arcane Reflection
+,
+Death Ring
+,
+Llengrath's Warding Staff
+,
+Substantial Phantom
+,
+Caedebald's Blackbow
+,
+Minoletta's Piercing Sigil
+,
+Citzal's Enchanted Armory
+,
+Cloak of Death
+Gameplay
+Location
+Periki's Overlook
+,
+The Dark Cupboard
+Quests
+Velvet Glove, Brass Fist
+The Archmage's Vault
+Companion
+Permanent
+Drops
+Arkemyr's Manor Key
+Equipment
+Body
+Vailian Clothing
+Grimoire
+Fassina's Grimoire
+Weapon
+Fine Wand
+Technical
+Internal Name
+Companion_Fessina
+GUID
+b1a7e808-0000-0000-0000-000000000000
+Fassina
+is a female
+human
+wizard
+, and a recruitable
+sidekick
+in
+Pillars of Eternity II: Deadfire
+. She is recruited after you complete the quest
+The Archmage's Vault
+. Visit her after completing the quest to recruit her.
+Background
+This young wizard clutches the counter top, looking as if she's either going to vault over it or snap it in half.
+Fassina is the proprietor of the
+Dark Cupboard
+, a high level magic shop located in the prestigious
+Periki's Overlook
+district of
+Neketaka
+. Unfortunately, her taste in lovers has recently gotten the better of her. As the Watcher can witness, her lover steals
+Rokowa's Fingers
+then makes a beeline for the exit, getting her in hot water - potentially - with
+Arkemyr
+(who loves gloves). She's an apprentice to the old Archmage and privy to his various quirks, habits, and odd behaviors, robbing her of a good deal of reverence for the old man.
+After all, Arkemyr assigned her tasks that ranged from tedious to toxic, giving her only the most minute of education. Fassina retaliated by going behind his back to read books she wasn't allowed to read, learn spells well beyond her capability, and even trying to start an imp insurrection against Arkemyr. All of which was according to plan: Arkemyr firmly believes in an exceedingly individualistic philosophy, where the mage is not bound by conventional morality or any authority and Fassina's actions delighted him: She was everything he hoped her to be and more.
+Interactions
+This character is a
+party member
+.
+This character is a
+merchant
+.
+Sells: Various magical wares, including consumables, weapons and armor. Unique items include
+The Spine of Thicket Green
+,
+Sasha's Singing Scimitar
+,
+Lethandria's Devotion
+,
+Llengrath's Martial Masteries
+,
+Grimoire of Vaporous Wizardry
+,
+Ring of Focused Flame
+,
+Spellkeeper
+,
+Gwyn's Bridal Garter
+This character
+starts
+quests
+.
+Velvet Glove, Brass Fist
+This character is
+involved in
+quests
+.
+The Archmage's Vault
+This character has
+other interactions
+.
+Fassina is a recommended party member for
+The Forgotten Sanctum
+: She has special interactions, comments, and is, in fact, assigned to explore Wael's sanctum as her final assessment.
+Quests
+Velvet Glove, Brass Fist
+: Fassina needs your help in undoing the problem, before Arkemyr flays her alive over these gloves. Completing the quest by saving Bertenno will enable her aid during
+The Archmage's Vault
+.
+The Archmage's Vault
+: She can give you the
+key
+to the front door of
+Arkemyr's Manor
+(or it can be pickpocketed from her). Completing both quests will also unlock her as a companion (just ask her if she's happy).
+Trivia
+Once recruited as a sidekick, Fassina will be replaced by a Shop Imp as the shopkeeper in
+The Dark Cupboard
+.
+Through your dialog choices with
+Konstanten
+you can help him romance Fassina. If you're successful in helping him to do so, her shouts and mid-fight "bark" dialogues change from her default ones.
+Behind the scenes
+Fassina
+was written by
+Paul Kirsch
+.
+She is voiced by Julia Innocenti.
+Named
+Radora
+during development, Fassina was originally envisioned as:
+Ocean Folk/Vailian human wizard. She has difficulty keeping a captain's position for long. According to her, she's at her best when she's had a few to "take the edge off", though she swears she never drinks at sea.
+References
+
+======================================================================
+PAGE: Heodan
+CATEGORIES: Pillars of Eternity characters, Pillars of Eternity companions
+URL: https://pillarsofeternity.fandom.com/wiki/Heodan
+======================================================================
+
+Heodan
+Biography and appearance
+Game
+Pillars of Eternity
+Race
+Meadow human
+Gender
+Male
+Culture
+Aedyr
+Background
+Drifter
+Colors
+Statistics
+Class
+Rogue
+Level
+1
+Health
+2000
+250
+Accuracy
+6 / 6
+Interrupt
+18
+Concen.
+81
+Damage
+1-7
+Attributes
+Mig
+13
+Con
+10
+Dex
+16
+Per
+16
+Int
+11
+Res
+12
+Defenses
+Def
+3
+Fort
+7
+Ref
+25
+Will
+16
+DR
+/
+AR
+Base
+6
+Burn
+6
+Crush
+6
+Corrode
+3
+Pierce
+6
+Freeze
+6
+Slash
+9
+Shock
+6
+Gameplay
+Location
+Encampment
+Quests
+A Moment's Respite
+,
+The Ruins of Cilant Lîs
+Services
+Merchant (Weapons and armor)
+Companion
+Temporary
+Equipment
+Body
+Leather Armor
+Weapon
+Dagger
+Technical
+Character ID
+companion_Heodan
+Guid
+b1a7e810-0000-0000-0000-000000000000
+Heodan
+is a merchant and possible temporary
+companion
+in
+Pillars of Eternity
+.
+He's a member of the same caravan the
+protagonist
+is traveling with, and will be met during their rest at the
+Encampment
+.
+Background
+A
+trader
+from the
+Aedyr Empire
+, Heodan left home to expand his family's mercantile enterprise, which had been taken over by his brothers. He decided for the
+Dyrwood
+, as being a former colony of his homeland, and chose the caravan of
+Odema
+to start with his efforts. Though he is the only one of his family who had to leave to build an existence, he doesn't see himself in a disadvantage, and in his eyes all the siblings are working together for business's sake.
+Challenged by life on the road in a larger way than he expected, and constantly remembered by the "prickly locals" of the Dyrwood's independency from the
+Aedyr
+, the simply but neatly clothed
+rogue
+'s trying to make the most of things by selling basic traveling supplies to the caravanners.
+Interactions
+This character has no special interactions.
+This character is a
+merchant
+.
+Sells: Basic weapons and armor
+Other interactions
+Mentioned by
+Odema
+as the one who might be able to equip someone before they head out, Heodan will likely be the first person in the game, the protagonist has an extensive dialogue with – after the introduction from Odema. This talk will also be the first opportunity to make steps into characterization, in building a
+disposition
+. Depending on dialogue choices, a
+minor
+shift is possible for
+clever
+,
+cruel
+or
+passionate
+and for
+diplomatic
+or
+rational
+.
+Heodan then acts as a
+merchant
+in the
+encampment
+; see
+Heodan's Supplies
+below for a list of
+items
+, he's selling.
+Due to events during
+a Moment's Respite
+, his services become unavailable when a certain waterskin gets examined. These events may or may not lead to Heodan's death. In the latter case, he will become a temporary
+companion
+for the protagonist's escape through
+the Ruins of Cilant Lîs
+, but no further. See the respective
+quest
+articles for detailed information.
+Store
+His store, which is labeled "
+Heodan's Supplies
+", sells a variety of basic
+items
+from the back of his wagon prior to your return to the camp during
+A Moment's Respite
+. After those events, however, his services as a merchant will no longer be available.
+Heodan's Supplies is one of the only stores in the game with non-standard rates by default (though most stores can still have their
+rates
+discounted). Instead of the default buy rate of 20% of the item's base value, it is instead 75%, a 375% increase in the default price. Despite this, the player won't have much to sell to Heodan anyway, given the store is only available at this early stage of the game.
+Heodan's Supplies
+Restocking
+No
+Store funds
+?
+500
+List of items
+Item
+Cost
+Qty
+Crossbow
+75
+1
+Great Sword
+75
+1
+Hunting Bow
+75
+1
+Pike
+75
+1
+Quarterstaff
+75
+1
+War Bow
+75
+1
+Battle Axe
+38
+1
+Dagger
+38
+2
+Flail
+38
+1
+Rapier
+38
+1
+Rod
+38
+1
+Sword
+38
+1
+Medium Shield (Heater)
+38
+1
+Small Shield
+38
+1
+Brigandine
+300
+1
+Hide Armor
+300
+1
+Leather Armor
+300
+1
+Padded Armor
+300
+1
+Potion of Minor Regeneration
+150
+1
+Lockpick
+38
+3
+Trivia
+Heodan is voiced by
+Sam Riegel
+.
+
+======================================================================
+PAGE: Ishiza
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions, Pillars of Eternity II: Deadfire creatures
+URL: https://pillarsofeternity.fandom.com/wiki/Ishiza
+======================================================================
+
+Ishiza
+Upload image
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Creature
+Bird
+(Beast)
+Gender
+Male
+Statistics
+Level
+1
+Attributes
+Mig
+8
+Con
+10
+Dex
+16
+Per
+16
+Int
+5
+Res
+10
+Gameplay
+Location
+Maia
+'s animal companion
+Companion
+Permanent
+Technical
+Internal Name
+CRE_Bird_Animal_Companion
+GUID
+49e3917a-abe3-43e3-b3df-7cb95826b9b5
+Ishiza
+is a bird and
+Maia
+'s
+animal companion
+.
+Background
+A fascinating bird of prey in striking red and blue, Ishiza accompanies
+Maia
+and is a particularly stubborn creature. He wound up as her partner after she won a shooting competition and received the freedom to pick any of the royal warbirds she desired. One particular red-and-blue creature kicked a hawk off her arm just to have her all to himself and the two were inseparable ever since.
+Ishiza has an amazing personality and communicates with body language and looking in particular ways. One of those is cocking his head with eyes full of friendly recognition and murderous calculation, which means "I'm hungry and you're wasting my time". Typically precedes solving that problem by eating something. Hopefully not the interlocutor. He is also very particular about people and didn't take a liking to Maia's brother. The so-called White Flood resulted in
+Kana
+keeping his distance from the bird ever since - and having to invest in a new turban.
+There's one other wrinkle to Ishiza: The bird is also an intermediary for
+Hylea
+to spy on the Watcher and the crew of
+The Defiant
+.
+Interactions
+This character is a
+party member
+.
+Interactions
+As long as Maia is in the party,
+Edér
+will take a particular liking to the bird. Upon the first conversation, he will play with the bird, trying to get him to mimic his movements and wind up making a fool of himself before Maia.
+
+======================================================================
+PAGE: Konstanten
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Konstanten
+======================================================================
+
+Konstanten
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Race
+Mountain
+dwarf
+Gender
+Male
+Culture
+The Dyrwood
+Background
+Drifter
+Statistics
+Classes
+Chanter
+Barbarian
+Howler
+(
+Barbarian
++
+Chanter
+)
+Subclass
+Skald
+Level
+4
+Attributes
+Health: 95
+Mig
+15
+Con
+17
+Dex
+12
+Per
+11
+Int
+10
+Res
+13
+Accuracy
+30/30
+Penetration
+7/7
+Defenses
+Def
+: 32
+Fort
+: 53
+Ref
+: 35
+Will
+: 40
+DR
+3
+Elemental DR
+Slash
+: 3
+Pierce
+: 3
+Crush
+: 3
+Shock
+: 3
+Freeze
+: 3
+Burn
+: 3
+Corrode
+: 3
+Abilities
+Hale and Hardy
+,
+Come, Come Soft Winds of Death
+,
+Thick Grew Their Tongues, Stumbling O'er Words
+,
+Two-Handed Style
+,
+The Thunder Rolled Like Waves on Black Seas
+,
+At the Sight of their Comrades, their Hearts Grew Bold
+Gameplay
+Location
+The Wild Mare
+, upper floor
+Companion
+Permanent
+Drops
+2x
+Oil of Allure
+,
+Potion of the Resilient Body
+,
+Vailian Clothing
+Equipment
+Body
+Fine Leather Armor
+Technical
+Internal Name
+Companion_Konstanten
+GUID
+b1a7e810-0000-0000-0000-000000000000
+Konstanten
+is a male
+dwarven
+chanter
+, and a recruitable
+sidekick
+in
+Pillars of Eternity II: Deadfire
+.
+Background
+A burly dwarven man hums a jaunty tune to himself as he fastidiously organizes his collection of scented oils.
+When he hears you enter the room, he greets you with a smile and a humongous outstretched hand. His grip is strong and sure.
+Konstanten is a talented chanter with a passion for pottery, though his huge hands precluded such delicate work. Instead, he learned massage and now specializes in relieving tension in aumaua and death godlike. The pay at The Wild Mare is good and he meets interesting enough clients - though he yearns for something beyond that.
+Born on
+the Pearl Coast
+, Konstanten was one of the participants in the ancient trials of
+Kazuwari
+, fighting for years  to earn Galawain's favor. The life of constant struggle and warfare, a cycle of fighting, sleeping, then fighting some more for weeks, has taken out a good chunk of him. He didn't fail - otherwise he wouldn't be breathing - but simply quit the contests. This put him at odds with the rest of his team, as they were handily dominating the trials. However, Konstanten went with his gut and got out while he was still ahead.
+Interactions
+This character is a
+party member
+.
+This character has
+other interactions
+.
+For
+250
+, you can hire his services and receive Konstanten's Boon (+2
+Constitution
+, +1
+Perception
+, +1
+Intellect
+)
+Konstanten is a big part of the entire
+Seeker, Slayer, Survivor
+DLC, being a veteran of the arena. He will offer comments on quests, people, and events on
+Kazuwari
+.
+Companion
+To recruit him as a sidekick, merely talk to him and suggest a more exciting life aboard the Defiant. He'll practically jump at the opportunity.
+Konstanten rarely says anything at first, but he'll have a hub conversation once you reach Kazuwari.
+Trivia
+Through your dialog choices with him you can help Konstanten romance
+Fassina
+.
+Behind the scenes
+Konstanten
+was written by
+Kate Dollarhyde
+He is voiced by Bentley Kalu.
+Named
+Bonteru
+during development, Konstanten was originally envisioned as "A mountain dwarf rogue obsessed with exploring the Deadfire and cataloguing its various poisonous plants and creatures. Bonteru has memorized the effects of hundreds of different poisons and is all too happy to describe them in detail to anyone who will listen."
+Besides closely resembling the first name "
+Konstantin
+", "Konstanten" is the
+plural
+form of the German translation of the noun "constant", as well as the Swedish definite form of the same word.
+References
+
+======================================================================
+PAGE: Pallegina mes Rèi
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions, Pillars of Eternity characters
+URL: https://pillarsofeternity.fandom.com/wiki/Pallegina_mes_Rèi
+======================================================================
+
+Pallegina
+PoE
+Deadfire
+Deadfire conv.
+Biography and appearance
+Game
+Pillars of Eternity
+Pillars of Eternity II: Deadfire
+Race
+Avian godlike
+Gender
+Female
+Culture
+Vailian Republics
+Background
+Soldier
+Faction
+Frermàs mes Canc Suolias
+Statistics
+Class
+Paladin
+Attributes
+Mig
+12
+Con
+13
+Dex
+11
+Per
+14
+Int
+13
+Res
+15
+Gameplay
+Location
+Ondra's Gift
+Kahanga Palace
+Quests
+At All Costs
+The Child of Five Suns
+The Nest Above the Clouds
+Family Pride
+The Man of Chimes
+Companion
+Permanent
+Technical
+Character ID
+Companion_Pallegina
+Guid
+b1a7e806-0000-0000-0000-000000000000 (PoE)
+b1a7e804-0000-0000-0000-000000000000 (Deadfire)
+“
+Ah, the luxury of choosing what tangled idiocies you can be involved with. It must be nice.
+”
+Pallegina mes Rèi
+(pronunciation: pah-lleh-DJEE-nah)
+is a female
+avian godlike
+paladin
+and one of the recruitable
+companions
+in
+Pillars of Eternity
+.
+She can be recruited after completing the quest
+At All Costs
+, in
+Ondra's Gift
+in
+Pillars of Eternity
+. In
+Pillars of Eternity II: Deadfire
+, she's found at either
+Kahanga Palace
+or
+Queen's Berth
+.
+Background
+Pallegina mes Rèi is a 26-year-old, thin, athletic woman with dark brown skin, brown-black hair, and a mix of avian features: Golden bird eyes and feathers growing out of her hair and limbs, a sign of godlike heritage linked to
+Hylea
+, the Sky-Mother. She was born to human parents in a small ﬁshing village near Biageppe. During childbirth, her unusual body caused her mother enormous pain and internal bleeding, nearly killing her. Upon seeing the baby’s body, the midwife realized that Pallegina must be a godlike, touched by one of the deities and “blessed” with unusual features. Though she was given the name of her great-grandmother on her mother's side, she was named mes Rèi like all godlike among the Vailians.
+Despite her status, her first six years of life were defined by hardship: Injuries sustained in childbirth prevented her mother from bearing more children, leading her father to hate her for seemingly ending his line. Although he did not throttle Pallegina at birth (a common choice among godlike parents, one few are blamed for), the resentment defined her early years. For what it was worth, her mother never blamed her for anything, but she was only a woman in the Republics. Everything changed for the young godlike when
+Frermàs mes Canc Suolias
+(Brotherhood of the Five Suns) were dispatched by the duc of Ozia to eliminate pirates plaguing her home town, Pallegina saw how people celebrated and thanked them for their service. More importantly, she saw how they were free to leave the village, leaving its dreary existence behind. Her father saw an opportunity to both get rid of his damned child and still come ahead.
+He traded her for back taxes owed to the duc. The recruiter accepted the godlike as a prestigious recruit. Although the Frermàs were an all-male order, Republic's laws considered all godlike to be genderless (due to their inability to sire or bear children), and so the young Pallegina was accepted. Although it raised a few eyebrows and caused no small amount of resentment among the more conservative members of the order, she quickly learned not to care and focus on her duties. The sexism and prejudice she experienced at the academy took their toll however, particularly when she started going through puberty and the godlike features manifested in full at twelve. Her only friend at the time was
+Giacolo
+, who discovered the characteristic chime of the godlike within her and even attempted to remove it when Pallegina threatened to commit suicide if she didn't. He tried the treatment, severing the connection and knocking Pallegina out for two weeks. Although the brothers expected her to die, Pallegina didn't - and through his work lost most of her feathers and started resembling ocean folk much more closely than before. She credits Giacolo with saving her life and lifting her out of intense depression. Bolstered by her newfound confidence, she passed  her final examinations at 20.
+Service
+Although rebellious, Pallegina managed to toe the line between insubordination and initiative for six long years, long enough to establish herself as a trusted operative of the ducs. Although the songretta would prefer she be just another tool in their hands, Pallegina's unique perspective and patriotism led her to believe that there are better ways to protect the Vailian Republics than pure economic domination and naval might.
+When she was instructed to accompany ambassadors and merchants to
+Defiance Bay
+, protecting them while they ensure the ports remain open for the Republics to evacuate their holdings from the city in anticipation of a popular revolt caused by
+Waidwen's Legacy
+, her doubts turned to certainty. She realized that ducal thinking in ordinary ﬁnancial terms was a tunnel-vision, focusing on the traditional resources of maritime trade and ignoring the revolutionary potential of
+animancy
+pioneered in the Dyrwood and the Republics. The ducs' short-sighted policy  would protect many of their investments, but ensure the Republics would be weakened by the loss of  inestimable wealth in animancy research and technology.
+Acting against her orders, Pallegina decided to investigate the underlying causes of revolutionary talk, shadowing ﬁgures at the ducal palace and interrogating information brokers. When she discovered that animancy itself may be a key element of the political upset, she tried placing herself closer to the attendants and courtiers of the erls and (Dyrwoodan) duc. Due to her political allegiances and striking appearance, she quickly failed at this endeavor and received an official rebuke from the Brotherhood. Rather than test their patience, Pallegina decided to lay low, executing her standing orders as a glorified bodyguard, while looking for an opportunity to restart her investigation.
+Unfortunately for her, this meant being stuck in a holding pattern, watching over Mestre
+Verzano
+of the
+Vailian Trading Company
+and playing witness to his inexorable descent into abject failure and quite likely death. Something that cannot come too soon to liberate her from the burden
+Pillars of Eternity
+In encountering
+the Watcher
+, Pallegina recognized a potential ally in her investigation. After
+Verzano
+was out of the picture, freeing her from his net of stupidity, she urged the Watcher to assist her in ﬁnding the parties who are conspiring to outlaw
+animancy
+in the
+Dyrwood
+– and possibly the
+Vailian Republics
+. Unfortunately, her superiors did not agree, and instead ordered her to broker a trade deal between the Vailian Republics and
+Eir Glanfath
+, aiming to take over Dyrwood's trade with the
+Glanfathans
+. She had serious misgivings about her ducs' plans, keenly aware that whatever short-term profit might be gained from taking over trade with Eir Glanfath would be outweighed by the long-term losses resulting from alienating the Dyrwood. The Republics would eventually pay the price for such ruthlessness, as while the Dyrwood may have lost a generation of soldiers due to
+Waidwen's Legacy
+, it would eventually regain its power… With all that entails. But the road to
+Twin Elms
+was long enough to allow her to mull over the choice she has to make.
+Most importantly, her mission to Eir Glanfath is also a test of Pallegina's loyalty. Her independence was a long-standing problem by the ducs. News of her unsanctioned investigation reached the ears of the ducesa of
+Biageppe
+and the duc of
+Selona
+. Pallegina's actions complicated the already volatile situation, raising concerns about her ability to fulfill her duties. Her immediate superior, ambassador
+Vicent Agosti
+, shared their sentiment: Although he had sympathy for her viewpoint, he was utterly loyal to the ducs and feared what might happen if news of their insubordination reached
+Spirento
+.
+5 Year Interlude
+Pallegina's decision on how she delivered the trade agreement and the Watcher's choices affected Pallegina in one of five ways:
+1. If Pallegina followed the ducs' orders, and the Watcher distributed the souls to the Dyrwood at the end of the events of
+Pillars of Eternity
+, she is honored by the ducs:
+Pallegina had followed her orders from the ducs bels, helping to establish an exclusive trade arrangement between the Vailian Republics and the tribes of Eir Glanfath. Strenghened by the Watcher's gift of souls, the furious Dyrwoodans waged war against the Republics for two long years. The Republics gained a great deal of wealth in trade but suffered the loss of many vessels and thousands of lives. Several of the ducal families lost favor with their citizens. Riots in Selona claimed the life of that city's duc, and the other ducs bels were pressured into relinquishing the exclusive trade rights to end the conflict with the Dyrwood. Pallegina was honored for her service at the opening of trade. Thankfully her reputation among the ducs and within the Brotherhood was not tarnished by what followed.
+2. If Pallegina followed the ducs' orders, and the Watcher didn't distribute the souls to the weakened Dyrwood, she is honored and becomes personal guard to the ducess of Spireno:
+Pallegina had followed her orders from the ducs bels, helping to establish an exclusive trade arrangement between the Vailian Republics and the tribes of Eir Glanfath. With the Dyrwoodans still weakened by Waidwen's Legacy, the Vailian Republics easily pushed their would-be competitors out of the market. The Dyrwood suffered as terribly from the lost trade as the Republics benefited from it. Pallegina was honored for her service by being assigned as the personal guard of the ducess Spireno. Despite her success, she regretted the choices she had made along the way.
+3. If Pallegina was disgraced after her quest line wasn't resolved, she is banished from the Republics and becomes a guard:
+Pallegina had gone against the ducs bels' orders by inventing a new trade arrangement with the anamenfath to accommodate the recovering Dyrwoodan market. As a result, the Dyrwood and the Vailian Republics were plunged into a trade war.
+For her outrageous insubordination and audacity, Pallegina was banished from the Republics. The five suns representing the five ducs bels were scraped from the face of her breastplate, an enduring mark of her disgrace.
+After the Watcher parted ways, she returned to the Republics to report to the ducs bels'. Having failed to complete her mission, the ducs were furious that they had lost a golden opportunity to establish exclusive trade with the Glanfathans. She was exiled from the brotherhood, and was put on a ship to
+Readceras
+, forever banned from the Republic and stripped of her pride and purpose.
+Pallegina will not be satisfied with what happened to her, not by a long shot. She spent five years trying to make a living as a guard, drifting from port to port until winding up in the Deadfire.
+4. If Pallegina was disgraced after ignoring the ducs orders, but the Watcher distributed the souls to the Dyrwood, she is later pardoned:
+Pallegina had gone against the ducs bels' orders by inventing a new trade arrangement with the anamenfath to accommodate the recovering Dyrwoodan market. As a result, the Dyrwood and the Vailian Republics were plunged into a trade war.
+For her outrageous insubordination and audacity, Pallegina was banished from the Republics. The five suns representing the five ducs bels were scraped from the face of her breastplate, an enduring mark of her disgrace.
+Pallegina's invention of new trade terms with Eir Glanfath did not go down well with the ducs. When she returned, she explained that allowing the Dyrwood to retain some trading rights with the Eir Glanfath would be beneficial for everyone in the years to come, however the damage had been done. Banished from the order, her breastplate was scoured of the five stars and she was put on a ship to
+Readceras
+, forever banned from the Republics.
+For almost three years, she wandered the ports looking for new work as a guard, until the Ducess of Spirento sent for her and requested her presence in Biageppe. Pallegina's wisdom was recognized after the ducs tabulated the profits from the three way trade that emerged between the Dyrwood, Eir Glanfath, and the Republics, and she was reinstated in the order with full rights accepting an official pardon from the Ducess of Biageppe.
+Pallegina was later assigned to protect the VTC interests in the Deadfire, in recognition of her talents in the Dyrwood.
+5. If Pallegina disobeys her orders, and the Dyrwood isn't strengthened by the souls, she is banished and joins the
+Kind Wayfarers
+.
+Pillars of Eternity II: Deadfire
+The Watcher meets Pallegina after arriving in
+Neketaka
+at
+Kahanga Palace
+if she was not disgraced (or was disgraced and later pardoned), or in
+Queen's Berth
+if she was disgraced.
+If Pallegina was disgraced she has a few choice words if you're not sympathetic to her status. She will launch into an epic rant:
+She blinks once, her golden eyes opening wide, fixated on you. Her nostrils flare and the veins in her neck strain against her skin.
+"Vu maddicche postenago! Buffan vi! Cues es malgro me fulpa med tuor! Peri chue na cracuna ve engeri! Vu tros men merla!" [You damned idiot! Fuck yourself! This is all your fault anyway! I hope a kraken swallows you! You piece of shit!]
+Pallegina continues to issue forth a stream of unintelligible insults. Her hands are flowing through a series of obscene gestures as she backs away from you.
+Vailians around Queen's Berth turn their attention toward the fountain of profanity. Some are amused. A mother shields her smiling son's eyes from the vulgar pantomime. As Pallegina angrily stomps off into the distance, the pace of life returns to normal.
+If she joins your party she will ask you to help her find the animancer
+Giacolo
+, who had severed her godlike chime as a teenager.
+Interactions
+Pillars of Eternity
+This character is a
+party member
+.
+This character
+starts
+quests
+.
+The Child of Five Suns
+This character is
+involved in
+quests
+.
+At All Costs
+This character has
+other interactions
+.
+She has unique dialog with
+Hylea
+in
+Council of Stars
+when finishing
+The Nest Above the Clouds
+.
+Companion
+She can be recruited in
+Ondra's Gift
+after
+At All Costs
+.
+Pallegina is a Republic patriot with an almost single-minded devotion to the Republics and their prosperity. She possesses a wealth of information about them and will frequently provide it when a Vailian institution or person is involved.
+She gets on well with other companions due to her compassion.
+Durance
+is perhaps the sole exception, due to his misogyny, and is frequently at the receiving end of Pallegina's sarcasm.
+Despite being an avian godlike, she can't stand birds.
+Unique talents and gear
+As the only
+avian godlike
+in the game, she receives the following passive racial talent:
+Elusive Quarry
+: +10 Deflection against ranged attacks, +10 Defense when Disengaging while Endurance below 50%, and +3 Perception while Endurance below 50%.
+From her paladin order
+Frermàs mes Canc Suolias
+(which is unique to her) she gets the following class talents:
+Vielo Vidòrio
+: Gives nearby allies an attack speed bonus when Flames of Devotion is used.
+Wrath of Five Suns
+: Shoots out five Burn damage projectiles when Sworn Enemy is used.
+She uses
+Pallegina's Breastplate
+, which is a
+unique item
+.
+Companion quest
+The Child of Five Suns
+is received after recruiting Pallegina, after completing
+At All Costs
+.
+Pallegina is caught between honoring the wishes of the ducs bels and pursuing the leads she believes will be more beneﬁcial to her country in the long run, which involve learning about animancy.
+The quest cannot be resolved until Act 3, when Twin Elms becomes available.
+Endings
+Pallegina's ending depend on two events:
+How you influence her decision during
+The Child of Five Suns
+.
+If you strengthen the Dyrwood inhabitants with the souls
+Thaos
+diverted at
+Sun in Shadow
+. The strengthened nation is more likely to fight back if the trade deal is not in their favor.
+Pillars of Eternity II: Deadfire
+This character is a
+party member
+.
+This character
+starts
+quests
+.
+The Man of Chimes
+This character is
+involved in
+quests
+.
+Family Pride
+A Vote of No Confidence
+Companion
+Pallegina's location, backstory, and reaction to you is dependent on the outcome of
+The Child of Five Suns
+in
+Pillars of Eternity
+.
+If Pallegina followed her orders, or if she was disgraced and later pardoned (she is pardoned if Watcher distributed the souls to the Dyrwood at the end of the first game), she will be found at
+Kahanga Palace
+assisting Count Nichese in the argument with the RDC. She can be recruited immediately afterwards, as Queen Onekaza II sends the Watcher to investigate Hasongo.
+If Pallegina was disgraced for not following her orders and was not pardoned, she will be encountered in
+Queen's Berth
+, near the statue in the center of the area, where she initially denies your offer to join your party. Later, she can be found in the
+Vailian Trading Company Headquarters
+after the argument with the RDC at
+Kahanga Palace
+. With the interests of the Republics in mind, Count Nichese calls on Pallegina to assist you with your investigation.
+Pallegina will leave permanently if the player sides with the
+Huana
+during
+The Coming Storm
+and Pallegina is in the player's active group (the queen asks her to leave) or if the player frames the director on the fire at the
+powderhouse
+(by taking the quest from the director but frame him/her in the hearing at the palace).
+Pallegina also leaves if the player sides with the
+Royal Deadfire Company
+during The Coming Storm.
+Pellagina can also leave if you side with the Príncipi. She will also leave (automatically the next time you sail) if you refuse to side with the VTC after
+A Vote of No Confidence
+.
+Pallegina will also leave your company if you kill either
+Atello Valera
+or
+Ezzali Bardatto
+during
+Family Pride
+with her in your party.
+Class
+The class options available to Pallegina are
+paladin
+(
+Frermàs mes Canc Suolias
+),
+Crusader
+(
+Fighter
++
+Paladin
+), or
+Herald
+(
+Chanter
++
+Paladin
+).
+Frermàs mes Canc Suolias
+is Pallegina's unique paladin subclass, which grants the upgraded Sworn Enemy ability
+Wrath of the Five Suns
+.
+Unique talents and gear
+The breastplate she wears depends on her
+Pillars of Eternity
+ending.
+If Pallegina followed her orders, and you didn't distribute the souls to the Dyrwood:
+Honor Guard Breastplate
+If Pallegina followed her orders, and you distributed the souls to the Dyrwood:
+Five Suns Breastplate
+If Pallegina disobeyed her orders, and you distributed the souls to the Dyrwood:
+Five Suns Breastplate
+If Pallegina disobeyed her orders, and you didn't distribute the souls to the Dyrwood:
+Desgraza Breastplate
+Companion quest
+The Man of Chimes
+is triggered when taking Pallegina near the Spire of Soul Seers in
+The Sacred Stair
+. She will insist on meeting
+Giacolo
+, an old friend from the past.
+She will mention his research, giving you the opportunity to point out that he was likely building on the work of Todh Beylecg (Metaphysics 5 and History 2) and learn of the suffering she experienced as a godlike - and the way Giacolo saved her from suicide.
+You can either save Giacolo or not, either result affects her end-game slides.
+Reputation
+Pallegina likes:
+Antireligious:
+Dislikes and distrusts the gods and organized religions and appreciates criticism of them.
+Pro-Animancy:
+Views animancy as vital for the progress of the world and responds well to those who support its research and practice.
+Dutiful:
+Admires people who take responsibility and don't shirk the tasks presented to them.
+Pro-Vailian Republics:
+Believes in and supports the Vailian Republics and takes a positive view of those who do likewise.
+Pallegina dislikes:
+Pro-Godlike:
+Dislikes reverence for or admiration of godlike.
+Piety:
+Dislikes religious reverence and piety and has negative views towards those who express such characteristics.
+Racism:
+Takes a dim view of racist comments and attitudes.
+Relationships
+Pallegina and
+Maia Rua
+will often be at odds over their differing political affiliations.
+She will have little patience with
+Tekēhu
+, who embraces his godlike heritage.
+She has a poor view of
+Xoti
+, given Xoti's adherence to her god and faith, things which Pallegina considers naive and foolish.
+She cannot be romanced by the Watcher.
+Endings
+Pallegina's ending depend on three events:
+Which faction you ultimately side with. Siding with the
+Vailian Trading Company
+is her preference.
+Which director is leading at the end of
+A Vote of No Confidence
+.
+Saving Giacolo (or not) during
+The Man of Chimes
+.
+Statistics
+Note:
+This section applies to
+Pillars of Eternity
+only!
+Bonuses
+Attributes
++1
+Dexterity
+(Race:
+Godlike
+)
++1
+Intellect
+(Race:
+Godlike
+)
++1
+Intellect
+(Culture:
+The Vailian Republics
+)
+Skills
++2
+Athletics
+(Class:
+Paladin
+)
++1
+Athletics
+(Background:
+Soldier
+)
++1
+Lore
+(Class:
+Paladin
+)
++1
+Lore
+(Background:
+Soldier
+)
+Abilities
+Elusive Quarry
+(Subrace:
+Avian godlike
+)
+Faith And Conviction
+(Class:
+Paladin
+)
+Second Wind
+(
+Athletics
+> 1)
+Initial points
+Pallegina's initial
+skill
+,
+talent
+, and
+ability
+distribution depends on the level of the Watcher when she is first added to the party, but only if the "Auto Level Companions" option is checked in the difficulty settings.
+With auto-levelling enabled, companions will be levelled following a preset point distribution. The player is still free to distribute points into whatever skills, abilities, and talents they desire when a companion levels up, and they may be completely retrained at an
+inn
+. Pallegina always starts at a minimum of level 4 (the stats above are before she joins the party).
+With auto-levelling disabled, companions are not levelled, and the player may choose their own point distribution. Pallegina starts at level 1 with the requisite experience to level her up to the current player level or level 4, whichever is higher.
+Level
+Skills
+Abilities
+Talents
+STEA
+ATHL
+LORE
+MECH
+SURV
+1
+Lay on Hands
+2
+0
+6
+2
+0
+0
+Weapon Focus: Soldier
+3
+0
+6
+3
+0
+0
+Flames of Devotion
+4
+0
+8
+4
+0
+0
+Intense Flames
+5
+0
+9
+4
+0
+0
+Zealous Focus
+6
+0
+9
+5
+0
+0
+Field Triage
+7
+0
+9
+6
+0
+0
+Sworn Enemy
+8
+0
+10
+6
+0
+0
+Savage Attack
+9
+0
+11
+6
+0
+0
+Zealous Endurance
+10
+0
+11
+6
+0
+0
+Superior Deflection
+11
+0
+12
+6
+0
+0
+Hastening Exhortation
+12
+0
+12
+6
+0
+0
+Two-Handed Style
+13
+0
+13
+6
+0
+0
+Sacred Immolation
+14
+0
+14
+6
+0
+0
+Veteran's Recovery
+15
+0
+14
+6
+0
+0
+Abjuration
+16
+1
+15
+6
+0
+1
+Bear's Fortitude
+Behind the scenes
+Pallegina was written by
+Joshua Sawyer
+.
+She is voiced by actress
+Mela Lee
+.
+She is not affected by the Reputations of the player in
+Pillars of Eternity
+.
+Before PoE 1.03, Pallegina had the following attributes: Mig: 12 Con: 13 Dex: 11 Per: 14 Int: 13 Res: 15.
+Gallery
+Pallegina without the armor, showing the feathers covering her entire body.
+Pallegina with her unique armor
+Companion portrait in
+Pillars of Eternity
+Companion portrait in
+Deadfire
+Conversation portrait in
+Deadfire
+References
+
+======================================================================
+PAGE: Pillars of Eternity companion banter
+CATEGORIES: Pillars of Eternity companions
+URL: https://pillarsofeternity.fandom.com/wiki/Pillars_of_Eternity_companion_banter
+======================================================================
+
+All
+Pillars of Eternity
+companions
+(except for
+Grieving Mother
+) have special banter with other characters. This page lists all of these.
+This breakdown bases on Obsidian's official translation files.
+Durance
+has no banter file of his own, but reacts to other companions. A few dialogs are not present in game.
+Aloth
+Hiravias:
+"So Aloth... I've been wondering. Have you and Iselmyr ever tried to... you know..."
+Aloth:
+"No. No. No."
+Hiravias:
+"As in...? No you haven't tried, or you have tried and-"
+Aloth:
+"No."
+Aloth:
+"Whatever happens, at least we're out of that mudhole, Gilded Vale."
+Edér:
+"I grew up in Gilded Vale."
+Aloth:
+"Quaint. That's what I meant to call it."
+Edér:
+"You had it right."
+Durance:
+"Have you ever chased a skirt, wizard, or do you merely hide behind them?"
+Aloth:
+"Don't pawn your personal problems off on me."
+Durance:
+"They will use you. Cast you off when it suits them. Never speak another word to you."
+Aloth:
+"Maybe they just don't answer to 'fiery whore.'"
+Durance:
+"Bring back the feisty one. There's a woman can do some damage squeezing her legs together."
+Aloth:
+"It isn't a parlor trick. Besides, she doesn't take orders well."
+Durance:
+"She has backbone, that woman. Does it scare you?"
+Aloth:
+"No, but I won't be responsible for what happens if you call her 'whore.'"
+Aloth:
+"That was Iselmyr. Not me."
+Hiravias:
+"Oh... so I'm guessing that time you asked for a stelgaer ride..."
+Aloth:
+"Definitely Iselmyr."
+Aloth:
+"Right fetchin fithers, lass."
+Pallegina:
+"Repeat, please, in Aedyran. And stand closer so I can grab your neck if you said what I think you did."
+Aloth:
+"That was Iselmyr! She... likes your feathers."
+Pallegina:
+"Thanks, but I'm not interested, 'Iselmyr.'"
+Aloth:
+"You've been on your own for five years?"
+Sagani:
+"I've had Itumaak."
+Aloth:
+"But you can't talk to him."
+Sagani:
+"My standards changed around year two."
+Kana:
+"I wonder, Aloth, don't you ever feel curious about Iselmyr's history?"
+Aloth:
+"Not even a little."
+Kana:
+"But think of the opportunities! You could learn so much about the past."
+Aloth:
+"There are some things I'm happy not knowing."
+Aloth:
+"You had five siblings?"
+Kana:
+"That's right. Between the six of us, I don't think the house has known a single day's quiet. Of course, a little chaos makes it far easier to get away with mischief."
+Aloth:
+"Yes, I can imagine that comes in handy."
+Aloth:
+"Your own father sold you to the brotherhood?"
+Pallegina:
+"He hated me anyway. I was glad to be gone. The ducs are my parents now, the Republics my children."
+Aloth:
+"That's an interesting way of looking at it."
+Edér
+Edér:
+"Sagani, does your fox bite?"
+Sagani:
+"Yes."
+Edér:
+"Can I pet him anyway?"
+Sagani:
+"It's your hand."
+Edér:
+"I'm gonna pet him."
+Sagani:
+"How's the hand?"
+Edér:
+"Turning purple. Might have to cut it off."
+Sagani:
+"I warned you not to pet him."
+Edér:
+"If I'm not supposed to pet him why is he so soft?"
+Edér:
+"Hey Aloth, can I uh... talk to your, uh, you know, your friend?"
+Aloth:
+"What is it about Iselmyr? I'm right here, you know."
+Edér:
+"No, no. You're both great, it's just, well I feel like I don't get to spend as much time with her and she's just so funny. Some of the things she says—"
+Aloth:
+"Are not nearly as funny when you've been hearing them for fifty years."
+Edér:
+"Next time we get the chance, I'm buying you a pint."
+Aloth:
+"That means a lot, Edér."
+Edér:
+"Oh did you want one too? Sorry I meant for Iselmyr. I'll get you one too."
+Edér:
+"Hey pig! Hey pig! Woo pig! Ha, look at him with his little tail."
+Edér:
+Edér clicks his tongue at the dog. "Who's a good boy? Who needs his belly scratched?"
+Edér:
+"Hey, you think we could get another dog? Keep this one company? Just a thought."
+Edér:
+"Here, kitty! C'mon, I wanna pet you."
+Edér:
+"So those feathers - that's a blessing of Hylea?"
+Pallegina:
+"So they say."
+Edér:
+"That's lucky. Where I'm from, we see a feathered lady, we start worrying maybe her dad got frisky with his hens."
+Pallegina:
+"I guess you can always trust a farm boy's head to go there first."
+Edér:
+"You work for the ducs of the Vailian Republics, huh?"
+Pallegina:
+"Ac. For as long as they will allow."
+Edér:
+"Must be nice always knowing who you're supposed to serve."
+Pallegina:
+"Well, there are five of them, but even so, knowing 'who' is easier than knowing 'how.'"
+Edér:
+"Been a pleasant surprise traveling with you, Hiravias."
+Hiravias:
+"Nice of you to say that. I was on the road alone for years and I'm happy to have company for a change."
+Edér:
+"My part of the country has a saying about orlans, 'Face of skin, let them in. Face of hair, best beware.' But you're more like a skin-faced orlan."
+Hiravias:
+"Are you fucking kidding me? Well MY tribe has a saying, 'Head of brunette, they're all set. Head of blond, says everything wrong.'"
+Edér:
+"Was that bad? I meant it like a compliment."
+Edér:
+"Hey I'm sorry about what I said before. About the, uh, the skin-faced orlans."
+Hiravias:
+"It's all right. I knew what you were trying to say and that's why I didn't gut you."
+Edér:
+"I didn't know I was saying something bad."
+Hiravias:
+"I get it, I get it - let's just put it behind us."
+Edér:
+"Now that we're friends again is it okay if I pet you?"
+Hiravias:
+"What? NO! Damn it, Edér! Is your family tree just one looping square?!"
+Kana Rua
+Kana:
+"Edér , you have said you fought in the Saint's War - but for which side?"
+Edér:
+"The one that blew up my god."
+Kana:
+"I didn't mean anything by it. I imagine a man with a head made of fire and light could be very convincing."
+Edér:
+"Funny thing about Dyrwoodans. With all that fire and light they just treated him like another authority figure."
+Kana:
+"Your brother... Did you and he get along?"
+Edér:
+"We got along how brothers do. He used to throw water on me to wake me up in the morning. I used to fill his boots with stinging ants."
+Kana:
+"My own brothers and sisters are doing very well for themselves, back in Tâkowa. ...I don't know that they'd search for me, if I were killed so far from home."
+Edér:
+"Brothers can be funny. I bet you'd be surprised how far they'd go."
+Kana:
+"...You're right, it's a very personal question. Let's drop the subject."
+Hiravias:
+"So Kana... what do folk in Rauatai do for fun? Aside from each other. Do you just gape at every shiny object that comes along - or is that just what you do when abroad?"
+Kana:
+"Tâkowa may be more traditional, but it has its share of festivals. Drink a little wine, find someone to dance with..."
+Hiravias:
+"Wine and dancing? Guess I had it all wrong. So no shark races and undersea orgies?"
+Kana:
+"No, that's all true."
+Hiravias:
+"Are you staring at my eye patch or my ear stump?"
+Kana:
+"Sorry. I was only thinking. The Eyeless Face seems to hound my steps. They say he unravels mysteries as well as hides them, but I'm starting to doubt it."
+Hiravias:
+"Wael does not unravel, but he helps guide you to the path of learning for yourself. If he gave us answers, the resulting knowledge would be without value."
+Kana:
+"You never get frustrated? With all these riddles and obtuse prophecies? Just once I'd like to get a clear answer."
+Hiravias:
+"And just once I'd like to meet a woman who goes into heat at the first whiff of stelgaer urine, but that's not going to happen either."
+Kana:
+"- and slew the ogre with one blow.' What do you think?"
+Hiravias:
+"Great. Wonderful. What? Sorry, I lost track of things when you go to... the part about... when you mentioned the thing...um..."
+Kana:
+"Would you prefer it if Nirawa were facing a stelgaer? ...While undressed?"
+Hiravias:
+"How about half-dressed? Mail on top, nothing on bottom... tell the story like that next time."
+Kana:
+"You must have seen some amazing sights on your way north."
+Sagani:
+"Sure. Pirate cities floating in the archipelago, the mountain halls of these northern dwarves... Plenty."
+Kana:
+"I haven't been further south than the Dyrwood, myself. Maybe I'll come back, after I've convinced the ranga nui, and see all those things for myself."
+Sagani:
+"I... hope you do."
+Sagani:
+"All right, Kana?"
+Kana:
+"...Have you ever looked up and felt a sudden surprise at where you are? I think it's just sunk in that I'm a year out from home."
+Sagani:
+"Only every day. You'll get used to it."
+Kana:
+"I'll grant you that animancy has had its failures - Baelreach among them - but does that warrant attacks on innocent practitioners? Superstitious kith have spilled their share of blood."
+Aloth:
+"That's no comparison! Animancers have the advantage of education, and with that comes authority. And responsibility."
+Kana:
+"I have to say, it's wonderful to have someone to debate with! You'd think they'd be more welcoming of it at the lore college..."
+Aloth:
+"Or we could enjoy a glass of wine and a comfortable silence."
+Kana:
+"So you really didn't know about the Leaden Key's activities?"
+Aloth:
+"You think I- look, I knew nothing about their attempts on your life, I swear."
+Kana:
+"What? No, no - I'm just wondering how the Leaden Key parcels out information. I did notice that the younger sorts didn't seem to wander off script very often..."
+Aloth:
+"...Oh. You would find that more interesting, wouldn't you?"
+Kana:
+"Come now, it'll be fun."
+Aloth:
+"No."
+Kana:
+"Even just a single-"
+Aloth:
+"I'm not calling Iselmyr out just so you can learn Hylspeak. ...I'll write down a few words."
+Kana:
+"I often dreamed of visiting of the Republics. There, at least, the people value trade."
+Pallegina:
+"Trade of all things, it's true, and competition between the Republics keeps us strong."
+Kana:
+"Rauatai is a unified nation, with fleeter ships... Someday it may prove a worthy competitor."
+Pallegina:
+"There's more to dominating trade than fast ships. Maybe you could write a poem to help your countrymen figure it out."
+Kana:
+"I'm content to remain a burr in your boots. But here - if you but stand on the docks you can single-handedly ensure no one ever sails to the Dyrwood again."
+Pallegina:
+"Something funny, big man?"
+Kana:
+"I'm sorry. It's just - When you started shouting, that poor man looked as if he'd piss himself."
+Pallegina:
+"Nothing seems to trouble you much, does it, Kana?"
+Kana:
+"Oh, I don't know. I never found much use in getting worked up over the little things."
+Pallegina:
+"Maybe to an aumaua, it all just looks like little things."
+Pallegina:
+"Your coloration, Kana... you're an island aumaua, aren't you? What's it like in Deadfire? I've only heard tall tales."
+Kana:
+"I wouldn't really know. I've never been to any of the Deadfire settlements, and my parents told me very little. Mostly pirate stories."
+Kana:
+"From time to time my mother says she misses the quiet of her village, but little else. She has always pushed my sisters to do what she could not as a child."
+Kana:
+"In Tâkowa we have a memorial for the Saint's War. They say a Rauatai artillery master contributed to the Godhammer bomb. I wondered - "
+Durance:
+"Of course. You want Rauatai to be a part of this history. Crow about how your people helped the Dyrwood. Maybe your 'ranga nui' lied, aumaua."
+Kana:
+"On second thought, I'll ask Edér."
+Durance:
+"So you will go to your king and what? Implore him to curb his violent impulses? At the word of a heroic academic?"
+Kana:
+"You don't usually grace me with your flattery, priest. What merits this attention?"
+Durance:
+"All Rauatai's history is war, same as everyone. If only the world were led by soft-hearted giants who waste their muscles stroking their own quills, wouldn't that be grand?"
+Kana:
+"On second thought, I'll ask... anyone else."
+Sagani
+Sagani:
+"Like I always say - blame it on the fox."
+Sagani:
+"Itumaak... What have I told you about chasing pigs?"
+Hiravias:
+"...before I knew it, the stelgaer was on top of me and I was face down in the dirt."
+Sagani:
+"Arrow to the throat. That stops them."
+Hiravias:
+"What? No. I was spiritshifted. And she was in heat. So I aimed for the throat but not with an arrow..."
+Sagani:
+"But if your ducs ordered you to return home..."
+Pallegina:
+"The safety of the Republics is being decided here. If I do what needs to be done, there'll be time enough to beg forgiveness when the dust settles."
+Sagani:
+"You must do what you feel is best. I understand."
+Sagani:
+"Surely you'll go back when this is all over."
+Edér:
+"Dunno. Guess that all depends."
+Sagani:
+"You're from Gilded Vale? Then you're close to home."
+Edér:
+"Ha! Close can mean a lot of things."
+Kana:
+"I have never been to Naasitaq. Is it very cold? What creatures wander the tundra? How are your leaders chosen?"
+Sagani:
+"Do you always ask this many questions?"
+Kana:
+"Well, that's just to get us started! Let me get out some parchment for notes..."
+Sagani:
+"Ask whatever you want. If I don't know, I'll make something up."
+Kana:
+"Ah, the life of a traveler. So many ruins to uncover. Places to see."
+Sagani:
+"Indeed, though after five years, I'll be ready for a break."
+Kana:
+"It is true, you have been at it far longer than I! Where will you go next, when you have all the world to choose from?"
+Sagani:
+"Home, of course."
+Sagani:
+"You don't get tired of this, do you?"
+Kana:
+"What's to tire of? There's always something new just on the horizon!"
+Sagani:
+"That... should worry you every now and then."
+Durance:
+"This elder of yours. He may have returned a drunk, or an invalid."
+Sagani:
+"Maybe. But the search for Persoq is just as important as what I find."
+Durance:
+"Is that right? And what if you return empty-handed?"
+Sagani:
+"I never return empty-handed."
+Sagani:
+"Of all the things I've gotten used to, food was the hardest adjustment."
+Aloth:
+"I quite agree. Dyrwoodans oversalt everything and drown it in sauce."
+Sagani:
+"And they burn out all the flavor. Nothing like a raw deer flank."
+Hiravias:
+"And this gash here is from when I woke up with a wolf pack trying to eat me."
+Sagani:
+"There. Mauled by a bear seven years ago."
+Hiravias:
+"Oh yeah, look here and... here. Once the bull had me properly hooked on its horns, things got worse..."
+Sagani:
+"You fought for the Dyrwood in the Saint's War?"
+Edér:
+"We'd better grab a couple pints before you get me going on that one."
+Sagani:
+"No complaints here."
+Sagani:
+"Son of a moosefucker!"
+Aloth:
+"I beg your pardon?"
+Sagani:
+"Sorry. Kallu's always telling me to watch my language, 'specially around the kids. Guess I haven't had a reminder in a while."
+Aloth:
+"What happened?"
+Sagani:
+"One of them heard me tell a joke about a Glamfellen youth with frostbite somewhere... sensitive. Kids repeat everything."
+Aloth:
+"I meant just now."
+Sagani:
+"Jammed my thumb. Nothing big."
+Sagani:
+"Itumaak! Leave the pig alone."
+Sagani:
+"Don't bother the cat, Itumaak. You'd have better odds against a stelgaer."
+Pallegina
+Pallegina:
+"I don't miss my village. It's all just bad memories and the reek of fish guts to me now."
+Pallegina:
+"Edér, how is it you Eothasians stay so optimistic? The world has not given your kind much reason to hope."
+Edér:
+"You get to a certain point and you realize you got two options. You can go mad with grief and tear out all your hair and check yourself into the sanitarium, or you can wait for better days."
+Pallegina:
+"Well, feathers in my case, but I understand your point."
+Pallegina :
+"Do you still have family living in the Dyrwood, Edér?"
+Edér:
+"No, not these days. Parents left the country years back during the Purges. I think about them a lot."
+Pallegina
+: "It's a shame you and your family suffered even after the Saint's War ended. You Dyrwoodans certainly have a knack for holding on to old grudges."
+Pallegina:
+"Edér, how were you able to fight in the Saint's War? I have heard the locals didn't trust any of their Eothasian countrymen."
+Pallegina:
+"Aloth, never before have I met an Aedyran man so hesitant to speak his mind."
+Aloth:
+"I'm not hesitant. I just... like to consider my words carefully."
+Pallegina:
+"You should really hear yourself talk, aimico."
+Pallegina:
+"You seem... preoccupied with details, Aloth. Almost consumed by them, I'd say."
+Aloth:
+"Once you've seen a colleague misuse Arkemyr's Capricious Hex, you learn an appreciation for details."
+Pallegina:
+"This sounds like wizard talk, so I'll just take your word for it."
+Pallegina :
+"Aloth, you are Aedyran, yes? You speak with the accent of someone from Cythwood."
+Pallegina:
+"Durance, do you take anything seriously, or is the entire world just a setup for your idiotic punchlines?"
+Durance:
+"The world is the punchline, bird woman. In all its weakness. Would you kill the messenger?"
+Pallegina:
+"If he were as annoying as you, I'd consider it."
+Pallegina:
+"You know, Durance, just because you follow the goddess of fire doesn't mean you need to literally consume everything you come across."
+Durance:
+"The fire is a favor I grant to those I meet. It makes them stronger or it ends them mercifully if not."
+Pallegina:
+"The remaining unemptied beer steins of the Dyrwood quake in fear."
+Pallegina:
+"Hiravias, do people treat you badly... because of how you look?"
+Hiravias:
+"Are you kidding me? My face looks like a cautionary tale about the dangers of wild animals and I'm even shorter than other orlans my age. People just like to heckle me."
+Pallegina:
+"Don't ever let them. Be proud of who you are. They're the ones who should feel shame."
+Pallegina:
+"Hiravias, do you really believe all of that nonsense about being 'chosen' by the gods?"
+Hiravias:
+"I think they choose us with all the care and concern of choosing which fruit to pluck from a tree. I think the gods certainly use us, and I'm not yet convinced there's any greatness in being 'chosen' as such."
+Pallegina:
+"Verus. That makes two of us alone in a world of zealots and madmen."
+Pallegina:
+"Sagani, what is it like to not see your children for so long? I... imagine it must be difficult."
+Sagani:
+"Even in Massuk, I'm on the hunt more than at home. But five years... it's been a strain."
+Pallegina:
+"Then to your good fortune! Ado vidòrio! May you see them all again soon."
+Pallegina:
+"Sagani, I had heard that women do the hunting in Naasitaq but wasn't sure if I could believe it until I met you."
+Sagani:
+"And I thought it was our raw meat diet that made us strange."
+Pallegina:
+"Well, that too, honestly."
+Pallegina:
+"I've traveled thousands of miles on Vailian trading ships, but never seen the shores of Naasitaq. How did you find your way on your own, Sagani?"
+Sagani:
+"Well, it has taken five years. But Itumaak never wants to ask for directions."
+Pallegina:
+"Perhaps you should take over as navigator in the future."
+Pallegina:
+"Your necklace is beautiful, Sagani. Is it made of adra?"
+Pallegina:
+"Kana, what do you know about the legends of Old Vailia? I only heard myths in my village and stories at the Brotherhood."
+Kana:
+"Less than I'd like, and that from old books and the occasional trader. Tales of noble families and famed inventors. The Grand Empire, now fallen. But the myths are beautiful, aren't they? Bold heroes, whose descendants dared to cross the Great Eastern long before the Dyrwood was a kernel of a thought."
+Pallegina:
+"Ac! I wish I could have been alive to see the empire at its height. But I suppose this new world is now ours to make, the legends ours to write."
+Pallegina:
+"I have sailed many places with the ducs' fleets, Kana, but never have I seen the famed Coral Harbor of Rauatai."
+Kana:
+"It is worth the journey north, I promise you. Especially now that the Gate of Great Teeth is finished. A labyrinth of towering spires, gleaming red in the sun."
+Pallegina:
+"I doubt my duties will ever take me there, but at least your words have given me something to dream of."
+Pallegina:
+"What will it mean for you, Kana, if you find this... chant? Poem?"
+Pallegina:
+"Oh! Kana, I just remembered an old Vailian song - maybe it was dwarven - from when I was a girl."
+Kana:
+"Really? Let's hear it!"
+Pallegina:
+"Vanimba med se-e, vanimba med se-e! Senete des lusces? Senete des lusces... ? Do you know it?"
+Kana:
+"Aheh...hrm. No, I'm afraid I can't say I ever heard that, ah, particular tune."
+Hiravias
+Hiravias:
+"So Aloth, have you ever woken up to find that your other half used your body during the night?"
+Aloth:
+"I don't think I understand you. And I'm not sure I want to."
+Hiravias:
+"Well I've found that if I go to sleep hungry enough, I wake up covered in blood and delightfully full."
+Hiravias:
+"When you were a kid, did you dream that you'd live a life of arcane practice?"
+Aloth:
+"It was never my decision. But I've come to appreciate that it was made."
+Hiravias:
+"As a kid, I figured I was too stupid and impatient to learn magic. How about you, Aloth?"
+Durance:
+"With a cat's nose, how is it you've failed to notice your rotten stench?"
+Hiravias:
+"Failed to notice? Hardly, I put work into smelling this way."
+Durance:
+"I should have expected."
+Hiravias:
+"I never know what sort of game is downwind. I need to smell like part of nature, not an interloper."
+Hiravias:
+"No no, what's impressive, is cleaving a man's spine WITHOUT lopping the head clean off. THAT takes aim."
+Edér:
+"Did that once. My case, it was an accident and I still wake up some nights feeling bad for him."
+Kana:
+"Does music sound different to you when your ears - or, ah, ear - is another shape?"
+Hiravias:
+"Yes, I find it unpleasant. Most everything seems shrill when I'm a stelgaer."
+Kana:
+"Maybe your keen senses just haven't heard truly fine music yet."
+Hiravias:
+"A masterfully crafted annoyance is still an annoyance."
+Hiravias :
+"So do you have feathers everywhere?"
+Pallegina:
+"Eccosi?"
+Hiravias:
+"You know... does your tiara match your tail feathers?"
+Pallegina:
+"We're about to find out if your viscera match your fur."
+Hiravias:
+"Forget I said anything - I rather value my viscera."
+Sagani:
+"I always assumed Glanfathans preferred traditional weaponry. Yet you seem uneasy with the bow..."
+Hiravias:
+"Oh I was a great shot... when I had two eyes. I'm much worse now, it's hard for me to judge distances."
+Sagani:
+"Well, you have the luxury of being able to catch dinner without the need of a bow."
+Hiravias:
+"Ever tried vulture?"
+Sagani
+"We don't have those in Naasitaq."
+Hiravias:
+"Your loss. They can eat anything, so their stomach juices are sour and tangy - like ripe fruit."
+Sagani:
+"My loss indeed..."
+Hiravias:
+"Well my favorite trick is to pretend I'm just a dead orlan until something gets really close, then I shift."
+Sagani:
+"A clever tactic."
+Hiravias:
+"I'll say. I once killed a moose by giving it a heart attack."
+Sagani:
+"Do you enjoy hunting with your stelgaer form, or do you prefer traditional weapons?"
+Pallegina:
+"Did your father teach you to hunt?"
+Hiravias:
+"No, that task fell to the tribe's huntmaster, though he tried everything in his power not to teach me."
+Pallegina:
+"Were you a difficult student?"
+Hiravias:
+"No, the huntmaster felt that meadow fur was a sign of weakness - I could do nothing right by him on account of my hair color."
+Pallegina:
+"I'm familiar with the sentiment. Ah, from the Vailian Republics to Eir Glanfath, narrowness of mind is truly universal."
+Hiravias:
+"Exactly. Why aren't more women complimenting me on that?"
+Hiravias:
+"Ever tried three-point nettle?"
+Edér:
+"Used to smoke that a few years back - love the flavor but got tired of smelling like it."
+Hiravias:
+"How about dyrcap?"
+Edér:
+"Long as I don't need to be anywhere for a couple days."
+Hiravias:
+"Ever spend an evening with a comely lass while on dyrcap?"
+Edér:
+"Thought that was the point."
+Hiravias:
+"Pardon me madam, I didn't see you there. My whole right side is sort of a blind spot."
+Grieving Mother:
+"No need to trouble yourself."
+Hiravias:
+"Well I was wondering how long you've been... oh forget it. Probably no big deal."
+Kana:
+"If you've the time, Hiravias, I thought perhaps you could tell me a little about the Glanfathan perspective on the Engwithans."
+Hiravias:
+"You mean the Builders? I don't really want to get into it..."
+Kana:
+"I promise not to comment! I'm a student of culture, it's hardly my place to judge."
+Hiravias:
+"Not that. If I start talking about the Builders, it'll remind me that I ought to kill all of you for violating the sanctity of their lands."
+Devil of Caroc
+Devil of Caroc:
+"It ever occur to you that maybe those ducs sent you here to screw things up?"
+Pallegina:
+"It takes a paranoid mind to dream up a scenario where that makes any sense."
+Devil of Caroc:
+"Hate to piss on your daisies, but them ducs'll sell you out when it suits 'em."
+Pallegina:
+"My life is theirs. I don't question how it will end, so long as it ends in service to the Republics."
+Devil of Caroc:
+"First, your neighbors hound you 'cause you say the wrong prayers at suppertime."
+Edér:
+"If it wasn't that, it'd be something else. Just their way of letting you know they care."
+Devil of Caroc:
+"Then, some cross-eyed lord gets to stringing up your neighbors."
+Edér:
+"Couple of 'em were ones that had been hounding me, so that worked out at least."
+Devil of Caroc:
+"What did you say?"
+Aloth:
+"N-nothing..."
+Devil of Caroc:
+"That's what I like about you."
+Aloth:
+"Beg your pardon?"
+Devil of Caroc:
+"You don't talk much."
+Devil of Caroc:
+"I know you said something this time..."
+Aloth:
+"Aye, I asked what happens if I pull that skully plate on your head."
+Devil of Caroc:
+"I'm guessin' this ain't the first time that mouth of yours has earned you a pair of black eyes."
+Aloth:
+"Fye, that old smith must've left your sense o' humor in your old body."
+Devil of Caroc: "Oh, I'm laughing. Just real quiet-like."
+Devil of Caroc:
+"Enough with the fancy words. You're just trying to make the rest of us feel bad."
+Aloth:
+"A strong vocabulary is any man's treasure."
+Devil of Caroc:
+"My ma said a clever fellow could explain himself in the simplest words."
+Aloth:
+"Well, she was... ahem, a smart lady, your mother."
+Devil of Caroc:
+"Thought you Glanfathans was all fanatical and shit."
+Hiravias:
+"I am fanatical. I'm just suppressing it so I don't have to kill all my friends."
+Devil of Caroc:
+"So it don't chafe you none that our mutual friend here's been prancing through your sacred ruins?"
+Hiravias:
+"No it does, it really does. I'm gonna kill him any time now."
+Devil of Caroc:
+"Old man, I'd give you a taste of that fire you're pining for if we wasn't in such pleasant company."
+Durance:
+"The fires where I come from reduce metal to shapeless liquid. It's where your kind belongs, along with all the other abominations of animancy."
+Devil of Caroc:
+"Way you're always clutching at that staff makes me think Magran burned off the other one. That what happened?"
+Durance:
+"We are not all so afraid of the fire. Some of us see the beauty of its work."
+Devil of Caroc:
+"Heard tell you fought in the Saint's War. Which side was that?"
+Edér:
+"Didn't much matter in the end. Both sides lost."
+Devil of Caroc:
+"Just as well. Got no love for either."
+Edér:
+"I suppose I don't, either, these days."
+Devil of Caroc:
+"So. Your squad ever come through Cold Morn?"
+Edér:
+"Huh uh. Never made it up that way."
+Devil of Caroc:
+"Then we're still good."
+Devil of Caroc:
+"I see them wheels turning. Give the word and I'll get behind him."
+Edér:
+"Uh... what are we talking about?"
+Devil of Caroc:
+"Killing that pox-jowled priest, 'course. Ain't that what you was thinking?"
+Edér:
+"What? No! That's too far, even for me."
+Edér:
+"Gotta wait till it gets darker or he's just gonna see it coming."
+Devil of Caroc:
+"Hey. Uh, how's that song go again? The one you was singing a minute ago."
+Kana:
+"North and Home Again? Just getting into the mountain spirit. I'll keep it to a hum, if you like."
+Devil of Caroc:
+"No, it was nice. Fact, you could sing it some more. If you want."
+Devil of Caroc:
+"Ain't heard a voice like yours in quite a spell, Kana. What got you into chanting?"
+Kana:
+"You know, I'm not certain. It's good as breathing, now. Perhaps my mother sang one too many hymns over her belly."
+Devil of Caroc:
+"Mine taught me how to gut a rabbit and skin it in one piece. Guess that explains a few things."
+Kana:
+"Do you recall any songs from your life before? In Cold Morn, I mean?"
+Devil of Caroc:
+"Was a few I used to know - fireside ditties, mostly, and a few ballads."
+Kana:
+"Come on, then, let's hear one!"
+Devil of Caroc:
+"You'd get a prettier sound out of a rusty hinge. Used to sing back when I had the voice for it."
+Zahua:
+"What was it like, to have your soul thrust into a cold metal vessel?"
+Devil of Caroc:
+"Bend over and I'll show you."
+Zahua:
+"You mistake Zahua. I admire your pain. It is unique... a beautiful gift."
+Devil of Caroc:
+"After you learn this big secret, that's when you go back and kill the Quechmalts, right?"
+Zahua:
+"I seek only to liberate my people from the Quechmatl."
+Devil of Caroc:
+"Playing the long game. So they don't expect you. You're smarter than you look, Zahua."
+Zahua:
+"A few more years and the slavers will have died of old age."
+Devil of Caroc:
+"Says the man who's too far gone to feel any."
+Devil of Caroc:
+"You're full of shit, Zahua."
+Zahua :
+"You mean the malcachoa?"
+Devil of Caroc:
+"They killed your men and raped your women and that don't boil your blood?"
+Zahua :
+"Hatred is a trap. Those it catches will never be free of their suffering."
+Devil of Caroc:
+"That why you hightailed it out of Ixamitl?"
+Zahua :
+"I could leave because I was not caught. I hope you will be able to say the same one day."
+Devil of Caroc:
+"Quechmalt."
+Zahua:
+"Quechmatl."
+Devil of Caroc:
+"Quechmate."
+Zahua:
+"Quechmatl."
+Devil of Caroc:
+"Now you're just saying it different to confuse me."
+Sagani:
+"Hey. For what it's worth, I'm sorry we didn't get him."
+Devil of Caroc:
+"One book ain't gonna fix your country, Kana. Steel solves quarrels faster'n paper any day."
+Kana:
+"There is power in shared history. The Watcher is proof of that much."
+Devil of Caroc:
+"There's power in shared ass-kicking, too. Round up your brothers and sisters and show 'em how it's done."
+Devil of Caroc:
+"You're making that face again. The one you make when you been thinking too much."
+Kana:
+"I'm only curious. I wasn't expecting Harmke to walk away from that."
+Devil of Caroc:
+"Now you're giving me second thoughts."
+Kana:
+"I'd best keep quiet, then."
+Devil of Caroc:
+"Ain't seen many aumaua, but that don't look like your usual shade. Feeling queasy over Harmke?"
+Kana:
+"He wasn't my monster. ...Did it help?"
+Devil of Caroc:
+"No. But it needed doing."
+Devil of Caroc:
+"Thought about snuffing him anyway since we'd gone through all that trouble."
+Sagani:
+"It wouldn't be the same. I know."
+Sagani:
+"I've never been good with snares. Give me a bow any day."
+Devil of Caroc:
+"The thing about snares is you can walk away and let 'em work. Nice, easy."
+Sagani:
+"That's the problem. I can never leave them alone."
+Zahua
+Edér:
+"Zahua, you mind if I borrow some of that malcachoa?"
+Zahua:
+"You are searching for insight?"
+Edér:
+"Nah, I was just gonna feed it to Durance while he was sleeping and pretend to be the ghost of Eothas."
+Zahua:
+"I also have a pepper that will make him think he is being slowly devoured by a great serpent if you are interested."
+Zahua:
+"It sounds as though you have suffered greatly, Aloth."
+Aloth:
+"Thank you, yes. It's rare I get much understanding."
+Zahua:
+"Tell me of your lowest moment."
+Aloth:
+"Well, when I was a child, I- Wait, are you enjoying this?"
+Zahua:
+"Spare no details."
+Aloth:
+"I don't see how suffering can be beautiful to you, Zahua."
+Zahua:
+"Suffering and flourishing are the same thing, expressed in opposite ways."
+Aloth:
+"So are love and hate, but you would never confuse them."
+Zahua:
+"You have never courted a Tacan woman, I see."
+Kana:
+"Zahua, how is it the Nalpazca are so untroubled by ridicule, or self-doubt? Can such techniques be taught?"
+Zahua:
+"You do not have what it takes to learn."
+Kana:
+"That's ridic- I've always been an attentive student. I have three degrees!"
+Zahua:
+"And your nose is too big for your face."
+Kana:
+"It may be a little ungainly but it's- Oh. Oh, I see now."
+Kana:
+"I still can't believe the tablet is truly gone. Years of study, only to find a little pile of stones."
+Zahua:
+"There is no greater suffering of the soul than failure."
+Kana:
+"Well, now, that's not quite... I mean, we did learn more about the Engwithans than just about anyone else alive."
+Zahua:
+"Shh. Do not ruin this for me."
+Zahua:
+"Your life's work was for nothing."
+Kana:
+"Every piece of evidence pointed to that tablet. And now it is out of reach, forever."
+Aloth:
+"Fye, 'twas his own hand drew those scars! I could clip him."
+Zahua:
+"My scars make you uneasy."
+Aloth:
+"That was Iselmyr. She... doesn't speak for me."
+Zahua:
+"Are you sure? A good clipping would be welcome."
+Aloth:
+"Your master died? Before you'd finished your training?"
+Zahua:
+"He had finished training me. But he left much untaught."
+Aloth:
+"And you were alone and adrift? Now that sounds like true suffering."
+Zahua:
+"If it is, I prefer the other kinds."
+Sagani:
+"You've been searching for decades. And I thought I'd been on the road a long time."
+Zahua:
+"We are always on the road. Trying to find our way back home."
+Sagani:
+"Not forever, I hope. I'm looking forward to the home fire and a pot of fermented milk."
+Zahua:
+"Ah, the Tacan make excellent fermented milk. The blindness wears off in only a few days."
+Sagani:
+"Don't you ever miss it? The sound of your own tongue? The smell of something familiar on the cookfire?"
+Zahua:
+"Their absence is part of my suffering. I keep it close to my heart and it gives me strength."
+Sagani:
+"If only absence could fill my belly as well as a good caribou shank."
+Zahua:
+"Does anyone have any extra rations? I did some whiteleaf and now I am very hungry."
+Zahua:
+"Ugh. I knew that malcachoa was bad."
+Zahua:
+"Does everyone else see that kraken?"
+Zahua:
+"Does everyone else see that stelgaer in the undersized breeches?"
+Zahua:
+"When did Durance get bird legs?"
+Zahua:
+"That was WAY too much blacsonn."
+Zahua:
+"Whoa. My hands do NOT look like that. Whoa."
+Maneha
+Kana:
+"All that time fighting upon the sea... You must have some great stories."
+Maneha:
+"The rotgut and cannon blasts knocked most of them out of my head. Those were good days."
+Kana:
+"You ought to meet my sister. Where in Rauatai are you from, anyway?"
+Maneha:
+"Little coastal town. Definitely no cannons or rotgut there."
+Maneha:
+"Anyone ever tell you that you have the best accent?"
+Pallegina:
+"Wha- ? No. I mean, some have. Men. Foolish praise, in any case. It's just an ordinary Vailian accent."
+Maneha:
+"Come on, say it one more time. Please."
+Pallegina:
+"Uhh... sciòderie. Tonderie? Ugh. Be cente com ane niscàmonet."
+Maneha:
+"Pallegina, I’ve kneecapped people who were nicer to me than these 'brothers' of yours."
+Pallegina:
+"There's no point to staying mad at them. Besides, I serve the ducs. They appreciate me, even if the brothers don't."
+Maneha:
+"Any merc company would execute half its foot soldiers to have you."
+Pallegina:
+"Well, if the ducs ever tire of my service, at least I know I have options."
+Maneha:
+"Scenic marches and campfire feasts. Like the good old days on the Vailian front. You got any memories like that, Edér?"
+Edér:
+"Well, let's see. Sometimes we'd march two, three days without sleep. Start seeing things that weren't there."
+Maneha:
+"Nice thing about mercenary work is you can always quit."
+Maneha:
+"Edér, you were a military man. Ever consider making a career of it?"
+Edér:
+"I did for a while. Then I heard you could make money shoveling pig shit and thought that sounded better."
+Maneha:
+"At least it would get you out of the Dyrwood."
+Kana:
+"So, Maneha... I just... You handle yourself very well on the field. "
+Maneha:
+"Why, tha- wait, are you flirting with me?"
+Kana:
+"I know I'm a little young but, heh, I've always been a quick study- "
+Maneha:
+"And I've always preferred women."
+Maneha:
+"...come to find there's no ambush! The troops were arguing over the bounty."
+Sagani:
+"Sounds like my kids."
+Maneha:
+"You haven't seen them in, what, five years? You must be eager to get home."
+Sagani:
+"Yeah, although five years doesn't sound that long compared to thirty."
+Maneha:
+"Has it been that long?"
+Maneha:
+"And then you hit your own father?"
+Aloth:
+"Not I! That was Iselmyr."
+Maneha:
+"Yeah, but you're the same person."
+Aloth:
+"Fye and coxfithers to that!"
+Maneha:
+"I see your point."
+Maneha:
+"When do you think you'll venture out again?"
+Sagani:
+"I'll stay home for a season after my return, but then I'll rejoin the hunts."
+Maneha:
+"And then you'll embark on another journey? Like this one?"
+Sagani:
+"Not in this lifetime."
+Maneha:
+"Wow. So it doesn't even bother you that most of your people died?"
+Zahua:
+"The Nalpazca learn to embrace death."
+Maneha:
+"And the remaining few were enslaved?"
+Zahua:
+"As long as the spirit is free, bonds of the flesh do us no harm."
+Maneha:
+"You've got to tell me how you do it."
+Kana:
+"Did you see that dwarven woman? Hips like a church bell."
+Maneha:
+"Now you want me to be 'that' friend? I can't help you with women, Kana."
+Kana:
+"As you like. She was making eyes at you the whole time, so I thought... "
+Maneha:
+"Maybe just point her out. Next time you see her."
+Maneha:
+"You all sure have a lot of traditions."
+Sagani:
+"In Massuk, it's our connection to our past that keeps us going."
+Maneha:
+"I'll say. It's kept you going for five years."
+Sagani:
+"And yours has kept you running for thirty."
+Maneha:
+"I'm going to look at this thing over here."
+Maneha:
+"You’ve come a long way to find someone who’s been dead so long. You think Persoq’ll remember you?"
+Sagani:
+"The important thing is sharing what the village remembers. Who he was, what he did."
+Maneha:
+"Ever think he’s happier not knowing?"
+Sagani:
+"That's not for him or me to decide."
+Kana:
+"They finished the Gate of Great Teeth, you know."
+Maneha:
+"Never seen it. That was after my time."
+Kana:
+"Really? Maybe you ought to visit. A lot's changed since then."
+Maneha:
+"Yeah, and not just in Rauatai."
+Aloth:
+"Aldleaf brandy? Isn't that a tad expensive for a mercenary's wages?"
+Maneha:
+"It is if you pay in silver. I paid in steel."
+Aloth:
+"That's the most senseless act of-"
+Maneha:
+"I traded a very nice dagger for it. What kind of bloodthirsty lunatic do you think I am?"
+Aloth:
+"One with exquisite taste."
+Maneha:
+"So, if our Watcher hadn’t come along, you would’ve let those drunks carve you a new nose?"
+Aloth:
+"I was softening them up!"
+Maneha:
+"When trouble boils over, it’s boots or blade, Aloth."
+Aloth:
+"I was sure you’d consider booze an acceptable option."
+Maneha:
+"Ondra's Tides, Durance, you crack me up."
+Durance:
+"Hm? There's no joke to be had, aumaua. Only the observations of a humble missionary."
+Maneha:
+"Oh, tell me the one about Magran again. I love that joke."
+Durance:
+"Simply because I have business with that whore does not mean I care to discuss-"
+Durance:
+"I would not expect some sea-wench-worshipping sea wench to understand..."
+Maneha:
+"You still upset about building a god-killing bomb?"
+Durance:
+"On that fickle whore's orders!"
+Maneha:
+"How do you make your face get so red?"
+Durance
+: "You go digging through fire, you're gonna get burned."
+Maneha:
+"Caroc, you remind me of an old lover of mine."
+Devil of Caroc:
+"Is it my violent urges or my heart of brass?"
+Maneha:
+"It's your hands. Esma's were lovely, but always so cold. Killed the mood, if you know what I mean."
+Maneha:
+"Ever think you'd be happier if you put the destruction of your village behind you?"
+Devil of Caroc:
+"Gotta hold onto what I can. Memory's the one thing Galvino didn't take from me."
+Maneha:
+"Maybe that's what's driving you crazy."
+Devil of Caroc:
+"Hey, this kind of crazy takes work."
+Maneha:
+"Your tribe cast you out? The autumn stelgaer sounds like a real boon. "
+Hiravias:
+"It is! Beautiful fall colors in its coat. The hairballs alone are breathtaking."
+Maneha:
+"They were probably jealous."
+Maneha:
+"I've met a few of your kind, but you're nothing like I expected."
+Hiravias:
+"Really? And what exactly were you expecting? Savage, animal-like behaviors? Maybe that I would just talk in growling noises? "
+Maneha:
+"I was talking about you being a follower of Galawain."
+or
+"I was talking about you being a follower of Wael."
+Hiravias:
+"Can I just finish my rant, please? It's hard to stop midway through."
+Maneha:
+"Can't understand why everyone else is bundled up. It gets hot as soon as the sun rises."
+Zahua:
+"We could burn their clothes in the night to open their minds. They would thank us in time."
+
+======================================================================
+PAGE: Pillars of Eternity companions
+CATEGORIES: Pillars of Eternity companions
+URL: https://pillarsofeternity.fandom.com/wiki/Pillars_of_Eternity_companions
+======================================================================
+
+Main article:
+Party
+In
+Pillars of Eternity
+there are eleven
+companions
+you can recruit for your party. Eight appear in the main story campaign, two appear in
+The White March - Part I
+, and one appears in
+The White March - Part II
+.
+Name
+Class
+Race
+Culture
+Background
+Location
+Aloth
+Wizard
+Wood elf
+Aedyr
+Aristocrat
+Gilded Vale
+– In front of
+the Black Hound
+Inn.
+Edér
+Fighter
+Meadow human
+The Dyrwood
+Farmer
+Gilded Vale
+– At the gate to the Hanging Tree.
+Kana Rua
+Chanter
+Island aumaua
+Rauatai
+Scholar
+Caed Nua
+– In front of the entrance, at the
+Western Barbican
+.
+Durance
+Priest
+of
+Magran
+Meadow human
+The Dyrwood
+Clergyman
+Magran's Fork
+–
+Shrine of Magran
+, next to the statue at the crossroads.
+Sagani
+Ranger
+with a
+fox
+companion
+Boreal dwarf
+Naasitaq
+Hunter
+Woodend Plains
+– Crossroads in the south.
+Grieving Mother
+Cipher
+Meadow human
+The Dyrwood
+Midwife
+Dyrford Village
+– Southeast, below
+Hendyna
+'s Apothecary.
+Hiravias
+Druid
+Hearth orlan
+Eir Glanfath
+Drifter
+Stormwall Gorge
+– Standing on an outcropping east of the ruins, overlooking the flooded portion of the gorge.
+Pallegina
+Paladin
+Avian godlike
+Vailian Republics
+Soldier
+Ondra's Gift
+,
+Defiance Bay
+- In front of the
+Vailian Trading Company
+.
+Devil of Caroc
+Rogue
+Construct
+The Dyrwood
+Trapper
+[WM1]
+Galvino's Workshop
+– In the basement of
+Galvino's Cabin
+,
+Durgan's Battery
+. Becomes available after completing
+The Recluse of the White March
+.
+Zahua
+Monk
+Savannah human
+Ixamitl
+Philosopher
+[WM1]
+Stalwart Village
+– Found hiding in a barrel of fish near the fishmonger's post.
+Maneha
+Barbarian
+Coastal aumaua
+Rauatai
+Raider
+[WM2]
+Stalwart Village
+– Standing west of the
+Temple of Ondra
+(later
+Temple of Abydon
+) upon returning to town after the initial ogre attack on the village.
+Temporary companions
+Some characters don't join your party permanently, but are available during a few quests.
+Calisca
+– A female
+fighter
+, who joins you automatically at the beginning of the game.
+Heodan
+– A male
+rogue
+, who might join you during the final scene of the beginning of the game.
+Gallery
+Portrait of
+Calisca
+Portrait of
+Heodan
+
+======================================================================
+PAGE: Rekke
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Rekke
+======================================================================
+
+Rekke
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Race
+Storm
+human
+Gender
+Male
+Culture
+Yezuha
+Background
+Missionary
+Personality
+Average
+Statistics
+Classes
+Fighter
+Brawler
+(
+Fighter
++
+Monk
+)
+Brute
+(
+Barbarian
++
+Fighter
+)
+Level
+4
+Attributes
+Mig
+11
+Con
+10
+Dex
+15
+Per
+14
+Int
+14
+Res
+11
+Gameplay
+Location
+Flotsam at the eastern edge of the world map (
+15° 02′ S, 69° 05′ E
+)
+Companion
+Permanent
+Equipment
+Body
+Fine Padded Armor
+Technical
+Internal Name
+Companion_Rekke
+GUID
+b1a7e809-0000-0000-0000-000000000000
+“
+Lap kun imak'ihe?
+”
+Rekke
+(pronounced "reh-kah") is a male
+human
+fighter
+, and a recruitable
+sidekick
+in
+Pillars of Eternity II: Deadfire
+.
+Background
+You find a young man waiting for you on deck. He wears heavy clothing of a kind you've never seen, the colors of his tabard bold and bright.
+Rekke is a mysterious young man from Lipasalis in
+Yezuha
+, a nation that's unknown to many people of the Eastern Reach due to the storms that separate the east and west. Rekke is evasive on the subject of just why he wanted to brave the storms (it may or may not include buildings being set on fire), but the end result was that Rekke and a few other missionaries were determined to travel through the storm to see what was on the other side and bring their God to the people there, but the storms ultimately destroyed his ship and killed the rest of his crew.
+After surviving the shipwreck that nearly took his life, he meets the Watcher.
+Rekke can't speak Aedyran, so communication with the Watcher is difficult, but he joins the Watcher as gratitude for saving his own life and to learn about the Deadfire. He proves to be quite the talkative - and mysterious companion who gets along with the rest of the crew quite well.
+Interactions
+This character is a
+party member
+.
+This character is
+involved in
+quests
+.
+The Drowned Kingdom (quest)
+This character has
+other interactions
+.
+When you first meet him, you can talk to him in a variety of tongues, to no use. The options are Engwithan, Eld Aedyran, Vailian, Ixamitl, Ordhjóma (White That Wends), Deadfire, Rauatai, and Lembur (dwarf).
+Companion
+Rekke is found at a flotsam, which is located on the far eastern edge of the world map, at the coordinates
+15° 02′ S, 69° 05′ E
+. You can either leave him at sea or bring him on your ship to recruit him to your party. He can be a
+fighter
+, a
+brawler
+(fighter+monk), or a
+brute
+(fighter+barbarian).
+Rekke starts as a standard sidekick with very little dialogue but after 30 in-game days, he starts to learn
+Aedyran
+. You will then be able to talk to him like a standard companion, and you can ask him about his opinion on the other companions and sidekicks.
+After he learns Aedyran, you can show him the
+Strange Tablet
+, which he will translate from Seki:
+Prince of the Heavens shall be fed only young grasses grown on the hills of Lipasalis. He shall be curried morning and night with a brush made of the bristles of boars fed on golden root...
+He shall be given to only the handsomest of mares of the most feisty temperament, for he grows bored unless challenged. And when he is sad, he shall have in his ear whispered only the sweetest praise.
+Behind the scenes
+Rekke was written by
+Kate Dollarhyde
+.
+He is voiced by
+Sam Riegel
+.
+The
+Storm folk
+race is unique to him.
+His language is called
+Seki
+.
+His portrait is based on
+Toshiro Mifune
+.
+
+======================================================================
+PAGE: Romance
+CATEGORIES: Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Romance
+======================================================================
+
+Romance
+is traditionally a minor feature of Obsidian Entertainment's games (if at all).
+Pillars of Eternity II: Deadfire
+features several characters with whom the Watcher can form romantic attachments:
+Aloth Corfiser
+Maia Rua
+Tekēhu
+Xoti
+Serafen
+(limited to a one-off casual encounter)
+
+======================================================================
+PAGE: Ryona
+CATEGORIES: Beast of Winter characters, Pillars of Eternity II: Deadfire companions, The White March - Part II characters
+URL: https://pillarsofeternity.fandom.com/wiki/Ryona
+======================================================================
+
+Cut content
+This article or section refers to content that has been cut from the final release of the game.
+It may include partially developed content, content existing within game files but not fully present or usable in game, and/or early and unreleased concepts.
+Ryona
+Biography and appearance
+Game
+The White March - Part II
+Beast of Winter
+Gender
+Female
+Culture
+Vailian Republics
+Statistics
+Class
+Fighter
+Gameplay
+Companion
+Permanent
+Technical
+Character ID
+CompanionRyona
+Guid
+b1a7e917-0000-0000-0000-000000000000
+“
+"Finally, a beacon to light this wilderness! I would have words with you." The spirit takes a bold step forward and crosses her arms, studying you with her chin tiled
+[
+sic
+]
+up.
+”
+Ryona
+is a cut mentioned-only character in
+The White March - Part II
+and
+Beast of Winter
+.
+Background
+Ryona was a legendary adventurer who hailed from
+the Vailian Republics
+and traveled
+Eora
+in search of wealth and fame. She found her calling running with expedition companies in
+the Dyrwood
+.
+Ryona ended her career early after giving up her expedition group to a dragon in the
+White March
+in exchange for her own life. Long after, she vowed revenge on the dragon, venturing to the march once more - never to be seen again.
+She was slated to make an appearance in
+Beast of Winter
+as a recruitable spirit-
+sidekick
+, however this was
+cut
+and she was replaced with
+Vatnir
+.
+When Ryona was young, she trained at a martial academy in
+Ozia
+, where she struggled at first. Many of her fellow students came from wealthy, local families, but she was poor and foreign. But she was clever, and she practiced much. One day, her chief rival—the nephew of one of the
+ducs bels
+—challenged her to a duel. Ryona could not refuse and save face, so she accepted. When they had assembled in the arena, he offered to give her one piece of his armor before the fight began. He meant it as an insult to her skill, but when Ryona asked for his belt, he realized his mistake. He gave her his belt, with his sheathed rapier still attached to it, effectively disarming himself. Ryona won the duel by default and kept
+the belt
+as a memento.
+After Ryona established her reputation as a fighter, she began joining adventuring expeditions. For years, she was one of the most sought-after warriors in the
+Eastern Reach
+. That changed after an expedition to
+the White March
+. She traveled with a team of historians and treasure-hunters intent on breaching
+Durgan's Battery
+. Yet their guide fell ill, and they became hopelessly lost in a blizzard. The snows continued for days, and their provisions dwindled. While the rest of the party camped in the lee of a cliff, Ryona was sent to scout a way ahead. She wandered into the storm, barely able to see the hand in front of her face. After hours of trudging through the snow, Ryona stumbled into a cave. Yet instead of shelter, she found a young
+alpine dragon
+. The beast was too lean, and its eyes burned with hunger when it looked at Ryona. Yet she promised it a larger meal if only it would spare her. She led it to the hollow where the rest of her companions waited, and as the dragon turned on them, she fled.
+After escaping the alpine dragon, Ryona was overwhelmed with guilt. She resolved that she would not rest until she'd made amends for each of the lives she had traded away, and she began to travel the Eastern Reach in search of ways to help the surviving relations of her lost adventuring company.
+In
+Defiance Bay
+she found the widower of one of the lost expeditioners. His wife had been part of the expedition in hopes of finding treasure within Durgan's Battery that might pay off a debt that he owed to
+House Doemenel
+. By the time Ryona arrived, House Doemenel had already put out a contract on his life. She acted as his personal bodyguard and helped him to survive a series of attacks by putting herself in the line of fire. Improbably, Ryona and the widower both lived through the ordeal.
+In
+Midwood
+she came to the aid of the family of an aristocratic expeditioner who had failed to satisfy the house of his daughter's husband-to-be with the dowry he'd provided. The angry in-laws swore to destroy the family for the insult, and enlisted a band of
+Bleak Walkers
+to perform the deed.
+Ryona rallied together army of the expeditioner's vassals, exhorting them with a powerful speech about the kind of man he'd been, and together they slew the Bleak Walkers to the last man.
+Always, though, the form of the dragon loomed large in Ryona's mind and haunted her dreams. She succeeded in every effort to help those who were close to the expeditioners she'd sacrificed, and yet peace eluded her. Only then did she come to understand that she would have to face the dragon and see it dead, or die in the attempt.
+She gathered her belongings and embarked on one final journey to the White March, and was never seen again.
+Interactions
+This character is a
+party member
+.
+Pillars of Eternity
+Three items that once belonged to Ryona can be obtained in
+The White March - Part I
+and
+The White March - Part II
+-
+Ryona's Vambraces
+,
+Ryona's Buckle
+, and
+Ryona's Breastplate
+. The breastplate can be found on a female corpse in
+Whitestone Hollow
+. Whether this is the corpse of Ryona herself, or just a mercenary who pilfered/found her breastplate is unknown.
+Pillars of Eternity II: Deadfire
+Cut companion
+The
+Chief Librarian
+of
+The Forgotten Sanctum
+mentions that she believes they are in possession of one of Ryona's boots.
+Behind the scenes
+Ryona's existence is known about due to the file "sidekick_lax_spirit_sidekick.stringtable" in the directory
+PillarsOfEternityII_Data/lax2_exported/localized/en/text/conversations/companions/
+, which was included in the game files for
+Beast of Winter
+. In the end, she was replaced by
+Vatnir
+.
+These files no longer exist, but they are still available in the Steam repository
+here
+(manifest ID: 8228781310700354668), and GOG repository
+here
+. You can download the package with the command
+download_depot 560130 812204 8228781310700354668
+in the Steam console.
+In the game files, Ryona expresses a desire to find her lost sword.
+The Watcher
+can help Ryona recover her lost memories and encourage her to travel with him/her in order to find redemption, or encourage her to return to
+the Wheel
+.
+
+======================================================================
+PAGE: Vatnir
+CATEGORIES: Beast of Winter characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Vatnir
+======================================================================
+
+Vatnir
+Biography and appearance
+Game
+Beast of Winter
+Race
+Endings godlike
+Gender
+Male
+Culture
+White that Wends
+Background
+Drifter
+Deity
+Rymrgand
+Statistics
+Class
+Priest
+of
+Rymrgand
+Zealot
+(
+Priest
+of
+Rymrgand
++
+Rogue
+)
+Celebrant
+(
+Chanter
++
+Priest
+of
+Rymrgand
+)
+Level
+14
+Attributes
+Mig
+13
+Con
+8
+Dex
+12
+Per
+14
+Int
+16
+Res
+12
+Gameplay
+Location
+Harbinger's Watch
+,
+Harbingers' Retreat
+Quests
+An Honored Guest
+Companion
+Permanent
+Equipment
+Body
+High Harbinger's Robes
+Weapon
+Set 1
+Superb Battle Axe (Deadfire)
+Superb Wand (Deadfire)
+Weapon
+2
+Superb Rod (Deadfire)
+Technical
+Character ID
+LAX02_Companion_Vatnir
+Guid
+b1a7e916-0000-0000-0000-000000000000
+, ,
+Vatnir
+is a male Endings
+Godlike
+priest
+, and a recruitable
+sidekick
+in
+Pillars of Eternity II: Deadfire
+. He is the one who invites you to Harbinger’s Watch - an iceberg in southern corner of Deadfire. He is also the leader of the Harbingers - a cult of
+Rymrgand
+.
+Background
+The man speaking before the room wears the same tattered robes as his gathered congregants, but his head is wrapped in soiled strips of linen.
+Vatnir is the leader of the cult of
+Rymrgand
+at the
+Harbingers' Watch
+. Although ostensibly a zealot and a devotee of his god, Vatnir is actually a skeptical opportunist. He puts the blame primarily on the circumstances of his early life. Being a godlike is hard enough, but being a godlike of the god of decay and entropy in the brutal, unforgiving expanse of
+the White that Wends
+made it even harder. To make things worse, Vatnir was considered a messenger from the gods, due to his appearance, and many looked to him for guidance and wisdom.
+For better or worse, Vatnir decided to take up the mantle and do the best he can to make life bearable for others, even if it means heading a cult of death-obsessed fanatics.
+Interactions
+This character is a
+party member
+.
+This character
+starts
+quests
+.
+An Honored Guest
+This character is
+involved in
+quests
+.
+To Rise and Decline
+,
+Death's Depthless Dominion
+,
+The Endless Queries
+,
+The Higher-Ups
+,
+The Last Pilgrimage
+Quests
+An Honored Guest
+: Vatnir invites the Watcher to
+Harbingers' Watch
+.
+Behind the scenes
+Vatnir was written by
+Alex Scokel
+He is voiced by actor
+Atli Gunnarsson
+
+======================================================================
+PAGE: Xoti
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Xoti
+======================================================================
+
+Xoti
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Race
+Savannah
+human
+Gender
+Female
+Culture
+Readceras
+Background
+Farmer
+Statistics
+Classes
+Monk
+Priest
+of
+Gaun
+Contemplative
+(
+Monk
++
+Priest
+)
+Subclass
+Sister of the Reaping Moon
+Harvester of Gaun
+]]
+Level
+2
+Attributes
+Health: 55
+Mig
+12
+Con
+12
+Dex
+15
+Per
+12
+Int
+14
+Res
+13
+Accuracy
+25
+Penetration
+7
+Defenses
+Def
+: 30
+Fort
+: 31
+Ref
+: 37
+Will
+: 42
+DR
+7
+Elemental DR
+Slash
+: 7
+Pierce
+: 7
+Crush
+: 7
+Shock
+: 7
+Freeze
+: 7
+Burn
+: 7
+Corrode
+: 7
+Abilities
+Interrupting Shot
+,
+Interfering Strikes
+,
+Binding Block
+,
+Fighting Spirit
+,
+Interfering Strikes
+,
+Holy Radiance
+,
+Blessed Harvest
+,
+Interdiction
+,
+Restore
+Skills
+Alchemy
+2
+Arcana
+2
+Diplomacy
+2
+History
+2
+Religion
+2
+Insight
+2
+Gameplay
+Location
+Port Maje
+,
+Port Maje Harbor
+or
+Neketaka
+,
+Temple of Gaun
+Quests
+The Lantern of Gaun
+Companion
+Permanent
+Drops
+Crossbow
+, 3x
+Potion of Minor Healing
+,
+Potion of Spirit Shield
+,
+Antidote
+Equipment
+Head
+Hood
+Body
+Vestments of Gaun
+Weapon
+Set
+Xoti's Sickle
+Xoti's Lantern
+Technical
+Internal Name
+Companion_Xoti
+GUID
+b1a7e806-0000-0000-0000-000000000000
+Xoti
+(pronounced
+shoti
+) is a female
+human
+monk
+and
+priest
+, and a recruitable
+companion
+in
+Pillars of Eternity II: Deadfire
+.
+Background
+Xoti is a worshipper of
+Gaun
+, an aspect of Eothas focusing on the cycle of rebirth. Her early life was steeped in the devastation of the vorlas blight and the
+Saint's War
+, together with the inevitable fallout from the defeat of St. Waidwen. She chose to follow an aspect of Eothas that wasn't blown to bits by the Godhammer.
+As a priestess of Gaun, she's fairly unorthodox (some even say profane). She believes that the death of
+Eothas
+at Halgot Citadel has not wiped out his aspects and Gaun, the rebirth aspect, is the part that fits her best. She's mostly self-taught, having started with the simple teachings of her aunt, and then books. Lots and lots of books. She read all the doctrines of Gaun, including the twelve books of Nyrwith, epistles from the minor prophets, and other apocrypha. In her view, though a lot of them aren't a part of today's canonization,  that doesn't mean they're wrong. In the end, she chose to become a Reaper: A shepherd of lost souls, gathering them and storing them safely until the god of rebirth returns to Hel to allow them to be reborn to Eora.
+Xoti was led to the Deadfire by dreams, filled with the dead left by Eothas in his wake.
+Interactions
+This character is a
+party member
+.
+This character
+starts
+quests
+.
+The Lantern of Gaun
+Companion
+Xoti is found at
+Port Maje
+at the Dawnstar encampment if you haven't searched the Engwithan Digsite, or at the
+Temple of Gaun
+in
+Neketaka
+. Simply talking to her and revealing that you are a Watcher following Eothas will earn her faithful service. She starts with the unique hatchet,
+Xoti's Sickle
+, and
+Xoti's Lantern
+.
+Class
+The class options available to Xoti are the
+priest
+subclass
+Harvester of Gaun
+, the
+monk
+subclass
+Sister of the Reaping Moon
+, or a
+multiclass
+of the two (Contemplative).
+Harvester of Gaun
+is Xoti's unique priest subclass that grants Hatchet proficiency and a selection of protective Eothas spells as well as druid-like plant spells.
+Sister of the Reaping Moon
+is Xoti's unique monk subclass with buckler proficiency, +3 Wounds per kill, but +1 Wound ability cost.
+Reputation
+Xoti likes:
+Pro-Eothasians: Supports the followers of Eothas.
+Lighthearted: Appreciates jokes and levity in life, even in the darkest of circumstances.
+Impassioned: She is a passionate person and responds well to people with similarly strong emotions.
+Worldly: Appreciates a cosmopolitan lifestyle and outlook on life.
+Xoti dislikes:
+Antireligious: Believes the gods and religions serve a useful purpose for mortals and dislikes irreverence or insults directed at them.
+Irresponsibility: Finds it distasteful when others do not take their duties seriously or attempt to evade their rightful responsibilities.
+Skullduggery: Takes a dim view of people who employ underhanded and deceptive tactics to get their way.
+Relationships
+Edér
+As a fellow follower of Eothas, Xoti is infatuated with Edér from the moment they first meet.
+Xoti's religious zeal causes Edér to keep his distance, but this can be addressed through specific companion banter.
+After the banter that begins with "You're a follower of the light?", Edér will seek advice from the Watcher.
+Any response results in a resolution between Xoti and Edér, allowing them to become friends instead.
+If this situation plays out (or not), it will be reflected in Xoti's end-game slides.
+Maia
+Xoti and Maia can form a relationship through their mutual reputation likes.
+The Watcher learns about this through banter and conversations with Maia.
+Their relationship/breakup will reflect in Xoti's end-game slides.
+The Watcher
+Xoti can be romanced if your reputation with her is positive 2 or higher. More 'intimate' dialogue options are available after she wakes up from the nightmare.
+Trivia
+Xoti was written by
+Megan Starks
+.
+She is voiced by actress
+Laura Bailey
+.
+Xoti's mother is Savanna Folk, from the Ixamitl Plains, and her father is Meadow Folk, descended from Aedyran colonists in Readceras.
+Gallery
+Concept art
+An early version of Xoti's portrait
+Xoti's convo portrait
+References
+
+======================================================================
+PAGE: Ydwin
+CATEGORIES: Pillars of Eternity II: Deadfire characters, Pillars of Eternity II: Deadfire companions
+URL: https://pillarsofeternity.fandom.com/wiki/Ydwin
+======================================================================
+
+Ydwin
+Biography and appearance
+Game
+Pillars of Eternity II: Deadfire
+Race
+Pale
+elf
+Gender
+Female
+Culture
+The White that Wends
+Background
+Scientist
+Personality
+Erudite
+Statistics
+Classes
+Cipher
+Rogue
+Mindstalker
+(
+Cipher
++
+Rogue
+)
+Level
+4
+Attributes
+Health: 66
+Mig
+10
+Con
+10
+Dex
+15
+Per
+15
+Int
+16
+Res
+12
+Accuracy
+51
+Penetration
+7
+Defenses
+Def
+: 31
+Fort
+: 26
+Ref
+: 51
+Will
+: 50
+DR
+3
+Elemental DR
+Slash
+: 3
+Pierce
+: 3
+Crush
+: 3
+Shock
+: 3
+Freeze
+: 3
+Burn
+: 3
+Corrode
+: 3
+Abilities
+Parrying Blade
+,
+Needle Strike
+,
+Binding Block
+,
+Elemental Endurance
+,
+One-Handed Style
+,
+Soul Whip
+,
+Eyestrike
+,
+Mind Wave
+,
+Sneak Attack
+,
+Defensive Roll
+,
+Escape
+,
+Blinding Strike
+Gameplay
+Location
+Spire of the Soul-Seers
+Quests
+An Honored Guest
+To Rise and Decline
+The Higher-Ups
+Companion
+Permanent
+Equipment
+Body
+Vailian Frock Coat
+Weapon
+Rapier
+Technical
+Internal Name
+Companion_Ydwin
+GUID
+b1a7e807-0000-0000-0000-000000000000
+Ydwin
+is a female
+Glamfellen
+cipher
+/
+rogue
+, and a recruitable
+sidekick
+in
+Pillars of Eternity II: Deadfire
+. She works side by side with
+Flaune Elette
+of the
+Vailian Trading Company
+as an animancer.
+Background
+A steady white-haired elf frowns down at a table covered in coiled copper wires and glimmering shards of adra. Her gloved hands smooth her well-tailored Vailian coat as she mumbles under her breath. Her clothing is spotless and well-tailored in the Old Vailian style, replete with lace, silk velvet, and brocade.
+Ydwin was born and raised among a remote pale elf tribe of
+the White that Wends
+, where she witnessed cruelties of both kith and nature.
+She chose to leave when she grew disillusioned with the leadership of the tribal elders and the religious worship of the coming End Times, which seem to be running about ten thousand years late.
+She focused on unraveling the mysteries of
+Eora
+the hard way: Through natural sciences.
+Ydwin chose to relocate to the
+Vailian Republics
+due to their progressive attitude towards animancy. She greatly enjoys their grand libraries, which she considers to be the republics "true treasures".
+She left in part due to the tensions between
+The Dyrwood
+and the Republics that were caused by the events in
+Pillars of Eternity
+, and also needed better access to luminous adra for her studies.
+As well as being an animancer she is also a talented seamstress, finding that the two practices have more in common than one might think. She enjoys adopting pieces of culture from other nations and has a near perfect Vailian accent.
+Animancy
+After decades of study, Ydwin has became an expert in the
+metaphysics
+of Eora and is a skilled practitioner of
+animancy
+.
+As an apprentice, she focused on discrediting animancy phrenological studies and the idea that some kith are more desirable soul vessels than others. She then became interested in theoretical ideas, before taking an interest in the study of parapsychological inertia - or "the tendency for some souls to gravitate towards familiar locals or engage in behaviors exhibited from past lives." Following that, she moved on to meta-mortality - or "the scientific study of souls over lifetimes and the cycle of reincarnation."
+She holds a deep interest in the Watcher's abilities and the hunt for Eothas, which she believes "may be one of the defining events of the age". Apart from doing her own experiments she has a keen interest in unlocking the secrets of luminous adra and its ability to store souls. Following the Watcher out to sea is a good way to ensure that can happen.
+Soul
+Shortly after her recruitment, the Watcher can discover exactly how intense her focus on animancy is: Ydwin performed a successful experiment and removed her soul from
+the Wheel
+- becoming, effectively, a
+fampyr
+. She keeps herself sustained on the souls of animals.
+Interactions
+This character is a
+party member
+.
+This character is
+involved in
+quests
+.
+An Honored Guest
+To Rise and Decline
+The Higher-Ups
+This character has
+other interactions
+.
+Ydwin has additional interactivity in the
+Beast of Winter
+and
+The Forgotten Sanctum
+expansions.
+Relationships
+As a sidekick she does not have any direct reputations with other companions. However, several party members will remark on her fampyr state.
+Upon recruitment with
+Aloth
+in the party, he interjects when the Watcher asks about Ydwin's method for sustaining herself, saying "it had better not involve consuming us". Ydwin will reply "I assure you, sir, that I will be admitting no part of you into my mouth. Ever."
+Trivia
+According to
+Modwyr
+, Ydwin sings "Wending epics" when she thinks no one is listening, which Modwyr thinks would almost be nice, except Ydwin apparently has a "terrible singing voice".
+A fan favorite, Ydwin would have been a fully-featured companion if the highest funding level was reached during the Fig crowdfunding campaign. Although it failed, Ydwin was provided with new interactivity and expanded role in the
+Beast of Winter
+and
+The Forgotten Sanctum
+expansions.
+Gallery
+Promotional image
+Early version of Ydwin's portrait
+Ydwin's convo portrait
+Behind the scenes
+Ydwin was written by
+Alex Scokel
+.
+She is voiced by actress
+Ashley Johnson
+who also voices the narrator for the game.
+References

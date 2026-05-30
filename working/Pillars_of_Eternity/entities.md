@@ -1,0 +1,1175 @@
+# Pillars of Eternity 宇宙——全景實體名單（Phase 2）
+
+涵蓋：PoE1 + The White March I/II + PoE2: Deadfire + Beast of Winter + Seeker, Slayer, Survivor + The Forgotten Sanctum + Avowed。
+
+標記說明：`PoE1`／`WM`（白色三月）／`D2`（Deadfire 本篇）／`BoW`（Beast of Winter）／`SSS`（Seeker, Slayer, Survivor）／`TFS`（The Forgotten Sanctum）／`Av`（Avowed）。
+
+---
+
+## 人物 (characters)
+
+### 玩家角色與超核心
+- Watcher of Caed Nua（守望者）— PoE1+D2 主角，被閃亮的 adra 灌頂後能見前世與亡者，最終揭穿 Engwithan 諸神真相並追擊 Eothas。
+- Envoy of Aedyr（特使）— Av 主角，皇帝派往 Living Lands 調查 Dreamscourge 的 godlike，不知所屬神祇的身份是核心謎題。
+- Thaos ix Arkannon — PoE1 終極反派，Engwithan 宗教大師、Leaden Key 與 Inquisition 創立者，活了二千年，發動 Hollowborn 危機以重振 Woedica。
+- Iovara ix Ensios — PoE1 關鍵；Engwithan 異端首領，因揭穿諸神虛假身份被 Thaos 折磨並囚禁靈魂於 Sun in Shadow，由 Watcher 解放。
+- Eothas／Saint Waidwen — 光明與救贖之神／其化身 vorlas 農夫；Saint's War 中被 Godhammer 炸碎，D2 中借 Caed Nua adra 巨像復活，毀掉諸神之輪（PoE1+D2+SSS 提及+Av 多次提及）。
+- Sapadal, The Gardener — Av 核心；Living Lands 因封閉 adra 系統自生的第十二位神（非 Engwithan 製造），Dreamscourge 是其甦醒的副作用。
+- Aedyran Emperor — Av；派遣 Envoy 的 Aedyr 皇帝，本人為 Wael 的 Steel Garrote 隱密信徒。
+- Od Nua — PoE1 名字來源；千年前 Engwithan 大祭司／國王，因兒子 Maros Nua 早夭而瘋狂建造「無盡之徑」（Endless Paths）十五層往下找回兒子靈魂。
+- Maros Nua — Od Nua 的兒子，靈魂被囚在巨大 adra 巨像深處（Endless Paths 終點 Boss）。
+
+### Engwithan 諸神（PoE1/D2 全出現；Av 中作為背景神話）
+- Berath — 循環、門戶、死亡之神；雙性／無性，承擔 Watcher 並做為 D2 主要敘事化身（與 Eothas 對抗）。
+- Eothas — 光與救贖；見上。
+- Galawain — 狩獵之神；偏好強者，PoE1+D2+SSS 多次直接對話 Watcher。
+- Hylea — 鳥與天空、母性；D2 主要陣營推進者之一。
+- Magran — 戰火、試煉；Durance 的女主人，Saint's War 中與 Eothas 為敵。
+- Ondra — 海與月；曾命令拉下月亮 Ionni Brathr 消滅 Engwithans。
+- Rymrgand — 末日、瘟疫、寒荒、虛無；BoW 直接登場為主反派。
+- Skaen — 秘密仇恨、奴隸反叛；Engwithans 為「無法馴服的暴民」造的容器。
+- Wael — 夢、秘密、啟示；TFS 大反派之一（其 titan 在 Forgotten Sanctum 底）。
+- Woedica — 法律、記憶、復仇之女王；Thaos 真正侍奉的「絞死女王」。
+- Abydon — 鍛造與工業；曾擲鎚阻擋月碎，被砸毀面孔，屍體成為 Abbey of the Fallen Moon。
+
+### PoE1 同伴（隊友）
+- Edér Teylecg — Dyrwood 草民戰士，Eothas 信徒，哥哥 Woden 死於 Saint's War（PoE1+D2）。
+- Aloth Corfiser — Aedyr 木精靈魔法師，宿主有 Iselmyr 第二靈魂；秘密屬於 Leaden Key（PoE1+D2，Av 多次提及）。
+- Kana Rua — Rauatai 島嶼 aumaua 學者吟誦者，研究 Engwithan adra 機制（PoE1）。
+- Durance — Magran 火焰祭司，灰白火焰人；參與打造 Godhammer 炸彈（PoE1）。
+- Sagani — 北冰原 boreal 矮人女獵手，與狐 Itumaak 追尋一位老人之轉世靈魂（PoE1）。
+- Grieving Mother — 草人助產士兼 cipher，曾抹除 Hollowborn 母親的記憶以減輕痛苦（PoE1）。
+- Hiravias — Glanfath 灶火 orlan 德魯伊，被 Galawain 變為半狐（PoE1）。
+- Pallegina mes Rèi — Vailian 鳥 godlike 女聖騎，Frermàs mes Canc Suolias 黃金五角教（PoE1+D2）。
+- Devil of Caroc — 構造人（construct）女盜賊，靈魂被囚於黑曜石身體；前身為 Caroc 領主之女（WM1）。
+- Zahua — Ixamitl Nalpazca 武僧哲學家，使用幻藥（WM1）。
+- Maneha — Rauatai 海岸 aumaua 女蠻族，欲將過去記憶磨平（WM2）。
+- Calisca — PoE1 開場暫時隊友；商隊雇傭兵，於 Cilant Lîs 死亡。
+- Heodan — PoE1 開場暫時隊友；隨身商人，被 Glanfathan 殺死。
+
+### D2 同伴與 sidekicks
+- Xoti — Savannah／meadow 雙裔，Eothas 女祭司兼武僧，背 lantern 收靈魂送往 Gaun（D2）。
+- Serafen — Wild orlan 海盜 cipher＋蠻族，Príncipi 老兵，前奴隸（D2）。
+- Maia Rua — Kana Rua 妹妹，Rauatai 軍隊狙擊手 ranger，搭檔機鳥 Ishiza（D2）。
+- Tekēhu — Marine godlike Watershaper，Huana 藝術家／浪人（D2）。
+- Rekke — Yezuha 風暴人，遠東難民倖存者，PoE 宇宙首次提及彼岸大陸（D2 sidekick）。
+- Konstanten — Rauatai 教徒陽剛酒鬼吟詠者／流氓（D2 sidekick）。
+- Vatnir — 灰白 endings godlike，Rymrgand 假先知（BoW sidekick）。
+- Ydwin — Pale elf 動物學家／cipher，研究 hollowborn 與不死轉化（D2 sidekick）。
+- Mirke — Furrante 女兒，海盜流氓（D2 sidekick）。
+- Fassina — Vailian 學徒法師，Arkemyr 助手（D2 sidekick）。
+- Ishiza — Maia Rua 的傳訊機鳥（D2）。
+- Ryona — Vatnir 在 Beast of Winter 提及的副 NPC。
+
+### Avowed 同伴
+- Kai — Rauatai 海岸 aumaua 戰士，Deadfire 戰役老兵 deserter（Av）。
+- Marius — Pargrunen 山地矮人，Living Lands 最強獵手／嚮導（Av）。
+- Giatta Castell — Vailian Ocean human，Fior mes Ivèrno animancer 二代，操作 phantasmal focus（Av）。
+- Yatzli — Hearth orlan 學者法師，住 Fior 但常在 Living Lands 廢墟翻寶（Av）。
+
+### Avowed 重要 NPC
+- Sargamis — Eothas 的 dawn godlike 神諭使者（Dawnstar），打造 Eothas 巨石像，掌 Splinter of Eothas（Av）。
+- Eadnung — Eothas 的右手 Dawnstar，曾傳神諭給 Waidwen（PoE1+Av 提及）。
+- Modegund — Eothas 第三位 Dawnstar，與 Sargamis、Eadnung 同訪 Waidwen（PoE1+Av）。
+- Inquisitor Lödwyn — Steel Garrote 派往 Living Lands 之 Aedyran 宗主官，Woedica／Wael 雙重忠誠（Av）。
+- Sapiento de Falva — Vailian 學者，開啟 Precious Light 任務鏈（Av）。
+- Vorska the Dreamscourged — Dreamscourge 被腐化的領袖／頭目（Av）。
+- Ryngrim — Av 重要法師 NPC。
+- Bernatta Deveccho — 法律家族首領（Av）。
+- Ademal Deveccho — Bernatta 親屬，Paradis 派系（Av）。
+- Diana Fiorentina — Av 政治家／商會中人。
+- Lluisa Melcer — Paradis Vailian 商業／學者要角（Av）。
+- Estel Vidarro — Paradis Vidarro 總督家族成員（Av）。
+- Governor Ignasi Vidarro — Paradis 總督，Vailian 殖民代表（Av）。
+- Maxim Vidarro — Vidarro 家族成員，自家領地 Maxim's Claim（Av）。
+- Octav the Firebrand — Av 火爆活動家／反殖民派。
+- Ambassador Falscen Hylgard — Aedyr 駐 Living Lands 大使（Av）。
+- Forgemaster Dela — Pargrunen 重要鍛造首腦（Av）。
+- Chief Engineer Gabral — Pargrunen 工程主腦（Av）。
+- Chieftain Grithin — 在地部族酋長（Av）。
+- Ona the Magnificent — Av 顯赫女性人物。
+- Old Nuna — Av 部族長者。
+- Belderreno — Av；其巢穴是任務地點。
+- Delemgan Queen — Av；delemgan 樹靈女王。
+- Mater Mare — Av；母性／宗教人物。
+- Vali — Av；Avowed 重要 NPC。
+- Tobin、Theo、Thyten、Tycg、Ulrask、Wilfrith、Mordis、Synnia Angemi、Mietta de Silvio — Av 二級城鎮 NPC。
+- Bounty Master Aldrich／Martella／Sulwin — Av 三大賞金總管。
+- Militia Captain Cynric — Dawnshore 民兵長，遇到 Envoy 的第一位重要人物。
+- Claviger Eamund — Av；Dawnshore 區行政官，與 Envoy 早期合作。
+- Ward of the Eye — Av；Wael 神諭使。
+- Distant Voices — Av；神秘 NPC（可能 Wael／Sapadal 化身）。
+
+### Avowed 守衛系與 ranger 系
+- Warden Amza／Enunta／Kosmin／Lerae／Petru／Radut — Living Lands Wardens 派系成員。
+- Ranger Acierno／Callastre／Casagrada／Dorso／Iguerra／Martineo／Massoni／Minale／Monato／Pasaglio／Tezallo／Tiago／Verano／Vesrik — Paradis Ranger 派系。
+- Komendant Mihala — Av 軍指揮官。
+- Lieutenant Bodcg／Fidelio／Sagna／Saviero — Av 軍士官。
+- Captain Aelfyr／Carnet／Geofri／Ngunu／Ruiki／Soldis／Tago／Trevik／Weyth／Wymgar — Av 各派船長與軍官。
+- Captain Evina Bardatto — Bardatto 家族船長（D2+Av）。
+
+### PoE1 重大配角（Dyrwood／Defiance Bay／White March）
+- Maerwald — 上一任 Caed Nua Watcher，瘋狂並被 Watcher 取代（PoE1）。
+- Lord Raedric VII — Gilded Vale 暴君領主，吊死十八名 hollowborn 父親；PoE1 重要早期 Boss。
+- Kolsc — Raedric 的對手繼承人。
+- Aelys Harond — 在 Defiance Bay 走失的少女，引出 Dunryd Row 線。
+- Lord Harond — Aelys 父，Dyrwood 貴族。
+- Lord Gaderman — Defiance Bay 貴族。
+- Lord Sidroc — Defiance Bay 貴族。
+- Lord Byrnwigar — Defiance Bay 貴族。
+- Lord Reymont — Defiance Bay 大家族首領。
+- Linete Reymont — 在 Reymont 家族失蹤的孤兒。
+- Abrecan、Bricanta、Danna、Dyrla、Gedmar Doemenel — Doemenel 黑手黨家族（PoE1）。
+- Lady Webb — Dunryd Row cipher 領袖，Defiance Bay 反 Leaden Key 中堅。
+- Eydis Webb — Lady Webb 別名／同上條。
+- Admeth Hadret — Dyrwood 開國第一公爵，反抗 Aedyr 帝國的「Hadret's Rebellion」靈魂人物，戰死於 War of Defiance。
+- Edrang Hadret — Admeth 親屬／繼任。
+- Hannah Oirakos — Defiance Bay 政治家。
+- Hannah Cade — The Dozens 派系成員。
+- Bishop — Defiance Bay 大主教。
+- Lord Justiciar Forgant — Steel Garrote 高層。
+- Justiciar — Defiance Bay 法官總稱。
+- Inethal Silivar — Defiance Bay 法政角色。
+- Vincent Dwellier — Defiance Bay 高層法官。
+- Bishop Adwellen Rügfald III — 一位被指控動畫術的高層神職。
+- Lord Byrhtwen — White March 駐軍指揮。
+- Jaesun — Defiance Bay 賢者。
+- Aufra — Gilded Vale 孕婦，擔心生下 hollowborn 嬰兒。
+- Nyfre — Gilded Vale 商人。
+- Wirtan — Gilded Vale 副官。
+- Trumbel — Gilded Vale 磨坊主。
+- Gramrfel the Wayfarer — Gilded Vale 流浪者。
+- Cendric — Gilded Vale NPC。
+- Tenfrith — Gilded Vale NPC。
+- Audr — Gilded Vale 老婦。
+- Pasca — Defiance Bay。
+- Nans — Defiance Bay。
+- Lumdala — Defiance Bay。
+- Wymund — Defiance Bay。
+- Verzano — Defiance Bay 商人。
+- Garost — Defiance Bay 鐵匠。
+- Songsmith Roska — Defiance Bay 音樂家。
+- Cradock Bridgeman — 橋頭看守。
+- Eorn — Defiance Bay。
+- Iben — Hylea 信徒。
+- Llengrath — 隱居的傳奇巫師之名（其手稿散落各地）；WM2 神秘 Boss。
+- Concelhaut — Cragholdt Bluffs 法師王，被 Watcher 擊殺後靈魂困在自己頭骨中（WM）。
+- Naroc the Prophet — Stalwart 預言家。
+- Helig of Thein — 變節 Eothas 神職。
+- Galvino — Stalwart 矮人發明家／構造人專家（WM）。
+- Dueggan Steelcaller — Pargrunen 鋼鐵祈禱者。
+- High Abbot Kaoto — Abbey of the Fallen Moon 大住持（WM2）。
+- Foreman Ismey — Stalwart 鐵礦工頭。
+- Sister Maerwald — Maerwald 異名。
+- Aldwyn — Stalwart 信徒。
+- Lord Dueggan — White March 礦工貴族。
+- Cail the Silent — Adragan 守護者 boss（WM）。
+- Ondra's Spire 學者群（Bekarna／Bademar／Galen Dalgard／Daeorn 等）。
+- Bademar — 在 Defiance Bay 動畫術研究的中堅。
+- Aldhelm — White Forge 守護古老靈魂（WM）。
+- Aelys 同名其他 — 多人。
+- Adaryc Cendamyr — Iron Flail 軍頭，Saint's War 後不肯放棄戰爭（PoE1 WM＋D2 Children of Dawnstars）。
+- Brad Furis — Iron Flail 將軍（WM）。
+- Falanroed — Glanfathan 部族長。
+- Sweynur — 礦工。
+- Strom Brightblade — White March 戰士。
+- Nedmar — Berath 神職。
+- Sila Ammin — Glanfathan 學者。
+- Pelden — Cragholdt 雇傭兵團長。
+- Llines "Two-Lips" — 雙嘴流浪者。
+- Kaenra — Defiance Bay 法案受害者。
+- Penhelm — 偽 paladin 騙子。
+- Aldwah — 學徒 cipher。
+- Branwen Gwyne — Defiance Bay 受害者。
+- Wymund — Gilded Vale 死亡屋老婦。
+- Visceris — Defiance Bay 商人。
+
+### PoE1 重大配角（神祇化身、轉世）
+- Hylea（多次與 Watcher 對話）。
+- Galawain（多次直接登場為「The Changeling」）。
+- Saint Rumbalt — Magran 戰士聖徒。
+- Saint Elcga — Aedyr Empire 起源的精靈外交使／聖人，Shieldbearers 命名來源。
+- Saint Waidwen — 見上。
+- Cadegund — Magran 女戰士／cipher。
+- Durance（見上，同伴）。
+
+### Eir Glanfath／Twin Elms 重要 NPC
+- Tánvii ora Toha — Twin Elms 王后，Watcher 對話的權力中樞之一。
+- Dengler — Glanfathan 牧者。
+- High Ovate Erona — Ovates of the Golden Grove 領袖。
+- Archdruid Rehstin — Ethik Nôl 黑暗德魯伊頭目。
+- Iswld — Ovates of the Golden Grove 成員。
+- Simoc — Glanfathan 戰士。
+- Sîdha and Rîhenwn — Twin Elms 雙生 NPC（成對）。
+- Aerthus — Twin Elms 學者。
+- Llines、Llyranor、Llensî — Twin Elms 系列 NPC。
+
+### Deadfire 重要 NPC
+- Queen Onekaza II — Huana 女王，Kahanga 部族 cipher，欲守 Ukaizo 並抗外族（D2）。
+- Prince Aruihi — Queen Onekaza 之弟。
+- King Wingauro o Watūri I — Huana 已逝先王，BoW／D2 提及。
+- Watūri — 先王，Onekaza 父／祖（D2）。
+- Hazanui Karū — Huana 高級顧問。
+- Hazanui Yaro — Huana 高級顧問。
+- Storm Speaker Ikawha — Watershaper Guild 高層。
+- Storm Speaker Kamauka — Watershaper Guild 另一位。
+- Periki — 已逝的傳奇 Watershaper Guildmaster；古城 Periki's Overlook 命名來源。
+- Ranga Ruānu — Huana 部族首領（Tikawara 周邊）。
+- Hazanui Karū — 上條。
+- Captain Furrante — Príncipi sen Patrena 首席船長之一（D2）。
+- Captain Aeldys — Príncipi sen Patrena 另一首席船長，與 Furrante 競權（D2）。
+- Mirke — 見上。
+- Captain Mad Morena — Príncipi 海盜（D2）。
+- Captain Mer Trevisilo — Príncipi 商人。
+- Captain Benweth — Fort Deadlight 主將，殺害 Maia 戰友的逃逸海盜（D2）。
+- Captain Cipriano — Príncipi。
+- Captain Daraku — Príncipi 流氓。
+- Captain Gold-Fin Chiara／Marcena — Príncipi 雙姊妹船長。
+- Captain Katla — Príncipi 老兵船長。
+- Captain Reiki — Príncipi。
+- Captain Tatzatl — Príncipi。
+- Captain Vilami — Príncipi 船長。
+- Captain Pepperjack — Príncipi 卡通化老海狼（PoE1 提及，D2 真出）。
+- Captain Teryc Lofell — Príncipi。
+- Captain Muārumi — 阿瑪烏阿船長（PoE1）。
+- Príncipo Tarvisi Vadremino III me Revua — Príncipi 高位貴族。
+- Duc Remasi Storanzo me Selona — Vailian Republics 元首。
+- Atsura — VTC 重要分析員（D2 任務）。
+- Atello Valera — VTC Valera 家族 patriarch（D2 Vailian 家族戰）。
+- Martino Valera — Atello 親屬。
+- Orso Valera — Valera 兒。
+- Zili Valera — Valera 女。
+- Ezzali Bardatto — Bardatto 家族領袖（D2，Vailian 家族戰）。
+- Larro Bardatto — Bardatto 家族成員。
+- Nera Bardatto — Bardatto 家族年輕成員。
+- Fleet Master Okaya — RDC 高層。
+- Fleet Master Wakoyo — RDC 高層。
+- Governor Giasces Clario — Port Maje 總督（D2）。
+- Hudango — Port Maje 居民。
+- Sanza — Port Maje 探險家／製圖師。
+- Idira — Neketaka cipher／靈媒（D2）。
+- Eld Engrim — Neketaka 漁夫先賢。
+- Bertenno — Neketaka 老者。
+- Bekarna — 被綁架的星象家／法師（PoE1+D2，TFS）。
+- Arkemyr — Neketaka 大法師，The Circle of Archmagi 成員（D2/TFS）。
+- Llengrath — 見上。
+- Fyonlecg — 被 Hand Occult「抹除」的古老 archmage（PoE1+TFS）。
+- Ninagauth — 已逝古代 archmage，其符文留存（PoE1）。
+- Maura of the Seven Hills — Avowed-related learning（D2/Av）。
+- Marofeto Liano — Neketaka 學者／哲學家。
+- Maxima — Av 商人（同名 D2 商人？）。
+- Onadere the Temptress — D2 Boss 級魅魔。
+- Sigilmaster Auranic — D2 D2 super Boss 魔法師（Splintered Reef）。
+- Belranga — Belranga the Brood Mother（D2 Pitfalls Boss）。
+- The Crystal Empress — Splintered Reef 巨型水晶蜘蛛 Boss（D2）。
+- The Helfire Colossus — 火元素巨人 Boss（D2 Magran's Teeth）。
+- The Voracious Mountain — 山岳巨獸 Boss（D2 Pitfalls）。
+- Neriscyrlas — Glamfellen Lich／龍／BoW 終極幕後 Boss，欲利用 Rymrgand 力量逃離死亡。
+- The Beast of Winter — Rymrgand 的化身大野獸／BoW 大反派。
+- Yseyr the Berathian — Berath 古老 paladin／Eyeless 機械造物（WM2）。
+- Galen Dalgard — 學者。
+- Aldonio — Vailian 名字（？，多次提及）。
+- Bia — Neketaka 商人。
+- Coral Queen — D2 重要 boss（潛伏在 Coralmason 區）。
+- Coralmason — D2 商人／工匠。
+
+### Deadfire 三大 DLC 重要人物
+- Sigilmaster Auranic、Belranga 等 — 見上（SSS Boss）。
+- The Seeking Face — SSS 三神試煉之一的 manifestation。
+- The Slaying Face — SSS 第二化身。
+- The Surviving Face — SSS 第三化身。
+- Engari — SSS 神諭代表，給予 Letter to Engari。
+- Arena Warden — SSS Crucible 主持人。
+- Chief Echoing-Strike — SSS 戰場酋長。
+- Champion-Ascendant Grymgaer — SSS 戰場高層。
+- Akumeno Waidyo／Masumeno Waidyo — SSS 阿瑪烏阿戰士。
+- Hateno — SSS 戰士。
+- Muātu — SSS 戰士。
+- Whehami、Winge — SSS 戰士。
+- Grog Strongjaw — SSS 戰士（同人玩笑梗）。
+- Vatnir — 見上（BoW）。
+- Tuliak Longfrost — BoW 冰原戰士。
+- Harbinger Brythe／Hafjórn／Karlódh／Leksi／Nyvardir／Valbrendhür — BoW Harbingers，Rymrgand 信徒先驅（六位）。
+- Llendreth — BoW 冰原嚮導。
+- Lyslódhir — BoW 冰原 NPC。
+- Osgara Rafendr, Erla of Norwaech — BoW 流亡女主公。
+- Ymir — BoW 古代冰巨。
+- Bathor Erkon — BoW Boss。
+- Iolfr — BoW 商人。
+- Iolfr's Raiments — 同名 BoW 商店。
+- Tayn — TFS 副 Boss／煉金師。
+- Adurix — TFS Wael 信徒。
+- Bekarna — TFS 同上。
+- Llengrath — TFS 同上。
+- Wahaki Chief — D2 部族領袖（多名）。
+- Lady Epero — Vailian 商會大家庭領袖（D2）。
+- Andaccio — Neketaka 法政官員（D2）。
+- Burapo — Neketaka Huana NPC（D2）。
+- Tatok — Neketaka 罪犯（D2）。
+- Mokeha — Huana 教士。
+- Pitli — Eothas 女祭司（Children of Dawnstars，D2）。
+- Wirtan — 同上（D2 Children）。
+- Waenglith — Children of Dawnstars 成員（D2）。
+- Ogne — Children of Dawnstars 暴力派（D2）。
+- Bearn — Children of Dawnstars 成員。
+- Gaderian Bosc — Partisans of Lighted Path 自殺團領袖（D2）。
+- Vianna — Eothas 學者，遺留筆記（D2）。
+- Bipara — Huana 信徒（D2）。
+- High Priest Hati — Magran 高級祭司（D2）。
+- High Priest Kasu — Huana 高祭司（D2）。
+- High Priestess Saewyn — Children of Dawnstars 高祭司（D2）。
+- Padebald — The Dozens 戰士（PoE1）。
+
+### Crookspur／奴隸貿易
+- Crookspur Slavers Leaders — D2 大型奴隸貿易組織。
+- Captain Aeldys（同 Príncipi）／Furrante 線索。
+- Captain Gold-Fin Chiara — 見上。
+- Ralga — Av 任務 NPC（與奴隸主有關？）。
+
+### Avowed Living Lands 角色補充
+- Cosmina — Av 商人。
+- Dolina — Av 任務 NPC。
+- Glaedwine — Av 商人。
+- Tanusas — Av 商人。
+- Synnia Angemi — Av 任務 NPC。
+- Halfor — Av Steel Garrote 中堅或反抗者。
+- Henwych — Av Steel Garrote。
+- Iglaf — Av 戰鬥 NPC。
+- Igor — Av 在地角色。
+- Iancu、Raluka、Razvan、Viorel、Liviu、Liviana、Lililya — Av Living Lands 在地人（東歐風名）。
+- Brentis、Brurg — Av 衛戍角色。
+- Honest Emil — Av 商人。
+- Eorwin、Eorwin Maxim、Erlinn Matishell — Av 中層居民。
+- Kerdhed "Cutty" Colen — Av 殖民者。
+- Big Wylie Tranton、Conner Tranton、Lina Tranton — Av Tranton 家族殖民者。
+- Estulario Parfitto — D2 學者。
+- Captain Parfitto — Vailian 海盜歌謠主角（D2 lore）。
+
+### PoE1 補充人物（具名次要角色）
+- Mother Sharp-Rock — Cilant Lîs 區 Korgrak 部族首領。
+- Korgrak — Cilant Lîs 巨魔頭目。
+- Nridek — PoE1 巨魔／怪物 Boss。
+- Zoltun — Pargrunen 領袖（PoE1）。
+- Ista — Pargrunen 學者。
+- Exandru — Pargrunen 戰士。
+- Marunn — Pargrunen 礦工。
+- Mikerus Solomatine — PoE1 Defiance Bay 老學者。
+- Vasily Raskolnikov — 同上（俄系名 NPC）。
+- Lars Nilsson — PoE1 北方信使。
+- Ruben Torres — PoE1 NPC（西文名）。
+- Lupites Silvarum — PoE1 Vailian。
+- Sleafhota — Stalwart 老農。
+- Yduran — White March 商人。
+- Slecg — Defiance Bay aumaua 戰士。
+- Llines "Two-Lips" — 雙嘴笑面流浪者。
+- Saint Rumbalt — Magran 聖徒（傳說人物）。
+- Saint Omaku — Eothas 聖徒（傳說人物，物品標名）。
+- Saint Garotte — Woedica 古聖徒（傳說）。
+- Brad Furis — 已收。
+- Pelden — Cragholdt 雇傭兵團長。
+- Helig of Thein — 變節 Eothas 神職。
+- Reny Daret — Brackenbury animancer。
+- Galvino — 已收。
+- Theal Feylion — Defiance Bay 信徒。
+- Lord Sidroc／Byrnwigar／Gaderman／Reymont — 同上四大貴族。
+- Maerwith — Maerwald 親屬／前任 Watcher。
+- Galen Dalgard — 同上。
+- Bademar — 同上。
+- Daeorn — Defiance Bay 動畫術學者。
+- Heritage Hill Animancer — Sweynur 等。
+- Engrim — Stalwart 鐵匠長。
+- Masca — Abydon 信徒鐵匠。
+- Olrun Cyneheod — Abydon 信徒長者。
+- Asca、Aldwyn、Aufra、Audr、Hendyna、Pumpkin the Khwarg — Dyrford／Defiance Bay 居民。
+- Bishop Eorn — Defiance Bay。
+- Bricanta／Danna／Dyrla／Gedmar Doemenel — 同上家族成員。
+- Frya Manhem — Defiance Bay 軍士。
+- Lord Aevar Wolf-Grin — Aedyr 古代戰役名將／Duc。
+- Adwellen Rügfald III — Aedyr 高階神職。
+- Foelmar — Defiance Bay 醫療。
+- Hilde — 高地老婦。
+- Iarmid — Stalwart 戰士。
+- Iben — Hylea 巫師。
+- Iarmid／Iqali／Krivi／Kolfecg — 邊區居民。
+- Aodhán the Ingenious — Defiance Bay 發明家。
+- Anverion Damondrad — Defiance Bay 政要。
+- Audmer — Defiance Bay 商。
+- Caedman Azo — pale elf 學者／法師（PoE1+D2 Beast of Winter）。
+- Cadegund — Magran 女戰士（PoE1）。
+- Lieutenant Aldwah — PoE1 軍士。
+- Lord Rännig Gathbin — Defiance Bay 貴族。
+- Roi Ninguen — Defiance Bay 商人。
+- Tealdor、Tily、Tobi、Trygil、Tuatanu — Defiance Bay／Twin Elms 居民。
+- Verzano、Visceris、Wrdha、Yduran — 商人小集。
+- Zahua（同伴）／Zoltun（同上）／Zoran Zenius Cavic — Pargrunen 同盟。
+
+### D2 補充人物
+- Adurix — TFS 學者（已上）。
+- Ailing Roparu — Neketaka 病弱居民。
+- Akara — Neketaka 漁。
+- Akema — Huana 商。
+- Aledh — D2 Dyrwood 信使。
+- Alteria — D2 Vailian。
+- Amreo — D2 Vailian 學者。
+- Apāro — Huana。
+- Arteiro the Avenger — D2 Príncipi 復仇者。
+- Atsura — 同上 VTC 分析。
+- Auāta — Huana。
+- Baltia — Vailian 商。
+- Barquami — Huana 戰士。
+- Baru — Huana。
+- Birna — D2 Huana。
+- Botaro — Huana 戰。
+- Brenthís Torega — D2 富商。
+- Buccaneer — Príncipi 通名。
+- Burapo — 同上。
+- Calandra — Vailian 商。
+- Carlo Fortuni — Príncipi 賭徒。
+- Cathenna Stormheart — Watershaper 學者。
+- Chei — Huana 隨從。
+- Chitupec — Ixamitl 學者。
+- Co'el Marcellus — D2 RDC 名仕。
+- Daffyd — D2 Dyrwood 來客。
+- Daima — D2 Vailian。
+- Dereo the Lean — Delver's Row 走私頭。
+- Dimesa — D2 Death godlike 商人。
+- Doru — Huana。
+- Eamund the Fox — Dunnage 隱士。
+- Eccea — Príncipi 船長（同 Captain Eccea）。
+- Ehrys — Pale elf 同伴（？）。
+- Elias Zelen — Av／D2 學者（同名）。
+- Eofania — Vailian 商。
+- Ereti — Huana。
+- Ernezzo — Vailian。
+- Estulario Parfitto — D2 上條。
+- Fetid Spray — D2 戰場惡名。
+- First Mate Fallon — Príncipi。
+- Gabel — D2 RDC 中堅。
+- Galian — Vailian 學徒。
+- Ganor — D2 商。
+- Geirvard Calder — Naasitaq 流浪。
+- Giordu Red-Handed — Príncipi 名海盜（Aeldys 副手）。
+- Gretorix — Príncipi 戰士。
+- Grim Kuldran — Vailian 學者。
+- Guardian of Ukaizo — D2 終局守護者構造。
+- Gundruk — Crookspur 戰。
+- Gwenfin — Watershaper。
+- Hellian — D2 Defiance Bay 出航。
+- Henric — Vailian。
+- Ifren — Vailian。
+- Ikiuq — Boreal 商。
+- Ikorno — Vailian。
+- Imir — Vailian。
+- Ineya — Huana。
+- Inquisitor Naxiva — Steel Garrote 高層（D2）。
+- Naxiva ix Kirent — 同上之全名。
+- Irrena、Irwena、Iverra — D2 Vailian 商。
+- Jacob Harker — Príncipi。
+- Jamar — Huana。
+- Johnny — Príncipi。
+- Karel、Katrenn、Kemeha、Kend、Kesango、Kipeha、Kismet — D2 居民／部族。
+- Konstant、Kratunos、Kuaru Spirit／Trader — D2 Huana 系。
+- Kubado、Kura — Huana 商。
+- Lel、Llendreth、Loisa — D2 居民。
+- Little Leuca — Vailian 學徒。
+- Lone Survivor — D2 Crookspur 倖存者。
+- Lucia Rivan — Vailian 商。
+- Lyrea — Vailian 妓院主。
+- Malnaj — Crookspur 奴隸主。
+- Maren — Príncipi。
+- Mark van der Bij — D2 Príncipi。
+- Mero — Vailian 商。
+- Merrick — Príncipi 學徒。
+- Meryel the Mad — Príncipi 瘋子。
+- Midge、Mimriko、Mokeha、Muhai、Munric — D2 居民。
+- Myrin、Myrlesfen the Truly Insane — Príncipi 瘋人。
+- Nathrak、Nedunga、Nemnok the Petite — D2 居民／同名分身。
+- Ngeme、Norgund、Notnok、Nungata — D2 居民。
+- Obledh、Oderisi、Okauro、Once-Matron Doryga — D2 名物。
+- Ond、Ora the Mad、Oramu、Orlan Peddler、Orron、Osa、Osauro — D2 居民。
+- Overseer Hitenga — Crookspur 監。
+- Persa、Persanale Cianca、Peyro、Pietro — Vailian 政商。
+- Pig-Sticker Rukowa、Ponamu Bird-Scorned、Rabyuna、Rafiq the Red Beard — Crookspur／Príncipi。
+- Ragged Cerrow、Rakara — Príncipi。
+- Ralla Blackblossom、Ramaso、Ranetti、Rawere、Rebero、Remaro — D2 居民。
+- Reymes、Rhys、Rinco、Riwahi、Rosanella、Rum-Dumb Riggere、Rust — D2 居民。
+- Ruāsare、Rynhaedr、Savia、Scribe、Scyla Five Glass、Seinu、Seran、Seyr — D2 居民／祕。
+- Sigilmaster Auranic、Silent Dhwrgas、Sissak、Songretta mea Compresa — D2 NPC。
+- Stone-Tooth、Storm Speaker Kamauka、Sugaan、Synbel、Taerna、Tairo、Takano、Tama Watua — D2 居民。
+- Tangara、Taqua、Tas、Tatok、Tayn、Temple Vendor、Tiabo、Tiela、Tipa — D2 居民／祕。
+- Toedhild、Torri、Tuliak Longfrost — D2／BoW。
+- Tylla、Täog (Deadfire)、Uamoru the Pretender、Udyne、Ulgrim、Umpara、Una、Urnox Breinth、Ushizu、Uvaala — D2 居民／祕。
+- Vanizzi、Vektor、Vessatraz、Waikana、Waleran、Wanika、Warchief Steelclaw、Watūri、Wekeme、Weto、Winged Rat、Wochka、Xakoras、Yanass、Ymir、Yngfrith、Yonga、Zamar、Zandran、Zili Valera — D2 各派系名物 NPC。
+
+### Avowed 補充人物
+- Adelarro、Akihiko、Alvaro、Amadio、Amalia、Amran、Anessa、Astol、Baulo Calatone、Belia、Benedetta — Av 殖民居民。
+- Big Wylie Tranton、Blyth、Bonn、Borodin、Brentis、Brurg、Bulti、Caedmon、Calvino — Av 殖民居民。
+- Captain Aelfyr／Carnet／Geofri／Ngunu／Ruiki／Soldis／Tago／Trevik／Weyth／Wymgar — 同上船長群。
+- Chandler Weadan、Chef Kumitru、Chieftain Grithin、Chiko、Cinzia — Av 居民。
+- Crier Haraheru、Crusta、Culburn、Cylia、Daiko、Daran、Darila Hrafyld、Dario、Darle — Av 居民。
+- Dehengen、Denwyn、Desgund、Desperate Smuggler、Destul、Diago Antomonato — Av 居民／走私。
+- Dima、Dolina、Doomsayer、Duna、Dya — Av 居民。
+- Ector Brewer、Edda、Elder Grigore、Elemyr、Elia Rosell、Elowê、Enika、Eorwin — Av 居民。
+- Falkyn Willcot、Fayton、Fence、Fewen、Fleccia — Av 商盜。
+- Gabu、Gahli、Galee、Gali、Garryck、Geirmund、Gjeda、Glaedwine、Grakohr、Grumpy Warden、Grysca、Gweneth、Gwyn — Av 居民。
+- Haiako、Hal、Halfor、Hanewa、Hasui、Henwych、Hylak — Av 居民。
+- Iancu、Iglaf、Igor、Ihaka、Ilena the Grain Merchant、Ilora、Inori、Iora、Isalia Calicchia、Iscern、Ivette Riggo、Iwao — Av 居民。
+- Jago the Sea Wolf、Jaley、Jali、Jallee、Jawlie、Josep Abaccio — Av 居民。
+- Kada、Kampeki、Katoa、Kauia、Kauka、Keipo、Kerdhed "Cutty" Colen、Kiri、Koda、Korbis、Kowha、Kozai、Kukae Maka、Kutenrus、Kylecg — Av 居民／戰士。
+- Lady Velluta、Landry、Laurento Spedera、Lena、Leoflaed、Lililya、Liviana、Liviu、Loato、Luminous Alfons、Lynna — Av 居民。
+- Maegild、Maili、Maka、Malthea、Manu、Marynna、Masco Laima、Mattia Sonagaria、Maxima、Meiko、Mekla — Av 居民。
+- Merchant Alonya／Alyssa／Dagherda／Emilio／Stephan／Valtur — Av 商人六人組。
+- Merylin、Mestru Varka、Mikeke、Mina、Minawa、Miss Bridgette、Miteno、Moapo、Moi Piki、Monto Pastor、Nacib、Nameho、Nandru、Nasca、Nell Ten-Fingers、Nico — Av 居民。
+- Novice Bojan／Dolna、Nuchako、Numena、Ofryc、Ondino Pomola、Ortrud、Oscora Gallatena — Av 居民。
+- Pere Quilicci、Perehunga、Performer Dugoru、Priest Eraak、Private Nauki、Quartermaster Yorgu、Ralga、Raluka、Ranhyr、Razvan、Reginalt、Remei、Remei Gardiola、Remi Soler、Renato、Restal、Rgnar、Rossana Fallo、Ruanga、Rubeno Selva、Runyd、Rusksnout、Rutaska、Ryna — Av 居民。
+- Salfen、Salvius、Secgwin、Seyon、Shaken Couple、Shiya、Shu、Siamo、Sibelius、Sielo Piannini、Silent Shizu、Skeptical Warden、Snap、Steadman Ralke、Stecg、Stockkeeper Eberk、Sílvo — Av 居民。
+- Takeoka、Tama、Tamamu、Tanusas、Tauwe、Tazaraak、Temerti、Tempestuous Luandi、Thalla the Taskmaster、Tobin、Theo、Thyten、Tira Nui Hajime、Tycg、Ulrask、Umato、Umberto the Unfortunate、Urvolnau、Vali、Vemas Rogera、Vena、Viorel、Vriska、Wetenu、Wharaki、Wilfrith、Xavi Brewer、Ygwulf、Yorag、Ysefa — Av 居民。
+
+### 神話／傳說人物（書籍／lore 中提及）
+- Bronlar — Aedyr 「荊牆」phalanx 將軍，於 Skerbaen 渡口殉國（書籍）。
+- Elcga — Aedyr-Kulklin 締約之精靈使，Shieldbearers 命名。
+- Heldr — Hand Occult 創立者（lore 物 Memoirs of Heldr）。
+- Weyc Heldr — 同上全名。
+- Gjaryc Yltan — 「火鍛之徑」遊歷家（書籍）。
+- Gabrannos — Engwithan 大法師，Od Nua 雇用之動畫術奠基者。
+- Pandgram — 動畫術理論家（書籍 The Theorems of Pandgram／The Life and Discoveries of Pandgram）。
+- Iden — Giftbringer Iden，Av／Eothasian 早期傳教士。
+- Soreena — 古代女學者，遺著五卷 Writings of Soreena。
+- Aldhelm — Watcher of the White Forge 之名，亦為 WM 戰場守靈名。
+- Pumpkin the Khwarg — PoE1 著名巨爪獸寵物。
+- Itumaak — Sagani 的雪狐。
+- Eliot — Maia Rua 的副官（D2）。
+- Hazanui Karū／Yaro — 上條。
+- Captain Mer Trevisilo — 同上。
+- The Steward — Caed Nua 城堡管家鬼魂（PoE1 D2 同伴系統）。
+
+（人名涵蓋：所有同伴／神祇／DLC Boss／三遊戲主線政要／殖民地家族族長／三大公司高層／海盜首腦／部族酋長／神諭使／Av 殖民地全體具名 NPC。次要店主／衛兵編號類條目（Acolyte／Berathian Priest／Doemenel Doorman 等職位通名）已視為 Phase 3 取捨範圍。）
+
+---
+
+## 種族／陣營 (factions)
+
+### 種族
+- Aedyran（Meadow folk + Wood elves 混合的帝國民族）— Av 中以皇帝、Steel Garrote 出現。
+- Meadow folk（人類大宗，Dyrwood／Aedyr 主體）。
+- Ocean folk（人類沿海／Vailian 系）。
+- Savannah folk（Ixamitl／Readceras）。
+- Storm folk（Yezuha／Rekke 來源）。
+- Coastal aumaua（Rauatai）。
+- Island aumaua（Deadfire／Huana）。
+- Mountain dwarf（Pargrunen 主體）。
+- Boreal dwarf（Naasitaq／Sagani）。
+- Hearth orlan（Yatzli／Hiravias）。
+- Wild orlan（Serafen）。
+- Wood elf（Aloth／Kana 同盟）。
+- Pale elf（Glamfellen／Naasitaq／Ydwin）。
+- Aumaua — 父類條目。
+- Elf — 父類。
+- Human — 父類。
+- Orlan — 父類。
+- Dwarf — 父類。
+- Godlike — 通類；不能生育，靈魂在出生前被神祝福。
+- Fire godlike（Magran）。
+- Death godlike（Berath）。
+- Moon godlike（Ondra）。
+- Nature godlike（Galawain／Hylea 中性）。
+- Avian godlike（Hylea）。
+- Marine godlike（Ondra／Watershaper）。
+- Endings godlike（Rymrgand）。
+- Dawn godlike（Eothas／Av 首見）。
+- Engwithans — 已滅絕的高智文明，造神者。
+- Glanfathans — Eir Glanfath 守護 Engwithan 廢墟的部族聯邦。
+- Huana — Deadfire 原住民，含 Mataru、Roparu、Kuaru 等階層。
+- Vithracks — 蜘蛛形 cipher 種族（WM）。
+- Xaurips — 蜥蜴小型部落種。
+- Lagufaeths — 兩棲四臂種。
+- Nāga — 蛇形原住種（Deadfire）。
+- Delemgan — 樹靈／森林精，Av 中再現。
+- Eyeless — Abydon 留下的「無眼」自我修復構造（PoE1 WM）。
+- People of the Deer / Maros people — Aedyr 起源部族。
+- Ekida — Living Lands 已滅絕住民。
+- Pargrunen — Aptapo 山地矮人的「行者」流派。
+- Hylspeak／Aedyran／Vailian／Huana／Glanfathan／Eld Aedyran — 主要語言（屬概念）。
+
+### 國家／政體
+- Aedyr Empire — 雙王制人類＋木精靈聯邦帝國，Av 的派出方。
+- Free Palatinate of Dyrwood — Admeth Hadret 創建的反叛公國；PoE1 主舞台。
+- Penitential Regency of Readceras — Waidwen 神權國家（已被 Godhammer 結束）。
+- Vailian Republics — 商業共和國聯盟。
+- Old Vailia — 已崩解的祖國。
+- Grand Vailia — 上條別名。
+- Rauatai — 軍事化的島嶼帝國。
+- Kingdom of Kulklin — 已併入 Aedyr 的精靈古國。
+- Aedyr Kingdom — 帝國前身。
+- Eir Glanfath — 部族聯盟。
+- Huana / Kahanga 王國 — Deadfire 原住民聯合。
+- Naasitaq — 北極大陸 boreal 矮人領地。
+- Ixamitl Plains — 草原文化複合體。
+- Tacan — 已絕的 Nalpazca 起源文化。
+- Quechmatl — 已絕的好戰文化。
+- The White that Wends — 北方雪域。
+- Abet — Living Lands 西方海岸國家（Av 中提及）。
+- The Living Lands — Av 主舞台殖民地／sapadal 領域。
+- The Black Isles — Black Isle Bastards 老巢。
+- Yezuha — Rekke 的遠東祖國。
+
+### 教派／組織／公司／騎士團
+- Leaden Key — Thaos 主持的 Engwithan 機密宗派，操控 Hollowborn 危機（PoE1 主反派組織）。
+- The Hand Occult / Hand of Wael — Wael 的秘密書寫修訂組織（PoE1+TFS）。
+- Steel Garrote — Woedica 私人刺客／聖騎，Av 的 Aedyr 派出武力。
+- Children of the Dawnstars — Readceras Eothasian 移工教派（D2）。
+- Partisans of the Lighted Path — Children 內部 Gaderian Bosc 自殺先鋒派（D2）。
+- Fellows of St. Waidwen Martyr — 紀念 Waidwen 的 Readceran 宗教軍事派（D2）。
+- The Inquisition — Thaos 領導的反 Iovara 宗教清洗（PoE1 古代）。
+- Knights of the Crucible — Abydon 鍛造騎士團，Defiance Bay 駐軍。
+- Frermàs mes Canc Suolias — Vailian 五黃金聖騎士團（Pallegina 所屬）。
+- Goldpact Knights — 傭兵化的契約派 paladin。
+- Bleak Walkers — 黑色契約 paladin，做極端任務。
+- The Shieldbearers of St. Elcga — Aedyr 守護外交使的 paladin 騎士團。
+- Kind Wayfarers — 善行 paladin。
+- Darcozzi Paladini — Vailian 一支 paladin。
+- Pallegina mes Rèi — 同名 paladin 派系記號。
+- Ovates of the Golden Grove — Glanfathan 平和派德魯伊。
+- Ethik Nôl — Glanfathan 古老犧牲派德魯伊。
+- The Circle of Archmagi — 跨大陸大法師議會（PoE1+TFS）。
+- Dunryd Row — Defiance Bay cipher 公會／秘密警察。
+- Animancers' Guild — PoE1 動畫術行會。
+- Watershapers' Guild — Huana 水操控魔法者（D2）。
+- Royal Deadfire Company（RDC） — Rauatai 殖民商企／軍隊。
+- Vailian Trading Company（VTC） — Vailian 殖民商企。
+- Príncipi sen Patrena — Deadfire 海盜聯盟（D2）。
+- Crookspur Slavers — 由 VTC 暗中支持的奴隸貿易組織（D2）。
+- The Dozens — Defiance Bay 中產階級雇傭工會（PoE1）。
+- The Fangs — Defiance Bay 動物獵手公會（PoE1）。
+- House Doemenel — Defiance Bay 黑手黨家族（PoE1）。
+- Iron Flail — 拒絕戰爭結束的 Saint's War 殘部（PoE1 WM）。
+- Torn Bannermen — Iron Flail 對手分裂派（PoE1 WM）。
+- Pargrunen — 見上（族＋文化）。
+- Keepers of the Stone — Maris 系 Eir Glanfath 派系。
+- Obsidian Order — Kickstarter 神秘訂閱者組織（meta，但遊戲中提及）。
+- The Guided Compass — Avowed／Deadfire 過渡時期出現之導航宗教？
+- Twice-Split Arrows — Living Lands／部族派。
+- Stone Bramble — D2 部族（Tikawara 周邊）。
+- The Demon — D2 神秘集會代號。
+- The Steel Preacher — 構造／傳教士（creature 條目）。
+- Anes of the Many Eyes — Wael 密派。
+- Black Isle Bastards — Príncipi 一支海盜（D2，致敬 Obsidian 前身）。
+- Black Magretta crew — D2 海盜隊。
+- The Ten / Tens of Stalwart — 白色三月十勇士／Waidwen 拘禁者（WM）。
+- Wahaki — 反外族的 Huana 部族（D2）。
+- Kahanga — Huana 王族部族。
+- Roparu — Huana 底層階級。
+- Mataru — Huana 戰士階級。
+- Kuaru — Huana 商賈階級。
+- Roparu／Mataru／Kuaru — 階級制度。
+- Tribes of Naasitaq — boreal 矮人部族集群。
+- The Wardens — Av；Living Lands 守衛組織。
+- The Rangers — Av；Paradis 巡守組織。
+- Aedyran Inquisition — Av 新時期；Steel Garrote 的母體。
+- Pargrunen of Solace — Av；Living Lands 矮人殖民地。
+- Tranton family — Av；Dawnshore 殖民家族。
+- Vidarro family — Av；Paradis 總督家族。
+- Deveccho family — Av；Vailian 法律家族。
+- Bardatto family — Av；殖民商家（D2 起源）。
+- Valera family — D2/Av；Vailian 釀酒釀帆貿易。
+- Doemenel family — 同上（PoE1）。
+- Hadret family — Dyrwood 創國家族（PoE1）。
+- Wenfeld family — Defiance Bay 鐵匠家族。
+- Reymont family — Defiance Bay 大家族。
+- Harond family — Defiance Bay 貴族。
+
+---
+
+## 事件 (events)
+
+### 上古（Engwithan 與創神時代）
+- The Creation of the Gods — Engwithans 於 Sun in Shadow 用 adra 機器以數千同胞靈魂創造十一神。
+- Abydon's Sacrifice — Abydon 擲鎚阻擋 Ionni Brathr 月碎，自己被砸毀面孔。
+- The Fall of Engwith — Engwithans 在創神後逐代消散／遭其他神祇暗中清除。
+- The Inquisition — Thaos vs. Iovara 的宗教清洗（古代）。
+- The Capture of Iovara at Ossionus — Thaos 將 Iovara 押至 Sun in Shadow 折磨。
+- The Building of the Titans — Engwithans 造神祇巨型遺骸機器（Wael's titan 在 TFS 大量出現）。
+- The Birth of Sapadal — Living Lands 封閉 adra 系統自生第十二神（Av 隱藏背景）。
+
+### 中古—近代
+- Great Migration of the Glanfathans — 約 1350 AI，Glanfathans 集體南遷接管 Engwithan 廢墟。
+- Aedyr-Kulklin Wars — 約 2200–2398 AI，跨越兩千年。
+- Foundation of the Aedyr Empire — 2399 AI，Aedyr ＋ Kulklin 締約合併。
+- The Animancy Awakening — 2260 AI，第一具「不死人」造出，Aedyr 禁絕動畫術。
+- Discovery of the Eastern Reach — 2602 AI，Aedyr 探險家登陸後來的 Dyrwood。
+- The Broken Stone War — 2626 AI，Aedyr 殖民者推倒 adra menhir 引發與 Glanfathan 全面戰爭。
+- The War of Black Trees — Aedyr 與 Cythwood 部落間連年血戰。
+- War of Defiance（Hadret's Rebellion） — 2664–2668 AI，Admeth Hadret 反 Aedyr，Dyrwood 獨立。
+- Establishment of Readceras — Eothasian 朝聖者建立 vorlas 田。
+- Miracle of the Verdant Vorlas — Waidwen 神蹟，引發 Saint's War 序幕。
+- Rise of Waidwen / Divine King declared — 2802 AI，Waidwen 成 Readceras 神王。
+- The Saint's War — 2807–2808 AI，Readceras 入侵 Dyrwood。
+- The Battle of Halgot Citadel — Godhammer 引爆，Waidwen 與 Eothas 暫滅。
+- Waidwen's Legacy / Hollowborn Crisis — 2809–2823 AI，Dyrwood 連續十五年新生兒無靈。
+- The Battle of Yenwood Field — Dyrwood 內亂之決戰（PoE1 任務）。
+- Salvation Program — animancer 以動物靈魂植入 hollowborn，五年後產生「Wicht」事件。
+- The Wicht Massacres — 被「拯救」者進入青春期變狂，眾多 animancer 被處死。
+- The Battle of Nakaro Atoll — Rauatai 屠殺 Wahaki／Huana 艦隊。
+- Sinking of the Tenets of Iron — Huana Watershaper 報復 Rauatai 旗艦。
+- The Inquisition into Animancy（Defiance Bay 動畫術審判） — PoE1 主線事件，Watcher 公開揭發。
+- The Awakening of the Watcher — 2823 AI，Cilant Lîs 暴雨 adra 共鳴，Watcher 得能力。
+- The Defeat of Thaos at Sun in Shadow — PoE1 終局。
+- The Battle of Caed Nua / Eothas' Awakening — 2828 AI，Eothas 化為 adra 巨像離開 Caed Nua（D2 開場）。
+- The Pursuit through the Deadfire — Watcher 追擊 Eothas 之航程（D2 全程）。
+- The Battle for Ukaizo — D2 終局；Eothas 摧毀 The Wheel 機器。
+- The Forgotten Sanctum Affair — TFS；Wael's titan 險些覺醒。
+- The Beast of Winter — BoW；Watcher 進入 Rymrgand 之域阻止 Neriscyrlas。
+- Seeker, Slayer, Survivor Trials — SSS；Watcher 完成三位試煉化身。
+- The Founding of Solace — Pargrunen 在 Living Lands 建立殖民地。
+- Aedyr's Reclamation of the Living Lands — Av 背景；Inquisition／Steel Garrote 介入。
+- The Dreamscourge Outbreak — Av 主線事件，靈魂腐化瘟疫蔓延 Living Lands。
+- The Siege of Paradis — Av 主線決戰之一。
+- The Last Ice Age — Eora 史前大冰期（書籍提及）。
+- The Vanishing of Godlikes — 史中神族子嗣消失之斷代。
+- The Three Body Agreement — Aedyr＋Vailia＋Rauatai 早期協議。
+- The Rediscovery of Yezuha — 跨海重新接觸遠東。
+- The End of the Gods — 史末／預言中諸神終結（書名 The History of Eora XVI）。
+- The Throne of Woedica — Woedica 失寶座之歷史轉折。
+
+---
+
+## 地點 (places)
+
+### 大陸／地理區
+- Eora — 行星本身。
+- The Beyond — 神祇所在之域。
+- The Adra Realm — Watcher 通過 adra 進入的靈界（Av）。
+- The In-Between / The In-Between (TFS) — Watcher 在 D2＋TFS 中跨越的靈魂之間區。
+- The White Void — 跨界白色虛無區（D2／Av）。
+- Realm of the Beast of Winter — Rymrgand 之域（BoW）。
+- The Drowned Kingdom — D2 海底古城（DLC 入口）。
+- Eastern Reach — Dyrwood／Readceras／Eir Glanfath 所在大陸區。
+- Deadfire Archipelago — D2 主舞台群島。
+- The Living Lands — Av 主舞台殖民地大島。
+- White March / The White March — WM 主舞台北方雪山。
+- Naasitaq — Sagani 故鄉北極區。
+- Old Vailia — 已崩老家。
+- Ixamitl Plains — 平原大區。
+- Cythwood — Kulklin 故地叢林。
+- Aedyr / Greater Aedyr — 帝國本土。
+- Aedyr Continent — 跨洲大陸。
+- Yezuha — 遠東。
+- Abet — 西方海岸國（Av 提及）。
+
+### Dyrwood 城鎮／地區
+- Gilded Vale — Raedric 治下吊樹村；PoE1 開場。
+- Defiance Bay — Dyrwood 首都；分四區。
+- First Fires — Defiance Bay 政治中心區。
+- Brackenbury — animancer 富人區。
+- Copperlane — 中產區。
+- Ondra's Gift — 港口區。
+- The Gullet — Neketaka 貧民區（D2）。
+- Caed Nua — Watcher 領主城堡＋Endless Paths（PoE1 D2 開場）。
+- Brighthollow — Caed Nua 主宅。
+- Endless Paths of Od Nua（15 層） — Endless Paths Level 1–15。
+- Dyrford Village — Skaen 秘教所在小鎮（PoE1）。
+- Dyrford Crossing — 渡口。
+- Dyrford Ruins — 古廢墟。
+- Dyrford Mill — 磨坊。
+- Dyrwood Forest — 森林。
+- Twin Elms — Glanfathan 雙樹聖城。
+- Elms' Reach — Twin Elms 外圍。
+- Oldsong — Twin Elms 古老吟唱區。
+- Hearthsong — Twin Elms 主市集。
+- Burial Isle — Twin Elms 葬島。
+- Heritage Hill — Defiance Bay 不死亂葬區。
+- Magran's Fork — 三叉口 Durance 出場地。
+- Madhmr Bridge — Godhammer 炸毀之橋。
+- Cilant Lîs — Watcher 覺醒之 Engwithan 廢墟。
+- Black Meadow — 古戰場。
+- Stormwall Gorge — Hiravias 出場峽谷。
+- Anslög's Compass — 海岸羅盤地。
+- Searing Falls — 龍棲瀑布。
+- Searing Falls Cave — 龍洞。
+- Lle a Rhemen — 古 adra 廢墟。
+- Pearlwood Bluff — 海崖。
+- Raedric's Hold — Raedric 城堡。
+- Lighthouse Ruin — 燈塔廢墟。
+- Mowrghek Îen — Glanfathan 地。
+- Clîaban Rilag — Saint's War 三戰之地與大型 adra 站。
+- Cliaban Rilag Ruins — 同上。
+- Lle a Rhemen — 同上類。
+- Yenwood Field — Yenwood 戰役地（PoE1 任務）。
+- Teir Evron — Engwithan 大殿（Twin Elms 區）。
+- Sun in Shadow — Engwithan 創神之地（PoE1 終局）。
+- Breith Eaman — 詛咒之地（PoE1）。
+
+### White March
+- Stalwart Village — Pargrunen 礦村（WM）。
+- Stalwart Mines — 礦坑。
+- Durgan's Battery — 已陷落 Pargrunen 巨型礦堡（WM）。
+- Durgan's Battery Foundry／Great Hall／Mines／West Tower — 子區。
+- Galvino's Workshop／Cabin — 矮人發明家工坊。
+- The White Forge — Abydon 鍛造處（WM2）。
+- Cragholdt Bluffs — Concelhaut 領地（WM）。
+- Cragholdt — Concelhaut 法師塔。
+- The Abbey of the Fallen Moon — Abydon 屍體上的修道院（WM2）。
+- Russetwood — 紅森林（WM）。
+- Whitestone Hollow — 雪谷（WM）。
+- Longwatch Falls — 瀑布（WM）。
+- Iron Flail Fort — Iron Flail 軍堡（WM2）。
+- Cayron's Scar — 山谷地。
+
+### Deadfire（D2 主舞台）
+- Port Maje — D2 開場港。
+- Maje Island — Port Maje 所在島。
+- Neketaka — Huana 首府。
+- Neketaka Streets — 主要街道。
+- Serpent's Crown — Neketaka 王宮高處。
+- Kahanga Palace — Huana 王宮。
+- Queen's Berth — Neketaka VTC 區。
+- Periki's Overlook — Neketaka Watershaper Guild 區。
+- The Sacred Stair — Neketaka 廟區。
+- Brass Citadel — Neketaka RDC 區。
+- Delver's Row — Neketaka 地下黑市。
+- The Gullet — Neketaka 底民區。
+- Old City — Neketaka 古城遺址。
+- Ondra's Mortar / Ondra's Reach — Neketaka 周邊。
+- Hasongo — Huana／RDC 衝突之島堡（D2）。
+- Crookspur Island — 奴隸貿易據點。
+- Fort Deadlight — Benweth 海盜堡（D2）。
+- Sayuka — Rauatai 殖民城鎮。
+- Dunnage — Príncipi 海盜城。
+- Fior mes Ivèrno — Vailian 殖民地（Av 中主要城市之一）。
+- Fior mes Ivèrno Docks — Av／D2。
+- Tikawara — Huana 部族村（D2）。
+- Sātahuzi — 部族村。
+- Tākowa — 部族地。
+- Poko Kohara — Engwithan 廢墟（D2 任務）。
+- Poko Kohara Ruins — 同上。
+- Splintered Reef — 沉沒礁（D2，Auranic Boss）。
+- The Sunken Crown — D2 任務地。
+- The Black Hound — Defiance Bay 旅店。
+- Ukaizo — Engwithan 古城，The Wheel 機器所在（D2 終局）。
+- Ukaizo Harbor — 入口。
+- Magran's Teeth — D2 火山群島（Helfire Colossus 巢）。
+- The Burning Shoals — D2 海域。
+- Ashen Maw — Eothas 巨像所在火山（D2）。
+- Foundations of the Ashen Maw — 同上深層。
+- The Black Isles — 海盜群島。
+- Crookspur — 奴隸島。
+- Junvik Village — Huana 部族村。
+- Kazuwari — D2 海域。
+- Maukotu's Canopy — 叢林。
+- Motare o Kōzi — 海溝。
+- Kōhatekana Expanse — 草原。
+- Razai Passage — 海峽。
+- Tangaloa Island／Maw — 神秘海。
+- Tehiwai Islands — 群島。
+- Karatapu Channel — 水道。
+- Kângati Islands — 群島。
+- Kābara Reku Shrine — 神龕。
+- Hōhina Ravine — 峽谷。
+- Mara-Mara Trench — 深溝。
+- Wakara Reef — 礁岩。
+- Wahaki — Wahaki 部族島嶼。
+- The Brass Citadel — 上文。
+- Fleetbreaker Castle — RDC 主堡。
+- Boa Hika Pass — 山口。
+- Rikuhu's Maw — 神話之口（Huana）。
+
+### D2 三大 DLC 地點
+- The Beast of Winter — DLC1 地名；Harbingers' Watch（BoW 起點）。
+- Harbingers' Watch — BoW 起點冰島。
+- The Dead Floe — BoW 冰之領域。
+- The Sentinel Wall — BoW 城牆。
+- The Drowned Kingdom — BoW 沉沒城（任務）。
+- Neriscyrlas' Lair — BoW 終戰。
+- Ivona's Threshold — BoW 過渡關。
+- Burial Isle — 同名地。
+- The Crystal Desert — SSS 主舞台。
+- Kazuwari — SSS 隱藏島。
+- The Bridge Ablaze — SSS 試煉橋。
+- Blood Sands — SSS 競技場（PoE1 名 Twin Elms 也用 Blood Sands？）。
+- Arena Sub-level — SSS Crucible 競技場底。
+- The Hanging Sepulchers — SSS。
+- The Halls Obscured — TFS Hand Occult 駐地。
+- The Halls of Presence — TFS Wael 大殿。
+- The Halls of Silence — TFS。
+- The Hall of Reconfiguration — TFS。
+- The Central Stacks — TFS 圖書館核心。
+- The Scriptorium — TFS。
+- The Restricted Section — TFS。
+- The Heart of Mystery — TFS Wael 核心。
+- The Enclosures — TFS 囚禁區（關 Bekarna）。
+- The In-Between (TFS) — TFS 過道。
+- The Endless Queries — TFS 任務地。
+
+### Avowed 地點
+- Dawnshore — Av 開場區。
+- Claviger's Landing — Av 港口。
+- Emerald Stair — Av 第二區（綠石階）。
+- Shatterscarp — Av 第三區（裂土）。
+- Galawain's Tusks — Av 第四區（獠牙）。
+- Paradis — Av 首都殖民城。
+- Northern Paradis／Southern Paradis — 子區。
+- Solace — Pargrunen 矮人城（Av）。
+- Thirdborn — Rauatai 流亡者村（Av）。
+- Fior mes Ivèrno — 上文（Av／D2 共有）。
+- Sayuka — Av／D2。
+- The Garden — Av 神聖之園（Sapadal 領域）。
+- The Sentinel Wall — Av。
+- Bear Cave、Ranger Headquarters、Warden's Lodge — Av 諸子地點。
+- Naku Tedek Grounds、Maxim's Claim、The Rise、Maxim's Claim Party Camp — Av 子地點。
+- Riverbend Party Camp、Overgrown Expanse Party Camp、Rolling Crags、Wildwoods、Wildwoods Plateau — Av Party Camp 系列。
+- Bentbranch Bog、Cockerel Forest、Murkwater Lagoon — Av 子地點。
+- Northweald — Av 地區。
+- Outcast's Respite — Av 廢屋。
+- Stranded Ship — Av 失事船。
+- The Wildwoods／Wildwoods Outskirts — Av。
+- Russetwood — 同名 Av 區。
+- Galawain's Maw — Av 神域之口。
+- Court of Bowing Ashes — Av Boss 戰場（？）。
+- The Catch、The Falls、The Strangleroot、The Sunken Crown — Av 名地。
+- The Garden、Felipe's Depression、Galee — Av 系列。
+- Ranger Outpost — Av 巡守站。
+- Forgotten Catacomb — Av 古墓。
+- Sanitarium — Av 收容所。
+- The Goose and Fox — Av／Defiance Bay 同名酒館。
+- The Charred Barrel、The Wild Mare、The Salty Mast、The Black Hound、The Kraken's Eye、The Pickled Eel、The Goose and Fox、The Mermaid's Den、The Wailing Banshee — 跨作酒館。
+- Lighthouse (Avowed) — Av 燈塔。
+- Maxim's Claim、Maxim's Claim Party Camp — 同上。
+- Rolling Crags、Rolling Crags Party Camp — 同上。
+- Old Pargrun Wall — Av。
+- Pargrun Cache (Dawnshore)／(Emerald Stair) — 寶庫。
+- Pargrun Waystation — 矮人驛站。
+- The Black Isles — 同上。
+- Crucible Keep — Av Crucible 騎士團堡（？）。
+
+### 其他知名地點
+- Bekarna's Observatory — D2 廢棄天文台。
+- Arkemyr's Manor — D2 法師宅邸。
+- The Oratory of Wael — D2 神龕。
+- Temple of Berath (Dyrford／Neketaka)。
+- Temple of Eothas / Temple of Gaun。
+- Temple of Hylea（PoE1／Av 共有同名）。
+- Temple of Ondra（PoE1／Av 共有）。
+- Temple of Abydon — White March Stalwart 改名後之神殿。
+- Temple of Skaen — Dyrford 地下密教。
+- Temple of Woedica — Defiance Bay 暗中據點。
+- Temple of Toamowhai — D2 Huana 神殿。
+- Temple of Decline — D2 Berath 神殿。
+- Temple of Revelation — D2 Wael 神殿。
+- Temple of Tangaloa Ruins — D2。
+- Shrine to Skaen — 跨作。
+- Shrine to Woedica — 跨作。
+- Sanza's Map Emporium — D2。
+- Sanza's Emporium — Av 同類。
+- Watcher's Mirror — D2。
+- Watcher's Residence — D2 鏡屋。
+
+---
+
+## 物品／技術 (items)
+
+### 核心神器／關鍵物
+- Pillars of Eternity（lore item） — 同名古書。
+- The Wheel — 諸靈再生之輪（既概念也具體機器，Engwithans 於 Ukaizo 建造）。
+- Godhammer / Godhammer Bomb — Magran 信徒造的反神原子彈，PoE1 史前事件之具現。
+- Ionni Brathr — Eora 最小衛星，曾被 Ondra 拉下後 Abydon 攔截。
+- Inadequately translated 名： **Ionni Brathr 殘片** — 散落山中之月之碎。
+- Splinter of Eothas — Av Sargamis 持有的匕首／聖物，可連通 Eothas。
+- Abydon's Hammer — Abydon 鍛造之神鎚（書 Abydon's Hands 提及）。
+- Fragment of Abydon's Hammer — 神鎚殘片，獨立 lore 物。
+- Godansthunyr — Abydon 信徒的傳奇鎚（神鎚名）。
+- Bronze Abydon Statuette — 信物。
+- Gauntlets of Greater Reliability — Abydon 聖物。
+- Magran's Blessing — Magran 聖物。
+- Magran's Favor — Magran 聖物。
+- Keeper of the Flame — Magran 之劍。
+- Belt of Magran's Chosen — Magran 之帶。
+- Berath's Bell／Berath's Black Bell — Berath 聖鈴。
+- Berath's Kiss — Berath 聖印。
+- Hair of Ondra — PoE1 lore 物（Cean Gŵla 鬼魂頭髮）。
+- Tear of Ondra — Ondra 聖物（Eothas 重生機制相關）。
+- Whispers of Yenwood — Yenwood 戰役遺留聖劍。
+- Adra Pearl — SSS／Av 重要神物。
+- Adra Enîach — Aedyr 帝國權杖（500 年古 adra 球）。
+- Ine Sycthrúa — Aedyr 「珍珠墓」靈魂顧問石圈。
+- Ina Geerd — 同 Adra Enîach 異名。
+- Engwithan Waystation — Engwithan 中繼遺跡（不止一個）。
+- Engwithan Digsite — Port Maje 開挖之古蹟。
+- The Weyc's Wand — Hand Occult 之杖（TFS）。
+- Hand Occult Robes — TFS。
+- Bekarna's Celestial Grimoire — Wael 隱密天文書。
+- Llengrath's Scroll of Final Slumber — 法師遺稿。
+- Llengrath's Annals (I–V) — Llengrath 著作五卷集。
+- The Modified Collected Annals of Llengrath — 修訂集。
+- Tayn's Scroll of Righteous Awakening — TFS。
+- The Theorems of Pandgram — 動畫術奠基論文。
+- The Annals of Llengrath — 上條。
+- Construct Command Scroll — 構造物命令卷。
+- Vault Schematics — 寶庫圖。
+- Periki's Devotion — Periki 遺物。
+- The Many Faces of Berath — Berath 著作。
+- The Many Pitfalls of Imp Husbandry — Av／D2 學者書。
+- The Most Unfortunate Tale of Favia and Bernat — Vailian 名劇。
+- Aim'Spirente — Vailian 海歌（lore 物）。
+- Heave-ho, Aim'Spirente! — 同上歌副歌（已併入主條）。
+- Erij's Radiance — Kulklin 古聖弓／劍。
+- Wodewys — Aedyr 古王戒。
+- Saint's War Armor — Edér 標誌甲。
+- Pipe（Edér's） — Edér 標誌物。
+- War Bow — Edér 標誌弓。
+- Devil of Caroc 構造身 — Devil 同伴本體。
+- Helig of Thein 之手稿 — 動畫術書。
+- Soulbound weapons — 技術系列；通靈兵器（PoE1+D2）。
+- Engwithan 機器（Sun in Shadow 機制／Wheel 機制） — 系統物。
+- Phantasmal Focus — Giatta 持有的動畫術裝置（Av）。
+- Iolfr's Raiments — BoW 服裝套。
+- Delem Raŵdha — Ethik Nôl 戰繪。
+- Glanfathan 戰繪 — 戰場血祭製品。
+- War Paint — 同上總稱。
+- 神鎚 Godansthunyr、神矛、聖鈴等 — 跨作 deity 聖物。
+- The Splinter of Eothas — 同上（Av 終局）。
+- Forged Vailian Trading Company Writ of Commission — VTC 偽證。
+- Bill of Sale 系列 — 奴隸／交易文件。
+- Lord Valtas' Will — 任務物。
+- Maia's Farewell / Pallegina's Farewell / Tekēhu's Farewell — D2 隊友離別信。
+- Trindig's Letter — D2 任務物。
+- Vianna's Diary／Research — Eothas 動畫術研究物。
+- Annals of the Pargrunen — Pargrunen 史書。
+- Maxims of the Pargrunen I–VI — Pargrunen 格言六卷。
+- The Iroccian Calendar — Av／D2 月曆系統說明（lore 物）。
+- 10 Years of Dawn — Eothas／Aedyr 史書（lore 物）。
+- The Soul Unbound (Ch. 9, 17, 20) — Av 三章節哲學書。
+- The History of Eora I–XVI — 16 卷世界史巨著。
+- The Aedyr Empire, Part 1/2 — Aedyr 帝國史。
+- The Dyrwood, Part 1–6 — Dyrwood 史六卷。
+- The Saint's War, Part 1/2 — 戰史。
+- Eir Glanfath, Part 1/2 — Glanfath 史。
+- The Blacksmith Knights — Knights of the Crucible 史。
+- The Giftbearer's Pilgrimage — Av 朝聖書。
+- The Four Forms of Watershaping — Huana 水操控書。
+- The Cult of the Sanguine Harvest — Skaen 教派書。
+- The Many Faces of Berath — Berath 神學書。
+- Maegfolc Orison I–VIII — 巨人祈禱八卷。
+- St. Waidwen: Farmer Become God — 聖典。
+
+---
+
+## 概念／設定 (concepts)
+
+### 形而上學／靈魂體系
+- The Wheel（諸靈再生之輪） — Engwithans 馴服／建構，靈魂死後分散重生機制；D2 結局可被摧毀。
+- Soul cycle / Reincarnation — 同上機制。
+- Soul essence（靈魂本質） — 通用概念。
+- Adra — 自然形成的綠色結晶，能承接靈魂與電流，Eora 魔法核心物。
+- Awakened Adra — 由 adra 衍生之活體 Adragan。
+- Luminous Adra — 發光 adra，Deadfire 特產。
+- The Beyond — 神祇之域。
+- Hollowborn（空靈兒） — 無靈嬰兒，Waidwen's Legacy。
+- Waidwen's Legacy — 同上之災情總稱。
+- Wicht — 動物靈植入後青春期變狂之兒童。
+- Awakening — Watcher 之超感能力（看靈魂、見前世）。
+- Watcher — 同上之命名。
+- Dreamscourge — Av 主線瘟疫，靈魂受 Sapadal 甦醒之溢能腐化。
+- Animancy — 動畫術，PoE 宇宙的「靈魂科學」。
+- Cipher — Glanfathan brishalgwin「心獵者」之現代演化，可讀靈感。
+- Brishalgwin — 上條古名／前身。
+- Chanter — 吟誦者，召喚遠古英雄之靈。
+- Storm Speaker — Huana 特化吟誦者（D2）。
+- Watershaper — Huana 水操控法師（D2）。
+- Druid — 諸文化德魯伊系。
+- Paladin — 信念誓約聖騎。
+- Priest — 神祇祭司。
+- Wizard / Grimoire — 法師與法書系。
+- Monk — 武僧／Nalpazca 等流派。
+- Ranger / Animal companion — 獵手與動物伴侶。
+- Rogue — 流氓系。
+- Fighter — 戰士系。
+- Barbarian — 蠻族系。
+
+### 神學／哲學
+- The Engwithan Pantheon — 十一神／十二神（含 Sapadal）。
+- The Gods — 通類條目。
+- Iovara's Heresy — 揭穿諸神虛假之古代運動。
+- The Leaden Key Doctrine — 必須隱藏諸神真相以維持秩序之教條。
+- The Steel Garrote Doctrine — Av Aedyr 之 Woedica 隱秘執行教義。
+- Sermon of Struggle — Magran 講道。
+- Daily Affirmations — Abydon 工人日課。
+- Salt of Magran — Magran 信仰實踐。
+- Sapadal's Garden — Av Sapadal 領域概念。
+- The Gardener — Sapadal 別名。
+- Dawnstars — Eothas 神諭三使（Sargamis、Eadnung、Modegund）。
+- Splintered God — Eothas Saint's War 後別名。
+
+### 種類／生態
+- Kith — 通類四大智種（人類／矮人／精靈／orlan）。
+- Wilders — 野化智種（aumaua／orlan／其他被視為亞於 kith）。
+- Godlike — 通類；不育、出生即被神標記。
+- Titans — Engwithan 巨大生體機器。
+- Eyeless — Abydon 無眼自修復巨型構造（PoE1 WM2／Av 提及）。
+- Blights — 元素／靈魂凝結成的元素精；Wind／Fire／Frost／Earth／Rain／Magma／Greater 多級。
+- Flesh construct — animancer 縫合構造人。
+- Construct（總類） — 含 Adra Animat／Animat／Animated Weapon。
+- Lich — 不死法師。
+- Fampyr — 心控吸血族。
+- Cean Gŵla — 海中怨女鬼。
+- Pŵgra／Mênpŵgra — 草原女妖。
+- Dargul／Gul／Algul — Skaen 系不死。
+- Adragan / Awakened Adra — adra 自起生命。
+- Delemgan — 樹靈。
+- Will-o'-Wisp、Shade、Phantom、Spectre、Wraith — 靈體類。
+- Skuldr / Vithrack — 蛛形心靈種。
+- Xaurip / Lagufaeth / Nāga / Imps / Wicht — 野獸／半智種類。
+- Stelgaer — Glanfathan 神獸大貓。
+- Khwarg — 巨爪獸（PoE1 名 Pumpkin 為其特例）。
+- Stink Pigeons — Defiance Bay 飛禽（玩笑）。
+- Maegfolc — 雪原巨人。
+- Mountain Giants — 同類。
+- Dragon（Alpine／Sky／Adra） — 三種龍。
+- Boreal Hunter — 北極獵人。
+- Imps — TFS／Av 共通類。
+- Sigil（Sigilmaster Auranic 之術） — 符印魔法。
+
+### 政治／文化
+- Fercönyng — Aedyr 帝皇尊號。
+- Mecwyn / Héamecwyn — Aedyr 帝后尊號。
+- Haemneg — Aedyr 雙皇室聯姻制。
+- Duc — Dyrwood／Vailian 公爵。
+- Erl — Dyrwood 伯爵。
+- Thayn — Dyrwood 鄉紳。
+- Gréf — Dyrwood 治理者。
+- Anamfath — Glanfathan 「靈魂之首」族長。
+- Riow — Glanfathan 賢者議。
+- Ranga — Huana 部族首領。
+- Mataru／Roparu／Kuaru — Huana 三大階級。
+- Príncipo — Vailian 王公。
+- Príncipi — Vailian 海盜兄弟會自我稱呼。
+- Cantec — Pargrunen 進入古堡之吟詠咒。
+- The Three Body Agreement — Aedyr+Vailia+Rauatai 早期協議制度。
+- Vorlas — 紫色染料植物，Aedyr／Readceras 經濟命脈。
+- Whiteleaf — Eora 大麻類植物（Edér 抽的）。
+- Iroccian Calendar — Eora 標準曆。
+- Aedyran／Eld Aedyran／Hylspeak／Vailian／Glanfathan／Huana — 語言（屬概念）。
+
+### 跨作關鍵設定
+- The Awakening of the Player Character — PoE1／D2／Av 共有「被神接觸／改寫」設定。
+- Berath's Pact — D2 開場 Berath 與 Watcher 之契約。
+- The Five Suns — 「五日之子」古代預言（SSS／D2）。
+- The Endings 系統 — PoE 系列三作的選擇後果繼承。
+
+---
+
+## 掃描方法 + 涵蓋說明
+
+**方法**：對 `working/Pillars_of_Eternity/raw/` 內 10 個 bucket 共 2853 頁全數 grep 出 `PAGE:` 標題清單（companions 17、world_lore 74、factions 225、poe1_characters 499、d2_characters 355、avowed_characters 331、locations 552、quests 190、lore_items 448、creatures 162），再抽樣讀取重要條目內文（諸神／隊友／DLC 反派／Avowed 主軸人物如 Sapadal、Sargamis、Kai、Giatta、The Envoy 等）以判定跨作關聯與背景。`world_lore.txt` 同時翻讀以建立概念框架（Engwithans／Wheel／Adra／Hollowborn／Saint's War／Dreamscourge）。
+
+**三作合併處理**：
+- **同一角色跨作出現**（Eothas／Berath／Pallegina／Aloth／Edér／Eder／Eothas／Pargrunen／Lödwyn／Bekarna 等）僅列一條，附註 `PoE1+D2+Av` 出現範圍。
+- **同名陣營跨作**（Steel Garrote、Children of Dawnstars、Pargrunen、Watershapers、Príncipi、VTC、RDC、Bardatto／Valera 家族等）同條處理，註明在哪幾遊戲扮演何種角色。
+- **DLC 標記**：BoW（Beast of Winter）、SSS（Seeker, Slayer, Survivor）、TFS（The Forgotten Sanctum）、WM（White March I+II）、Av（Avowed）。
+- **跨類別實體**（Eyeless 既是種族也是 Abydon 神器、Adra 既是物也是概念、The Wheel 既是地點機器也是概念）：收錄於主類別並在另類加 `→ 見 X`。
+
+**取捨／Phase 3 需注意**：
+- Avowed 條目中**約一半為 stub**（自動生成，僅標明「is a character in Avowed」），名單已含名稱但深度資訊有限——Phase 3 撰寫時需藉助 quests.txt 與 locations.txt 重建情境，或標註資料極簡。
+- PoE1／D2 大量純色情商店店主、衛兵、酒客（Refugee／Sellsword／Patron／Audience Member／Cook）已不列入；具名角色才收。
+- 跨作神祇章節已預擬合一處理（不依出現遊戲分裂）。
+- Av 出現之 Children of Dawnstars 同盟、Sapadal／Dreamscourge 主線，需作為新增神話主軸與 PoE1+D2 整合，預計 Phase 5 速覽合成時將「諸神創造／Engwith 真相／Eothas 毀輪／Sapadal 自生」串為一條完整神話弧。
+- 部分人物（Bekarna、Llengrath、Concelhaut、Arkemyr、Maerwald）橫跨多作 DLC 與本篇，已合併；後續 Phase 3 撰寫時注意其各階段身份。
