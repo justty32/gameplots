@@ -1,0 +1,5720 @@
+
+======================================================================
+PAGE: Black Speech
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Black_Speech
+======================================================================
+
+"Can you see anything?" "Nothing. There's nothing."
+The descriptive majority of this article's text is
+unsourced
+, and should be supported with
+references
+.
+The Black Speech text inscribed on the
+One Ring
+Frodo:
+"It's some form of Elvish. I can't read it."
+Gandalf:
+"There are few who can. The language is that of Mordor, which I will not utter here."
+—
+Frodo Baggins
+and
+Gandalf the Grey
+, on the inscription on the
+One Ring
+,
+The Lord of the Rings: The Fellowship of the Ring
+The
+Black Speech
+, also known as the
+Dark Tongue of Mordor
+, was the official language of
+Mordor
+.
+History
+It is said that
+Sauron
+created the Black Speech
+to be the unifying language of all the servants of Mordor, used along with different varieties of
+Orkish
+and other languages used by his servants.
+J.R.R. Tolkien
+describes the language as existing in two forms, the ancient "pure" forms used by
+Sauron
+himself, the
+Nazgûl
+, and the
+Olog-hai
+, and the more "debased" form used by the soldiery of the
+Barad-dûr
+at the end of the
+Third Age
+. The only example given of "pure" Black Speech is the inscription upon the
+One Ring
+:
+"
+Ash nazg durbatulûk, ash nazg gimbatul,
+ash nazg thrakatulûk, agh burzum-ishi krimpatul.
+"
+—
+The Lord of the Rings
+,
+The Fellowship of the Ring
+, Book Two, Ch. II: "
+The Council of Elrond
+"
+When translated into English, these words form the lines:
+"
+One Ring to rule them all, One Ring to find them,
+One Ring to bring them all and in the darkness bind them.
+"
+—
+J.R.R. Tolkien
+'s epigraph to
+The Lord of the Rings
+These are the first two lines from the end of a verse about the
+Rings of Power
+.
+Many Orkish dialects had adopted words from the Black Speech. One
+Orc
+from the band that took
+Merry
+and
+Pippin
+prisoners utters a tirade of curses at one point that is presumably Orkish, but apparently contains at least some elements of Black Speech. Chiefly, the Orcs in general could speak Common Speech, but many Mordor-Orcs, and Northern Orcs and Orc-kind in general, used the Black Speech as their language (though it was more a mix of Black Speech and Orkish).
+Black Speech could be understood by anyone who wore the
+One Ring
+.
+Samwise Gamgee
+wore the ring in the
+Tower of Cirith Ungol
+to be invisible from Orcs of Sauron, and in the process heard many of the Orcs' plans.
+Speaking the pure Black Speech had a harshening effect on the speaker's voice and a darkening effect on the speaker's surroundings, as seen when Gandalf recited the Ring Poem at the
+Council of Elrond
+. This effect did not extend to Black Speech loanwords in other languages, such as the word "Nazgûl".
+Background
+In real life, J.R.R. Tolkien created this language with the intention of making it harsh and ugly.
+[
+citation needed
+]
+The Black Speech is unfortunately one of the more incomplete languages in Tolkien's novels, as the forces of good are reluctant to utter it. Unlike
+Elvish
+languages, there are no poems or songs appear written in it (apart from the Ring's inscription), and because Tolkien designed it to be unpleasant in his own mind, he did not enjoy writing in it; according to Tolkien, he once received a goblet from a fan with the Ring inscription on it in Black Speech, and Tolkien, finding it distasteful, never drank from it and used it only as an ashtray.
+[
+citation needed
+]
+The result is a random collection of words that are hard to actually use in day-to-day conversation. We learn from the text in the
+ring
+and its translation that the Black Speech is a strongly
+agglutinating language
+.
+[
+citation needed
+]
+Russian historian Alexander Nemirovski identified an ergative case in
+durbatuluk
+and
+thrakatuluk
+according to a common suffix -
+tuluk
+meaning "them all", relating to the verb's object rather than to its subject. This was found as a similarity to other ergative languages such the
+Hurrian language
+of ancient Mesopotamia.
+[
+citation needed
+]
+The Black Speech of Mordor is similar to
+Enochian
+, formulated by Elizabethan occultist
+John Dee
+which was demonized as language of Satan.
+[
+citation needed
+]
+Words & fan expansion
+Some of these words are presumed true to
+J.R.R. Tolkien
+'s books; most others are part of the
+Neo-Black Speech
+lexicon invented in the making of
+Peter Jackson
+'s
+The Lord of the Rings
+film trilogy
+and
+The Hobbit
+film trilogy
+, or similar additions from
+The Lord of the Rings: The Rings of Power
+series, and some are from fans (with various reasoning or not).
+-a - to (Debased Black Speech)
+alba - elf
+Kishdibadoth - search it
+Hash bulzu (sounds) - It is time
+Trugiyok Ista= March with me
+Ist - My
+Zum - Children
+Bagronkat - suffering
+Nampat - death
+agh - and (for conjoining sentences)
+ash - one
+burz - dark
+burzum - darkness
+durb - rule
+carnish - ambush
+gazat - dwarf
+ghâsh - fire
+gimb - find
+glob - filth
+gûl - wraith
+hai - folk
+-ishi - in
+krimp - bind
+Kipak= told
+Shupák= loved (or love? Is used in the context of love)
+lug - tower
+mas - mine
+nazg - ring
+nugu - nine
+olog - troll
+ombi - seven
+ronk - pit/pool (
+bagronk
+, as muttered by an Orc in
+The Two Towers
+, means "dung-pit")
+sha - and (for binding nouns)
+shara - man
+sharkû - old/old man (Debased Black Speech)
+shre - three
+snaga- slave
+thrak - bring
+-tul - -them
+ûk - all
+-um - -ness
+uruk - orc
+zagh - mountain pass/mountains
+Hai Uk Zambat - All hail
+Neo-Black Speech
+"
+Neo-Black Speech
+"
+[
+citation needed
+]
+is the conventional name of various attempts of expand Black Speech, all non-canonical.
+Because Tolkien intended Black Speech to sound unpleasant and harsh, he did not enjoy writing in it, and for this reason he likely created very little vocabulary. Thus, for
+Peter Jackson
+'s
+The Lord of the Rings
+film trilogy
+, linguist
+David Salo
+expanded on what words were known, to provide words in new phrases, used primarily in the soundtrack. Salo's additions were the first major expansion to be called "Neo-Black Speech". In
+The Hobbit
+film trilogy
+, at one point in
+The Hobbit: The Desolation of Smaug
+,
+Azog
+speaks to
+the Necromancer
+in the Black Speech.
+Some
+Orcs
+in certain adaptations know nothing of Black Speech, such as
+Ratbag
+in
+Middle-earth: Shadow of War
+(2017), who cannot understand the Neo-Black Speech of one of his
+Olog-hai
+friends.
+One substantial Neo-Black Speech lexicon, called
+Shadowlandian Black Speech
+, was invented by fans sometime before 2014 at the website
+Mordor ~ The Land of Shadow
+.
+See also
+Melkian
+Orkish
+Translations
+Foreign Language
+Translated name
+Afrikaans
+Swart Spraak
+Albanian
+Fjala e zezë
+Amharic
+ጥቁር ንግግር
+Arabic
+الكلام الأسود
+Aragonese
+Luenga negra
+Armenian
+Սեւ ելույթը
+Asturian
+Llingua negra
+Azerbaijani
+Qara çıxış
+Basque
+Hizkuntza beltza
+Belarussian Cyrillic
+Чорная мова
+Bengali
+ব্ল্যাক বাক
+Bosnian
+Crni Govor
+Bulgarian Cyrillic
+Черна реч
+Burmese
+အနက်ရောင်မိန့်ခွန်း
+Cambodian
+សុន្ទរកថាខ្មៅ
+Catalan
+Llengua Negra
+Cebuano
+Itom nga Sinultihan
+Chinese
+黑暗語
+Cornish
+Kows Du
+Croatian
+Crni Govor
+Czech
+Černá řeč
+Danish
+Sort Tale
+Dutch
+Zwarte Taal
+Esperanto
+Nigra lingvo
+Estonian
+Must kõne
+Faroese
+Svartur mál
+Filipino
+Itim na pananalita
+Finnish
+Musta kieli
+French
+Noir parler/Langue noire
+Frisian
+Swarte Rede (Western)
+Galician
+Lingua negra
+Georgian
+შავი ენა
+German
+Schwarze Sprache
+Greek
+Μαύρη Ομιλία
+Gujarati
+બ્લેક સ્પીચ
+Haitian Creole
+Nwa Lapawòl
+Hebrew
+שפה השחורה
+Hindi
+काले भाषण
+Hmong
+Hais lus dub
+Hungarian
+Fekete Beszéd
+Icelandic
+Svartur Tal
+Indonesian
+Bicara Hitam
+Irish Gaelic
+Teanga dhubh
+Italian
+Linguaggio Nero
+Japanese
+暗黒語
+Javanese
+Wicara Ireng
+Kannada
+ಕಪ್ಪು ಭಾಷೆ
+Kazakh
+Қара тіл (Cyrillic) Qara til (Latin)
+Korean
+암흑어
+Kurdish
+Axaftina Reş (Kurmanji)
+Kyrgyz Cyrillic
+Каралар тили
+Laotian
+ພາສາສີດໍາ
+Latin
+Lingua Atra
+Latvian
+Melnā runa
+Lithuanian
+Juodoji kalba
+Luxembourgish
+Schwaarz Ried
+Macedonian Cyrillic
+Црна говор
+Malagasy
+Mainty Miteny
+Malaysian
+Ucapan Hitam
+Malayalam
+ബ്ലാക്ക് സ്പീച്ച്
+Maltese
+Diskors Iswed
+Maori
+Kōrero Pango
+Marathi
+काळा भाषण
+Mongolian Cyrillic
+Хар хэлсэн үг
+Nepalese
+काला भाषण
+Norwegian
+Svart Tale
+Occitan
+Lenga negra
+Pashto
+تور وینا
+Persian
+زبان سیاه
+Polish
+Czarna Mowa
+Portuguese
+Língua Negra
+Punjabi
+ਕਾਲੇ ਸਪੀਚ
+Romanian
+Limba Neagră
+Romansh
+Linguatg Naira
+Russian
+Чёрное наречие
+Samoan
+Tautala Uliuli
+Sanskrit
+राजिका वाच्
+Sardinian
+Limba de sos Nieddos
+Scottish Gaelic
+Dubh Òraid
+Serbian
+Црни Говор (Cyrillic) Crni Govor (Latin)
+Sicilian
+Lingua nera
+Sindhi
+ڪارو تقرير
+Sinhalese
+කළු කථාව
+Slovak
+Temná reč
+Slovenian
+Črni govor
+Somali
+Hadalka Madow
+Spanish
+Lengua Negra
+Sundanese
+Hideung Biantara
+Swahili
+Nyeusi Hotuba
+Swedish
+Svartspråket
+Tajik Cyrillic
+Суханронии сиёҳ
+Tamil
+கறுப்பு பேச்சு
+Telugu
+బ్లాక్ స్పీచ్
+Thai
+แบล็กสปีช / ภาษามืด
+Turkish
+Kara Lisan
+Turkmen
+Gara dil
+Ukrainian Cyrillic
+Чорна говірка
+Urdu
+سیاہ خطاب
+Uzbek
+Қора Нутқ (Cyrillic) Qora Nutq (Latin)
+Venetian
+Lenguajo moro
+Vietnamese
+Chữ Đen
+Welsh
+Lleferydd Du
+Xhosa
+Intetho Abamnyama
+Yiddish
+שוואַרץ שפּראַך
+References
+Notes
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Common Eldarin
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Common_Eldarin
+======================================================================
+
+Common Eldarin
+, or simply
+Eldarin
+, was the primordial tongue of the
+Eldar
+, the
+Elves
+that took part in the
+Great Journey
+.
+History
+Originally, after their
+Awakening
+in the east of
+Middle-earth
+all the Elves spoke
+Primitive Quendian
+.
+After
+Oromë
+discovered them in
+Cuiviénen
+, the
+Valar
+decided to
+overthrow
+Melkor
+from his fortress of
+Utumno
+and invite the Elves to
+Aman
+, in order to protect them from the power of the fallen Vala. The majority of the Elves accepted this invitation, and were named "
+Eldar
+" by Oromë. The others that refused to take part in the
+Great Journey
+and leave Middle-earth were named "
+Avari
+".
+This first
+sundering
+caused the separation of Common Eldarin from the many
+Avarin
+languages, and their original language was forgotten. Since very little is known of the languages spoken by the Avari, it can be difficult to distinguish between the linguistic features developed secondly in Common Eldarin and the original features of Primitive Quendian.
+Later, Common Eldarin split into
+Ancient Quenya
+and
+Ancient Telerin
+, because the
+Teleri
+lingered behind while the
+Vanyar
+and
+Ñoldor
+quickly reached the shores of the
+Belegaer
+. From Ancient Telerin descended
+Falmarin
+,
+Sindarin
+, and
+Nandorin
+, while
+Quenya
+was divided into two dialects:
+Vanyarin Quenya
+and
+Ñoldorin Quenya
+.
+See also
+Elvish
+Neo-Eldarin
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Doriathren
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Doriathren
+======================================================================
+
+"Can you see anything?" "Nothing. There's nothing."
+The descriptive majority of this article's text is
+unsourced
+, and should be supported with
+references
+.
+"It's not ready yet." "Ready for what?" "
+Reading.
+"
+The majority of this article, or particular section, is below the wiki's standards; please
+rewrite
+and improve.
+Doriathren
+is a
+language
+(or dialect) devised by
+J.R.R. Tolkien
+.
+Originally it was the language of
+Doriath
+, which was only loosely related to the
+Ilkorin
+tongue, i.e. the language of the other
+Elves
+of
+Beleriand
+. But as Tolkien later changed his conceptions regarding the names and interrelations of his languages and their speakers it became only a dialect of Sindarin (which now took the place as
+the
+Beleriandic language.
+Thus it is unclear whether the Doriathren of the Etymologies is the same as that of the post
+The Lord of the Rings
+period.
+Doriathren in the
+Etymologies
+The Doriathren of the
+Etymologies
+differs from the Welsh-sounding language (then called Ñoldorin, later
+Sindarin
+) in several aspects.
+Grammatical aspects
+The plural is generally marked by suffix
+-in
+, while in Ñoldorin we normally find vowel changes and only very few cases of
+-in
+(which might be a borrowing). This might consists of the old plural endings
+-î
+(as in
+Quenya
+and originally in Sindarin (later only observable in the vowel changes it triggered) and
+-m
+(as sometimes in Quenya).
+The gentive is in the singular marked by the suffix
+-a(n)
+, which we find in the word
+Nauglamîr
+(originally
+naugla mîr
+, lit. 'dwarf's jewel'), in the plural by
+-ion
+(as in Quenya), which both do not occur in Ñoldorin (where the singular was originally ('Old Ñoldorin') marked by
+-en
+, which was later lost).
+Phonetic aspects
+Quite unlike Ñoldorin we do not find any i-affection in Doriathren. I.e. while old
+urkô
+, pl.
+urkî(m)
+changed to Ñoldorin
+orch
+, pl.
+y
+rch
+we find
+urch
+, pl.
+u
+rchin
+in Doriathren.
+Then there are some minor differences, like not shifting archaic
+u
+to
+o
+(as is sometimes found in Ñoldorin also), some missing lenitions, change of archaic
+â
+to
+ô
+rather then to
+au
+(as in Ñoldorin) and the like.
+Doriath-Sindarin
+The Sindarin dialect of Doriath in Tolkien's post-
+The Lord of the Rings
+conceptions is much poorer attested. It is only known that it was more archaic than other dialects, and that it still used the genitive
+-a
+, as seen on the tombstone of
+Túrin
+(
+Dagnir Glaurunga
+, ‘Slayer
+of
+Glaurung
+’) and in the still occurring name
+Nauglamîr
+.
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Falathren
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Falathren
+======================================================================
+
+"Can you see anything?" "Nothing. There's nothing."
+The descriptive majority of this article's text is
+unsourced
+, and should be supported with
+references
+.
+Falathren
+is the dialect of
+Sindarin
+spoken by the
+Falathrim
+,
+the
+Elves
+who lived along the shores of
+Beleriand
+in the region called the
+Falas
+during the
+First Age
+.
+The Falathrim were part of the
+Teleri
+who stayed behind on the western shores of
+Middle-earth
+instead of continuing to
+Valinor
+. They were befriended by the
+Maia
+Ossë
+and became sea-loving Elves. Their speech descended from Common Telerin, like Sindarin, but developed unique features due to isolation. The
+Ñoldor
+, upon returning to Middle-earth, called the language of Beleriand Sindarin, and considered Falathren a dialect of it.
+Falathren was "in many ways different" from other Sindarin dialects, but still mutually intelligible.
+Differences were mostly phonological and lexical, not enough to prevent communication. After the destruction of the
+Havens of the Falas
+and later mingling at the
+Mouths of Sirion
+, Falathren merged with other dialects, eventually disappearing as a distinct form.
+Linguistic differences between Falathren and standard Sindarin:
+Retention of older sounds:
+Falathren preserved some archaic Telerin features that other Sindarin dialects lost. For example, initial
+p-
+was often retained where standard Sindarin shifted to
+b-
+.
+Less lenition:
+Consonant softening (lenition) was less extensive in Falathren than in central Sindarin.
+Vowel shifts:
+Falathren tended to keep older vowel qualities, making it sound “closer to Telerin.”
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Iglishmêk
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Iglishmêk
+======================================================================
+
+"And while I can honestly say I have told you the truth, I may not have told you all of it."
+At least part of this article or section is of insufficient length or lacks important details. Please
+expand it
+if you can.
+Iglishmêk
+was a
+Dwarvish
+language of silent gesture-signs.
+Considered far more elaborate and organized than the Elvish system of
+Mátengwië
+,
+Iglishmêk
+was a secondary language which Dwarves started learning almost as soon as their spoken one. This was used for secret communication amongst themselves when dealing with strangers, and unlike the uniformity of
+Khuzdûl
+, Iglishmêk varied greatly between Dwarvish communities. The gestures were very swift and subtle and could hardly be detected, let alone understood, by uninitiated onlookers. They were no more willing to teach this than their spoken language, but some Ñoldorin loremasters were allowed to learn enough to understand.
+Examples
+"I am listening" = slight raising of right-hand forefinger, followed by a similar raising of the left-hand forefinger.
+"Listen!" = slight raising of both forefingers simultaneously.
+Etymology
+Magnus Åberg has theorized that the word
+iglishmêk
+is composed of *
+'igal
+(*"language", as in
+aglâb
+) and *
+shimak
+(*"gesture").
+Inspiration
+The concept of communication by signs used by non-deaf users is very similar to the
+monastic sign languages
+created by
+Christian
+monks in order to keep mandatory or voluntary silence.
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Khuzdûl
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Khuzdûl
+======================================================================
+
+A translation chart from Khuzdûl into Roman letters
+Khuzdûl
+,
+also known as
+Dwarvish
+, was the
+language
+of the
+Dwarves
+, written in the 50-letter
+Cirth
+script (Runes). It appears to be structured, like real-world Semitic languages, around the triconsonantal roots:
+kh-z-d
+,
+b-n-d
+,
+z-g-l
+.
+History
+The language was created by the
+Vala
+Aulë
+, creator of the
+Seven Fathers of the Dwarves
+, who taught them "the language he had devised for them" unrelated to the languages of the
+Elves
+.
+The language was rarely heard by outsiders and was a secret, and was thus not recorded by
+Elves
+or
+Men
+. The Dwarves also had a language of silent gesture-signs known as
+Iglishmêk
+.
+In the early days of Middle-earth, before Men entered
+Beleriand
+, they had contact with the Dwarves of the
+Blue Mountains
+and further East, and the
+Taliska
+language was devised, similar to the Dwarven tongue. Taliska would be the ancestor of
+Adûnaic
+, the later tongue of
+Númenor
+, and of the
+Common Speech
+.
+The only Khuzdûl line in
+J.R.R. Tolkien
+'s primary writings is
+Gimli
+'s battle-cry "
+Baruk Khazâd! Khazâd ai-mênu!
+", meaning, "Axes of the Dwarves! The Dwarves are upon you!"
+.
+Conceptual history
+The
+Lhammas
+tells that Khuzdûl was uniquely derived from a separate language family called
+Aulëan
+, devised by
+Aulë
+the Smith, the
+Vala
+who created the
+Dwarves
+. Khuzdûl is unique in belonging to Aulëan, unlike the
+languages of Elves
+and
+Men
+, which are of the
+Oromëan
+language family.
+Background
+Khuzdûl was largely inspired by
+Semitic languages
+. In fact, Tolkien wanted it to sound much like Hebrew, and noted that both Jews and his Dwarves were "once natives and aliens in their habitations, speaking the languages of the country, but with an accent due to their own private tongue".
+Another reason Hebrew was chosen as a basis for Khuzdûl is that it is unlike any European languages, equivalent to the contrast between Dwarven speech and Elvish languages. Although Dwarven symbols were identical to
+Germanic Runes
+, the symbols that correlate to specific English letters have been mixed around, and a few runes are inverted.
+Neo-Khuzdûl
+Neo-Khuzdûl
+is the conventional name of various attempts of expand the Khuzdûl language invented by
+J.R.R. Tolkien
+.
+Because in lore the Dwarves don't use their own language with the outsiders, Khuzdûl is very poorly attested throughout Tolkien's writings. For this reason the scholars that attempted to reconstruct Khuzdûl necessitated to create a wholly original vocabulary and grammar rules, mostly based on
+Semitic languages
+, and Hebrew in particular. In the 2000's, linguist
+David Salo
+created an expanded Dwarvish vocabulary used in
+Peter Jackson
+'s films. For
+The Hobbit
+film trilogy
+. In particular, in
+The Desolation of Smaug
+he fashioned
+Thorin
+'s insult to
+Thranduil
+, "
+îsh kakhfê ai-‘d-dûr-rugnul
+", meaning "May I urinate upon the naked-jawed [unbearded Elves]", based off of
+Gimli
+'s Extended Scene insult to
+Haldir
+in
+The Fellowship of the Ring
+, "
+Ishkhaqwi ai durugnul
+", which merely meant "I spit on your grave".
+The website "The Dwarrow Scholar" holds an entire fan-expanded Neo-Khuzdûl lexicon that surfaced in 2012.
+Translations
+Foreign Language
+Translated name
+Greek
+Κχουζντούλ
+Hebrew
+קהוזדול
+Japanese
+クズドゥール
+Persian
+خوزدول
+Russian
+Кхуздул
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Languages
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Languages
+======================================================================
+
+Various
+languages
+are used in
+J.R.R. Tolkien
+'s writings about
+Middle-earth
+, including
+The Hobbit
+,
+The Lord of the Rings
+trilogy, and
+The Silmarillion
+. The creation of the
+mythology
+that manifests in those works began with Tolkien's passion for language in general
+and for
+philology
+, which is the branch of knowledge dealing with the structure, historical development, and relationships of existing languages. Creating languages was a major early pastime of Tolkien's, ever since his years as a youth.
+"
+The invention of languages is the foundation [of my fictional writings]. The stories were made rather to provide a world for the languages than the reverse. To me a name comes first and the story follows. I should have preferred to write [The Lord of the Rings] in 'Elvish'.
+"
+—
+Tolkien in a
+1955 letter
+to Houghton Mifflin
+When discussing the languages of Middle-earth, it is necessary to consider two aspects: their "primary-world" history, namely their literal development by Tolkien as a linguist, and their "secondary world" history, their imagined historical development in the history of Middle-earth.
+Background
+Tolkien's pursuit of language-creating occupied much of his life. He is known to have constructed his first languages at a little over thirteen years of age and continued to ponder upon his creations until his death more than sixty-five years later. Language invention had always been tightly connected to the mythology that Tolkien developed, as he found that a language could not be complete without the history of the people who spoke it.
+Animalic
+and
+Nevbosh
+("New Nonsense") were the first languages that Tolkien invented during his youth and from the latter he developed another language called
+Naffarin
+(inspired by
+Latin
+and
+Spanish
+).
+Tolkien became a professional linguist and specialist in the
+Old English
+language, but was also interested in many languages outside his field. For example, he started to create and then abandoned
+Mágol
+(or
+Mágo
+), based on
+Hungarian language
+and conceived it as Mannish and then
+Orkish
+language.
+He found special love for the
+Finnish language
+(he described the finding of a Finnish grammar book as "entering a complete wine-cellar filled with bottles of an amazing wine of a kind and flavour never tasted before"
+). Finnish morphology, particularly its rich system of
+inflection
+, gave rise in part to
+Quenya
+. Another of Tolkien's favorites
+Welsh
+- features of Welsh phonology found their way to
+Sindarin
+. Numerous words were borrowed from existing languages, but less and less obviously as Tolkien progressed.
+Although the Elvish languages
+Sindarin
+and
+Quenya
+are the most famous and the most mature languages that Tolkien invented for his mythology, there were others. All belonged to a family of Elvish dialects originating in
+Common Eldarin
+, the language common to all
+Eldar
+, which in turn originated in "
+Primitive Quendian
+", the common root of the Eldarin and
+Avarin
+languages. In addition, there is a separate language-family spoken by
+Men
+, the most prominent member of which was
+Westron
+(derived from the
+Númenórean
+language,
+Adûnaic
+) or the "Common speech" of the peoples of
+The Lord of the Rings
+. Most Mannish tongues showed Elvish influences. Several independent languages were drafted as well, like
+Khuzdûl
+, of the Dwarves, and
+Valarin
+(the tongue of the
+Valar
+). Other languages include the
+Black Speech
+, created by
+Sauron
+during the
+Second Age
+.
+Elvish scholarship
+Although the study of Tolkien's languages is as a rule not taken seriously by mainstream linguistics, a number of serious scholars have worked on compiling all that can be recovered about their histories and grammars.
+An early book dedicated to Eldarin is
+An Introduction to Elvish and to Other Tongues
+by
+James D. Allan
+(published by Bran's Head Books), written before the publication of
+The Silmarillion
+in 1977 and therefore mostly outdated.
+There are several journals dedicated to the subject:
+Quettar
+, Bulletin of the Linguistic Fellowship of the
+Tolkien Society
+, edited by Julian C. Bradfield, the oldest Eldarin publication.
+Vinyar Tengwar
+and
+Parma Eldalamberon
+are published by the
+Elvish Linguistic Fellowship
+.
+Tyalie Tyelellieva
+is published by
+Lisa Star
+.
+Mythlore
+is published by the
+Mythopoeic Society
+.
+Beyond Bree
+is published by
+Nancy Martsch
+.
+Tolklang
+,
+Elfling
+, and
+The Lambengolmor List
+are mailing lists dedicated to Tolkien linguistics.
+Secondary-world history
+See also
+Lhammas
+and
+Elvish
+.
+In the fictitious history of Middle-earth, the tongues of the Elves are separated as part of the speakers
+emigrate
+to
+Aman
+while others stay behind, leading to a split of
+Quenya
+(High-Elvish, or "Elf-Latin") and
+Sindarin
+.
+Middle-earth linguistics
+The invention of writing is attributed to
+Rúmil
+, who first invented an alphabet: the
+Sarati
+(literally "letters").
+Fëanor
+later enhanced and further developed this alphabet into the
+Tengwar
+, which were spread to Middle-earth by the
+Ñoldor
+and remained "commonly used in the West-lands" by the
+Third Age
+.
+Daeron
+of
+Doriath
+, independently of Rúmil and Fëanor, had invented the
+Cirth
+runes, but these were only used for inscriptions, and otherwise were replaced by the use of tengwar, except for among the
+Dwarves
+.
+An important source of Middle-earth linguistic scholarship is
+Pengolodh
+of
+Gondolin
+, a lore-master who wrote in Quenya and in Sindarin.
+He is the author of
+Quendi and Eldar
+, the
+Lhammas
+(by attribution), and the
+Ósanwe-kenta
+; and was the last of the
+Lambeñgolmor
+.
+In Quenya,
+lambë
+, the chief root of the term "Lambeñgolmor", is the term for spoken language or verbal communication.
+tengwesta
+is a more abstract term for a system or a code of signs and may be translated as "grammar".
+Writing and spelling
+Sindarin and Quenya are often written in the
+tengwar
+script, which Tolkien especially devised for them, or alternatively in the
+rune
+-like
+cirth
+. When Middle-earth languages are written with the
+Latin alphabet
+, either
+acute accents
+(á, é, í, ó, ú) or
+circumflex
+accents (â, ê, î, ô, û, ŷ) mark long vowels depending on language or other convention. The
+diaeresis
+(ä, ë, ö) is normally used to mark that a short vowel is to be separately pronounced, that it is not silent or part of a
+diphthong
+. For example, the last four letters of
+Ainulindalë
+should be sounded as if spelled
+dah-leh
+in English rather than as
+dale
+and the first three letters of
+Eärendil
+represent
+eh-ahr
+rather than the English word
+ear
+. (But occasionally, especially when writing proto-Eldarin forms, Tolkien used the
+macron
+to indicate long vowels and the dieresis on ä, ö, and ü as in German to indicate
+i
+-modification or
+e
+-modification.)
+In
+The Lord of the Rings
+, Tolkien adopted the literary device of claiming to have replaced the original
+Westron
+with English.
+This device of rendering an
+imaginary
+language with a
+real
+language he carried further, rendering
+Rohanese
+, related to an older form of Westron, by Old English, and names in the tongue of
+Dale
+in the north of
+Rhovanion
+by
+Old Norse
+forms, thus mapping the genetic relation of his fictional languages on the existing historical relations of the
+Germanic languages
+. A natural consequence of this is that Tolkien never worked out the languages thus ‘‘replaced’’ in any detail because they never appeared in the texts.
+List of languages
+Elvish
+languages:
+Primitive Quendian
+Avarin
+languages (at least six languages)
+Common Eldarin
+Quenya
+Vanyarin Quenya
+Ñoldorin Quenya
+Valinorean Quenya
+lExilic Quenya
+Gondoliðren
+Common Telerin
+Telerin of
+Valinor
+(considered a dialect of
+Quenya
+)
+Sindarin
+Doriathren
+Falathren
+Mithrimin
+Nandorin
+languages (influenced by Avarin)
+Mannish
+languages (all showed influence by Avarin tongues as well as
+Khuzdûl
+):
+Languages
+of forefathers of the First and Third Houses of the
+Atanatári
+Taliska
+(two dialects)
+Adûnaic
+Language of the
+Black Númenóreans
+Westron
+(influenced by
+Sindarin
+, and
+languages
+of Eriador)
+Hobbit-speech
+(influenced by languages of Northmen)
+Bucklandish
+(influenced by the language of the Stoors)
+Shire-speech
+Languages
+of Men of
+Eriador
+during the
+Second Age
+Northern
+languages
+Language of Dale
+Rohanese
+Language
+of forefathers of the Second House of the Atanatari
+Halethian language
+Dunlendish
+Languages of
+Forodwaith
+and the
+Lossoth
+Drúadan
+(language of the
+Drúedain
+)
+Many tongues of
+Haradrim
+Many tongues of
+Easterlings
+Tongue of
+Dwarves
+:
+Khuzdûl
+Language of the
+Ents
+:
+Old Entish
+Languages of the
+Ainur
+(
+Valar
+and
+Maiar
+)
+Valarin
+Black Speech
+, created by
+Sauron
+Orkish
+languages
+Various debased forms of the
+Black Speech
+and regional dialects influenced by
+Westron
+Primitive methods of communication
+Language of the
+Trolls
+Wolf-language
+of the
+Wargs
+References
+See also
+Neo-Languages
+Tolkien research
+External links
+University of Bergen
+-
+Ardalambion
+, a site containing much knowledge about Tolkien's languages and questions surrounding them
+Glǽmscrafu – Tolkien’s linguistic cellar
+Jerek Dain
+-
+Tolkien information: Languages, Elves, the Ainur, and the Valar
+Some derived from
+ThereandBackAgain.net
+(archived in early 2016 and died soon after)
+The Elvish Linguistic Fellowship
+University of Edinburgh
+-
+The Tolkien language mailing list
+Tolkien Languages wiki
+- all of 48 articles, with four admins, none of whom had edited after 2008 by the end of 2025; as it has the same license as this wiki, those articles could be copied to this one
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Melkian
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Melkian
+======================================================================
+
+"... so small a thing. Such a little thing!"
+This article is a
+stub
+; please
+expand it
+if you can.
+"
+But in time we discovered that he had made a language for those who served him; and he has learned our tongue with ease.
+"
+—
+Manwë
+speaking of
+Melkor
+to the
+Eldar
+Melkian
+had been the linguistic phylum of the servants of
+Melkor
+as seen in
+The Lhammas
+. From this language came the
+Black Speech
+, the many dialects of
+Orkish
+, and all other tongues of the servants of Morgoth. The other two phyla were
+Oromëan
+, from which descended both
+Elvish
+and
+Mannish
+languages, and
+Aulëan
+, the branch of
+Khuzdûl
+.
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Orkish
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Orkish
+======================================================================
+
+"And while I can honestly say I have told you the truth, I may not have told you all of it."
+At least part of this article or section is of insufficient length or lacks important details. Please
+expand it
+if you can.
+"
+Orkish
+" was the general term for the jumble of
+languages
+used by the
+Orcs
+, composed of corrupted borrowings from other languages of
+Middle-earth
+since they allegedly had none "of their own".
+History
+When they were originally bred in the
+First Age
+, the Orcs allegedly "had no language of their own", but borrowed anything they liked from other languages and corrupted it. The variations in Orkish between different tribes and types of Orcs were so great that their languages were often useless for communication, and so a standard language was necessary. In the First Age,
+Morgoth
+had devised
+his own language
+from corrupted
+Valarin
+"for those who served him" by the time of the
+War of the Powers
+, as
+Manwë
+himself told the
+Eldar
+.
+In the
+Second Age
+, Sauron, in imitating Morgoth,
+corrupted and combined
+Valarin
+and
+Quenya
+[
+citation needed
+]
+to create the
+Black Speech
+, which he intended to make the official language of his servants. He ultimately failed in this purpose and, by the
+Third Age
+,
+Westron
+was often used in communication between Orcs. Despite this, many Orkish dialects still borrowed various words from the Black Speech.
+Several generations of Orcs were probably bred in
+Mordor
+and raised on this language before the
+War of the Last Alliance
+.
+In adaptations
+The Hobbit
+film trilogy
+For
+Peter Jackson
+'s
+The Hobbit
+film trilogy
+,
+David Salo
+invented an Orkish dialect called
+Yrksk Orðabók
+based on
+J.R.R. Tolkien
+'s notes. This dialect is spoken amongst
+Gundabad
+Orcs.
+External links
+Fauskanger, Helge Kåre
+.
+Orkish and the Black Speech -
+base language for base purposes
+(Modern English)
+.
+Ardalambion - Of the Tongues of Arda, the invented world of J.R.R. Tolkien
+. Archived from
+the original
+on 2025-08-20.
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Primitive Quendian
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Primitive_Quendian
+======================================================================
+
+Primitive Quendian
+or
+Primitive Quenderin
+, also known as
+Primitive Elvish
+, was the original language of the
+Elves
+.
+History
+The Primitive Quendian was spoken by all the Elves soon after their
+Awakening
+in the east of
+Middle-earth
+.
+After
+Oromë
+discovered them in
+Cuiviénen
+, the
+Valar
+decided to
+overthrown
+Melkor
+from his fortress of
+Utumno
+and to invite the Elves in
+Aman
+, in order to protect them from the power of the fallen Vala. The majority of the Elves accepted the invitation and they were called "
+Eldar
+" from Oromë. However, some of them refused to take part in the
+Great Journey
+and leave Middle-earth and for this reason they were called "
+Avari
+". This first
+sundering
+caused the separation of
+Common Eldarin
+from the many
+Avarin
+languages and their original language was forgotten. Since very little is known of the languages spoken by the Avari, it can be difficult to distinguish between the linguistic features developed secondly in Common Eldarin and the original features of Primitive Quendian.
+Later, Common Eldarin split in two languanges,
+Ancient Quenya
+and
+Ancient Telerin
+, because the
+Teleri
+lingered behind while the
+Vanyar
+and the
+Ñoldor
+quickly reached the shores of the
+Belegaer
+. From Ancient Telerin descended
+Falmarin
+,
+Sindarin
+and
+Nandorin
+, while
+Quenya
+was divided in two dialects:
+Vanyarin Quenya
+and
+Ñoldorin Quenya
+.
+The etymologies published in
+The Lost Road and Other Writings
+among with other, later, etymological essays, would derive terms from the Eldarin languages to the Primitive Quendian base. A Primitive Quendian word list may be found in
+Quendi and Eldar
+, an essay found in
+The War of the Jewels
+. Material has also been featured in the posthumous series
+Parma Eldalamberon
+.
+Conceptual history
+In earlier versions of
+J.R.R. Tolkien
+'s
+legendarium
+, were the Vala Oromë that taught to the
+Elves
+the language of the Valar and for this reason their language family was collectively called
+Oromëan
+. Thus, this stage of development of the common ancestor of every Elvish language is conventionally called
+Early Primitive Elvish
+.
+From the 1930s Tolkien introduced enough changes to conventionally classify this new stage of development as
+Middle Primitive Elvish
+.
+However, the final form of Primitive Elvish was conceived in the period during and after the publication of
+The Lord of the Rings
+.
+See also
+Neo-Primotive Quendian
+References
+External links
+Primitive Quendian page at Ardalambion
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Rhûnnic
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Rhûnnic
+======================================================================
+
+!
+Non-canon alert
+The subject of this article originates from non-canonical sources.
+To learn about what is considered "canon", see
+LOTR:Canon
+.
+!
+"And while I can honestly say I have told you the truth, I may not have told you all of it."
+At least part of this article or section is of insufficient length or lacks important details. Please
+expand it
+if you can.
+Rhûnnic
+,
+or
+Rhûnic
+,
+is a language spoken by the
+Easterling
+mercenaries
+known as the
+Gaudrim
+in
+The Lord of the Rings: The Rings of Power
+.
+Behind the scenes
+A bulk of this section is speculation...
+Tolkien never refers to any "Rhûnnic" language or people, but uses the broader category of "
+Easterlings
+", and the existence of Easterling languages is confirmed even though such languages were not fleshed out by Tolkien (outside of some names like
+Khamûl
+). Rhûnnic, while allegedly based on one of Tolkien's languages,
+was developed for
+The Lord of the Rings: The Rings of Power - Season Two
+. As the series composer
+Bear McCreary
+explains:
+For this series, we always strive to ensure that music sung by soloists or choirs communicates meaning in text that is relevant to the culture the music represents. So, what language would the music of Rhûn be sung in? Rhûn is a large, mostly unexplored area in Tolkien’s published works, left intentionally vague. Tolkien scholars working on our series dug through Tolkien’s unpublished notes and used them to build the foundation of a Rhûnic language, one that has never been heard before by fans. Helping to expand one of Tolkien’s lesser-known languages into a vibrant musical culture was a true honor.
+Inspiration & speculation
+It is possible that Rhûnnic is based on
+J.R.R. Tolkien
+'s Hungarian-based language called
+Mágol
+, for which most of existent material remains unpublished.
+Vocabulary
+Most of this section is speculation based on assumed similarities to Hungarian...
+The following table contains all known Rhûnnic words and their possible meanings.
+Rhûnnic word
+Possible meaning(s)
+aibesjar
+our sister (? or carried, or far; if “our sister”, then possibly jar means “our”)
+aišäd
+shrine (sacred shrine?)
+anže
+forth (? or bring)
+arkäd
+throne
+balan
+far (? or carried, or our sister)
+bil
+in
+bauvailun
+unseen (? or threat)
+bódi
+sacred (? or beat)
+če
+and
+dunšig
+magic (? or dark magic)
+dyúl
+her (? or you, or some word indicating a command)
+feč
+thou
+feg
+thy/thine/your (genitive case of feč)
+fú
+under
+gileg
+bring (? or forth)
+go
+from
+gorul
+rise
+hez
+command (?)
+i
+the
+j'
+? (a prefix, possibly from je “to” or i “the”)
+jai
+with
+je
+to
+ligrám
+wings (? or white, or white wings, or beat)
+lihiš
+white (? or wings, or white wings, or beat)
+lún
+dark
+lurg
+threat (? or unseen)
+naþa
+servant
+nädo
+flesh (? or grant)
+ní
+command (?)
+niganvil
+? (likely a noun or noun phrase, possibly including a prepositional suffix)
+*nim
+root word relating to moon (? or light)
+nimžil
+moonlight
+pängul
+? (probably a verb in imperative form)
+raib
+border (either normal form or shortened form for use in a compound)
+raibo
+border (either normal form, or a marked noun declension, or perhaps containing a prepositional suffix -o, meaning “at”)
+*šig
+root word relating to magic
+šigór
+Istar, wizard, seemingly coined in relation to the
+adûnaic
+noun
+zigûr
+“wizard”
+taugun
+carried (? or far, or our sister)
+þabul
+grant (? or flesh)
+þur
+power, might
+*žil
+root word relating to light (? or moon)
+žilid
+splendor, maybe distantly related with
+noldorin
+silith
+?
+"
+Given that nimžil means "moonlight" and žilid means "splendor", it is likely that *žil is a root word meaning "light", or something similar. In which case, nim would mean "moon". Also, given that dunšig means "magic" (or "dark magic"?), and šigór means "Istar", or "wizard", it is likely that *šig is a root word with a meaning related to magic.
+"
+—
+Fellowship of Fans.com "Rhûnic Revealed"
+Phonology
+Most of this section is speculation based on assumed similarities to Hungarian...
+There are no official sources to document the phonology of the language, the below data is an approximation:
+Letter(s)
+IPA
+English equivalent (if there is any)
+A
+a
+The
+O
+in s
+o
+uth.
+Á, Â
+aː
+The
+A
+in f
+a
+r.
+Ä
+a, æ
+The
+O
+in s
+o
+uth or the
+A
+in m
+a
+p.
+E
+ɛ
+The
+E
+in b
+e
+ll.
+I
+ɪ
+The
+I
+in th
+i
+n.
+Í
+iː
+The
+IE
+in f
+ie
+ld.
+O
+o
+The
+A
+in t
+a
+lk but shorter.
+Ó
+oː
+The
+O
+in sh
+o
+re.
+U
+u
+The
+OO
+in t
+oo
+k.
+Ú, Û
+uː
+The
+OO
+in t
+oo
+l.
+AI
+aj, aɪ̯
+The
+I
+in m
+i
+ce.
+AU
+aw, au̯
+The
+OU
+in m
+ou
+se.
+P
+p
+The
+P
+in
+p
+ie.
+B
+b
+The
+B
+in
+b
+ait.
+F
+f
+The
+F
+in
+f
+riend.
+V
+v
+The
+V
+in
+v
+ine.
+M
+m
+The
+M
+in
+m
+ace.
+N
+n
+The
+N
+in
+n
+ever.
+D
+d
+The
+D
+in
+d
+ay.
+Þ
+θ
+The
+TH
+in wi
+th
+.
+K
+k
+The
+C
+in
+c
+ape.
+G
+ɡ
+The
+G
+in
+g
+race.
+H
+h, x
+The
+H
+in
+h
+ow or the
+CH
+in lo
+ch
+.
+L
+l
+The
+L
+in
+l
+ight.
+R
+r
+The
+thrilled R
+.
+S
+s
+The
+S
+in
+s
+teep.
+Z
+z
+The
+Z
+in wi
+z
+ard.
+Š
+ʃ
+The
+SH
+in
+sh
+een.
+Ž
+ʒ
+The
+S
+in vi
+s
+ion.
+Č
+t͡ʃ
+The
+CH
+in
+ch
+eck.
+J
+j, ʒ, d͡ʒ
+The
+Y
+in
+y
+es, the
+S
+in vi
+s
+ion or the
+J
+in
+j
+eans.
+Y
+j
+The
+Y
+in
+y
+es.
+DY
+dj, ɟ
+The
+Czech and Slovak Ď
+or the
+Hungarian GY
+.
+NG
+ŋ
+The
+NG
+in thi
+ng
+.
+KH
+x
+The
+CH
+in lo
+ch
+.
+External links
+Indriann
+(2024).
+Analysis of Rhûnic language on soundtrack
+(
+Modern English
+)
+(Reddit post).
+r/LOTR_on_Prime
+.
+Reddit - The heart of the internet
+. Retrieved on 2026-05-06.
+Numenorempire
+(2024).
+Rhûnic language?
+(
+Modern English
+)
+(Reddit post).
+r/LOTR_on_Prime
+.
+Reddit - The heart of the internet
+. Retrieved on 2026-05-06.
+References
+Footnotes
+
+======================================================================
+PAGE: Sindarin
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Sindarin
+======================================================================
+
+This article is about the
+language
+. For the Elven people, see
+Sindar
+.
+Sindarin
+was the
+Elvish
+language most commonly spoken in
+Middle-earth
+during the
+Third Age
+. In the real world, Sindarin is often colloquially called "
+Elven
+" or "
+Elvish
+", outside canonical context. In
+The Lord of the Rings
+, "
+the Elven tongue
+" refers to Sindarin.
+The written alphabet of both Sindarin and
+Quenya
+was typically
+Tengwar
+(the
+Fëanorian
+Characters), although the
+Cirth
+, the Elvish Runes, were also used.
+History
+Sindarin words written in
+Tengwar
+Sindarin was the language of the
+Sindar
+, the
+Elves
+of
+Teleri
+lineage who chose to stay behind during the
+Great Journey
+to
+Aman
+before the
+First Age
+. It was derived from an earlier language called by
+J.R.R. Tolkien
+Old Sindarin
+, that may have been the language spoken shortly before the arrival of the
+Ñoldor
+in
+Beleriand
+. The
+Old Sindarin
+, in turn, descended directly from "
+Ancient Telerin
+" or "
+Common Telerin
+".
+The turmoils caused by the
+War of the Jewels
+accelerated the change of the language, which was greatly modified in a few centuries.
+The
+Mithrimin
+, a dialect spoken in northern Beleriand, split from Old Sindarin during the First Age. However, this dialect didn’t survive to the
+War of Wrath
+, and only a few ancient names such as "
+Hithlum
+" and "
+Dor-lómin
+" were preserved.
+Other two dialects of the Sindarin, more closely related to each other, were the
+Doriathren
+and the
+Falathren
+. When the Ñoldor came back to Middle-earth, they adopted the Sindarin language, for the Sindar were more numerous and slower to learn the language of
+Valinor
+,
+Quenya
+, the Ñoldor's native language. For example, the followers of the
+sons of Fëanor
+adopted North Sindarin as their own language.
+Later events led to the banning of the use of Quenya, sometimes called "High Elven", within and around Beleriand, leading to its eventual use as a "high language" of law. Millennia later, before the
+Downfall
+, most
+Men
+of
+Númenor
+also spoke their own
+dialect
+of the language. Knowledge of it was kept in the
+Númenórean
+realm in exile,
+Gondor
+, especially among the learned. Dwarves, notably
+Durin's Folk
+, used Sindarin when communicating with Elves.
+Conceptual history
+Originally,
+J.R.R. Tolkien
+conceived the
+Teleri
+as the first tribe of the
+Elves
+and created for them a Finnish-like language conventionally called
+Qenya
+. On the other hand, the
+Gnomes
+, the second tribe of the Elves, were conceived as people speaking a Welsh-like language called
+Gnomish
+, or
+Goldorin
+.
+From the early 1920s, Tolkien decided to change the name of that second tribe from
+Gnomes
+to
+Noldoli
+. Thus, the changes that he subsequently introduced were enough to conventionally classify their language as
+Early Noldorin
+.
+In the same period, he conceived for the Elves who did not go to
+Valinor
+a language called
+Ilkorin
+.
+"
+It seems apt that Qenya [Quenya], the language of lore, had been devised when Tolkien was an undergraduate and a soldier in training, whereas Gnomish [Sindarin], the language of adventure, tragedy and war, should emerge after [Tolkien's experiences in the] Somme.
+"
+—
+John Garth
+on the lasting difference between Sindarin's and Quenya's precursors
+From the 1930s, Tolkien developed
+Ilkorin
+, or
+Beleriandic
+, as the languange of the Elves of
+Beleriand
+. Furthermore, he introduced in the development of the Noldorin language a diachronic approach. In, "The Etymologies" he states that
+Primitive Elvish
+evolved into
+Old Noldorin
+, which in turn evolved into Noldorin
+, and also describes several dialects of this language, including
+Doriathren
+and
+Falathren
+.
+However, shortly before the publication of
+The Lord of the Rings
+, Tolkien created from the early stages of his Welsh-like language Sindarin, while assigning to the Ñoldor a
+dialect
+of Quenya in constrast to Sindarin. Thus, some aspects of Ilkorin may have survived into
+Mithrimin
+.
+Inspiration
+Tolkien based the sound and some of the grammar of Sindarin on
+Welsh
+, and the language displays of the consonant mutations that characterise the Celtic (especially Brythonic) languages. The language was also probably influenced to an extent by the Germanic languages, as Tolkien was a scholar of both
+Old English
+and
+Old Norse
+.
+Grammar & phonology
+Sindarin is mainly analytic, in that it relies little on
+inflections
+(change of endings and suffixes) to denote grammatical properties, although much of its appearance is derived from its highly inflected parent-language, Quenya.
+Tolkien designed Sindarin with a
+Welsh
+-like
+phonology
+, having most of the same sounds and similar
+phonotactics
+.
+Letter
+IPA
+Notes
+a, ä
+ɑ
+The "
+a
+" sounds most like the "
+a
+" in the word "father."
+ae
+a͡ɛ
+Similar to "
+ai
+," but ends at a more open vowel height, like in "eye"
+ai
+a͡ɪ
+"
+ai
+" is most like the "
+i
+" in the word "
+time
+" and ends at a less open vowel height.
+au,
+aw
+a͡ʊ
+"
+au
+" sounds most like "
+ou"
+in the word "
+thousand"
+or like "
+ow"
+in "
+cow
+." Never pronounce it like "
+au"
+in the word "
+cause"
+or like "
+aw"
+in"
+law."
+b
+b
+c
+k
+Always a hard "
+c"
+like in the word "
+cake" but n
+ever a soft"
+c"
+like in "
+cell
+."
+ch
+x
+The "ch" in the German word "Buch", or the Scottish word "loch", never as in "church"
+d
+d
+dh
+ð
+The "th" in "heather"
+e, ë
+ɛ
+The "
+e"
+is most like the "
+e"
+in "
+get."
+ei
+ɛ͡ɪ
+"
+ei"
+is most like "
+ey"
+in "
+grey
+," always with the "
+y"
+off-glide.
+f
+f, v
+Represents [v] when final or before n, [f] everywhere else.
+g
+g
+Always a hard "
+g"
+like in "
+gasp"
+but never soft "
+g"
+like
+in "
+gem
+."
+h
+h
+hw
+ʍ
+Pronounced most like "
+wh"
+in the word "
+whale
+."
+i
+j, i
+Represents [j] when initial, [i] everywhere else.
+l
+l
+lh
+ɬ
+The same as the Welsh LL.
+m
+m
+n
+n
+nc
+ŋk
+Like "
+nk
+" in "
+think
+."
+ng
+ŋ, ŋg
+Represents [ŋ] when final, [ŋg] everywhere else.
+o, ö
+ɔ
+It is most like "
+o
+" in "
+hot
+," but with rounder lips.
+p
+p
+ph
+f, ff
+Represents [f] when final, [ff] everywhere else.
+r
+r
+The "
+r
+" is always trilled or at least flapped wherever possible.
+rh
+r̥
+s
+s
+The "
+s
+" is always pronounced like the "
+s
+" in "
+safe.
+"
+t
+t
+th
+θ
+The "th" in "heath"
+u
+ʊ
+The "
+u
+" is most like the "
+u
+" in "
+put
+" or the vowel sound in "
+good
+."
+ú
+uː
+The "
+ú
+" is pronounced like the
+oo
+in
+broom
+, or
+noon
+. Thus, names like
+Húrin
+become
+hoo-rin
+instead of
+hu-rin
+.
+ui
+u͡ɪ
+The "
+ui
+" is most like "
+oo" y
+in the word "
+too
+."
+v
+v
+w
+w
+y
+y
+Pronounced like German
+ü
+An accent signifies a long vowel (á, é, etc.). In a monosyllabic word, a circumflex is used (â, ê, etc.). However, for practical reasons, users of the
+ISO Latin-1
+character set often substitute ý for ŷ.
+Diphthongs are
+ai
+(pronounced like
+ai
+sle),
+ei
+(d
+ay
+),
+ui
+(t
+oo y
+oung),
+au
+(c
+ow
+), and
+oi
+(b
+oy
+). If the last diphthong finishes a word, it is spelt
+aw
+. There are also diphthongs
+ae
+and
+oe
+with no English counterparts; Tolkien recommended to substitute
+ai
+and
+oi
+respectively if one does not care about details. If one does care, it is similar to pronouncing
+a
+or
+o
+respectively in the same syllable as one pronounces an
+e
+(as in p
+e
+t).
+In archaic Sindarin, there was a vowel similar to German
+ö
+(IPA:
+[œ]
+), which Tolkien mostly transcribed as
+œ
+(usually
+not
+as
+oe
+as is often found in publications like the Silmarillion, cf.
+Nirnaeth Arnoediad
+[read:
+Nírnaeth Arnœdiad
+],
+Goelydh
+[read:
+Gœlydh
+]). This vowel later came to be pronounced
+ɛ
+and is therefore transcribed as such [sc.
+Gelydh
+].
+Archaic Sindarin also had a spirant
+m
+or nasal
+v
+(IPA:
+[ɱ]
+), which was transcribed as
+mh
+(though always pronounced
+[v]
+in later Sindarin).
+Nouns
+Pluralization
+Sindarin plurals are characterised by
+i-affection
+, or
+umlaut
+. The Sindarin term for this is
+prestanneth
+(disturbance, affection). Almost all Sindarin words form their plurals like English man/men and goose/geese — by changing the vowels in the word. The plural patterns are:
+In non-final syllables:
+a > e — galadh > gelaidh
+e > e — bereth > berith
+i > i — dineth > dinith
+o > e — gowest > gewist
+u > y — tulus > tylys
+y > y — (no example available)
+In final syllables:
+a > ai — anar > enair
+â > ai — tâl > tail
+e > i — adaneth > edenith
+ê > î — hên > hîn
+i > i — brennil > brennil
+î > î — dîs > dîs
+o > y — brannon > brennyn
+ó > ý — bór > býr
+ô > ý — thôn > thýn
+u > y — urug > yryg
+û > ui — hû > hui
+y > y — ylf > ylf
+ý > ý — mýl > mýl
+au > oe — naug > noeg
+Note that
+ai
+can sometimes become
+î
+(or, less commonly,
+ý
+).
+The reason for this is that the primitive plural ending
+-î
+(still present in Quenya as
+-i
+) affected the vowels in the word by making them higher and fronter. After this sound change occurred, the suffix
+-î
+disappeared when all final vowels were lost.
+Class Plural
+Sindarin also has several suffixes which denote a so-called class plural. For example,
+-ath
+indicates a group of something, e. g.
+elenath
+from elen (an archaic form of
+êl
+), meaning
+star
+and
+-ath
+. It means
+a group of stars
+or
+all the stars in the sky
+. Another ending,
+-rim
+, is used to indicate a race, e. g.
+nogothrim
+from
+nogoth
+—
+dwarf
+and
+-rim
+, meaning
+the race of Dwarves
+. The ending
+-hoth
+is generally used in an unfriendly sense, e. g.
+gaurhoth
+from
+gaur
+—
+werewolf
+and
+-hoth
+, meaning
+werewolf-host
+.
+Mutation
+Sindarin has a complex series of
+mutations
+. There are three main different types of mutations:
+soft mutation
+(or
+lenition
+),
+nasal mutation
+and
+stop
+(occlusive)
+mutation
+. Additionally, a
+mixed mutation
+is also observed after certain particles or prepositions. Finally, it is presumed that Sindarin also once had what we could call an
+archaic spirantal mutation
+(also sometimes called
+liquid mutation
+by scholars). It is still uncertain whether this mutation is still productive or if it only occurs in ancient constructs.
+Initial mutations must not be confused with
+assimilations
+that may occur in compound words (such as, for instance, in the names
+Araphor
+,
+Arassuil
+and
+Caradhras
+).
+The following table outlines how different consonants are affected by the different mutations.
+Basic
+Soft
+Nasal
+Mixed
+Stop
+Liquid
+b
+v
+m
+b
+b
+v
+c
+g
+ch
+g
+ch
+ch
+d
+dh
+n
+d
+d
+dh
+g
+'
+ng
+g
+g
+'
+h
+ch
+ch
+h
+ch
+ch
+lh
+thl
+'l
+'l
+thl
+'l
+m
+v
+m
+m
+m
+v
+p
+b
+ph
+b
+b
+ph
+rh
+thr
+'r
+'r
+thr
+'r
+s
+s
+s
+h
+s
+s
+t
+d
+th
+d
+th
+th
+Here the apostrophe indicates
+elision
+.
+Words beginning in
+b-
+,
+d-
+, or
+g-
+which descend from older
+mb-
+,
+nd-
+, or
+ng-
+are affected differently by the mutations:
+Basic
+Soft
+Nasal
+Mixed
+Stop
+Liquid
+b
+m
+mb
+mb
+mb
+b
+d
+n
+nd
+nd
+nd
+d
+g
+ng
+g
+g
+g
+g
+Take, for example, the deictic article
+i
+, which triggers soft mutation. When added to a word like
+tâl
+, it becomes
+i dâl
+. In Sindarin's phonological history,
+t
+became
+d
+in the middle of a word. Because
+i tâl
+at the time was considered one word, the
+t
+became
+d
+, and thus
+i dâl
+. However, without the article the word is still
+tâl
+.
+Mutation is triggered in various ways:
+Soft mutation, the most widely occurring mutation, is triggered by the singular article
+i
+, the prefixes
+athra-, ath-, go-, gwa-, ú-,
+and
+u-
+, as well as the prepositions
+ab, am, adel, be, dad, di, na, nu,
+and
+î
+, and after
+avo
+. It also affects the second element in a compound, an adjective following a noun, and the object of a verb.
+Nasal mutation is triggered by the plural article
+in
+, and the prepositions
+an, dan,
+and plural '
+nin
+.
+Mixed mutation is triggered by the genitive article
+en
+, and the prepositions
+ben, erin, nan, 'nin,
+and
+uin
+.
+Stop mutation is triggered by the prepositions
+ed, ned,
+and
+o(d)
+.
+Liquid mutation is presumably triggered by the preposition
+or
+.
+Pronouns
+Pronouns are perhaps the most poorly attested feature of Sindarin. What has been reconstructed by the
+comparative method
+is largely conjectural and is not agreed upon, and therefore will not be addressed in this article.
+Sindarin pronouns, like those in English, still maintain some case distinction. Sindarin pronouns have
+nominative
+,
+accusative
+,
+genitive
+, and
+dative
+forms.
+First Person
+Second Person
+Third Person
+Singular
+Plural
+Singular
+Plural
+Singular
+Plural
+Nominative
+im
+me
+le, ci
+le, ci
+e, te
+ti
+Accusative
+nin
+men
+len, cin
+len, cin
+ten, den
+tin, hain
+Genitive
+mín
+lín
+dîn
+Dative
+anim, enni
+ammen
+Enclitic
+-n
+-m
+-ch
+—
+-r
+Verbs
+Sindarin verbs are also quite complex. The number of attested verbs in Sindarin is small, so the Sindarin verb system is imperfectly known; no verb has a full paradigm of forms available. There are two main types of verbs:
+basic
+and
+derived
+. Basic verbs have stems which end in a consonant, and derived verbs have stems which incorporate some sort derivational morpheme (such as a causative ending) which ends in
+-a
+.
+Basic Verbs
+Basic verbs, though smaller in number than derived verbs, have a very complex conjugation which arises from Sindarin's phonological history.
+Basic verbs form the infinitve by adding
+-i
+:
+giri
+from
+gir-
+. This ending causes an
+a
+or
+o
+in the stem to umlaut to
+e
+:
+blebi
+from
+blab-
+. Sindarin does not use infinitive forms very often, and rather uses the gerund to achieve the same meaning.
+For all persons except the third person singular, the present tense is formed by the insertion of
+-i
+, and the proper enclitic pronomial ending:
+girin
+,
+girim
+,
+girir
+. As with the infinitive,
+-i
+causes an
+a
+or
+o
+in the stem to umlaut to
+e
+:
+pedin
+,
+pedim
+,
+pedir
+, from
+pad-
+. The third person singular, because it has a zero-ending, does not require the insertion of
+-i
+. This leaves the bare stem, which, because of Sindarin's phonological history, causes the vowel of the stem to become long:
+gîr
+,
+blâb
+,
+pâd
+.
+The past tense of basic verbs is very complicated and poorly attested. One common reconstructed system is to use
+-n
+:
+darn
+. However, the only time this
+-n
+actually remains is after a stem in
+-r
+. After a stem ending in
+-l
+,
+-n
+becomes
+-ll
+:
+toll
+. After
+-b, -d, -g, -v,
+or
+-dh
+, it is
+metathesized
+and then
+assimilated
+to the same place of articulation as the consonant it now follows. The consonant then experiences what could be called a "backwards mutation":
+-b, -d,
+and
+-g
+become
+-p, -b,
+and
+-c
+, and
+-v
+and
+-dh
+become
+-m
+and
+-d
+. The matter is complicated even further when pronomial endings are added. Because
+-mp, -mb, -nt, -nd,
+and
+-nc
+did not survive medially, they become
+-mm-, -mm-, -nn-, -nn-,
+and
+-ng
+. In addition, past tense stems in
+-m
+would have
+-mm-
+before any pronomial endings. Because this all may seem rather overwhelming, look at these examples which show step-by-step transformations:
+cab-
+> **
+cabn
+> **
+canb
+> **
+camb
+>
+camp
+, becoming
+camm-
+with any pronomial endings.
+ped-
+> **
+pedn
+> **
+pend
+>
+pent
+, becoming
+penn-
+with any pronomial endings.
+dag-
+> **
+dagn
+> **
+dang
+(
+n
+pronounced in
+men
+) > **
+dang
+(
+n
+pronounced in
+sing
+) >
+danc
+, becoming
+dang-
+with any pronomial endings.
+lav-
+> **
+lavn
+> **
+lanv
+> **
+lanm
+> **
+lamm
+>
+lam
+, becoming
+lamm-
+before any pronomial endings.
+redh-
+> **
+redhn
+> **
+rendh
+> **
+rend
+>
+rend
+, becoming
+renn-
+before any pronomial endings.
+The future tense is formed by the addition of
+-tha
+. An
+-i
+is also inserted between the stem and
+-tha
+, which again causes
+a
+and
+o
+to umlaut to
+e
+. Endings for all persons except for the first person singular can be added without any further modification:
+giritham
+,
+blebithar
+. The first person singular ending
+-n
+causes the
+-a
+in
+-tha
+to become
+-o
+:
+girithon
+,
+blebithon
+,
+pedithon
+.
+The imperative is formed with the addition of
+-o
+to the stem:
+giro!
+,
+pado!
+,
+blabo!
+.
+Derived Verbs
+Derived verbs have a much less complex conjugation because they have a thematic vowel (usually
+a
+) which reduces the number of consonant combinations which occur.
+The infinitive is formed with -o, which replaces the -a of the stem, e. g.
+lacho
+from
+lacha-
+.
+The present tense is formed without modification to the stem. Pronomial endings are added without any change.
+The past tense is formed with the ending
+-nt
+, which becomes
+-nne
+with any pronomial endings, e. g.
+erthant
+,
+erthanner
+.
+The future tense is formed with
+-tha
+. With the addition of the first person singular
+-n
+, this becomes
+-tho
+.
+The imperative is formed like the infinitive.
+Dialects
+During the
+First Age
+there were several dialects of Sindarin:
+Doriathren
+, or
+Doriathrin
+, was spoken in
+Doriath
+and was a form of Sindarin which preserved many archaic forms;
+Falathren
+or the language of the
+Falas
+, later also spoken in
+Nargothrond
+;
+Mithrimin
+, or
+North Sindarin
+, the dialects originally spoken in
+Dorthonion
+and
+Hithlum
+by the Sindar, these dialects contained many unique words and were not fully intelligible with the Sindarin of
+Beleriand
+proper.
+With the exception of Doriathren, the dialects were changed under Ñoldorin influence, and adopted many
+Quenya
+features, as well as unique sound changes devised by the Ñoldor (who loved changing languages). The distinct dialects disappeared after the Ñoldor and Sindar were dispersed during the later
+Battles of Beleriand
+. In the refuges on the
+Isle of Balar
+and the
+Mouths of Sirion
+a new dialect arose under the refugees, which mainly took after Falathren. During the
+Second Age
+and
+Third Age
+Sindarin was a
+lingua franca
+for all Elves and their friends, until it was displaced as the Common tongue by
+Westron
+, a descendant of
+Adûnaic
+which was heavily influenced by Sindarin.
+Sindarin
+is actually a Quenya term. The Sindarin word was perhaps
+Edhellen
+("Elvish").
+Sample Phrases
+In
+The Lord of the Rings
+Ai na vedui Dúnadan! Mae govannen!
+- Ah, at last, Westman! Well met!
+Noro lim.
+- Run fast.
+Annon edhellen, edro hi ammen! Fennas nogothrim, lasto beth lammen!
+- Elvish gate open now for us; doorway of the Dwarf-folk listen to the word of my tongue!
+Mellon nîn!
+- My friend!
+Ennyn Durin Aran Moria: pedo mellon a minno. Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.
+- "The Doors of Durin, Lord of Moria. Speak, friend, and enter. I, Narvi, made them. Celebrimbor of Hollin [Eregion] drew these signs."
+Yrch!
+- Orcs!
+Ónen i-Estel Edain, ú-chebin estel anim
+- I gave Hope to the Dúnedain; I have kept no hope for myself.
+Telin le thaed. Lasto beth nîn, tolo dan nan galad.
+- I come to help you. Listen to my word, come back to [the] light/radiance.
+Sample Elements
+aglar
+- radiance, glory
+ar, ara-, aran
+- high, noble, king
+aur
+- sunlight, daylight
+celeb
+- silver
+dúath
+- dark, black shadow
+el
+- star
+eryn
+- forest, wood of trees
+estel
+- hope
+galad
+- radiance
+galadh - tree
+gond
+- stone
+-ion
+- son (a male suffix)
+mith
+- grey
+nim
+- white
+orn
+- tree
+randir
+- wanderer
+ross
+- foam
+taur
+- forest
+tirith
+- guard
+rond
+- dome
+-wen
+- maiden (a feminine suffix)
+This page uses content from
+Wikipedia
+. The original article was at
+Sindarin
+. The list of authors can be seen in the
+page history
+. As with
+The One Wiki to Rule Them All
+, the text of Wikipedia is available under the
+Commons Attribution-Share Alike
+license.
+See also
+Elvish
+Neo-Sindarin
+Parma Eldalamberon
+, Words, Phrases and Passages in Various Tongues in
+The Lord of the Rings
+by J.R.R. Tolkien
+The Silmarillion
+, Appendix: Elements in Quenya and Sindarin names
+Translations
+Foreign Language
+Translated name
+Amharic
+ሲንዳሪን
+Arabic
+صيندارين
+Armenian
+Սինդարին
+Belarusian Cyrillic
+Сіндарын
+Bengali
+সিন্ডারিন
+Bulgarian Cyrillic
+Синдарин
+Catalan
+Síndarin
+Chinese
+辛達林
+Dutch
+Sindarijns
+Georgian
+სინდარული
+Greek
+Σίνταριν
+Hebrew
+סינדארין
+Hindi
+षिन्दरिन
+Japanese
+シンダール語
+Kannada
+ಸಿಂಡರಿನ್
+Kazakh
+Синдарин (Cyrillic) Sindarin (Latin)
+Korean
+신다린
+Kyrgyz Cyrillic
+Синдарин
+Macedonian Cyrillic
+Синдарин
+Marathi
+सिंडरिन
+Mongolian Cyrillic
+Синдарин
+Nepalese
+सिन्दारिन
+Pashto
+سیندارین
+Persian
+زبان سینداری
+Punjabi
+ਸਿੰਡਾਰੀਨ
+Russian
+Синдарин
+Serbian
+Синдарин (Cyrillic) Sindarin (Latin)
+Sinhalese
+සින්ඩරාන්
+Slovenian
+Sindarščina
+Tajik Cyrillic
+Синдарин
+Tamil
+ஷிந்தரிந்
+Telugu
+సిన్దరిన్
+Thai
+ซินดาริน
+Ukrainian Cyrillic
+Синдарин
+Urdu
+ساندآران
+Uzbek
+Синдарин (Cyrillic) Sindarin (Latin)
+Yiddish
+סינדאַרין
+References
+External links
+Ardalambion, a site dedicated to the languages of Middle-earth
+Helge Fauskanger's Sindarin article
+Hisweloke's Sindarin dictionary project
+Sindarin Translator
+at
+Fun Translations
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Valarin
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Valarin
+======================================================================
+
+Valarin
+, or the
+Eldest Speech
+, was the divine tongue of the
+Ainur
+, and the oldest of languages.
+Valarin bears no relation to any other
+languages
+of
+Middle-earth
+, as it had originated beyond
+Arda
+.
+History
+As the Ainur were angelic beings who could communicate in thought, they did not need a verbal language. In fact, before the creation, the
+Ainulindalë
+was the purest form of language as it was thought itself, with a self-sufficient structure. Only
+Eru Ilúvatar
+showed the Ainur their music in a different form by adding the final note to their song:
+Eä
+, "Be". However, Valarin was developed as part of their assumption of physical forms.
+The
+Elves
+found Valarin alien, sometimes unpleasant, with very few of them ever deigning to learn the language. The Valar learnt
+Quenya
+instead to converse with the Elves, or with each other if Elves were present.
+Little is known of Valarin, save a few words (mainly proper names) although it seems that Valarin used lengthy constructions. The Valarin word for
+Telperion
+is, for example,
+Ibrîniðilpathânezel
+, which is eight syllables long. Some Valarin words were adopted by the Elves as part of the growing Quenya lexicon, particularly in
+Vanyarin Quenya
+, the dialect spoken by the
+Vanyar
+.
+Because
+Sauron
+was an Ainu, the
+Black Speech
+could be derived from a corrupt form of Valarin. In fact,
+nazg
+(the Black Speech word for "ring") is very similar to
+naškad
+, the Valarin word of the same meaning.
+[
+citation needed
+]
+Background
+Tolkien developed Valarin as a tongue spoken by superhuman beings, and so wished for it a very peculiar style. In fact, Valarin was wholly unrelated to
+Elvish
+and
+Mannish
+languages as well as
+Khuzdûl
+. Some scholars have conjectured that Tolkien took inspiration for Valarin from the
+Sumerian language
+, because the general style of the language of the gods of his mythos is reminiscent of such words as
+Etemenanki
+, the name of the
+ziggurat
+of
+Babylon
+.
+In an earlier stage of the
+legendarium
+, three linguistic branches descended from Valarin:
+Oromëan
+,
+Aulëan
+, and
+Melkian
+, with all Elvish and Mannish languages arising from Oromëan.
+Neo-Valarin
+Neo-Valarin
+is the conventional name of various attempts of expand the original language of the
+Valar
+invented by
+J.R.R. Tolkien
+.
+Valarin is is very poorly attested throughout Tolkien's writings, because in lore most of the
+Elves
+refused to learn and use it, finding it alien and sometimes unpleasant.
+In fact, the Valar preferred to learn
+Quenya
+in order to speak with the Elves. Nevertheless, some of the attempts to reconstruct a fully functional neo-Valarin are based on the assumption that
+Black Speech
+could be a descendant of a corrupted form of Valarin,
+but there is no canon support for this theory beyond Sauron being a
+Maiar
+and loose similarities.
+References
+External links
+Ardalambion page on Valarin
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
+
+======================================================================
+PAGE: Wolf-language
+CATEGORIES: Languages
+URL: https://lotr.fandom.com/wiki/Wolf-language
+======================================================================
+
+The
+wolf-language
+was a language used by certain
+dogs
+,
+wargs
+, and
+wolves
+in
+Arda
+.
+Description
+While much about this language is untold, it is described as queer, sounding "like animal noises turned into talk".
+The
+wargs
+over the
+Edge of the Wild
+used a dreadful dialect of this tongue which
+Gandalf
+understood, though it "sounded terrible" to
+Bilbo Baggins
+.
+History
+During the
+Quest of Erebor
+, when
+Thorin and Company
+were found by the wargs at their meeting-place in the pine-woods above the
+Vales of Anduin
+, their
+chief
+posted wolf-guards beneath the trees before he spoke to the other wolves in a circle "about cruel and wicked things" in the wolf-language. Occasionally, the other wolves would speak in unison in answer to their chief. Gandalf overheard them discussing how the
+Orcs
+were late for their planned raid on the
+Woodmen
+that night. After Gandalf and the Company threw burning pine-cones at the wolves, the wolf-guards began "cursing the dwarves in" this language.
+Later, when Gandalf and
+Thorin and Company
+arrived at
+Beorn's hall
+,
+Beorn
+spoke to his long-bodied grey dogs in the wolf-language, asking them to retrieve torches for illuminating the hall.
+In the early hours of
+January 14
+in the year
+3019
+,
+the wolf-language was used by the
+Hound of Sauron
+to signal his pack to attack the
+Fellowship of the Ring
+after surrounding the the ring of boulder-stones where the Fellowship chose to shelter at.
+See also
+Animalic
+References
+Languages
+and scripts in
+J.R.R. Tolkien
+'s works
+Elvish
+:
+Angerthas
+(
+Angerthas Daeron
+) ·
+Avarin
+(
+East
+·
+North
+·
+West
+) ·
+Cirth
+(
+Certhas Daeron
+) ·
+Common Eldarin
+·
+Mátengwië
+·
+Moon-letters
+·
+Nandorin
+·
+Primitive Quendian
+·
+Quenya
+(
+Exilic
+·
+Gondoliðren
+·
+Mólanoldorin
+·
+Valinorean
+·
+Vanyarin
+) ·
+Sarati
+·
+Silvan Elvish
+·
+Sindarin
+(
+Doriathren
+·
+Falathren
+·
+Fëanorian
+·
+Númenórean
+·
+Mithrimin
+·
+Old
+) ·
+Telerin
+(
+Common
+) ·
+Tengwar
+Mannish
+:
+Adûnaic
+·
+Drúadan
+·
+Dunlendish
+·
+Halethian
+·
+Northern
+(
+Dale
+·
+Rohanese
+) ·
+Pre-Númenórean
+·
+Taliska
+·
+Skirditaila
+·
+Westron
+(
+Bucklandish
+·
+Hobbit-speech
+)
+Dwarvish
+:
+Angerthas
+(
+Erebor
+·
+Moria
+) ·
+Aulëan
+·
+Iglishmêk
+·
+Khuzdûl
+Other:
+Black Speech
+·
+Keladian
+·
+Melkian
+·
+Old Entish
+·
+Orkish
+·
+Valarin
+·
+Wolf-language
+Earlier legendarium:
+Gnomish
+·
+Gnomic Letters
+·
+Gondolinic Runes
+·
+Ilkorin
+·
+Noldorin
+(
+Yára-noldorin
+) ·
+Oromëan
+·
+Qenya
+·
+Valmaric
+Outside the legendarium:
+Animalic
+·
+Arktik
+·
+Gautisk
+·
+Goblin Alphabet
+·
+Mágol
+·
+Naffarin
+·
+New English Alphabet
+·
+Nevbosh
+·
+Privata Kodo Skauta
+Real-world:
+Celtic
+·
+English
+(
+Old
+·
+Middle
+·
+AB
+) ·
+Finnish
+·
+Germanic
+·
+Gothic
+·
+Hebrew
+·
+Latin
+·
+Runic alphabet
+·
+Old Norse
