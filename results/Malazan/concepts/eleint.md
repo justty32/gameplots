@@ -1,0 +1,49 @@
+# Eleint（龍／T'iam 之裔）
+
+> 第一龍 T'iam 之血裔，所有 Warren 的母源。
+
+- **本質**：Eleint 是 T'iam（第一母龍）的女兒；龍族通稱。
+- **與 Warren 的關係**：
+  - K'rul 創 Warren 體系時與 Eleint 立約，每條 Warren 對應一隻 Eleint 為「心源」。
+  - 工作完成後 Eleint「被迫」返回 Starvald Demelain——她們作為魔法之源不能持續干預真實，否則魔法會變得不可預測，餵養 Chaos。
+  - K'rul 同時把同一 aspect 也賦予 Soletaken Eleint（用 T'iam 之血變身的 Tiste），讓兩派分享。
+- **Ardata 的蛛網**：
+  - K'rul 擔心 Eleint 會棄職逃回 Starvald Demelain，請 Ardata 用蛛網把 Eleint 綁在各自 Warren 內。
+  - 交換條件：K'rul 帶 Ardata 找回失憶的愛人 T'riss。
+  - 這個密約是 K'rul 與 Ardata 的秘密；其他 Eleint 不知情。
+- **已知 Eleint（綁定的 Warren）**：
+  - **Korabas**：Otataral 龍／反魔之龍——肉體被埋成 Otataral 礦床。
+  - **Ampelas**：Kurald Emurlahn 之一支；被囚於 Shadow。
+  - **Eloth**：Meanas／Mockra／Thyr——被囚於 Shadow（Cotillion 訪談對象之一）。
+  - **Kalse**：被囚於 Shadow（Cotillion 訪談對象之一）。
+  - **Silanah**：Telas 之心源；Red Eleint，Anomander Rake 的同盟，居 Moon's Spawn。
+  - **Sorrit**：Serc 之心源。
+  - **Olar Ethil**：Thyr／光 aspect 之一；本身是 Azathanai／第一 Soletaken Eleint Bonecaster；與 T'iam 同款的不死龍。
+  - **Anthras、Arak Rashanas、Atrahal、Dalk Tennes、Dralk、Habalt Galanas、Iskari Mockras、Karatallid、Karosis、Latal Menas、Okaros、Olar、Orchid、Korbas、Alkend、Kessobahn（受傷被困）**：諸 Eleint 名單。
+- **Soletaken Eleint（取 T'iam 之血者）**：
+  - **Anomander Rake**：黑龍。
+  - **Silchas Ruin**：白龍。
+  - **Korlat**：黑龍。
+  - **Orfantal**：黑龍（僅次 Rake）。
+  - **Menandore**：「光輝奪目」金龍。
+  - **Sukul Ankhadu**：斑紋龍。
+  - **Sheltatha Lore**：Draconus 之女、Liosan 三姊妹之一。
+  - **Spite**、**Envy**：Draconus 之女。
+  - **Rud Elalle**：Menandore 之子，金鱗下「不滅之火」。
+  - **Osserc**：金銀龍。
+  - **Scabandari**（Bloodeye）：紅／黑龍，已死。
+- **T'iam 的顯現**：
+  - 當足夠多 Eleint 聚於一處且共同意志一致時，T'iam 本人會降臨。
+  - Bonehunters 終局 Korabas 被解放後 Eleint 群集對抗、T'iam 開始顯現；CG 用自身鏈鎖把 Korabas 重新束縛、避免 T'iam 完全在場——這是「拒絕讓母龍重生」的關鍵時刻。
+- **Eleint 血脈反叛**：
+  - Toll the Hounds 中 Spinnock 回憶：在 Silanah 加入 Tiste Andii 之前，Anomander Rake 曾與「決定不再為 K'rul 服務、要奪權」的 pure-blood Eleint 開戰。
+  - 純血 Eleint 的反叛是 Mother Dark 背棄 Tiste Andii 之後 Rake 親自處理的後續。
+- **Telorast 與 Curdle**：
+  - 兩位死去的 Soletaken Eleint，附身於骷髏小鳥；Apsalar 之同伴。
+  - 她們的真實身分是已死的 Liosan／Edur 血裔女龍——她們的故事與 Sheltatha 之死有關。
+- **Kessobahn**：受傷的 Eleint，被困於某處（書中未詳）。
+- **附註**：
+  - 「Eleint」與「Dragon」可互通，但 Soletaken Eleint 與「純血龍」不同——前者是凡身可變形、後者是純粹龍族。
+  - Pure-blood 龍永遠不變回人形；他們是 K'rul 的「工具」，不是凡身。
+  - 龍的血脈是雙刃劍：給予巨大力量但綁進 Starvald Demelain——只有取 T'iam 血變身的 Soletaken 可自由飛行。
+  - Eleint 是 Malazan 宇宙中「自由意志被宇宙秩序綁定」的最強隱喻。

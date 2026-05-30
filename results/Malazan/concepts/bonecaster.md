@@ -1,0 +1,45 @@
+# Bonecaster／Spiritwalker（Imass 巫師）
+
+> Imass 與 T'lan Imass 的薩滿；通過 Beast Hold 與 Tellann Warren 操作魔法。
+
+- **本質**：Imass 的法師職階；每個都是 Soletaken（單形變身者）。
+- **形變圖騰**：通常為其個人圖騰動物——
+  - **Olar Ethil**：colossal undead dragon（與 T'iam 同款）。
+  - **Pran Chole**：北極狐。
+  - **Monok Ochem**：巨型瘦銀灰猿。
+  - **Hentos Ilm**、**Eitholos Ilm**、**Gr'istanas Ish'Ilm**：未指明圖騰。
+- **能力**：
+  - 透過 Beast Hold（Imass 之靈魂家）與 Tellann Warren 召喚力量。
+  - 可 Spirit-walk（靈魂出竅）——在夢中跨大陸通訊。
+  - 可看見現在與未來的幻象。
+  - 透過大地的「低語」找族人與獵物。
+- **社會地位**：
+  - Bonecaster 通常**不是**氏族領袖——他們是「另一種」權威。
+  - 一族通常有一位 Bonecaster；大族（如 Kron）可有多位。
+- **第一 Bonecaster**：**Olar Ethil**，Tellann 儀式的執行者；同時是 Azathanai。
+- **重要 Bonecaster 名單**：
+  - **Olar Ethil**：第一 Bonecaster、第一 Soletaken Eleint。
+  - **Pran Chole**：Kron T'lan Imass 老 Bonecaster；曾在 Kruppe 夢中協助 Silverfox 之誕生。
+  - **Monok Ochem**：Logros T'lan Imass Bonecaster；後加入 The Unbound（被 CG 解綁的分支）。
+  - **Hentos Ilm**：T'lan Imass Bonecaster；陪伴 Onos T'oolan。
+  - **Nom Kala**：新生（Brold ritual 失敗版）女骨咒者。
+  - **Eitholos Ilm**、**Gr'istanas Ish'Ilm**、**Ilm Absinos**：其他 T'lan Imass Bonecasters。
+  - **Cafal**：Barghast Bonecaster（Hetan 之兄）；Imass 血脈通用此職階至 Barghast。
+- **Spiritwalker**：
+  - 嚴格說 Spiritwalker 是 Bonecaster 的功能之一——靈魂出竅、跨領域行走。
+  - 也可指其他種族的類似職階（Barghast Shaman、Wickan witch）。
+- **Beast Hold**：
+  - Imass 之祖靈所居；兩座 Beast Throne（一獸食一獸被食）——Tellann 把 Beast Hold 拓展為可塑 Warren。
+  - Bonecaster 之力主要通過 Beast Hold 而非 Tellann Warren——Tellann 是 Ritual 後才主導的。
+- **Ritual of Tellann 後**：
+  - 所有 T'lan Imass Bonecaster 都是不死乾屍狀態的 Soletaken。
+  - 部分 Bonecaster 因儀式釘住而失去原本柔軟性；Olar Ethil 仍可變回近完整的龍形。
+- **與 Crimson Guard 的關係**：
+  - Crimson Guard 1066 BS 的 Vow 是 Kilava 在場時舉行；Kilava 唯一一個拒絕 First Gathering 的 Imass 女 Bonecaster；Vow 借用了 Tellann 的力量——所以 Crimson Guard 等同 D'Avore T'lan Imass（紅族 T'lan Imass）。
+- **與 Bonehunters 的關係**：
+  - Bonehunters 的軍隊命名是有意味的——「Bonecasters」是讀骨者、「Bonehunters」是獵骨者；Tavore 暗示她的軍隊是「對抗骨咒者者」（對抗一切既定命運）。
+- **核心台詞**（Olar Ethil 與 Trull）：「Bones are the strongest argument. They argue with their silence.」
+- **附註**：
+  - Bonecaster 是 Malazan 宇宙最古老的人類魔法職階——比 Warren 系統還早。
+  - 他們的力量綁定在 Beast Hold 與 Tellann 之間，所以 Otataral 完全不影響他們。
+  - 一個 Bonecaster 死亡的方式：身體被打碎、骨片散開、靈魂困在 Tellann 中漂蕩。

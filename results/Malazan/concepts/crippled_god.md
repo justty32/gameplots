@@ -1,0 +1,43 @@
+# Crippled God（殘廢神／鏈之神／Kaminsod）
+
+> Malazan 系列的核心反派與最終被解放的悲劇核心。
+
+- **本質**：原是另一個世界（Jade 巨人之故鄉）的神，被七城祭司用儀式從天空硬扯下，砸碎於 Korel／Kolanse／Genabackis 等地。
+- **起源（真相）**：
+  - 119,736 年前 BS（Burn's Sleep）前後，他被一群人類祭司召喚下凡作為武器；他的本名是 **Kaminsod**。
+  - 墜落時碎成多片：心臟落 Kolanse 的 Spire、軀體散在 Korel／Genabackis 等地；隨他一同墜落的還有「Jade 巨人」——他世界的人民，跨次元追隨他而來。
+  - 落地後 Elder Gods 與 Ascendants 用一連串 **Chainings**（鏈結儀式）把他綁在大地母 Burn 身上——這既是禁錮也是「不殺他」的折衷。
+  - 他從此「只知痛苦，並渴望把痛苦施給一切生命、一切存在」。
+- **形象**：
+  - 通常一個彎曲身軀，包在破布與兜帽下；居住於日曬褪色的破帳篷，地點是回憶中的故鄉海灘。
+  - 蜷縮在冒煙的火爐前，丟入種子讓煙更濃；他用此來掩飾並麻醉自己的痛。
+  - 嗓音低啞，間夾劇咳與費力呼吸；瘦小、長亂髮、手指每根骨頭都斷過。
+  - 象徵：破碎的圓。
+- **代理者**：
+  - **Hannan Mosag**：Tiste Edur Warlock King，發現 Father Shadow 早死後與 CG 立約取得 Chaos 魔法。
+  - **Rhulad Sengar**：Hannan 之徒，被 CG 賜不死劍，每死一次就回來一次但每次都更不像自己；最終 Karsa 在競技場斬首他結束此悲劇。
+  - **Pannion Seer**：心理被虐待的瘋 Jaghut，CG 在 Genabackis 的代理人；Pannion Domin 即他的帝國。
+  - **The Unbound**：The Seven Faces in the Rock 一族 T'lan Imass 與 CG 立約後解綁的分支；'Siballe 等。
+  - **Bidithal**：Whirlwind 高層，試圖把 Whirlwind 之力獻給 CG。
+  - **Karos Invictad**：Patriotists 領袖，Letherii 內部的 CG 代理。
+  - **Janall Diskanar**：被 Hannan 用作 Chaos 通道的前 Letherii 王后，後 CG 之新信徒。
+  - **Withal**：被綁來鑄不死劍的 Meckros 鐵匠；後被 Mael 救出。
+- **計畫**：
+  - 強行加入 Deck of Dragons 創 **High House Chains**；Paran 批准之後 CG 從規則外進入規則內。
+  - 試圖控制 **Throne of Shadow**（透過 Edur 攻 Drift Avalii）。
+  - 試圖控制 **First Throne**（透過 Edur 與 Icarium 攻七城）。
+  - 試圖統一 **Kurald Emurlahn**（透過 Edur 整族）。
+  - 透過 **Burn 的感染** 緩慢毒化所有 Warren。
+  - **Dying God**（Bastion 邪教）：他斷掉的一根手指變成 Bastion 上癮邪教神。
+- **轉折**：
+  - **Toll the Hounds**：Hood 之死、Whiskeyjack 接管 Hood's Realm。新規則：「每個神管自己的信徒」——CG 之毒不能再透過 Hood 之 Path 蔓延。
+  - **Dust of Dreams**：Quick Ben 揭示 CG 的心仍在 Kolanse 之 Spire，Adjunct Tavore Paran 暗示 Bonehunters 將遠征 Kolanse 「釋放」他——違背所有不朽神祇之意願。
+  - **The Crippled God**（最後一卷）：Bonehunters 跨 Glass Desert 與 Wastelands 抵 Kolanse；D'rek 升起腐肉之山護衛部隊；Great Ravens 自殺以實體化 CG 之身體；K'Chain Shi'Gal Assassin 把 CG 之心送回他體內。
+- **解放（最終真相）**：
+  - 重新合一的 Kaminsod 不再瘋狂與報復——他驚訝於凡人士兵竟願違背王與神來保護他。
+  - 為防 Korabas（Otataral 龍）被解放後毀所有魔法，他自願把自己的鏈鎖轉移到 Korabas 身上——用自己被綁千年的痛換 K'rul 之命。
+  - 戰役結束後 Cotillion 從背後刺死他——但這不是處決，而是「送他回家」。
+  - 他承諾「將寫下 Book of the Fallen」記下所有為他犧牲的凡人之名——這即是整個 Malazan 系列的後設標題。
+- **附註**：
+  - CG 從反派變成悲劇英雄是 Malazan 系列最大的反轉——他被 Bonehunters 救贖的不是「壞神被打敗」而是「我們都是被綁在這宇宙的同類」。
+  - 他對「文明」的觀察：「人類用我製造他們的神。我每呼吸即痛苦、每痙攣即極樂，皆因他們崇拜時的扭曲。沒有我那些破碎的崇拜者，我或許早已痊癒。」

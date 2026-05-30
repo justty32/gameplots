@@ -1,0 +1,43 @@
+# Jaghut Isolation（隔絕主義）
+
+> Jaghut 主動選擇「不結社、不建城、不集權」的悲劇性民族哲學。
+
+- **本質**：Jaghut 是 Malazan 宇宙最古老的四 Founding Races 之一；高瘦、灰綠膚、下顎兩齒、雙心、長壽近似不死。
+- **歷史**：
+  - 早期 Jaghut 曾建大城——**Omtose Phellack**（同名於他們的 Warren），位於 Jaghut Odhan 中心。
+  - 此城曾「比所有領域中任何城更輝煌」。
+  - **Lord of Hate** 之辯論說服全族：文明本身就是「社會死巷」、終將墮入暴政——Jaghut 集體放棄文明，分散隱居。
+  - 除 Lord of Hate 外所有 Jaghut 離城，散居於孤塔。
+- **核心哲學**：
+  - 「社區」會導致民選領袖、領袖會貪權、貪權會奴役、奴役會毀滅萬物。
+  - 因此最善的政治結構是「無政治」——一個 Jaghut 只與最親近家人生活，鄰塔之間或許數百年不相見。
+  - 從不組建軍隊——他們認為軍隊是「禁忌」。
+  - 受威脅時暫時集結最少必要的人；解決後立即解散。
+- **與 Imass 之戰**：
+  - **Jaghut Tyrant** 是這套哲學的反例——他們渴望統治，把自己包裝為神奴役 Imass。
+  - 一個 Tyrant 出現會導致同族與 Imass 同時介入（Jaghut 反 Tyrant、Imass 救自己）。
+  - 父母被攻時配偶與子女會來救——這使戰爭規模指數性放大，導致毀滅性魔法戰。
+  - 最終 Imass 在 First Gathering 上集體進行 Ritual of Tellann，把自己變成不死戰士以全族絕滅 Jaghut——這是 Jaghut 隔絕主義的最大代價。
+- **War on Death**：
+  - Jaghut 唯一一次集體出戰是 Hood 的 War on Death——百萬大軍跨入死之領域對抗死亡本身。
+  - 大軍永不返。
+  - **Hood's Fourteen** 是這場戰爭的核心 Jaghut；Hood 本人篡神後與他們疏遠數千年。
+- **特有儀式**：**Sundering of Blood**——當一名 Jaghut 即將招致同族毀滅時，主動切斷所有血親標記，讓 Imass 找不到自己親族。
+- **次族**：
+  - **Iceblood**：Assail 大陸人類與 Jaghut 雜交的後裔；長壽、強體、部分 Omtose Phellack 親和性。
+  - **Jhag**：Jhag Odhan 一帶 Jaghut 與人類混血（如 Icarium、Mappo 同類）；多為孤行者。
+- **與 Forkrul Assail**：
+  - 兩族是「對立鏡像」：Jaghut 完全自願獨處、Forkrul 完全公正介入；Jaghut 視「給予比取得多」為自然律、Forkrul 視「平衡」為絕對律。
+  - 兩族戰爭持續至 Malazan 主系列時代，「戰場上人面已無關重要」。
+- **與 K'Chain Che'Malle**：
+  - Jaghut 種族原是 K'Chain 的「下屬」——後 K'Chain 衰退、Jaghut 反過來成霸主。
+  - 後 Jaghut 也選擇放棄文明，K'Chain 與 Jaghut 雙雙退場。
+- **Caladan Brood 對 Jaghut 的評語**：
+  - 「Jaghut 給世界的遠多於他們取走的。」
+  - 不視自己為「stewards」——他們不認為自己與世界分離。
+- **Tulas Shorn 的歷史總結**：
+  - Jaghut 一生只破壞過一次和平——War on Death——「他們以對不公的怒火集結了一億戰士，他們失敗了」。
+- **附註**：
+  - 多數 Jaghut 在主系列時代是傳說——人類已用「Jhag」「Shurl」等貶詞稱他們。
+  - 與 Jaghut 打交道在人類俗語裡=「欺騙與背叛」。
+  - Erikson 自承 Jaghut 的視覺形象（綠膚、獠牙）取材自他童年看的《John Carter of Mars》Green Martians。

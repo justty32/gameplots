@@ -1,0 +1,52 @@
+# Whirlwind Goddess（Dryjhna）
+
+> 七城起義的核心女神，其實是一頭被族人封印的瘋狂 T'lan Imass。
+
+- **本質**：Whirlwind Goddess 是 Raraku 沙漠的「女神」，名為 Dryjhna；inspiration 與起義 Whirlwind 之源。
+- **真相（核心）**：
+  - 她原是 Onrack T'emlava 的 Imass 妻子。
+  - Onrack 與 Kilava Onass 通姦——她由此瘋狂。
+  - 瘋狂帶到 Ritual of Tellann 之後仍未消；族人不忍殺她（儀式讓他們不能死）。
+  - 族人把她碎成骨片，埋在 Raraku 沙漠的黑暗中。
+  - 她在黑暗中「吞噬同情者」——任何聽見她哭聲而靠近的靈都被吸收。
+  - 她由此發展出 Whirlwind Goddess 的人格，掌控 Raraku 一塊 Kurald Emurlahn 碎片。
+  - 她的長期計畫：對 Onrack 與 Kilava 的人類後裔報復——「掃淨人類這群 swarm」。
+  - 她計畫終有一日穿上某個孩子的皮、走出沙漠、把世界殺光。
+- **能力**：
+  - Akhrast Korvalain 之外的另類 Hold 形態魔法。
+  - 操控 Raraku 內的 Kurald Emurlahn 碎片，逐漸把它「養成自己的 Warren」。
+  - 對所有近身者抽乾「生命力與生存意志」——Febryl 抱怨她「殺死部下的靈魂」。
+- **形象（L'oric 所見）**：
+  - 一個燃燒的 Imass、身上盤繞無數扭曲被吞之靈、拖著破碎的 Ritual of Tellann 鎖鏈。
+  - 四肢黑斑（霉與沼澤水）、軀幹覆毛狀苔蘚。
+  - 灰糾髮、焦窟眼眶舔著火、無齒下顎勉強掛在腐爛筋肉上。
+- **Sha'ik 與 Whirlwind 起義**：
+  - Sha'ik 是 Goddess 的人間女祭司——被 Goddess 附體的女性。
+  - 第一代 Sha'ik 為無名祭司，被預言將開 Book of Dryjhna 引發起義。
+  - Kalam 把 Book of Dryjhna 送到她手上；她開書當下，Tene Baralta 的 Red Blades 暗殺她。
+  - 雖然她身死，Whirlwind 仍捲出 Raraku，起義開始。
+  - **Felisin Paran**（Tavore 之妹，從 Otataral 礦場逃出）在 Raraku 接位成為 **Sha'ik Reborn**。
+- **Felisin 之悲劇**：
+  - 她原為 Goddess 的容器、卻仍保有自我意志——剛開始時。
+  - Goddess 對 Felisin 的注入使她對 Tavore 的恨意持續放大，對養女 Felisin Younger 的關心逐漸消失。
+  - Heboric 早察覺 Goddess 是惡——他失去信仰，最終被 Treach 加持成 Destriant。
+- **CG 的覬覦**：
+  - Bidithal（高階祭司之一）試圖把 Whirlwind 之力獻給 CG，讓 Raraku 之 Kurald Emurlahn 成為新 High House Chains 的心臟。
+  - Kalam 從 Bidithal 口中聽到此事，確認 CG 才是真正威脅。
+- **Battle of Raraku（House of Chains 結尾）**：
+  - Korbolo Dom 與 Kamist Reloe 之刺客團（Febryl 開門引入）暗算 Goddess——一面攻 Goddess、一面 Tavore 對 Sha'ik Reborn 單挑。
+  - Goddess 死前尖叫：「My—my—my child! Mine! I stole her from the bitch! Mine!」（她認為自己「偷了」Sha'ik，她的孩子）。
+  - 沒有 Goddess 支援，Sha'ik（Felisin）無法對抗 Tavore，被親姊一劍刺死。
+  - Felisin Younger 在沙漠中由 Karsa 救出。
+- **Goddess 的犧牲完成**：
+  - Bidithal 想把 Goddess 之力獻給 CG 失敗；CG 計畫被破壞。
+  - Goddess 之死同時釋放被她吞噬的萬靈——他們散入 Raraku 之沙。
+- **Onrack 與 Kilava 的回應**：
+  - Onrack 在主系列中段才知道自己前妻是 Whirlwind Goddess——這是他靈魂中最深的悔。
+  - Kilava 與 Onrack 通姦的「妻」即此 Goddess；他們的兒子 Ulshun Pral 即 Goddess 想滅絕的「Onrack 之後裔」。
+  - Onrack 失去人性化外殼的悲傷與 Kilava 對 Imass 後裔的保護一直延續到 Bonehunters 終局。
+- **附註**：
+  - Whirlwind Goddess 是 Malazan 宇宙裡「個人傷害放大為宇宙級惡」的最深例子——一個女人的妒火變成整個七城的起義。
+  - 她與 Tavore 的對位有趣——Tavore 殺自己的妹妹（Felisin／Sha'ik）終結這場個人妒火；Tavore 不允許「私人創傷」毀世界。
+  - Goddess 之名 Dryjhna 是七城語的「末日」；Apocalypse、Whirlwind、Dryjhna 三詞通用。
+  - Erikson 自承 Goddess 對「Onrack 之後裔」的仇恨「不限於血親」——她要殺的是「繼承 Imass 之世的所有人類」。

@@ -1,0 +1,2119 @@
+# 《Malazan Book of the Fallen》全景實體名單
+
+> Phase 2 全景掃描產出。涵蓋 Steven Erikson《Malazan Book of the Fallen》主系列十部、Esslemont《Novels of the Malazan Empire》與《Path to Ascendancy》、Erikson《Kharkanas Trilogy》、以及《Bauchelain and Korbal Broach》中短篇。資料源為 malazan.fandom.com 抓取的 1517 個 page，分入 15 個主題 bucket。
+>
+> 任何在本名單上的具名實體都應在 Phase 3 詞條化（短條目 3–8 行為主，份量足者長條拆檔）。
+
+---
+
+## 人物 (characters)
+
+### 主軸 PoV／核心角色群
+
+- Anomander Rake — 月之神子，Tiste Andii 之王，操使巨劍 Dragnipur 的黑翼之主
+- Kellanved（Wu／Shadowthrone／Ammanas）— Malazan 帝國創建皇帝；升格為影座之主
+- Dancer（Cotillion）— Kellanved 的同袍刺客；升格為繩索／影道刺客之神
+- Laseen（Surly）— 篡位的 Malazan 帝國皇后，前 Claw 之首
+- Tavore Paran — Bonehunters 之將（Adjunct），Ganoes 之妹，全劇主軸統帥
+- Ganoes Stabro Paran — Bridgeburners 隊長，後成為龍牌之主 Master of the Deck
+- Whiskeyjack — Bridgeburners 軍士長，前帝國軍中第二把交椅
+- Fiddler（Strings）— Bridgeburners 工兵；後任 Bonehunters 班長
+- Kalam Mekhar — Seven Cities 出身的暗殺者，Bridgeburners 老兵
+- Quick Ben（Ben Adaephon Delat）— 七靈合一的法師，Bridgeburners 戰術核心
+- Hedge — Bridgeburners 工兵，後復活穿越眾屍之軍
+- Apsalar（Sorry）— 漁村女孩，被 Cotillion 附身成為刺客
+- Crokus Younghand — Darujhistan 飛賊少年，Apsalar 戀人
+- Anomander Rake → 見上
+- Karsa Orlong — Teblor／Toblakai 巨人戰士，自稱「白臉 Toblakai」未來毀滅者
+- Icarium — 失憶的 Jhag 古老戰士，時間之造機者，怒火可毀大陸
+- Mappo Runt — Trell 巨人，受 Nameless Ones 任務看守 Icarium
+- Trull Sengar — 被族人 Shorning 放逐的 Tiste Edur 戰士
+- Onrack T'emlava — 被釋放的非綁定 T'lan Imass 戰士，Trull 之友
+- Rhulad Sengar — Tiste Edur 暴帝；被 Crippled God 賜不死劍而瘋
+- Tehol Beddict — Letheras 經濟天才，假裝穿破布的億萬豪商
+- Bugg（Mael）— Tehol 的男僕，實為海洋長者神 Mael
+- Brys Beddict — Letheras 王國第一劍士，Tehol 之弟
+- Hull Beddict — 失意的 Letherii 邊境官，Tehol 之兄
+- Udinaas — Tiste Edur 家奴出身的 Letherii 人，Crippled God 代言人
+- Toc the Younger — Bridgeburners 偵察兵，獨眼神 Hood 的化身之一
+- Toc the Elder — Toc the Younger 之父，Malazan 帝國元老，後流放
+- Gruntle — Trygalle 商隊隊長；後升格為虎神 Trake 化身
+- Itkovian — Grey Swords 之盾，於 Capustan 圍城吸收萬民之痛而升格
+- Picker — Bridgeburners 老兵，後接管 K'rul 之酒館
+- Blend — Bridgeburners 隱身專家，Picker 戀人
+- Antsy — Bridgeburners 緊張兮兮的中士
+- Mallet — Bridgeburners 治療法師
+- Spindle — Bridgeburners 工兵兼法師，襯衫上織有亡母髮絲
+- Bluepearl — Bridgeburners Napan 法師
+- Trotts — Bridgeburners Barghast 戰士；後升格
+- Detoran — Bridgeburners Napan 重裝兵
+- Coltaine — Wickan 七犬將軍，Chain of Dogs 之首
+- Duiker — Malazan 帝國史官，倖存 Chain of Dogs 唯一見證人
+- Bult — Wickan 老兵，Coltaine 之叔
+- Leoman of the Flails — Sha'ik 部將，Y'Ghatan 之火的縱火者
+- Sha'ik（the Reborn）— Whirlwind 起義之預言者；後身為 Felisin Paran
+- Felisin Paran — Tavore 之妹，被流放到 Otataral 礦場成為 Sha'ik
+- Heboric Light Touch — Fener 廢黜祭司，斷臂被 Treach 加持
+- Baudin — Talons 派出護衛 Felisin 的暗殺者
+- Lostara Yil — Red Blades 出身的女戰士，Tavore 之私印
+- Pearl — Claw 高階刺客，Lostara 戀人
+- Cutter → 見 Crokus Younghand
+- Bottle — Bonehunters 工兵法師，操控老鼠／靈鬼
+- Beak — Bonehunters 隱藏式天才法師，於 Y'Ghatan 自燃救隊
+- Cuttle — Bonehunters 老工兵，悲觀派靈魂
+- Smiles — Bonehunters 漁村女兵
+- Koryk — Bonehunters Seti 半血戰士
+- Tarr — Bonehunters 班長，沉默盾牆
+- Corabb Bhilan Thenu'alas — Leoman 部下倖存者，後成為 Tavore 的旗手
+- Faradan Sort — Bonehunters 上尉，前 Stormwall 守衛
+- Kindly — Bonehunters 嚴峻上尉，光頭潔癖
+- Sinn — Bonehunters 少女火法師
+- Grub — Keneb 收養的神秘男孩，可進入幻象
+- Hellian — Bonehunters 永遠醉酒的 Kartoolian 中士
+- Banaschar — D'rek 廢黜祭司，醉酒大法師
+- Stormy — Bonehunters 紅髮 Falari，Adjudicators 之一
+- Gesler — Bonehunters 銅膚老兵，Adjudicators 之一
+- Truth — Bonehunters 年輕兵，三人組第三人
+- Mayfly — Bonehunters Heavies 之一
+- Shortnose — Bonehunters Heavies 之一
+- Saltlick — Bonehunters Heavies 之一
+- Flashwit — Bonehunters Heavies 女戰士
+- Masan Gilani — Bonehunters Dal Honese 女兵
+- Skanarow — Bonehunters 上尉，Ruthan Gudd 戀人
+- Ruthan Gudd — Bonehunters 上尉；實為 Elder 神級存在
+- Lostara Yil → 見上
+- Withal — Meckros 鐵匠，為 Crippled God 造劍
+- Sandalath Drukorlat — Tiste Andii 女法師，Withal 妻
+- Mother Dark — Tiste Andii 至高神，黑暗本源
+- Father Light — Tiste Liosan 至高神
+- Draconus — 鑄 Dragnipur 的 Azathanai 巨匠，Mother Dark 之配
+- Caladan Brood — 槌神 Azathanai，Anomander Rake 之友兼戰友
+- Kallor — 永生詛咒之高王（High King），曾屠盡自己大陸的暴君
+- Silchas Ruin — Anomander Rake 之弟，白鬚 Tiste Andii
+- Andarist — Anomander Rake 之弟，被 Tiste Edur 屠妻的悲劇人物
+- Spinnock Durav — Tiste Andii 戰士，Rake 王座之劍
+- Endest Silann — Tiste Andii 老法師，雙手淌血的 Mother Dark 見證者
+- Nimander Andaris — Rake 之子，Tiste Andii 王位繼承者
+- Korlat — Tiste Andii 龍變者，Whiskeyjack 戀人
+- Orfantal — Tiste Andii 龍變者
+- Envy — Draconus 之女，三姐妹之一
+- Spite — Draconus 之女，三姐妹之一
+- Sheltatha Lore — Draconus 之女，三姐妹之一
+- Menandore — Tiste Liosan 女龍，黎明姐妹之首
+- Sukul Ankhadu — Tiste Liosan 三姐妹之一
+- Sheltatha Lore → 見上（同身為 Draconus 之女）
+- Sharenas Ankhadu — Tiste Liosan 將軍
+- Pearl → 見上
+- Bauchelain — 必死法師通靈師三人組之首，紳士兇手
+- Korbal Broach — Bauchelain 同伴，無性別的縫合人造物製造師
+- Emancipor Reese — Bauchelain & Korbal Broach 的長壽倒楣男僕
+- Ammanas → 見 Kellanved／Shadowthrone
+- Cotillion → 見 Dancer
+- Crippled God（Chained God／Sick One）— 被綁鎖大陸的外來殘廢神
+- Hood — 死亡之神，曾為 Jaghut 暴君
+- K'rul — 用自身血造成 Warren 系統的長者神
+- Mael — 海洋長者神，見 Bugg
+- Olar Ethil — 第一 Bonecaster，Tellann 儀式之執行者
+- Kilava Onass — 唯一未參與 Tellann 儀式的 Imass 法師
+- Onos T'oolan — Logros T'lan Imass 之首，後成第一劍 Itkovian's 繼任
+- Pran Chole — Kron T'lan Imass 老 Bonecaster
+- Logros — T'lan Imass 氏族統帥
+- Kron — T'lan Imass 氏族統帥
+- Silverfox — Tattersail 與 Nightchill／Bellurdan 三魂合體之 Imass 女
+- Tattersail — Malazan 高階法師，與 Bellurdan 同葬重生為 Silverfox
+- Bellurdan Skullcrusher — Thelomen 巨人法師，Nightchill 戀人
+- Nightchill — 長者女神，Bellurdan 之伴
+- Dassem Ultor — Malazan 第一劍，Hood 廢棄祭司
+- Topper — Claw 之首，半 Tiste Andii 血統
+- Possum — Claw 之首（繼任 Topper）
+- Hairlock — 高階法師，被自身偶人化儀式逼瘋
+- Tayschrenn — Malazan 帝國高階祭司，Empress 大法師
+- Bellurdan → 見上
+- Greymane — 灰甲將軍，Korelri 戰場神話人物
+- K'azz D'Avore — Crimson Guard 第一指揮官，已立誓不老不死
+- Shimmer — Crimson Guard 第二指揮官
+- Cowl — Crimson Guard 大法師，狂熱
+- Skinner — Crimson Guard 出走領袖 Disavowed 之首
+- Blues — Crimson Guard 高階戰士
+- Iron Bars — Crimson Guard 老兵，與 Bonehunters 交手過
+- Fingers — Crimson Guard 法師
+- Cal-Brinn — Crimson Guard Avowed 老將
+- Smoky — Crimson Guard 法師
+- Stoop — Crimson Guard 工兵
+- Gwynn — Crimson Guard 老法師
+- Picker → 見上
+- Mock — Malaz Island 海盜王，Dancer 與 Kellanved 早期主子
+- Surly → 見 Laseen
+- Toc the Elder → 見上
+- Dujek Onearm — Malazan 第二軍團（Host of One Arm）指揮官
+- Dujek's Onearm Host — 見 factions
+- Aragan — Malazan 帝國使節，Pale 戰役指揮
+- Paran → 見 Ganoes Paran
+- Tene Baralta — Red Blades 指揮，後流放
+- Lorn — Adjunct（Laseen 一代），死於 Darujhistan
+- Brood → 見 Caladan Brood
+- Rallick Nom — Darujhistan 暗殺者公會老手
+- Murillio — Darujhistan 戀愛詩人，俱樂部三劍客
+- Coll — Darujhistan 醉漢貴族
+- Kruppe — Darujhistan 圓胖天才商人，Eel 與 Master of the Deck 之師
+- Baruk — Darujhistan T'orrud Cabal 之首，鍊金法師
+- Vorcan — Darujhistan 暗殺者公會主席
+- Ocelot — Darujhistan 暗殺者群首
+- Anomander Purake → 見 Anomander Rake
+- Anomandaris Irake → 見 Anomander Rake
+- Andarist → 見上
+- Scillara — Bidithal 倖存之女，Heboric 同行者；後 Bonehunters 同盟
+- Greyfrog — 蟾蜍形 Demon Lord，Cabal 兄弟之一
+- Cabal Demons — 見 concepts
+- Yan Tovis（Twilight）— Shake 女王，海岸 Tiste 半血混血部族領袖
+- Yedan Derryg（Witchslayer）— Yan Tovis 之弟，Watch
+- Pithy — Letherii 監獄逃出的女性囚犯
+- Brevity — Pithy 同夥
+- Throatslitter — Bonehunters Adjudicators
+- Deadsmell — Bonehunters Adjudicators，亡魂法師
+- Ebron — Bonehunters 法師
+- Bavedict — Bonehunters 化學家／煉金師
+- Widdershins — Bonehunters 法師
+- Nep Furrow — Bonehunters Daru 老法師，惡口連珠
+- Sinter — Bonehunters Dal Honese 中士，預兆讀者
+- Kisswhere — Sinter 之妹
+- Badan Gruk — Bonehunters Dal Honese 中士
+- Pravalak Rim — Bonehunters 老兵
+- Reliko — Bonehunters Dal Honese 矮個重裝
+- Vastly Blank — Bonehunters Heavies 蠢蛋
+- Sweetlard — Bonehunters Heavies
+- Rumjugs — Bonehunters Heavies
+- Hanfeno — Bonehunters Heavies
+- Honey — Bonehunters
+- Hubb — Bonehunters
+- Skulldeath — Bonehunters Khundryl 王子
+- Gall — Khundryl Burned Tears Warleader
+- Hanavat — Gall 妻
+- Highmark Yil — 七城將軍
+- Y'Ghatan Yaroth — 七城叛軍
+- Bidithal — Whirlwind 的 Untiers／Sha'ik 教權貴
+- Febryl — Whirlwind 高位法師，叛徒
+- Mathok — Whirlwind 戰士首領
+- Mebra — Sha'ik 部下小角色
+- Korbolo Dom — Sha'ik 將軍，後賣國
+- Kamist Reloe — Sha'ik 大法師
+- L'oric — Sha'ik 副手，Osric 之子
+- Heborian → 見 Heboric
+- Pust（Iskaral Pust）— Shadow 神廟的瘋狂法師
+- Mogora — Iskaral Pust 妻，蜘蛛 D'ivers
+- Servant of Shadow — Pust 廟僕
+- Salind — Tennes 聖少女
+- Buke — Darujhistan 老兵
+- Murillio → 見上
+- Stonny Menackis — Trygalle 老兵女將
+- Harllo（younger）— Stonny 之子
+- Harllo（caravan guard）— 同名僕傭
+- Bellam Nom — Rallick Nom 親人，Darujhistan 青年
+- Snell — Darujhistan 街頭混混兒童
+- Myrla — Darujhistan 平民母親
+- Stonny → 見上
+- Torvald Nom — Darujhistan Nom 家族外戚商人，K'rul 後援
+- Hood's Mortal Sword — 見 Itkovian 等繼承人
+- Itkovian's successors — 見 factions
+- Ublala Pung — Tarthenal 巨人，Tehol 同伴，傻力大
+- Mappo → 見上
+- Iskaral Pust → 見 Pust
+- Lostara Yil → 見上
+- Ralic Bell — Letherii 朝廷
+- Rhulad → 見上
+- Fear Sengar — Rhulad 之兄，Tiste Edur 王族正統
+- Trull Sengar → 見上
+- Binadas Sengar — Rhulad 之弟，Edur 王族
+- Hannan Mosag — Tiste Edur Warlock King，後成 Crippled God 之仆
+- Hanradi Khalag — Edur Preda
+- Tomad Sengar — Sengar 兄弟之父，後失利
+- Uruth Sengar — Sengar 兄弟之母
+- Mayen — Rhulad 之妻
+- Ahlrada Ahn — Tiste Edur 雙面間諜
+- Bruthen Trana — Edur 將領，後追擊 Karsa
+- Theradas Buhn — Edur 將領
+- Midik Buhn — Edur 戰士
+- Beddict 三兄弟 → 見 Tehol/Brys/Hull
+- Ezgara Diskanar — Letheras 老國王
+- Janall Diskanar — Letheras 王后
+- Quillas Diskanar — Diskanar 王子
+- Karos Invictad — Letherii Patriotists 之首
+- Tanal Yathvanar — Patriotists 副手
+- Rautos Hivanar — Letherii 銀行家
+- Bruthen Trana → 見上
+- Bivatt — Letherii 邊境將軍
+- Yan Tovis → 見上
+- Yedan Derryg → 見上
+- Errastas（Errant）— 看門 Elder God，籌算者
+- Sechul Lath（Knuckles）— Errant 之伙，運氣 Elder God
+- Kilmandaros — 拳擊巨石的 Elder Goddess
+- Mother Dark → 見上
+- Father Light → 見上
+- Father Wind — Barghast 三靈神之一
+- Sister Dawn — Liosan 神
+- Skillen Droe — Eleint 化身的 Azathanai
+- Ardata — Spider Queen Azathanai
+- Kruppe → 見上
+- Tehol → 見上
+- Hentos Ilm — T'lan Imass Bonecaster
+- Monok Ochem — T'lan Imass Bonecaster
+- Lanas Tog — T'lan Imass 倖存者
+- Nom Kala — T'lan Imass 新生女骨咒者
+- Ibra Gholan — T'lan Imass Clan Leader
+- Kahlb the Silent Hunter — T'lan Imass 偵察者
+- Legana Breed — T'lan Imass 戰士
+- The Unbound — 解綁的 T'lan Imass 自由派
+- Apsal'ara — 「萬偷之主」古 Imass 女神
+- Rhulad → 見上
+
+### 各陣營／種族的具名小角色（從 page 列表整理）
+
+#### Bonehunters 全 page 名單（不重複列上面已給的）
+- Able — Bonehunters 普兵
+- Arbin — Bonehunters 普兵
+- Asp Slither — Bonehunters Heavies
+- Balgrid — Bonehunters 法師
+- Balm — Bonehunters Adjudicators 中士
+- Bell — Bonehunters 普兵
+- Bellig Harn — Bonehunters 老兵
+- Bester — Bonehunters
+- Blistig — Bonehunters Fist，後叛變
+- Borduke — Bonehunters 中士，於 Y'Ghatan 喪命
+- Bowl — Bonehunters
+- Brethless — Bonehunters
+- Brutan Harb — Bonehunters
+- Bulge — Bonehunters
+- Burnt Rope — Bonehunters
+- Clasp — Bonehunters
+- Cord — Bonehunters 中士
+- Could Howl — Bonehunters
+- Drawfirst — Bonehunters Heavies
+- Galt — Bonehunters
+- Gill Slime — Bonehunters
+- Grid Ffan — Bonehunters
+- Gripe — Bonehunters
+- Guano — Bonehunters
+- Gullstream — Bonehunters
+- Gupp — Bonehunters
+- Hanno — Bonehunters
+- Harbyn — Bonehunters
+- Hare Ravage — Bonehunters
+- Himble Thrup — Bonehunters
+- Hobble（Sub-Fist）— Bonehunters Sub-Fist
+- Hubb → 見上
+- Hunt — Bonehunters
+- Ibb — Bonehunters
+- Jamber Bole — Bonehunters
+- Jibb — Bonehunters
+- Jump — Bonehunters
+- Kellant — Bonehunters
+- Keneb — Bonehunters Fist，後死於 Letheras
+- Lap Twirl — Bonehunters
+- Limp — Bonehunters 普兵
+- Lobe — Bonehunters
+- Lookback — Bonehunters
+- Lutes — Bonehunters
+- Madan'Tul Rada — Bonehunters Khundryl
+- Masker — Bonehunters
+- Maybe — Bonehunters
+- Mosel — Bonehunters
+- Mud — Bonehunters
+- Mudslinger — Bonehunters
+- Mulvan Dreader — Bonehunters
+- Nefarias Bredd — Bonehunters 都市傳奇士兵（其實不存在）
+- Neller — Bonehunters
+- Nether — Wickan 女法師，Nil 之姐
+- Nil — Wickan 男法師，Nether 之弟
+- Nose Stream — Bonehunters
+- Ordinary Grey — Bonehunters
+- Pella — Bonehunters
+- Pores — Bonehunters 上尉
+- Primly — Bonehunters
+- Raband — Bonehunters
+- Rackle — Bonehunters
+- Ramp — Bonehunters
+- Reem — Bonehunters
+- Rib — Bonehunters
+- Rove — Bonehunters
+- Ruffle — Bonehunters Heavies
+- Sad — Bonehunters
+- Sample — Bonehunters
+- Sands — Bonehunters
+- Scant — Bonehunters
+- Senny — Bonehunters
+- Shades Elar — Bonehunters
+- Shard — Bonehunters
+- Shipwreck — Bonehunters
+- Shoaly — Bonehunters
+- Sobelone — Bonehunters
+- Squint — Bonehunters 弓手，於 Coral 城殺 Anomander Rake 之友
+- Stacker — Bonehunters
+- Strap Mull — Bonehunters
+- Stull — Bonehunters
+- Sunrise — Bonehunters
+- T'amber — Tavore 的女戀人／護衛
+- Taffo — Bonehunters
+- Tavos Pond — Bonehunters
+- Thews — Bonehunters
+- Thikburd — Bonehunters
+- Thom Tissy — Bonehunters
+- Toles — Bonehunters
+- Touchy — Bonehunters
+- Tulip — Bonehunters Heavies
+- Urb — Bonehunters
+- Uru Hela — Bonehunters
+- Wreck-Eye — Bonehunters
+- Beak → 見上
+- Bottle → 見上
+- Berrach — Bonehunters/Bridgeburners 跨類
+- Gent — Bonehunters/Bridgeburners 跨類
+- Pahvral — 跨類
+- Rayez — 跨類
+- Sleg — 跨類
+
+#### Bridgeburners 全 page 名單
+- Aimless — Bridgeburners
+- Ash — Bridgeburners
+- Brackle — Bridgeburners
+- Bucklund — Bridgeburners
+- Cage — Bridgeburners
+- Corinn — Bridgeburners
+- Dasalle — Bridgeburners
+- Ferret — Bridgeburners
+- Liss（Bridgeburner）— Bridgeburners 老兵
+- Monkrat — Bridgeburners 後期墮落老兵
+- Mulch — Bridgeburners 治療員
+- Runter — Bridgeburners
+- Shank — Bridgeburners
+- Story — Bridgeburners
+- Toes — Bridgeburners
+- Tormin — Bridgeburners
+
+#### Claw
+- Aliksos — Claw 刺客
+- Bulk — Claw
+- Formult — Claw
+- Gilakas — Claw
+- Ibinish — Claw
+- Lalt — Claw
+- Sialle — Claw
+
+#### Crimson Guard
+- Amatt — Avowed
+- Baker — Avowed
+- Balkin — Avowed
+- Bartok — Avowed
+- Betel — Avowed
+- Black（the Greater）— Avowed
+- Black the Lesser — Disavowed
+- Bower — Avowed
+- Cole — Avowed
+- Daneth — Avowed
+- Dim（Crimson Guard）— Avowed
+- Farese — Avowed
+- Halfdan — Avowed
+- Hesta（Crimson Guard）— Disavowed
+- Hist — Avowed→Disavowed
+- Inese — Avowed
+- Isha — Avowed
+- Jacinth — Disavowed
+- Janeth — Avowed
+- Jup Alat — Avowed
+- Kalt — Avowed
+- Keal — Avowed
+- Keel — Avowed
+- Keitil — Avowed
+- Ketch — Avowed
+- Lacy — Avowed
+- Laurel — Avowed
+- Lazar — Avowed
+- Lean — Avowed
+- Leena — Avowed
+- Leuthan — Disavowed
+- Longlegs — Avowed
+- Lor-sinn — Avowed
+- Lucky — Avowed
+- Mara — Avowed→Disavowed
+- Opal — Avowed
+- Petal — Avowed→Disavowed
+- Poll — Avowed
+- Red（Crimson Guard）— Avowed→Disavowed
+- Reed — Avowed
+- Sarafa Lenesh — Avowed
+- Sart — Avowed
+- Sept — Avowed
+- Shellarr — Avowed
+- Shijel — Avowed→Disavowed
+- Shirdar — Avowed
+- Slate — Avowed
+- Sour（Crimson Guard）— Avowed
+- Surat — Avowed
+- Tarkhan — Avowed
+- Toby — Avowed
+- Treat — Avowed
+- Turgal — Avowed
+- Veils — Crimson Guard 法師
+
+#### Tiste（Andii／Liosan／Edur／Kharkanas Trilogy 主要新角色）
+- Andarist → 見上
+- Silchas Ruin → 見上
+- Anomander Rake → 見上
+- Endest Silann → 見上
+- Korlat → 見上
+- Orfantal → 見上
+- Spinnock Durav → 見上
+- Sandalath Drukorlat → 見上
+- Nimander → 見上
+- Aegis — Tiste 戰士
+- Agalas — Tiste 戰士
+- Altras — Tiste
+- Aral — Tiste
+- Aras — Tiste
+- Arkandas — Tiste
+- Atran — Tiste 醫者
+- Baesk — Tiste
+- Bavras — Tiste
+- Becker Flatt — Tiste
+- Bered — Tiste
+- Bidishan — Tiste
+- Bilikk — Tiste
+- Bishim — Tiste
+- Biskin — Tiste
+- Braphen — Tiste
+- Brevith Dreda — Tiste
+- Broot — Tiste
+- Brusk — Tiste
+- Bursa — Tiste
+- Cage（Tiste）— Tiste
+- Calat Hustain — Tiste Andii Warden 領袖，Glimmer Fate 守衛
+- Caplo Dreem — Shake 戰士／刺客
+- Castegan — Tiste
+- Cedorpul — Tiste Andii 法師學徒
+- Cryba — Tiste
+- Cryl Durav — Tiste Andii 年輕貴族
+- Curl（person）— Tiste
+- Cutter Aras — Tiste
+- Darav — Tiste
+- Dathenar — Tiste Andii 戰士
+- Dathenar Gowl — Tiste
+- Degalla — Tiste Andii 貴族
+- Delaran — Tiste
+- Denar — Tiste
+- Drethdenan — Tiste 貴族
+- Eldin — Tiste
+- Emral Lanear — Tiste Andii High Priestess of Mother Dark
+- Enesdia — Andarist 之妻，被屠殺者
+- Enesthila — Tiste
+- Ephalla — Tiste
+- Esthala — Tiste
+- Falt（Tiste）— Tiste
+- Farab — Tiste
+- Feren — Tiste
+- Finarra Stone — Tiste Andii Warden
+- Galak — Tiste
+- Galar Baras — Tiste Andii Hust Legion 上尉
+- Galast — Tiste
+- Galdan — Tiste
+- Ganz — Tiste
+- Gazzan — Tiste
+- Gelas Storco — Tiste
+- Gilal — Tiste
+- Ginial — Tiste
+- Glyph — Shake 戰士
+- Greniz — Tiste
+- Gripp Galas — Tiste Andii 老騎士
+- Gurren — Tiste
+- Hallyd Bahann — Tiste
+- Haradegar — Tiste
+- Haral — Tiste
+- Havaral — Tiste
+- Hebla — Tiste
+- Hedeg Lesser — Tiste
+- Helrot — Tiste
+- Hidast — Tiste
+- Hilith — Tiste
+- Hish Tulla — Tiste Andii Houseblade Lord
+- Horult Chiv — Tiste
+- Hunn Raal — Liosan 起義領袖
+- Igur Lout — Tiste
+- Ilgast Rend — Tiste Andii 老將
+- Infayen Menand — Tiste 貴族
+- Ivelis — Tiste
+- Ivis — Tiste Andii House Dracons 隊長
+- Jaen Enes — Tiste 領主
+- Jinia — Tiste
+- Jureg Thaw — Tiste
+- Kagamandra Tulas — Tiste Andii 老騎士
+- Kalakan — Tiste
+- Kellaras — Tiste Andii 上尉
+- Korlas — Tiste
+- Korya Delath — Mahybe（即 Korya Delath）, Tiste 半 Imass 少女
+- Krissen — Tiste
+- Kullis — Tiste
+- Lahanis — Tiste 倖存少女
+- Laskan — Tiste
+- Legyl Behust — Tiste
+- Liftera — Tiste
+- Listar — Tiste 罪人軍士
+- Manalle — Tiste
+- Marak — Tiste
+- Merrec — Tiste
+- Migil — Tiste
+- Millick — Tiste
+- Mirril — Tiste
+- Mivik — Tiste
+- Narad — Tiste 罪人軍士
+- Nassaras — Tiste
+- Neerak — Tiste
+- Nerys Drukorlat — Tiste Andii 高貴婦人
+- Pelk — Tiste
+- Prazek Goul — Tiste Andii 上尉
+- Prok — Tiste
+- Pryll — Tiste
+- Pult（Tiste）— Tiste
+- Quill — Tiste
+- Radas — Tiste
+- Raelle — Tiste
+- Rance（person）— Tiste
+- Rancept — Tiste 老者
+- Ranyd — Tiste
+- Raskan — Tiste 馬夫
+- Rathadas — Tiste
+- Rebble — Tiste
+- Rees — Tiste
+- Renarr — Tiste 妓女養女
+- Renth — Tiste
+- Resh — Tiste
+- Rilt — Tiste
+- Rint — Tiste 戰士
+- Rise Herat — Mother Dark 廷臣歷史學者
+- Risp — Tiste
+- Ristand — Tiste
+- Ruvera — Tiste
+- Sagander — Tiste 學者
+- Sartoril — Tiste
+- Savarro — Tiste
+- Sekarrow — Tiste
+- Selad — Tiste
+- Seltin Ryggandas — Hust Legion 軍需
+- Serap — Tiste
+- Setyl — Tiste
+- Sevegg — Tiste
+- Shalath — Tiste
+- Shanter — Tiste
+- Sharenas Ankhadu → 見上
+- Sheccanto Derran — Mother Dark 修院 Mother
+- Shellas — Tiste
+- Silann — Tiste
+- Sillen — Tiste
+- Skelenal — 修道院 Father
+- Skild — Tiste
+- Sorca — Tiste 法師
+- Sparo — Tiste
+- Srela — Tiste
+- Srilla — Tiste
+- Stenas — Tiste
+- Stillhap — Tiste
+- Strapala — Tiste
+- Syl Lebanas — Tiste
+- Syntara — Tiste Liosan High Priestess
+- Tanner Harok — Tiste
+- Tathe Lorat — Tiste
+- Telra — Tiste
+- Teroth — Tiste
+- Thennis — Tiste
+- Thool — Tiste
+- Threadbare — Tiste
+- Toras Redone — Hust Legion 指揮官
+- Traj — Tiste
+- Trevok — Tiste
+- Trout（Tiste）— Tiste
+- Vanut Degalla — Tiste 貴族
+- Vask — Tiste
+- Velkatal — Tiste
+- Venes Turayd — Tiste 貴族
+- Venth Direll — Tiste
+- Ville — Tiste
+- Vygilla — Tiste
+- Wareth — Tiste 罪人軍士官
+- Wreneck — Tiste 少年僕從
+- Yalad — Tiste
+- Yeld — Tiste
+
+#### Jaghut
+- Gothos — Jaghut 古哲學家，Hood 之友
+- Hood → 見上（Jaghut 出身）
+- Raest — Jaghut Tyrant，於 Darujhistan 解封
+- Pannion Seer — Jaghut 雙子，Pannion Domin 主腦
+- Phyrlis — 半 Jaghut／樹的女兒
+- Ganath — Jaghut 女法師
+- Cynnigig — Jaghut 老者
+- Haut — Jaghut 戰士，Korya 養父
+- Bedusk Pall Kovuss Agape — Jaghut
+- Burrugast — Jaghut
+- Gathras — Jaghut
+- Gedoran — Jaghut
+- Gethol — Herald of House Chains 的 Jaghut
+- Heel — Jaghut
+- Hood's Fourteen — Hood 的 14 個復活騎士
+- Hul' Alanen-Teth — Jaghut
+- Ivindonos — Jaghut
+- Jaghut Huntress — 女 Tyrant
+- Jaghut Tyrant — 通稱
+- Jaghut matriarch — Imass 戰役前的 Jaghut 婆婆
+- Jaghut mother — 同上類
+- Jass — Jaghut
+- Jhag — Jaghut 半血
+- Jhenna — Jaghut
+- Juage — Jaghut
+- Karish — Jaghut
+- Myrni — Jaghut
+- Prox the Mad Jaghut — 瘋 Jaghut
+- Sanad — Jaghut
+- Sarkanos — Jaghut
+- Sayer — Jaghut
+- Scratch — Jaghut
+- Shurl — Jaghut
+- Singer — Jaghut
+- Suvalas — Jaghut
+- The Fourteen Undead Jaghut — Hood's Fourteen
+- Timmel Orosenn — Jaghut 女預言者
+- Varandas — Jaghut
+- Yullveig — Jaghut
+- Aramala — Jaghut
+- Aimanan — Jaghut
+- Bain — Jaghut
+- Baran（Iceblood）— Jaghut Iceblood 血脈
+- Bolirium — Jaghut
+- Buri — Jaghut
+- Cull Heel — Jaghut
+- Daryft — Jaghut
+- Erta — Jaghut
+- Iceblood — Jaghut 半血人
+
+#### Imass／T'lan Imass（全 page）
+- Absi — Imass-Barghast 半血孩童
+- Absin Tholai — T'lan Imass
+- Agkor Choom — T'lan Imass
+- Ay Estos — T'lan Imass
+- B'ehn Aralack — T'lan Imass
+- Ban Raile — Imass
+- Bek Okhan — T'lan Imass
+- Bek'athana Ilk — T'lan Imass
+- Bendal Home — T'lan Imass
+- Bentract — Imass clan
+- Bentract（person）— T'lan Imass
+- Ber'ok — T'lan Imass
+- Betrule — T'lan Imass
+- Brold — T'lan Imass clan
+- Brold Chood — T'lan Imass clan leader
+- Brolos Haran — T'lan Imass
+- Bruj'el — T'lan Imass
+- Cannig Tol — T'lan Imass 軍首
+- Dev'ad Anan Tol — T'lan Imass
+- Eitholos Ilm — T'lan Imass Bonecaster
+- Emroth — T'lan Imass，Trull 同行
+- Eptr Phinana — Imass
+- Galad Ketan — T'lan Imass
+- Gor'eth — T'lan Imass
+- Gr'istanas Ish'Ilm — Imass Bonecaster
+- Guth — T'lan Imass
+- Han'ith Iath — T'lan Imass
+- Haran Epal — T'lan Imass
+- Haran'alle — T'lan Imass
+- Hostille Rator — Imass
+- Ibinahl Chode — T'lan Imass
+- Ifayle — Imass
+- Ilm Absinos — T'lan Imass
+- Inal Thoom — Imass
+- Inistral Ovan — T'lan Imass
+- Insharak Ulan — T'lan Imass
+- Issen Li'gar — T'lan Imass
+- J'arl — T'lan Imass
+- Jahl 'Parth — Imass
+- Jala — Imass
+- Kalas Agkor — T'lan Imass
+- Kalt Urmanal — T'lan Imass
+- Karas Av — T'lan Imass
+- Kebralle Korish — T'lan Imass
+- Kerluhm — Imass clan
+- Kig Aven — T'lan Imass
+- Kron（person）→ 見上
+- L'echae Shayn — T'lan Imass
+- Lera Epar — T'lan Imass
+- Lid Ger — T'lan Imass
+- Logros（person）→ 見上
+- Maenas Lot — T'lan Imass
+- Nashar Clan — Imass clan
+- Okral Lom — T'lan Imass
+- Olar Shayn — T'lan Imass
+- Onak Shendok — T'lan Imass
+- Orshayn — Imass clan
+- Othut K'ho — T'lan Imass
+- Ranag Ilm — T'lan Imass
+- Rystalle Ev — T'lan Imass
+- Saemdhi — Imass
+- Shalt Li'gar — T'lan Imass
+- Sholas — T'lan Imass
+- Sin'b'alle — T'lan Imass
+- Skan Ahl — T'lan Imass
+- Sultha A'rad — Imass
+- T'ber Tendara — T'lan Imass
+- Tarad — T'lan Imass
+- Tem Benasto — T'lan Imass
+- Thal（Imass）— Imass
+- Thek Ist — T'lan Imass
+- Til'Aras Benok — Imass
+- Tolb Bell'al — T'lan Imass
+- Ulag Togtil — Toblakai／T'lan Imass，Onos 親信
+- Ulpan Nodost — T'lan Imass
+- Ulshun Pral — Imass，Onrack 之子
+- Urual — T'lan Imass
+- Ut'el Anag — T'lan Imass
+
+#### Forkrul Assail（單字名通常即人名）
+- Calm — Forkrul Assail Pure，幾位高層之一
+- Serenity — Forkrul Assail Pure
+- Reverence — Forkrul Assail Pure
+- Diligence — Forkrul Assail Pure
+- Equity — Forkrul Assail Pure
+- Brayderal — Forkrul Assail，混在 Snake 兒童間的奸細
+- Abide — Forkrul Assail
+- Adroit — Forkrul Assail
+- Aloft — Forkrul Assail
+- Beleague — Forkrul Assail
+- Belie — Forkrul Assail
+- Doubt — Forkrul Assail
+- Freedom — Forkrul Assail
+- Grave — Forkrul Assail
+- Intransigent — Forkrul Assail
+- Kessgan — Forkrul Assail
+- Paucity — Forkrul Assail
+- Penance — Forkrul Assail
+- Placid — Forkrul Assail
+- Rail — Forkrul Assail
+- Repose — Forkrul Assail
+- Scorn — Forkrul Assail
+- Sever — Forkrul Assail
+- Watered — Forkrul Assail 半血混血
+
+#### Barghast 全 page
+- Ahkrata — Barghast clan
+- Bakal — Barghast warrior
+- Balamit — Barghast
+- Barahn — Barghast clan
+- Bavalt — Barghast
+- Bedit — Barghast
+- Befka — Barghast
+- Benden Ledag — Barghast Shaman
+- Cafal — Hetan 之兄，Bonecaster
+- Corit — Barghast
+- Desorban — Barghast
+- Elor — Barghast
+- Estaral — Barghast
+- Faranda — Barghast 母
+- Gadra — Barghast clan
+- Gilk — Barghast clan
+- Gillankai — Barghast
+- Grere — Barghast
+- Hega — Barghast
+- Hessanrala — Barghast 戰士女
+- Hetan — Humbrall Taur 女兒，Onos T'oolan 妻
+- Humbrall Taur — Barghast 王子
+- Ilgres — Barghast clan
+- Jastara — Barghast
+- Jayviss — Barghast
+- Kamz'tryld — Barghast
+- Karavt — Barghast
+- Kashat — Barghast
+- Krin — Barghast
+- Least — Barghast 戰士
+- Maral Eb — Barghast 篡位 War Chief
+- Netok — Barghast
+- Nith'rithal — Barghast Warleader
+- Old Yara — Barghast 老女人
+- Ralata — Barghast 狩獵者
+- Riggis — Barghast
+- Sagal — Barghast Warleader
+- Sagal's mother — Barghast 母
+- Sathand Gril — Barghast
+- Sekara — Barghast 公主，毒辣女
+- Sekara's mother — Barghast
+- Senan — Barghast 主氏族
+- Skincuts — Barghast 文化族系
+- Snakehunter — Barghast clan
+- Spax — Gilk Warchief
+- Stavi — Hetan 之女
+- Sticksnare — Barghast 老獵人
+- Stolmen — Sekara 之夫
+- Storii — Hetan 之女
+- Strahl — Barghast Warleader
+- Talamandas — Barghast 死靈手套小巫
+- Talt — Barghast
+- Tolat — Barghast
+- Ulfas — Barghast
+- Waynar — Barghast
+- White Face — Barghast clan
+- Yedin — Barghast
+- Yellow Clay clan — Barghast clan
+- Zaravow — Barghast
+
+#### Humans 補完（race_human page，不重複）
+- Abercrass — 人類軍人
+- Adwami — Letherii 部族
+- Agayla — Malaz City 女巫
+- Akrynnai — 七城部族
+- Anavalistia — 七城
+- Andrison Balk — 部族戰士
+- Apsalar → 見上
+- Ara — Letherii 平民
+- Arko — 雇傭兵
+- Badalle — Snake 兒童軍預言女童
+- Bakar（Thaumaturg Army）— Jacuruku 兵
+- Bauchelain → 見上
+- Beetle Praata — Jacuruku 法師
+- Beneth（Jourilan Army）— Korel 兵
+- Benger — 法師
+- Bidithal → 見上
+- Bleat — 配角
+- Bratha — 配角
+- Braven Tooth — Malaz Empire 軍官／教官
+- Bray — 配角
+- Brys Beddict → 見上
+- Bucch — 配角
+- Buke → 見上
+- Burok — 配角
+- Capor — 配角
+- Cassa — Bauchelain 故事配角
+- Crazy-eye — Bauchelain 故事配角
+- Crokus Younghand → 見 Cutter
+- Dresh — 城市/人物（一人）
+- Drunk Menger — Tehol 街友
+- Enqura — Sha'ik 部下
+- Ephras — Wickan 戰士
+- Erekala — 配角
+- Ezgara Diskanar → 見上
+- Fayelle — Letherii
+- Febryl → 見上
+- Fent — 配角
+- Ferryman — Hood Ferryman
+- Fisher kel Tath — 半神詩人，Malazan 世界吟遊詩人
+- Fuldit — 配角
+- Gacharge Hadlorn Who Waits — 配角
+- Gafalk — 配角
+- Garsten — 配角
+- Gaunt-Eye — 配角
+- Gavat — 配角
+- Golan — Thaumaturg Lord
+- Grabella — 配角
+- Grizzer — 配角
+- Gullyb — 配角
+- Hannal Leath — Letherii 軍人
+- Harak — 七城叛軍
+- Harllo（caravan guard）→ 見上
+- Harllo（younger）→ 見上
+- Heboric Light Touch → 見上
+- Hegest — Letherii
+- Heuk — Letherii 老法師
+- Heveth — 配角
+- Hull Beddict → 見上
+- Human — 種族概念，見 factions
+- Hurl — Li Heng 守衛上尉
+- Ildas — 配角
+- Ilma — 配角
+- Inthalas — Letherii 軍人
+- Ipshank — Fener 跡象先知，老法師
+- Irkullas — Awl 老人
+- Irriz — 配角
+- Janall Diskanar → 見上
+- Janath（Thaumaturg villager）— Jacuruku 村婦
+- Janath Anar — Letherii 學者，後成 Tehol 夫人
+- Jheval — Whirlwind 戰士
+- Kalyth — Awl 女預言者
+- Karnadas — Capustan 牧師
+- Kellanved → 見上
+- Kenjak Ashevajak — 配角
+- Kindaru — 部族
+- Kiskatia Silamon Tenesh — Bauchelain 故事配角
+- Korbal Broach → 見上
+- Koro — 雇傭兵
+- Krughava — Perish Grey Helms Mortal Sword
+- Lambat — 配角
+- Laseen → 見上
+- Leandris — 配角
+- Lek — 配角
+- Leoman → 見上
+- Loor-San — 配角
+- Lorn → 見上
+- Manx — 配角
+- Myint — 配角
+- Nedurian — Old Guard 老法師
+- Nistilash — Letherii 軍
+- Nistilla — Letherii 軍
+- Norul — 配角
+- Noto Boil — Bonehunters 醫療員（Onos 軍）
+- Old Katter — Wickan
+- Ophal D'Neeth Flatroq — Letherii 老法師
+- Oryan — 配角
+- Palley — 配角
+- Peleshar — 配角
+- Pon-lor — Jacuruku 法師學徒
+- Puddy — 配角
+- Puny Sploor — 配角
+- Quillas Diskanar → 見上
+- Rant — Karsa 之子
+- Rellock — Apsalar 之父
+- Rud Elalle — Menandore 之子
+- Run'Thurvian — Bonehunters 大法師
+- Saeng — Jacuruku 預言者
+- Sagant — 配角
+- Salind → 見上
+- Samar Dev — Seven Cities 女學者，Karsa 同伴
+- Sarlis — 配角
+- Senior Assessor — Bauchelain 故事 Theol 評估師
+- Sinbarl — 配角
+- Skella — 配角
+- Solly — 配角
+- Stayandi — Karsa 之女
+- Stebar — 配角
+- Stern — 配角
+- Stick — 配角
+- Stillwater — Bonehunters 法師
+- Stonny Menackis → 見上
+- Sugal — 配角
+- Surin — 配角
+- Swillstine — 配角
+- Tanakalian — Perish Grey Helms Shield Anvil
+- Tattersail → 見上
+- Tehol Beddict → 見上
+- Tene Baralta → 見上
+- Thenys Bule — 配角
+- Thet-mun — 配角
+- Thordy — 配角
+- Thorn — 配角
+- Thove — 配角
+- Thyrss — 配角
+- Toc the Elder → 見上
+- Topper → 見上
+- Trooth the Dint — 配角
+- Udinaas → 見上
+- Varman — 配角
+- Velbara — Letherii
+- Verbis — 配角
+- Vihune — 配角
+- Vildron — 配角
+- Villiob — 配角
+- Vorlock Duven — 法師
+- Wilders — 配角
+- Withal → 見上
+- Yorad — 配角
+- Zwalt — 配角
+
+### 其他重要 gods／ascendants（除已列）
+- Argen — Pannion Domin 神
+- Balal — 小神
+- Barutalan — Elder God
+- Baya Gul — 小神
+- Beckra — 小神
+- Beru（god）— 風暴／海洋諸神之一
+- Black-Winged Lord → 見 Anomander Rake
+- Brithan Troop — Brithan 部隊神
+- Burn — 沈睡大地女神
+- Cera Planto — Elder God
+- Chem — Pannion 小神
+- Child god — D'rek 化身概念
+- Citravaghra — 雪豹 Ascendant
+- Cobra God — Letherii 蛇神
+- D'rek — 蟲蛇女神，腐爛之母
+- Dassem Ultor → 見上
+- De nek okral — 小神
+- Demon spirit-god — 小神
+- Dessembrae — Lord of Tragedy
+- Dying God — 病神，Bastion 上癮邪教神
+- Edgewalker — 立於影邊界的長者神
+- Elder Gods — 通稱
+- Envy → 見上
+- Eres'al — 原始母靈
+- Errant → 見上
+- Fanderay — 冬狼神
+- Farander Tarag — D'ivers 雙化身
+- Father Light → 見上
+- Father Wind → 見上
+- Fener — 公豬戰神，被推下王座
+- Fire（Elan god）— Elan 火神
+- First Hero — 第一英雄概念
+- Forgotten Gods — 失憶諸神
+- Gedderone — 春神
+- Gesler → 見上
+- Gods — 通稱
+- Grallin — 小神
+- Great Ravens — 烏鴉巨怪 Ascendant
+- Great-Wing — 鴉神
+- Grizzin Farl — Azathanai，盾形巨人
+- Gruntle → 見上
+- Guardian of the Names — 名單守護神
+- Hood → 見上
+- Imparala Ar — 神
+- Indifferent God — 「冷漠之神」
+- Itkovian → 見上
+- Jhess — 編織女神
+- K'rul → 見上
+- Kilava Onass → 見上
+- Kilmandaros → 見上
+- Kresimlha Arot — 小神
+- Kynie — 小神
+- Mael → 見上
+- Matron（goddess）— K'Chain Che'Malle 母后概念
+- Menandore → 見上
+- Mother Dark → 見上
+- Mowri — Beggar 神
+- Neethal Looru — 小神
+- Neral — Elder God
+- Nerruse — 海女神
+- Nightchill → 見上
+- Olar Ethil → 見上
+- Old Man — Azathanai
+- Old Man Moon — 月神（古化身）
+- Oponn — 雙面運氣神，少女與少年
+- Osserc — 風／天空長者神
+- Osseric — Osserc 別名／互通
+- Our Lady the Blessed Saviour — Korel 教派神
+- Pinosel — Pinosel 與 Ursto，葡萄釀酒神（Azathanai）
+- Poliel — 病神女王
+- Ruthan Gudd → 見上
+- Rynthan — 小神
+- Scalissara — Whirlwind 教神
+- Scara Bandaris — Tiste Azathanai
+- Sea spirits — 海靈
+- Sechul Lath → 見上
+- Semk godling — Semk 部族小神
+- Seregahl — Seregahl 戰神
+- Serkanos — 小神
+- Shedenul — 治癒女神
+- Sheltatha Lore → 見上
+- Silent God — 沉默神
+- Sister of Cold Nights（sorceress）— Elder Goddess（Nightchill 別名）
+- Skillen Droe → 見上
+- Spingalle — Azathanai
+- Spite → 見上
+- Stormy → 見上
+- Stump Flit — 小神
+- Sukul Ankhadu → 見上
+- T'iam — Elder Dragon 之母，The Eleint 第一母龍
+- T'riss — Azathanai 女神（夢之）
+- The One God — 一神（Forkrul Assail）
+- The Pack — Pack of Hounds（Wickan）
+- The Seven Faces in the Rock — Teblor 七面神
+- Thesorma Raadil — 小神
+- Thilanda — 編織女神
+- Togg — 雄狼神（與 Fanderay）
+- Trake — 虎戰神（Treach 升格）
+- Trotts → 見上
+- Truth → 見上
+- Ursto Hoobutt — 釀酒神，Pinosel 之伴
+- Vatha Urusander — Liosan Father Light 化身（暫位）
+- Vix — Azathanai
+- War-Bitch — 戰女神
+- Water（Elan god）— Elan 水神
+- Whirlwind Goddess — Sha'ik 之神
+- Whiskeyjack → 見上
+- Whuffine Gaggs — Reach 沿岸救難神
+- Wolves of Winter — Togg＋Fanderay 統稱
+- Azathanai — 通稱（造神級存在）；種族層級另列
+- Azathanai oracle — Azathanai 預言者
+- Ascendant — 升格者通稱
+
+### Soletaken／D'ivers／Eleint（巨龍化身）
+- Ahl — D'ivers，Li Heng 三兄弟之一
+- Lar — D'ivers，三兄弟
+- Thal — D'ivers，三兄弟
+- Dejim Nebrahl — T'rolbarahl D'ivers，七虎合一
+- Deragoth — 七 Hounds of Darkness（Dessimbelackis 之化身）
+- Dessimbelackis — 先 First Empire 帝皇，自爆為 Deragoth
+- Gryllen — 鼠群 D'ivers
+- Ho — D'ivers 法師
+- Mogora → 見上
+- Ryllandaras — 白狼 D'ivers，Li Heng 圍困者
+- T'rolbarahl — D'ivers 種類
+- Trout Sen'al'Bhok'arala — Bhok'arala D'ivers
+- Alkend — Eleint
+- Ampelas — Eleint
+- Anthras — Eleint
+- Arak Rashanas — Eleint
+- Atrahal — Eleint
+- Dalk Tennes — Eleint
+- Dralk — Eleint
+- Eleint — 龍族通稱
+- Eloth — Eleint
+- Habalt Galanas — Eleint
+- Iskari Mockras — Eleint
+- Kalse — Eleint
+- Karatallid — Eleint
+- Karosis — Eleint
+- Kessobahn — 受傷的 Eleint（被困）
+- Korabas — Otataral Dragon，反魔之龍
+- Korbas — Eleint
+- Latal Menas — Eleint
+- Okaros — Eleint
+- Olar — Eleint
+- Orchid — Eleint
+- Silanah — Red Eleint，Anomander Rake 同盟
+- Sorrit — Eleint
+- Telorast and Curdle — 死龍雙鬼，附身骷髏鳥的姐妹
+
+### Creatures（具名怪物／妖獸）
+- Anmathana — 怪物
+- Bhok'arala — 猴形小妖（Quick Ben 的小寵物族）
+- Clam — 怪物
+- Condor — 巨禿鷲
+- D'isthal Wyvalla — 怪
+- D'ivers — 多分身者通稱（見 concepts）
+- Eemlee — 妖怪
+- Flow-worms — 流蟲
+- God-thing from the Sea — 海怪
+- Gorebelly — 怪
+- Grimled — 鋼鎧不死戰士（Forkrul 製）
+- Grinbone — 鋼鎧不死戰士
+- Gumble — 蟾蜍學者妖
+- Imbrules — 怪
+- Irp — 矮怪僕（與 Rudd 配對）
+- Jade giant — 翡翠巨人，墜落的 Forkrul 元素遺體
+- Keng — 怪
+- Korbal Broach's Child — Korbal 拼接製出的怪嬰
+- Luthuras — 怪
+- Maker — Maker of Paths（Azath 概念人物）
+- Moby — Mappo 養的 Bhok'arala 小妖（隱含 Mappo 之師 Iskaral Pust 影分身）
+- Nacht — 一種 Bhok'arala
+- Nub — 怪
+- Purlith bats — 蝠群
+- Quorl — 飛蟲坐騎（K'Chain Che'Malle 用）
+- Rudd — 矮怪僕（與 Irp 配對）
+- Sech'kellyn — 怪
+- Shadow wraith — 影魂
+- Stantars — 怪
+- Suncurl lich — 不死法師體
+- T'lan Ay — T'lan Imass 狼伴
+- Tralka Vonan — 怪
+- Trol — 怪
+- Varakapi — 怪
+- Veng — 怪
+- Wyval — 小龍蟲
+- Sticksnare → 見上
+
+---
+
+## 種族／陣營 (factions)
+
+### 主要種族
+- Human — 人類，遍佈全大陸
+- Tiste — Andii／Liosan／Edur 三支的合稱
+- Tiste Andii — 暗黑種族，奉 Mother Dark
+- Tiste Liosan — 光明種族
+- Tiste Edur — 影界種族（Kurald Emurlahn）
+- Tiste Lians — Tiste Liosan 古名
+- Shake — Tiste 混血濱海部族
+- Imass — Neanderthal 原型，T'lan 之祖
+- T'lan Imass — Tellann 儀式產出的不死戰士
+- Jaghut — 冰焰巨人種族，T'lan Imass 公敵
+- Jhag — Jaghut 半血或失憶 Jaghut
+- Iceblood — 半 Jaghut 血脈（Assail）
+- Toblakai／Teblor — Thelomen 後裔巨人
+- Thelomen Tartheno Toblakai — 三支巨人族統稱
+- Barghast — 戰士遊牧部族（鬼魂血脈）
+- Trell — Trell 巨人，Mappo 種族
+- Forkrul Assail — 公正之神立法者，藍血四肢族
+- Azathanai — 造物者級半神種族
+- Eleint — 龍族
+- Soletaken — 單形變身者
+- D'ivers — 多分身變身者
+- K'Chain Che'Malle — 史前蜥蜴文明（Matron＋Hunter＋Furies）
+- K'Chain Nah'ruk — Che'Malle 短尾叛變子系
+- Tarthenal — Toblakai 後裔，Letherii 內巨人
+- Fent — 海女族
+- Wickan — Quon Tali 草原馬族
+- Seti — Quon Tali 草原部族
+- Khundryl — 七城馬族（Burned Tears）
+- Dal Honese — 黑色丘原部族
+- Napan — 海島族
+- Falari — Falar 群島族
+- Letherii — Lether 帝國主流人類
+- Kanese — Kan 城人
+- Tanno Spiritwalker — 七城靈走者教派族
+- Semk — 七城遊牧族
+- Tregyn — 部族
+- Adwami — Letherii 邊境部族
+- Akrynnai — 七城部族
+- Awl — Letherii 內陸獵牛部族
+- Kindaru — 部族
+- Stevjor — 部族
+- Phalyd — 部族
+- Mezla — Seven Cities 對 Malazan 的稱呼（人類別稱）
+- Daru — Darujhistan 民
+- Genabarii — Genabaris 民
+- Saemankelyk — Tiste Edur 一族
+- Meckros — 海上移動城市民
+- Cabal — 蟾蜍法師種族（Letherii 鄰）
+- Tehol's Tarthenal — Ublala 之族
+- Pannion Tenescowri — Pannion Domin 飢餓農民軍（見 factions 補完）
+- Lhowan — 部族
+- Bluerose — Letherii 內部 Tiste Andii 飛地族
+- Drukorlas — Tiste 家族系
+- Mahybe — Korya，Imass 之鏡（個人）→ 見 characters
+
+### 軍團、騎士團、暗殺與貴族陣營
+- Malazan Empire — Kellanved 創建的多大陸帝國
+- Malazan 14th Army → 見 Bonehunters
+- Bonehunters — Tavore 第十四軍團，Malazan 從此處改名
+- Bridgeburners — Kellanved 的精銳工兵連，焚橋者
+- New Bridgeburners — Coral 戰後重整旗號的新焚橋者
+- Old Guard — Kellanved 時代第一代將領群
+- Talons — Dancer 創立的暗殺者結社，Claw 前身
+- Claw — Laseen 重組的暗殺者特工
+- 4th Army (Adjunct Lorn) — 帝國正規軍
+- 2nd Army (Onearm's Host) — Dujek 一臂軍
+- 5th Army — 帝國軍
+- 6th Army — 帝國軍
+- 7th Army — 帝國軍
+- 8th Legion — Tavore 第八軍團（Bonehunters 主體）
+- 9th Legion — 帝國軍
+- 10th Legion — 帝國軍
+- Red Blades — 七城效忠帝國的當地佩劍兵團
+- Wickan cavalry — Wickan 騎兵
+- Khundryl Burned Tears — Khundryl 騎兵
+- Imperial Navy — Malazan 帝國海軍
+- Crimson Guard — 立誓不滅的傭兵團
+- Avowed — Crimson Guard 立 Vow 之內圈
+- Disavowed — Crimson Guard 出走派
+- Second Blade — Crimson Guard 第二劍系
+- Untan Guard — Untan 守軍
+- Talian League — Malazan 內戰時的反 Laseen 同盟
+- The Protectress — Li Heng 守護女法師勢力
+- T'orrud Cabal — Darujhistan 法師結社
+- Phoenix Inn regulars — Darujhistan 酒館核心圈（Rallick, Murillio, Crokus 等）
+- Eel — Darujhistan 情報網（Kruppe）
+- Assassins' Guild of Darujhistan — 暗殺者公會
+- Council of Darujhistan — Darujhistan 議會
+- T'rolbarahl Hounds — 見 Hounds
+- Hounds of Shadow — Shadowthrone 的七獵犬
+- Hounds of Light — Light 的獵犬
+- Hounds of Darkness — Deragoth／古 Hounds
+- Deragoth → 見 characters
+- Sengar 家族 — Tiste Edur 王族
+- Tomad 家族 — 同上
+- House Dracons — Draconus 在 Tiste 家族
+- Hust Legion — Tiste Andii 罪人軍團（Hust 鳴劍）
+- Houseblades — Tiste Andii 各家族親兵
+- Wardens of the Glimmer Fate — Tiste Andii 邊境守衛
+- The Shake — 見 races
+- Mad Poets — Tiste Edur 瘋狂詩人團
+- Deniers — 拒光教派 Tiste Andii
+- Sons of Light — Liosan 戰士團
+- Daughters of Light — Liosan
+- Forulkan — Forkrul Assail 古帝國
+- Adjudicators — Forkrul Assail 高層裁決者
+- Lawful Inquisitors — Forkrul Assail 審問官
+- Watered — Forkrul Assail 半血走狗
+- Letherii Empire — Letheras 帝國
+- Letheras court — 王廷
+- The Patriotists — Letherii 秘密警察
+- Indebted — Letherii 負債奴階級
+- Tiste Edur Empire — Rhulad 篡奪後的 Letherii
+- K'risnan — Edur 法師團
+- Den-Ratha — Edur 一族
+- Hiroth — Edur 一族
+- Beneda — Edur 一族
+- Merude — Edur 一族
+- Sollanta — Edur 一族
+- Saemankelyk — 見上（race）
+- Awl Confederacy — Awl 部族聯盟
+- Pannion Domin — 由 Pannion Seer 統治的飢餓邪教帝國
+- Tenescowri — Pannion 飢餓農民軍
+- Beklites — Pannion 正規兵
+- Septarchs — Pannion 軍區主教
+- Betaklites — Pannion 重步兵
+- Urdomen — Pannion 死士軍
+- Grey Swords — Capustan 雇傭聖戰士團，Itkovian 為盾
+- Trygalle Trade Guild — 跨界商隊（Stonny／Gruntle）
+- Mott Irregulars — 沼澤地非正規兵（Bole 兄弟）
+- Bole brothers — Mott 三兄弟（Trout、Hurdle、Jamber）
+- Brohl Handar — Letherii Overseer（一人）→ 見 characters
+- Throne of Shadow — 見 items/concepts
+- Path of Hands — 見 events
+- The Unbound — 解綁的 T'lan Imass 自由派
+- Logros T'lan Imass — Logros 統帥之軍
+- Kron T'lan Imass — Kron 統帥之軍
+- Ifayle T'lan Imass — Ifayle 之軍
+- Bentract T'lan Imass — Bentract 之軍
+- Kerluhm T'lan Imass — Kerluhm 之軍
+- Orshayn T'lan Imass — Orshayn 之軍
+- Nashar Clan — 見上
+- House Chains — Crippled God 的 Deck of Dragons 高之家
+- High House Dark — Tiste Andii Deck 之家
+- High House Light — Liosan Deck 之家
+- High House Shadow — Shadow Deck 之家
+- High House Death — Hood 之家
+- High House Life — Burn 之家
+- High House War — 戰之家
+- House of the Azath — Azath 體系（unaligned）
+- Stormriders — 海中藍光戰士（敵視 Letherii）
+- The Snake — Wastelands 兒童遷徙之軍（Badalle）
+- Perish Grey Helms — Perish 半島聖戰士團（Krughava）
+- Thaumaturgs — Jacuruku 法術帝國
+- Himatan tribes — Jacuruku 叢林部族
+- Genabackan Mercenaries — Genabackis 雇傭兵群
+- Marines — 帝國海戰陸戰兵種
+- Heavies — Bonehunters 重裝兵組
+- Sappers — Bonehunters 工兵
+- Adjudicators (Bonehunters) — Gesler／Stormy／Truth 三人特勤
+- Untan Imperial Court — Untan 朝廷
+- Genabarii Free Cities — 自由城邦
+- Confederacy of Free Cities — 見 places
+- Saltoan — Genabackis 自由城（人物為 Eel 之眼）
+- Marrese — 部族
+- Brist'pal — 部族
+- Y'Ghatan refugees — Y'Ghatan 倖存民
+- Nameless Ones — 操弄 Azath 體系的秘密教派（Mappo 派出者）
+- Tanno Spiritwalkers — 七城靈走者
+- Rhivi — Genabackis 草原部族（Caladan Brood 同盟）
+- Daru — 見 races
+- Mhybe — Rhivi 老婦（Silverfox 出生母）
+- Kruppe's Circle — Darujhistan 知識圈
+
+---
+
+## 事件 (events)
+
+### 帝國戰役與重大戰鬥
+- Imperial Campaigns — Malazan 帝國總體征服史
+- Unification Wars — Kellanved 統一 Quon Tali 之戰
+- War of Unification — 同上
+- Genabackis Campaign — Malazan 北征 Genabackis
+- Wickan Wars — Malazan 鎮壓／併吞 Wickan
+- Whirlwind — 七城起義／Sha'ik 預言反叛
+- Aren Rebellion — 七城內 Aren 城市叛亂
+- Chain of Dogs — Coltaine 七城難民大遷徙（Whirlwind 內事件）
+- Seven Cities Rebellion → 見 Whirlwind
+- Korelri Campaign — Malazan 對 Korel 的災難性遠征
+- Pannion War — 對 Pannion Domin 的聯軍戰役
+- Mott Campaign — 帝國對 Mott Wood 的入侵
+- Nathilog Wars — Nathilog 周邊衝突
+- Itko Kan Massacre — 漁村 Apsalar 出身村莊被神級交鋒夷平
+- Last Siege of Y'Ghatan — Bonehunters 攻 Y'Ghatan，Leoman 火焚
+- Siege of Aren — Coltaine 隊伍倒下後 Aren 內亂
+- Siege of Capustan — Pannion 軍圍 Capustan，Itkovian 殉道升格
+- Siege of Coral — Anomander Rake／Bonehunters 對 Pannion 末戰
+- Siege of Pale — Tayschrenn 與 Anomander Rake 在 Moon's Spawn 上空對決
+- Siege of Y'Ghatan — 早期 Y'Ghatan 圍城
+- Battle of Barrow — Bridgeburners 標誌戰役
+- Battle of Bast Fulmar — Khundryl 平原
+- Battle of Bat'rol — 戰
+- Battle of Bayen Eckar — Letherii 邊境戰
+- Battle of Brans Keep — Kellanved 帝國早期戰
+- Battle of Gelor Ridge — 戰
+- Battle of High Fort — Pale 之前 Onearm's Host 戰
+- Battle of Misharn Plain — 戰
+- Battle of Nathilog — Nathilog 戰
+- Battle of Pradegar — 戰
+- Battle of Q'uson Tapi — 七城戰
+- Battle of Raraku — Sha'ik 對 Tavore 決戰
+- Battle of Sanimon — 七城戰
+- Battle of Sekala Crossing — 戰
+- Battle of Vathar Crossing — Chain of Dogs 內的渡河大屠殺
+- Battle of the Plains — Letherii 平原戰
+- Battle of the Spire — 對 Forkrul Assail 之 Spire 最終戰
+- Battle of Blackdog Forest — Onearm's Host 對 Crimson Guard
+- Kravos Hill — 戰
+- Lisken Draw — Crimson Guard 早期戰
+- The Dry March — Bonehunters 跨越荒野行軍
+- Birthing Wars — 早期遠古種族戰
+- Jaghut Wars — T'lan Imass 對 Jaghut 滅族戰爭
+- L'aederon Wars — Tiste 古代戰爭
+- Forulkan War — Tiste Andii 對 Forkrul Assail 第一次戰爭
+- Jheleck War — Tiste 對 Jheleck（狗形種族）戰爭
+- Tiste Invasion — Tiste 三族抵達 Wu 之星
+- Trell Wars — Mappo 故鄉的種族戰
+- Just Wars — Forkrul Assail 的「正義戰爭」概念
+- Spirit Wars — Wickan 與 Letherii 早期戰
+- Sundering of Blood — Tiste 血脈分裂歷史事件
+- The Cull — Forkrul Assail 對人類的清算
+- Awl Campaign — Letherii 對 Awl 之滅族戰役
+
+### 儀式、預兆與時序
+- Ritual of Tellann — Olar Ethil 主持的不死化儀式
+- Death Night（ritual）— Tiste Andii 哀悼儀式
+- First Gathering — T'lan Imass 第一次大集會
+- Second Gathering — T'lan Imass 第二次大集會
+- Chaining — Crippled God 被鏈於大陸的儀式
+- Convergence — 升格者匯聚對抗事件（每集都有一次）
+- Path of Hands — Soletaken／D'ivers 追逐升格之路
+- Shadow Moon — 七城天文／預言事件
+- Season of Rot — D'rek 引發的腐敗季節
+- Long Night — Tiste Andii 黑暗永夜
+- Rising Time — 時序術語
+- Seventh Closure — 七城預言計時點
+- Wax Masons — 七城蠟泥術儀式
+- The Drownings — Letheras 司法儀式（公開淹刑）
+- Shorning — Tiste Edur 放逐儀式（剃光眉睫）
+- Hobble（custom）— Bonehunters 行軍補給術語
+- Vathar — Vathar 河事件（Chain of Dogs 內）
+- Timeline — 整體編年（見 timeline）
+- Imperial Campaigns → 見上
+
+---
+
+## 地點 (places)
+
+### 大陸／世界
+- Malazan world — 世界本身名
+- Wu — Malazan 世界古稱
+- Genabackis — Anomander/Pannion 戰場大陸
+- Seven Cities — 沙漠帝國七城
+- Quon Tali — 帝國本土心臟大陸
+- Lether — 拜金帝國大陸
+- Korel — 風暴牆南方大陸
+- Assail — 北方蠻荒大陸
+- Stratem — Crimson Guard 故鄉大陸
+- Falar — 群島大陸（Old Falar 之殘）
+- Kolanse — Forkrul Assail 統治大陸
+- Jacuruku — Kallor 詛咒大陸
+- Bael — Stratem 北鄰
+
+### 重要城市
+- Darujhistan — Genabackis 自由城之首，Anomander 駐紮
+- Malaz City — 帝國發源地，Malaz 島
+- Unta — Quon Tali 帝都
+- Pale — Genabackis 大城，被 Pale 之圍焚毀
+- Capustan — Pannion War 殉城
+- Coral — Genabackis Domin 戰末城
+- Letheras — Lether 帝國首都
+- Kharkanas — Tiste Andii 古都
+- Aren — Seven Cities 帝國總督府
+- Y'Ghatan（city）— 七城叛軍火焚之城
+- Ehrlitan — 七城大港
+- Hissar — 七城 Coltaine 出發地
+- G'danisban — 七城叛亂中心
+- Karakarang — 七城海港
+- Ubaryd — 七城港
+- Dosin Pali — 七城島嶼港
+- Saltoan — Genabackis 自由城
+- Nathilog — Genabackis 港
+- One Eye Cat — Genabackis 西部要塞
+- Genabaris — Genabackis 北港
+- Lamentable Moll — Korel 港，Bauchelain 故事舞台
+- Bastion — Genabackis 邪教 Dying God 之城
+- Trygalle — Genabackis 商隊總部
+- Li Heng — Quon Tali 古城，Ryllandaras 之圍
+- Cawn — Quon Tali 港
+- Heng → 見 Li Heng
+- Mengal — Genabackis 港
+- Maurik — Genabackis 中部城
+- Pannion → 見 factions
+- Hatra — 七城
+- Aramala → 見 characters
+- Aallov — 七城海岸小城
+- Aamil — 城市
+- Abor（Genabackis）— Genabackis 城
+- Abor（Jourilan）— Korel 城
+- Ahnkahr — 七城北部
+- Ahol Tapur — 七城副大陸
+- Aireck — Quon Tali 小城
+- Amat El — Genabackis 小城
+- Ambajenad — 城市
+- Anditi Pura — Jacuruku 城
+- Anklos — Genabackis 城
+- Antr — Korel 城
+- Apple — Genabackis 小城
+- Arath — Quon Tali 城
+- Ashok — 七城（Ashok Regiment 出處）
+- Aska — Quon Tali 城
+- Asmar — 七城城市
+- Athrans — Quon Tali 城
+- Attic — Quon Tali 城
+- Awl（city）— Letherii 鄰境
+- Ayjhan — Genabackis 城
+- Aythan — Quon Tali 城
+- Back — Kolanse 城
+- Bakun — 七城
+- Bali — Korel 島
+- Balstro — Quon Tali 城
+- Banith — Korel 城
+- Bantra — Falar 群島
+- Baran（city）— Quon Tali 城
+- Bastial — Quon Tali 城
+- Bathi — Quon Tali
+- Bear — Genabackis 小城
+- Belade — Falar 群島
+- Belbasi — 七城
+- Belid — Falar 群島
+- Beller — Lether
+- Bettrys — 北 Genabackis
+- Black City — 城市
+- Blight — Korel
+- Bloor — Quon Tali
+- Blued — 北 Genabackis
+- Bodd — Genabackis
+- Borid — Quon Tali
+- Bounty — 南 Genabackis
+- Bridle — Letherii 周邊
+- Bris — Quon Tali
+- Buld — Quon Tali
+- Bylan — 七城
+- Bylt — Quon Tali
+- Cabil — Falari Isles
+- Cajale — Genabackis
+- Callows — Genabackis
+- Canhasan — 七城
+- Cant — Genabackis
+- Carasin — Quon Tali
+- Caron Tepasi — 七城
+- Cast（city）— Korel
+- City of Many Saints — Assail
+- Confederacy of Free Cities — Genabackis 城邦聯合
+- Crest — Genabackis
+- Cruk — Genabackis
+- Cullis — Quon Tali
+- Curaca — Falar
+- Cutip — Falar
+- Cyral — 南 Genabackis
+- Dami — Korel
+- Damos — Korel
+- Danan — Kolanse
+- Danig — Korel
+- Dariyal — Malaz Island
+- Dass — Quon Tali
+- Deal（city）— Letherii 鄰
+- Delanss — Falar
+- Deselen — Letherii 鄰
+- Destry — Quon Tali
+- Devral — 七城
+- Dhavran — Genabackis
+- Dhebel — 七城
+- Dim（city）— Korel
+- Dobre — 七城
+- Dorik — Korel
+- Dosin Pali → 見上
+- Dour — Korel
+- Dourkol — 城市
+- Drak — 城市
+- Drene — Letherii 邊境城
+- Drim — Quon Tali
+- E'napatha N'apur — 七城古城（T'lan Imass 屠城遺址）
+- Eb — 東七城
+- Ebon — Korel
+- Ebond — Quon Tali
+- Elingarth — 南 Genabackis（Mock 出身近處）
+- Elri — Korel
+- En Krael — Quon Tali
+- Ender — Letherii 鄰
+- Enjo Estarb — 七城
+- Erin — Genabackis
+- Estawn — Quon Tali
+- Evinor — Genabackis
+- Falair — Falar
+- Falt — Korel
+- Farrog — 城市
+- Fedal — Quon Tali
+- Feint — Letherii
+- Feng — Quon Tali
+- Filk — Korel
+- Fire（city）— Letherii 鄰
+- Fools — Quon Tali
+- Free Cities — Genabackis 自由城邦群
+- Galladi — 七城
+- Garal — Quon Tali
+- Garalt — Genabackis
+- Gast — Quon Tali
+- Gedry — Letherii
+- Geleen — 七城
+- Genalle — Genabackis
+- Ghost City — Korel
+- Golden — 南 Genabackis
+- Goss（city）— Lether
+- Gost — Korel
+- Gredfallan — Genabackis
+- Gress — Letherii
+- Grest — Korel
+- Gris（city）— Quon Tali
+- Gung — Falar
+- Guran — 七城
+- Habal — Quon Tali
+- Haft — Korel
+- Halaf — 東七城
+- Halas — Quon Tali
+- Haljhen — Quon Tali
+- Hanar Ara — 七城
+- Harness — Letherii 鄰
+- Hatra — 見上
+- Hedori Kwil — 七城
+- Height — Letherii 鄰
+- Hetok — Kolanse
+- High Postern — Quon Tali
+- Homdo — Korel
+- Hoop — Genabackis
+- Horan（Quon Tali）— Quon Tali
+- Icarias — Kolanse 古城
+- Ictor — Falar
+- Idryb — Quon Tali
+- Ijor — Quon Tali
+- Illem — 南 Genabackis
+- Ipras — Quon Tali
+- Isana Pura — Jacuruku
+- Jakal Viharn — Jacuruku 古都／Ardata 巢
+- Jakata — Quon Tali
+- Jamdat — 七城
+- Jasp — Letherii 鄰
+- Jassr — Korel
+- Jatem's Landing — Stratem
+- Jhant — Stratem
+- Jick — Falar
+- Jook — Falar
+- Jour — Korel
+- Kaliban — 七城
+- Kan — Quon Tali 沿海大城
+- Kanarbar Belid — 七城
+- Kansu — 七城
+- Karashimesh — 七城
+- Karn — Letherii
+- Karo — Malaz Island
+- Karokitch — 七城
+- Kartool — Quon Tali（蜘蛛塔）
+- Karyx — Letherii 鄰
+- Kayhum — 七城
+- Keff — 七城
+- Kel Tor — Genabackis
+- Kevil — Assail
+- Kolanse City — Kolanse 主城
+- Kor — Korel
+- Korasch — Letherii 鄰
+- Korn — Quon Tali
+- Kot Ghul — 七城
+- Krass — Letherii 鄰
+- Kurl — Genabackis
+- Kurzan — Assail
+- Laeth — Quon Tali
+- Lallit — Korel
+- Larent — Quon Tali
+- Largen — Quon Tali
+- Lato Revae — 七城
+- Layes — Quon Tali
+- Lead — Genabackis
+- Lenth — Letherii
+- Lest — 城市
+- Lod — 東七城
+- Longshan — 七城
+- Lorest — Korel
+- Lorti — Korel
+- Lothal — 七城
+- Mald — 城市
+- Malyntaeas — 北 Genabackis
+- March — 南 Genabackis
+- Marl — Quon Tali
+- Melm — 七城
+- Mersin — 七城
+- Miner Sluice — Letherii 鄰
+- Minikenar — 七城
+- Molz — Korel
+- Monkan — 七城
+- N'karaphal — 七城
+- Nadir — Quon Tali
+- Nahal — 七城
+- Nap — Napan 首島
+- Narthi — 東七城
+- Netor — Quon Tali
+- Nevasa — 七城
+- New Landing — 南 Genabackis（Mock's Landing）
+- Nex — Quon Tali
+- Nisst — Genabackis
+- Nita — Quon Tali
+- Nitral — 東七城
+- Noh — 七城
+- Nohl — 七城
+- North March — 南 Genabackis
+- North Nape — 北 Genabackis
+- Notch — 北 Genabackis
+- Nure — Quon Tali
+- Oach — Genabackis
+- Obertull — Letherii
+- Ohval — 七城
+- Okan — Kolanse
+- Old Falar — 沉沒大陸
+- Old Gedure — Letherii 鄰
+- Olived — Letherii 鄰
+- Omari — 七城
+- Oraz — 北 Genabackis
+- Ostann — Genabackis
+- Ouster — Letherii 鄰
+- Outbound — Letherii 鄰
+- Owndos — 北 Genabackis
+- Paliss — Korel
+- Pan'potsun — 七城（Raraku 邊緣）
+- Panys — Quon Tali
+- Patch — Genabackis
+- Pearls — Letherii 鄰
+- Peck — Letherii 鄰
+- Pit — 東七城
+- Poon — Korel
+- Porule — Genabackis
+- Prospect — 北 Genabackis
+- Pryl — Quon Tali
+- Pur Atrii — 七城
+- Purage — Quon Tali
+- Quaint — 城市
+- Quon Tali（city）— Quon Tali 古都
+- Rang — 七城
+- Rath — Quon Tali
+- Rathar — 七城
+- Refuge — 南 Genabackis
+- Reliant City — 城市
+- Ring — Korel
+- Rip — Korel
+- Rivdo — 城市
+- Roster — Letherii
+- Rutu Jelba — 七城島港
+- Ryns — Quon Tali
+- Sadon — Letherii
+- Santchur — Letherii 鄰
+- Saranas — 城市
+- Sarn — Genabackis
+- Sarpachiya — 七城
+- Sarrokalle — Genabackis
+- Sarsa — 七城
+- Satar — Quon Tali
+- Sem'k — 七城
+- Sentry — Quon Tali
+- Sepik — 七城（被滅族小島）
+- Setta — 城市
+- Shade — Korel
+- Shale — Korel
+- Shand（city）— Genabackis
+- Shedry — Quon Tali
+- Shikimesh — 七城
+- Shroud — Korel
+- Sialk — 七城
+- Sogena — Genabackis
+- Solbha — 七城
+- Sotka — 七城
+- Stall（Lether）— Letherii 鄰
+- Stall（Theft）— Korel
+- Steel — Korel
+- Stick-in-Hole — 北 Genabackis
+- Storm — Korel
+- Strike — Falar
+- Stunra — 七城
+- Sty（city）— 城市
+- T'sarech — 七城
+- Tallis — Letherii
+- Tanys — 北 Genabackis
+- Taph — Genabackis
+- Tarxian — 七城
+- Taxila — 七城
+- Tellick — Quon Tali
+- Telo — Quon Tali
+- Tenak — Falar
+- Teppes — 七城
+- Thade — Quon Tali
+- Thades — Quon Tali
+- Then — Quon Tali
+- Third Meckros city — 海上漂城
+- Thol — Korel
+- Toll's City — Stratem
+- Trails — Letherii 鄰
+- Traly — Quon Tali
+- Tramara — 七城
+- Trate — Tiste Edur 邊境城
+- Trebur — 七城
+- Trelar — Kolanse
+- Truce（city）— Letherii
+- Truce（nation）— Letherii 國
+- Tulips — Genabackis
+- Twill — Letherii 鄰
+- Ugarat — 七城
+- Uthor — 東七城
+- Valan — Quon Tali
+- Vinith — 七城
+- Vithan Taur — 七城
+- Vor — Quon Tali
+- Voron — Quon Tali
+- Wal Fend — Quon Tali
+- Wal Tes — Quon Tali
+- Walk — Falar
+- Wend — Letherii 鄰
+- White — Quon Tali
+- Xixr — Korel
+- Yadeth Garath — 七城
+- Yath Alban — 七城
+- Yellows — Quon Tali
+- Yend — Genabackis
+- Zelt — Korel
+- Zestr — Korel
+- Apple／Bear／Bridle 等小城多為 stub，列入以供 Phase 3 判斷是否合併
+
+### 地理／海洋／秘境（非單純城市）
+- Raraku — 七城聖沙漠
+- Holy Desert Raraku — 同上
+- Pan'potsun Odhan — Raraku 周邊草原
+- Wickan Plains — Wickan 平原
+- Otataral Desert — Otataral 礦區
+- Tahlyn Hills — Genabackis 北
+- Rhivi Plain — Rhivi 故鄉
+- Lake Azur — Darujhistan 湖
+- Dorssan Ryl — Kharkanas 河
+- Idryn — Li Heng 河
+- Vathar — Chain of Dogs 渡河處
+- Dojal Hading Sea — 七城東海
+- Falari Sea — Falar 海
+- Glimmer Fate — Tiste Andii 邊境沼澤
+- Glittering Foam — 海
+- Glass Desert — 玻璃沙漠（Wastelands 西側）
+- Wastelands — 廢土
+- Awl Plain — Awl 部族草原
+- Mott Wood — 沼森林
+- Eastern Reach — Lether 東陲
+- Stormwall — Korel 海防牆
+- Lether River — Letherii 主河
+- Lake of Stars — 星辰湖
+- Tahlyn Mountains — 山
+- Laederon Plateau — Genabackis 高原
+- Bluerose — Letherii 內飛地
+- Drift Avalii — Throne of Shadow 所在島
+- Mock's Hold — Malaz City 山頂堡壘
+- Untan Palace — Untan 皇宮
+- Tarn — Letherii 海域
+- Cabal — Letherii 鄰國（蟾蜍）
+- Himatan — Jacuruku 叢林
+- Confederacy of Free Cities → 見上
+- Spire — Forkrul Assail 終戰高塔
+
+---
+
+## 物品/技術 (items)
+
+### 神兵／命名劍
+- Dragnipur — Anomander Rake 之劍，內藏 Gate of Darkness 與一車亡魂
+- Vengeance — Silchas Ruin 之劍
+- Grief — Silchas Ruin 之劍（另一柄）
+- Chance — Anomander Rake 早期之劍
+- T'iam — Eleint 之母（傳奇）
+- Hust Sword — 鳴叫的 Tiste Andii 戰劍系列
+- Hust Hate — 命名 Hust 劍之一
+- Hust 劍主名（多柄）→ 詞條時補上系列
+- Karsa's flint sword — Karsa Orlong 火石劍
+- Otataral sword — Tavore 之 Otataral 反魔劍
+- Krughava's sword — Mortal Sword 之劍
+- Itkovian's shield — Shield Anvil 盾
+- Rhulad's cursed sword — Crippled God 賜不死之劍
+- Withal 鑄劍 — Crippled God 之劍即此人所鑄
+- Vatha Urusander 之劍 — Liosan 將軍佩劍
+
+### 法物／神器／珍寶
+- Otataral — 反魔金屬，礦於七城
+- Finnest — Jaghut 法力寄存物（Raest 的杖）
+- Moon's Spawn — Anomander Rake 的浮空黑石母艦
+- Throne of Shadow — Shadow 王座，碎於 Drift Avalii
+- Throne of Light — 光之王座
+- Throne of Night — 暗之王座（Kurald Galain 中心）
+- First Throne — T'lan Imass 第一王座
+- Throne of Sorrows — 概念王座
+- Gate of Darkness — 黑暗之門（鎖入 Dragnipur 內）
+- Gate of Light — 光之門
+- Gate of Shadow — 影之門
+- Hood's Gate — 死亡之門
+- Deck of Dragons — 龍牌占卜系統
+- The wagon — Dragnipur 內負軛之車
+- Mhybe's necklace — Rhivi 神物
+- Talamandas' sticks — Barghast 死靈手套小巫
+- Mappo's mace — Mappo Runt 之巨棒
+- Heboric's tattoo — Treach 紋身賜予的虎神之手
+- Burned Tears 馬鞍小袋 — Khundryl 信物
+- Sinn's torch — Sinn 火法象徵
+- Kruppe's vest — Kruppe 招牌
+- Crokus's coin — Crokus／Apsalar 戀情記憶
+- Hammer of Caladan Brood — Brood 槌神之器
+- T'rolbarahl mirror — D'ivers 召喚器
+- Black-Coral fountain — Coral 城 Anomander Rake 之死後神蹟
+- Sengar 之劍 — 多柄
+- Bridgeburners 沙包 — 戰術器物（傳奇 Munitions）
+- Cusser／Sharper／Burner — Bridgeburners 三種爆破彈
+
+### 載具／船／陣地
+- Silanda — Tiste Andii 風帆（Gesler 三人組駕駛的死頭船）
+- Froth Wolf — Caladan Brood 旗艦
+- Lightfall — 戰艦（Letherii）
+- Edur fleet — 萬艘 Edur 黑帆艦隊
+- Trygalle 商隊馬車 — Trygalle Trade Guild
+- Crippled God's wagon — Chained God 之車
+- Bridgeburners' tunnels — 工兵地道（Pale）
+
+---
+
+## 概念／設定 (concepts)
+
+### 魔法系統
+- Warrens — 通用魔法源／路徑通稱
+- Holds — 古老魔法庫（前 Warren 體系）
+- Elder Warrens — 長者古老 Warren 群
+- Kurald Galain — 黑暗 Warren（Tiste Andii）
+- Kurald Emurlahn — 影 Warren（Tiste Edur／碎裂）
+- Kurald Liosan — 光 Warren（Tiste Liosan）
+- Thyr — 光 Warren 別名
+- Tellann — 火／靈 Warren（T'lan Imass）
+- Omtose Phellack — 冰 Warren（Jaghut）
+- Starvald Demelain — 龍源 Warren（Eleint）
+- Ahkrast Korvalain — Forkrul Assail 之 Hold
+- Aral Gamelon — Demon Warren
+- Chaos — 混沌 Warren
+- D'riss — 大地／石之 Warren
+- Denul — 治癒 Warren
+- Denaeth Rusen — 暴力／殺戮 Warren
+- Hood's Path — 死亡 Warren
+- Imperial Warren — Malazan 帝國快速通道 Warren
+- Kaschan — 概念／陷阱 Warren
+- Meanas — 幻象／影
+- Mockra — 心智 Warren
+- Rashan — 影／黑 Warren
+- Ruse — 海 Warren
+- Serc — 風 Warren
+- Telas — 火 Warren
+- Tennes — 王座 Warren（Salind）
+- The wagon → 見 items
+- Gate of Darkness → 見 items
+- Throne of Shadow → 見 items
+- Barghast Warren — Barghast 種族 Warren
+- Language Eleint — 龍語
+- Language Imass — Imass 語
+- Language Jaghut — Jaghut 語
+- Language Tiste — Tiste 語
+- Language Forkrul Assail — 公正之言
+
+### 占卜／牌與牌組
+- Deck of Dragons — 龍牌
+- Master of the Deck — 牌主（Ganoes Paran）
+- High House — 高之家通稱
+- High House Chains — Crippled God 之家
+- High House Dark — Andii 之家
+- High House Light — Liosan 之家
+- High House Death — Hood 之家
+- High House Life — Burn 之家
+- High House Shadow — Shadow 之家
+- High House War — 戰之家
+- Unaligned — 不結盟牌系
+- The Apocalyptic — 末日牌
+- Crown — 王冠牌
+- Orb — 球牌
+- Sceptre — 杖牌
+- Throne（Unaligned）— 王座
+- Obelisk — 方尖碑牌
+- Deathslayer — 殺死牌
+- Lifeslayer — 殺生牌
+- Salvation — 救贖牌
+- King in Chains — 鏈中王牌（CG）
+
+### Azath／House
+- Azath House — Azath 之屋系統
+- Azath Cave — Azath 洞穴變體
+- Azath Tower — Azath 塔變體
+- Builders — Azath 建築者種族
+- Deadhouse — Malaz City 中的 Azath
+- Finnest House — Darujhistan 城內 Azath
+- Jhag Odhan House — Jhag Odhan Azath
+- Kettle House — Letheras Azath（女孩 Kettle）
+- Lost Elementals — 失元素
+- Sidleways — 旁門 Azath
+- Tremorlor — Raraku Azath
+- Underhouse — 地底 Azath
+- House of Chains → 見 factions/items
+- Nameless Ones — 操弄 Azath 的秘密派
+- Maker — Maker of Paths（Azath 概念人物）
+
+### 種族／物種特性概念
+- Soletaken — 單形變身者
+- D'ivers — 多分身變身者
+- Eleint — 龍族
+- Ascendant — 升格者
+- Azathanai — 造神者
+- Bonecaster — Imass 巫師
+- Mortal Sword — Mortal Sword 概念（戰神之劍化身）
+- Shield Anvil — Shield Anvil 概念（神之痛苦承載者）
+- Destriant — Destriant 概念（神祭司）
+- High Priest／High Priestess — 高祭司
+- Hand of Hood — Hood 的代理人
+- T'lan Imass Bonecaster — 不死巫師
+- Iceblood — 半 Jaghut（見 races）
+- Watered — Forkrul 半血
+- Pure — Forkrul 純血
+- Adjudicators — Forkrul 高層
+- K'risnan — Tiste Edur 法師
+- Cabal Demons — 蟾蜍法師
+- K'Chain Hunter — K'Chain 大爪
+- K'Chain Furies — K'Chain 自行戰械
+- Matron — K'Chain 母后
+- Long Tail / Short Tail — K'Chain Che'Malle vs Nah'ruk
+- The Old — Old K'Chain Che'Malle 古王
+- Stormriders — 海之異族
+
+### 度量、時序、語言、文化術語
+- Burn's Sleep — 時間紀年體系（女神 Burn 之眠）
+- Hobble — 軍中俗稱（見 events）
+- Knot — Khundryl 風俗
+- Chain of Dogs — 軍事代名詞（見 events）
+- The wagon → 見 items
+- Letherii currency — Lether 帝國金融制度
+- Indebted — Letherii 債奴階層
+- Tehol's clothing line — Tehol 經濟改革
+- Just Wars — Forkrul 概念
+- Dryjhna — 七城語「末日」
+- Book of Dryjhna — 末日聖典
+- Apocalypse — 同 Whirlwind
+- Hood's Fourteen — Jaghut 不死十四（見 characters）
+- The Cull — Forkrul Assail 概念事件
+- Death Night — 哀悼夜
+- Path of Hands — 升格之路
+- Convergence — 升格匯聚
+- First Empire — Imass 第一帝國（Dessimbelackis 之前）
+- Empire of the Hand — Pannion Domin 別稱
+- High Mage — Malazan 階級
+- Cadre Mage — 軍中法師
+- Squad — Bonehunters 班制
+- Marines — 海戰陸戰兵種（見 factions）
+- The Vow — Crimson Guard 立誓
+- Avowed → 見 factions
+- Disavowed → 見 factions
+- Shadow Moon — 預兆（見 events）
+
+### 跨類別 / 「→ 見」指引
+- Dragnipur → 見 items
+- Otataral → 見 items
+- Moon's Spawn → 見 items
+- Pannion Domin → 見 factions
+- Throne of Shadow → 見 items
+- Hounds of Shadow／Light／Darkness → 見 factions
+- Nameless Ones → 見 factions
+- Korabas → 見 characters/Eleint
+- T'iam → 見 characters
+- Mahybe（Korya）→ 見 characters
+
+---
+
+## 掃描方法與涵蓋範圍說明
+
+**素材來源**：malazan.fandom.com 抓取 1517 個 page，分入 15 個主題 bucket，共 4.7MB 純文字。
+
+**掃描方式**：
+1. 用 `grep '^PAGE: '` 抽出每個 bucket 的全 page 標題清單。
+2. 用 `grep '^CATEGORIES: '` 一併取出 wiki 分類，用以判斷該 page 應歸於 characters／factions／events／places／concepts／items 哪一類。
+3. 對主要 character／concept／place（如 Anomander Rake、Dragnipur、Whirlwind、Kharkanas）抽樣讀 page 內文確認定位用語。
+4. 對 374 個 city stub，腳本式抽取頭幾行內文以判斷大陸歸屬（Quon Tali／Genabackis／Seven Cities／Lether／Korel／Falar／Assail／Stratem／Kolanse／Jacuruku），少數無法歸屬者標「城市」並留待 Phase 3 開檔時補正。
+
+**涵蓋範圍**：
+- 已涵蓋主系列（Gardens of the Moon → The Crippled God）所有主要 PoV 與升格者。
+- Esslemont 系列（Night of Knives、Return of the Crimson Guard、Stonewielder、Orb Sceptre Throne、Blood and Bone、Assail、Path to Ascendancy 三部）人物與地點。
+- Kharkanas Trilogy（Forge of Darkness、Fall of Light、Walk in Shadow）Tiste 系列新角色。
+- Bauchelain & Korbal Broach 中短篇人物。
+
+**已知取捨與待解**：
+1. **譯名**：本名單一律保留英文原名；繁體中文圈無統一官方譯本，Phase 3 詞條時建議：主角群用音譯加角色性質（如 Anomander Rake 寫作「Anomander Rake／月之神子」），地名一律保留原文，神祇／warren／物品酌情音譯。
+2. **未獨立成 page 但極重要的實體**：Dragnipur／Moon's Spawn／Otataral／Pannion Domin／Letherii Empire／Khundryl Burned Tears 等沒有獨立 wiki page，但敘事份量極大；本名單已從 magic.txt／gods_ascendants.txt 內文擷取列入，Phase 3 必須單獨開條。
+3. **Hust Sword 系列**、**Bridgeburners 三大彈藥（Cusser／Sharper／Burner）**、**個別命名艦船**等 named items 屬類似情況，依上下文整理列出。
+4. **少數 stub 城市**（如 Apple、Bear、Bridle 這類僅一兩句描述者）在 Phase 3 評估可能合併至「Genabackis 小城群」等概說條，而非單獨開檔。
+5. **七城各部族**（Khundryl、Wickan、Seti、Semk、Kanese 等）多數在 race_human.txt 出現，已收入 factions，但部分小部族（Lhowan、Phalyd 等）可能還散落在 events.txt 內文中未獨立成 page，Phase 3 重讀 events 時需補捕。
+6. **未處理 bucket**：無；15 個 bucket 全數已用 grep 名單方式掃描；只有 4–5 個 stub city 第一行內文無法精準判定大陸（在表中標為「城市」）。

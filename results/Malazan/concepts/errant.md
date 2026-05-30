@@ -1,0 +1,43 @@
+# Errant（Errastas／籌算者）
+
+> 「籌算者」、Master of the Holds 的 Elder God／Azathanai。
+
+- **本質**：Elder God Azathanai；曾為 Holds 體系的霸主——他是 Master of Tiles（Letherii 占卜系統的主），相當於 Warren 時代的 Master of the Deck。
+- **本名**：Errastas；別名 The Errant、The Great Deceiver、The Walker Among the Holds、Turudal Brizad（Letheras 王后 Janall Diskanar 的男寵）。
+- **稱號**：「I am the Errant. By my hand, every fate is turned. All that seems random is by my design. This is an immutable truth.」
+- **能力與限制**：
+  - 不能直接行動，只能「nudge」（推或拉）他人；這是他作為「機運」之神 aspect 的內建限制。
+  - 對「模式（patterns）」癡迷，自認為對 patterns 的掌控無人能敵——這正是他失敗的種子。
+- **Letheras 之身分**：
+  - 以 Turudal Brizad 之名活了多代——歷代王室的男寵，外表中性、姿態淡漠。
+  - 是 Janall Diskanar 王后的 First Consort；後來也與 Chancellor Triban Gnol 上床。
+  - 常以「目擊者」身分出現在最敏感的會議中，無人察覺他的真實身分。
+  - Brys Beddict 感到他「奇怪地令人不安」但說不出原因。
+- **干預 Path of Hands**：
+  - 不希望 T'lan Imass 再一次大規模屠殺——招募 Moroch Nevath 為 champion 殺 The Pack（Jheck D'ivers），Moroch 拒絕。
+  - 轉而招募 Bugg（Mael）；Bugg 用 Iron Bars 與 Crimson Guard 砸碎 The Pack；Iron Bars 還順手扭斷 B'nagga 的脖子。
+- **Seventh Closure 之決定**：
+  - Brys Beddict 在競技場以技巧未殺地擊敗 Rhulad；Errant 用 nudge 讓 Brys 喝下毒酒喪命——這個「nudge」改變了 Lether 王朝的命運。
+  - 然後再 nudge 引導 Guardian of the Names 把 Brys 屍體送給 Mael。
+- **衰退**：
+  - K'rul 的 Warren 體系興起後，他作為 Master of Holds 的權力穩定退化。
+  - Reaper's Gale 期間他在 Old Palace 地下廢墟徘徊，發現自己「無法理解一個正逼近的 pattern」——這令他恐慌。
+  - 他懷疑 Ceda Kuru Qan 之鬼魂在背後操弄。
+- **Demon spirit-god 之影響**：
+  - 他到 Settle Lake 觀察被 Mael 與 Bugg 封印的古 Demon spirit-god；停留太久後被那頭怪物的「無助怒氣與野心」感染。
+  - 受感染後決定發動 **Warren／Hold 之戰** ——以 Feather Witch 之血為祭，逼 Tiles 為他重生力量。
+  - Ceda Kuru Qan 警告他「對 Warren 開戰即對 K'rul 開戰」，他不聽。
+- **被反綁**：
+  - 抓 Feather Witch 切開血以倒入 Cedance，她用 Brys Beddict 的斷指挖出他的左眼吞下——這給她對他的部分權力。
+  - 她自封為他的 High Priestess、後又自封 Destriant，把整個崇拜結構反綁在他身上。
+  - 她希望由他取 Empty Throne、自己當 Destriant、Brys 當 Mortal Sword、Udinaas 當 Shield Anvil——這個布局後來大部分以諷刺方式實現（Udinaas 拒絕）。
+- **與 Forkrul Assail 的舊怨**：
+  - Ganath（Jaghut）告訴 Paran：FA 一度試圖把 Errant 與其凡間信徒滅盡——「他被信徒之血填滿口腔以致永無口渴或安寧」。
+  - Errant 的核心 aspect 是「機運／變化」，而 FA 仇恨 ennui 與 stagnation——他們對立的不是性格而是宇宙原則。
+- **故事中的核心**：
+  - Reaper's Gale 與 Toll the Hounds 期間他是 Letheras 真正的影響者。
+  - Dust of Dreams 期間他與 Sechul Lath、Knuckles 結成「老神同盟」企圖反制 Forkrul Assail 之 Cull——但失敗。
+  - The Crippled God 期間他大致退場；他的時代結束。
+- **附註**：
+  - Errant 是「神性政治」的化身——他相信自己掌握所有模式，卻無視最深的模式（K'rul 的 Warren 是另一神的血）。
+  - 他是 Malazan 宇宙裡少數「被自己 priestess 操弄」的神——這暴露 Destriant 一職的危險性。

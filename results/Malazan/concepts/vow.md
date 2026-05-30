@@ -1,0 +1,47 @@
+# The Vow／Avowed／Disavowed（Crimson Guard 的不老誓言）
+
+> Crimson Guard 的核心魔法契約——600 戰士集體立誓對抗 Malazan 帝國，意外動用 Tellann 之力。
+
+- **本質**：1066 BS 由 K'azz D'Avore 領 600 名追隨者立的集體誓言——直至 Malazan 帝國被推翻才能解除。
+- **副作用**：
+  - 不老不死（除非被殺；甚至被殺後仍可選擇是否回來）。
+  - 強體、強速、再生能力。
+  - 法師獲得永世維持的施法能力。
+  - 持劍者持劍術力倍增。
+- **真相（Assail 揭露）**：
+  - Kilava Onass 在 Vow 立誓現場——她是唯一拒絕 First Gathering 的 Imass Bonecaster。
+  - Vow 偶然動用了 Tellann 的力量——這把 Crimson Guard 變成「D'Avore T'lan Imass」（紅族 T'lan Imass）。
+  - Crimson Guard 與 T'lan Imass 本質同源——只是換了一個民族（人類而非 Imass）。
+  - 死亡的 Avowed 仍有實體形態，可選擇「回來」。
+  - Silverfox 無法解放他們（她有權解放所有 T'lan Imass 但 D'Avore 是另一支血脈）；解放任務留給其他人。
+- **階級**：
+  - **Avowed**：立誓的原始 600 人；多數仍存活，少數已亡。
+  - **Disavowed**：違誓的分支，Skinner（K'azz 二把手）領；他們的誓言被 Hood 視為「無效」，所以他們仍享受不老但 Hood 主動追殺他們。
+  - 後加入的 Crimson Guard（非 Avowed）：享受長壽但無不死之力；可被一般殺死。
+- **Vow 之詞**（簡述）：
+  - K'azz 與六百人共立：「我等永誓抵抗 Malazan 帝國之擴張，直至其覆滅。」
+  - 沒人想到「直至覆滅」會持續千年。
+- **The Disavowed（叛盟者）**：
+  - **Skinner**：Crimson Guard 出走者、Disavowed 之首；逃避 Hood 追殺數百年。
+  - 包括 Black the Lesser、Hesta、Jacinth、Leuthan、Mara、Petal、Red、Shijel 等。
+  - 在 Toll the Hounds 期間，Seguleh Second 替 Hood 出馬獵殺 Skinner——這是 Hood 對 Disavowed 的最後追殺。
+- **核心人物**：
+  - **K'azz D'Avore**：第一指揮官；Vow 的主導者；中段消失多年（被 Skinner 囚禁）。
+  - **Shimmer**：第二指揮官；K'azz 失蹤期間實際領導 Crimson Guard。
+  - **Cowl**：大法師；狂熱；Vow 信仰者中最極端的一人。
+  - **Skinner**：見上。
+  - **Blues**：高階戰士。
+  - **Iron Bars**：老兵；在 Lether 與 Bonehunters 交手；他殺了 The Pack 之首 B'nagga。
+  - **Fingers**、**Smoky**、**Cal-Brinn**、**Gwynn**、**Stoop**：諸 Avowed。
+- **故事中的角色**：
+  - 主系列中 Crimson Guard 大多在外圍；Iron Bars 一隊在 Lether 困了兩年（無 Warren 可用）。
+  - Esslemont 系列（《Return of the Crimson Guard》《Stonewielder》《Assail》）是 Crimson Guard 主場。
+  - Assail 末段揭露 Vow 真相——Crimson Guard 即 D'Avore T'lan Imass，他們的解放需要另一位 Bonecaster（不是 Silverfox）執行。
+- **Disavowed 的悲劇**：
+  - Skinner 自認被 K'azz 背叛——但實際是 K'azz 拒絕 Skinner「以血祭強化 Vow」的提議。
+  - Skinner 認為 Disavowed 是「真正的 Crimson Guard」——他們才是「不為任何人退讓」的核心。
+  - Hood 認定 Disavowed 是「欺死亡」的存在——他親自下令獵殺。
+- **附註**：
+  - The Vow 是 Malazan 宇宙裡「集體誓言意外觸發遠古魔法」的最強案例。
+  - 與 Ritual of Tellann 的對比：T'lan Imass 是「全族自願永生為戰」，Crimson Guard 是「一支傭兵隊自願永生為戰」——同樣的悲劇模式，更小的規模。
+  - K'azz 之姓 D'Avore 後成為他們的「氏族名」——D'Avore T'lan Imass。

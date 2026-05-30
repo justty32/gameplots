@@ -1,0 +1,41 @@
+# K'Chain Che'Malle（母體繁殖、Long Tail／Short Tail）
+
+> 比 Jaghut 更古老的爬行類種族，由 Matron 母后單獨繁殖整個城市。
+
+- **本質**：Malazan 世界四 Founding Races 中最古老者；爬行類人形，曾統治整個世界，後被內戰幾乎滅族。
+- **社會結構**：
+  - **Matron**（母后）：每個 Skykeep（飛行城堡）的中心；單獨產下所有後代；可活幾千年；失去繁殖能力後被族人遺棄。
+  - **Long Tail（K'Chain Che'Malle）**：原始保守派；維持 Matron 結構的傳統者。
+  - **Short Tail（Nah'ruk）**：拒絕 Matron 統治的叛變派；追求純科學魔法；繁殖力被自願犧牲。
+- **戰鬥職階**：
+  - **K'Chain Hunter**：雙刃大爪、單獨作戰的戰士（Sag'Churok 等）。
+  - **K'Chain Furies**：飛行機械式生物，被 Matron 咒文驅動的活戰艦／轟炸機。
+  - **Shi'Gal Assassin**：高階刺客／執行者（Bonehunters 終局把 CG 之心送回 CG 體內者即 Acyl 巢之 Shi'Gal）。
+  - **Ve'Gath Soldiers**：成熟戰士；Matron 大量產出的標準兵種。
+- **Matron 之繁殖**：
+  - 唯一具備繁殖能力的個體。
+  - 在胚胎期植入特定「角色」決定後代社會結構——母后選擇要產出多少 Hunter、Furies、Shi'Gal、Ve'Gath。
+  - 沒有「父」的概念，所有遺傳資料由 Matron 一人決定。
+  - 失去繁殖能力後 Matron 被族人視為廢物遺棄——這是 Acyl 在 Dust of Dreams 的處境。
+- **與 Tiste 入侵**：
+  - 數十萬年前 Scabandari 領 Edur、Silchas Ruin 領 Andii 聯軍入侵 Malazan 世界；擊敗 K'Chain 主力。
+  - K'Chain 用 **Kaschan** 魔法注入 Kurald Galain，幾乎滅了 Tiste Andii（Mother Dark 被逼入 Abyss 核心）。
+- **內戰（Long Tail vs Short Tail）**：
+  - Nah'ruk 之科技遠勝 Che'Malle，但無繁殖力；長期不可持續。
+  - Furies 互轟，整片大陸成廢墟（Lether 之 Wastelands、Letheras 上空遺殼即此戰餘骸）。
+  - Long Tail 幾乎滅族，僅存 Acyl 巢與少數散兵。
+- **Acyl 巢（最後的母體）**：
+  - Acyl Matron 在 Dust of Dreams 已逐漸失去繁殖力。
+  - 派遣 Hunter Sag'Churok 與 Gunth Mach（將繼任的下一代 Matron）尋找三聖職：
+    - **Mortal Sword**：Stormy（Falari 紅髮）。
+    - **Shield Anvil**：Gesler。
+    - **Destriant**：Kalyth（Awl 預言女）。
+  - Acyl 之巢最終加入 Bonehunters 對抗 Forkrul Assail。
+- **故事中的核心**：
+  - **Dust of Dreams** 末 Nah'ruk 軍團與 Bonehunters 相遇——Furies 轟炸；Adjunct 軍以 cusser、cracker 等 Moranth munition 與 Beak 之兄火力撐住；Hedge 之鬼軍從天降。
+  - **The Crippled God**：Acyl 巢的 Shi'Gal Assassin 把 CG 之心送回他體內——這是兩個瀕絕種族（K'Chain 與 Jade 巨人）的最後合作。
+  - Heboric 透過 Hen'bara 茶看見 Jade 巨人是隨 CG 一起墜落的他世界子民——某些 K'Chain 與這些 Jade 巨人有某種神秘共鳴。
+- **附註**：
+  - K'Chain Che'Malle 自稱是「First Empire」的真正主人——他們對 Dessimbelackis 之人類帝國篡用「First」這個稱號極為憤怒（傳統 T'lan Imass 也同感）。
+  - K'Chain 的「兵工廠」是 Skykeep——可飛行的活城堡，由 Matron 之咒文驅動。
+  - K'Chain 沒有家庭、沒有名字（除了戰鬥職階）——個體性是 Nah'ruk 叛變的核心主張。

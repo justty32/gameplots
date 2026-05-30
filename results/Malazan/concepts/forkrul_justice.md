@@ -1,0 +1,53 @@
+# Forkrul Assail Justice（審判正義觀）
+
+> 信奉「絕對平衡」、以毀滅換取和平的審判種族哲學。
+
+- **本質**：Forkrul Assail（FA）是 Malazan 四 Founding Races 之一；外觀人形但更高瘦，肢體多關節（雙重肩、雙重髖），可雙腿或四肢行走；雙心、雙器官；藍血、瓷白皮、純黑眼。
+- **生理優勢**：
+  - 物理極強——可空手打穿 Toblakai 鎧甲、咆哮可碎骨。
+  - 對魔法幾近免疫——Sorcerous attack「滑落如水」。
+  - 極長壽，可千年不食不飲。
+  - 通常空手戰；用手指穿皮甲。
+- **核心信仰**：「平衡為絕對。為達成和平，必須毀滅。為賜予自由，需承諾永世監禁。仲裁取消對正義的需要。」
+- **Silchas Ruin 對 FA 的描述**：
+  - 「這是對 diametric opposition 的審慎擁抱。一種以宗教信念執著的對 balance 之信仰。但這個神之力的證明不在因，而在果。所以在此世與一切世，證明來自行動，故所有行動（含選擇不行動）皆內在道德。沒有任何行為立於道德脈絡之外。最道德正確的行動是與之前所有行為相反的那一個。」
+- **社會結構**：
+  - **Pure（純血／Lawful Inquisitors）**：完整 FA 純血；僅存十二位。
+  - **Adjudicators**：Kolanse 政權的高層執政者；可能與 Lawful Inquisitors 重疊。
+  - **Watered**（半血）：與人類雜交的 FA；分 High／Lesser 兩階。
+  - **Shriven**：被 FA 完全洗腦的人類奴兵——「他們把自己賣為自由」。
+- **缺乏文化**：
+  - 通常孤立生活，「沒有集體文化」。
+  - 在自己社群中名字無關緊要；對外才用「Adjudicator」「Inquisitor」「Sister」「Brother」等職稱。
+  - 名字皆反映審判原則：Calm、Serenity、Reverence、Diligence、Equity、Aloft、Belie、Freedom、Grave、Penance、Placid、Rail、Repose、Scorn、Sever、Abide、Adroit、Beleague、Doubt、Intransigent、Paucity……
+- **建築**：
+  - 在岩石中鑿出「pit-cities」（坑城）——表面的柱與窗在地下重現。
+  - 「實心岩石以等量空洞配對」——他們的哲學物化在牆與洞的交替。
+  - 衣物極少，多裸體或只穿皮繩腰帶。
+- **魔法（Akhrast Korvalain）**：
+  - 以「聲音」為媒介的命令式魔法；對對方說「死」對方就死。
+  - 因為是 Hold 而非 Warren，Otataral 對它無效。
+  - 唯一可破解的方法：對方聽不見（深耳聾）或語言／心智無法處理 FA 的命令（Badalle 的孩子軍因飢餓近瘋而完全免疫，這是 Aloft 被擊敗的 loophole）。
+- **歷史**：
+  - 三大 Founding Race（Jaghut／Imass／FA）中 FA 是「第一個離場的」——曾為 Jaghut 與 Imass 戰爭的仲裁者，但「仲裁」即「殺所有相關者」。
+  - 與 Errant 的死敵——Ganath 說 FA 以血為祭堵 Errant 之口讓他「永無口渴或安寧」。
+  - 與 Tiste Liosan 的長年「Just Wars」——光與審判同樣自命為宇宙仲裁者。
+- **Kolanse 政權（Bonehunters 終局之敵）**：
+  - 60 年前 FA 從 Wretched Coast 來到 Kolanse，一艘骨船載十二 Pure。
+  - 國王召見 FA 使者——使者一指「他即將墜落」，國王與所有衛兵立死，僅 FA 走出。
+  - 此後百艘 Watered 船陸續登陸，從 Estobanse 省北伐，逐朝廷顛覆「Age of Justice」。
+  - 大規模屠殺整個大陸的平民——「死人最公平」。
+  - 中心信仰：CG 之心在 Spire；用此心驅動萬人崇拜、產出能量、然後「斷掉」這個世界與 K'rul 的連結——一份徹底「打掃乾淨」的計畫。
+- **Bonehunters 終局之戰**：
+  - **Sister Aloft** 被 Badalle 之蝗群活活啃光，只剩骨與腸袋。
+  - **Sister Equity** 被 Hood 一口咬掉腦袋（為 Felash 與遇難船員救駕）。
+  - **Sister Reverence**：守 Spire 之頂；被 Hood 親手殺，CG 之心被釋放。
+  - **Brother Grave、Sister Freedom**：戰場上被 T'lan Imass、Fourteen Jaghut 與 Bonehunters 共同擊殺。
+  - **Sister Calm**：戰前已被 The Snake 兒童軍逃出殺害。
+- **與 The Snake 兒童軍**：
+  - FA 把 Kolanse 的兒童成群屠殺、留少數孩童當「Brayderal」混入兒童軍當奸細。
+  - 兒童軍在沙漠中走出 Glass Desert 抵達 Crystal City——這段是 Malazan 系列最虐心的章節之一。
+- **附註**：
+  - FA 的哲學核心：**為達道德正確必須對所有過去的選擇唱反調**——這使他們的行動永遠不可預測。
+  - 他們是 Malazan 宇宙裡唯一一個「沒有人能跟它談判」的種族——你只能殺光它或被它殺光。
+  - The One God：FA 對「正義概念」的人格化稱呼；不是真正的神，而是 FA 自己集體意志的反射。
