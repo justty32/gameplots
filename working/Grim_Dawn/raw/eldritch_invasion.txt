@@ -1,0 +1,6850 @@
+
+======================================================================
+PAGE: Ancient Shambler
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Ancient_Shambler
+======================================================================
+
+The
+Ancient Shambler
+is a unique
+Rock Golem
+boss creature located in
+The Flooded Passage
+. Killing it is necessary to exit to the
+Burrwitch Outskirts
+.
+Family:
+Eldritch
+Genus:
+Golem
+Abilities
+Skill Name
+Skill Type
+Damage Type
+Ground Breaker
+AoE
+8 meter radius
+Physical damage
+Internal Trauma over 3 Seconds
+Rock Smash
+melee
+Physical Damage
+8-14% Reduction to current Life
+Stun
+Avalanche
+Projectile rain AoE
+8 Meter radius
+6 Projectiles
+Physical Damage
+Petrifying Rock
+Projectile
+1 Projectile
+2.5 Meter Radius
+Physical Damage
+1.5 Seconds of Petrify
+Resistances
+Pierce
+30%
+Fire
+20%
+Poison & Acid
+30%
+Freeze
+110%
+Knockdown
+500%
+Petrify
+500%
+Trap
+155%
+Stun
+105%
+Sleep
+50%
+Confusion
+500%
+Convert
+500%
+Fear
+500%
+Skill Disruption
+500%
+Total Speed Reduction
+75%
+Current Life Reduction
+90%
+Reflect
+25%
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: Bell'oq, Guardian of Rahn
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Bell'oq,_Guardian_of_Rahn
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Bell'oq, Guardian of Rahn
+is an
+Eldritch
+Construct
+that is found in the
+Map Room of Rahn
+.
+
+======================================================================
+PAGE: Brother Segarius, Vengeance of Kymon
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Brother_Segarius,_Vengeance_of_Kymon
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Brother Segarius, Vengeance of Kymon
+is a
+Human
+,
+Eldritch
+Boss found in the
+Tomb of the Eldritch Sun
+.
+
+======================================================================
+PAGE: Galfang, Night Terror
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Galfang,_Night_Terror
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Galfang, Night Terror
+is an
+Eldritch
+,
+Beast
+Boss located in the
+Veiled Den
+. He is the target of
+The Power of Galfang
+.
+
+======================================================================
+PAGE: Gargabol, Heart of the Wild
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Gargabol,_Heart_of_the_Wild
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Gargabol
+is a unique
+Boss creature
+. He is of the
+Eldritch faction
+. He is required to be killed in the quest
+Cleanse the Corruption
+. His boss arena has a unique name in the
+Tainted Wood
+called "Heart of the Forest". To challenge this boss you will need to bring a
+Skeleton Key
+.
+It is a 2 phase boss fight. Phase 1 has Gargabol use acid/poison attacks. Once its HP is depleted, it revives as and begins to use fire attacks, in addition to spawning adds.
+
+======================================================================
+PAGE: Golem
+CATEGORIES: Eldritch
+URL: https://grimdawn.fandom.com/wiki/Golem
+======================================================================
+
+Golems are a
+creature
+type belonging to the
+Eldritch
+race. They take the form of giant animated rock creatures.
+Golems possess relatively high Armor and Health, and have high Poison Resistance. They can be found in early
+Act 2
+areas.
+Golem Variants
+Earthen Shambler
+Mossy Shambler
+Stonewrought  Shambler
+Ugdenbog Golem
+Ugdenbog Mossflinger
+Ugdenbog Overgrowth
+Golem Heroes
+Hammerton
+Haldras Flamespitter
+Stoneheart - Reflective
+Stonegrinder - Charger
+Rimestone - Frozen
+Voidstone - Voidtouched
+Ferrosius - Swift
+Titanius Steelskin - Defender
+Jormundur - Diseased
+Garrl - Voidtouched
+Golem Bosses
+Ancient Shambler
+Bargoll, the Mouldering Mound
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: Guardian of Bysmiel
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Guardian_of_Bysmiel
+======================================================================
+
+The
+Guardian of Bysmiel
+is a unique
+Boss
+creature that can be encountered in
+The Hidden Path
+near
+Asterkarn Road
+.
+The Player need the
+Runestone of Dreeg
+and
+Runestone of Solael
+to enter it's lair. Killing him is necessary for the quest as he drops the
+Runestone of Bysmiel
+upon death.
+Family:
+Eldritch
+Abilities
+Lightning Discharge
+Storm Claw
+Lightning Breath
+Teleport Self
+Chain Lightning
+Curse
+Resistances
+Level 4
+Hero/Boss Resistances
+Chaos Resistance: 33%
+Fire Resistance: 33%
+Lightning Resistance: 50%
+Physical Resistance: 25%
+Pierce Resistance: 25%
+Notable Drops
+Grand Spoils
+Runestone of Bysmiel
+Note:
+The Hidden Path - Bysmiel
+Bysmiel-Sect Legguards
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: Guardian of Dreeg
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Guardian_of_Dreeg
+======================================================================
+
+The
+Guardian of Dreeg
+is a unique
+Boss
+creature that can be encountered in
+The Hidden Path
+near
+Lower Crossing
+. Killing him is necessary to launch the quest
+The Hidden Path
+. He also drops the
+Runestone of Dreeg
+upon death, mandatory for the quest.
+Family:
+Eldritch
+Abilities
+Poison Nova
+Poison Spit
+Gaze of Dreeg
+Summon Guardian's Eye
+Poison Spit Burst
+Resistances
+Level 4
+Hero/Boss Resistances
+Aether Resistance: 33%
+Vitality Resistance: 33%
+Physical Resistance: 25%
+Pierce Resistance: 25%
+Poison & Acid Resistance: 50%
+Notable Drops
+Grand Spoils
+Runestone of Dreeg
+Note:
+The Hidden Path - Dreeg
+Dreeg-Sect Legguards
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: Guardian of Solael
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Guardian_of_Solael
+======================================================================
+
+The
+Guardian of Solael
+is a unique
+Boss
+creature that can be found in
+The Hidden Path
+near the
+Broken Hills
+.
+The player need the
+Runestone of Dreeg
+to enter it's lair. Killing him is necessary for the quest as he drops the
+Runestone of Solael
+upon death.
+Family:
+Eldritch
+Abilities:
+Life Leech
+Bleeding
+Vitality Stormwave
+Siphoning Spirit
+Doom Bolt
+Resistances:
+Level 4
+Hero/Boss Resistances
+Physical Resistance: 25%
+Pierce Resistance: 25%
+Cold Resistance: 33%
+Aether Resistance: 33%
+Vitality Resistance: 50%
+Notable Drops
+Grand Spoils
+Runestone of Solael
+Note:
+The Hidden Path - Solael
+Solael-Sect Legguards
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: Kaisan, the Eldritch Scion
+CATEGORIES: Boss Creatures, Eldritch, Nemesis
+URL: https://grimdawn.fandom.com/wiki/Kaisan,_the_Eldritch_Scion
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Kaisan, the Eldritch Scion
+is the
+Nemesis
+boss for the
+Eldritch
+faction, added in
+Forgotten Gods
+expansion content.
+Skills and Abilities
+Spawn Locations
+Astral Fields
+Basalt Crags
+Edge of Reality (Act 6)
+Path of Ascension
+Remnants of Korvan City
+Ruins of Abyd
+Temple of Ateph
+Tomb of Ariath
+Tomb of Nephos
+Tomb of Sethan
+Tomb of the Eldritch Sun
+Valley of the Chosen
+Notable Drops
+Kaisan will drop one of two Rare Amulets:
+Kaisan's Burning Eye
+Kaisan's Eldritch Eye
+He also has a chance to drop a
+Celestial Lotus
+or an
+Eldritch Essence
+.
+
+======================================================================
+PAGE: Map Room Protector
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Map_Room_Protector
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Map Room Protector
+is a
+Eldritch
+Construct
+Boss that is found in the
+Map Room of Rahn
+.
+
+======================================================================
+PAGE: Sister Crimson, Vengeance of Kymon
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Sister_Crimson,_Vengeance_of_Kymon
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Sister Crimson, Vengeance of Kymon
+is an
+Eldritch
+,
+Human
+boss located in the
+Tomb of Sethan
+. She is also the target of
+Bounty: Sister Crimson
+.
+
+======================================================================
+PAGE: Sylvarria, Queen of the Undergrowth
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/Sylvarria,_Queen_of_the_Undergrowth
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+Sylvarria
+is an
+Eldritch
+plant Boss. She is found in the
+Undergrowth
+. She is the target of the quest
+Pruning The Weeds
+.
+
+======================================================================
+PAGE: The Duskreaper
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/The_Duskreaper
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+The Duskreaper
+is an
+Eldritch
+Beast
+Boss located in the
+Tomb of Ariath
+. Killing him is part of the objective for the quest
+Preemptive Strike
+.
+
+======================================================================
+PAGE: The Sentinel
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/The_Sentinel
+======================================================================
+
+The Sentinel
+is a unique boss creature that can be found in the
+Temple of the Three
+.
+Killing him marks the end of
+The Hidden Path
+quest.
+Family:
+Eldritch
+Abilities
+Skill Name
+Skill Type
+Damage Type
+Eldritch Blast
+AoE
+Poison & Acid
+35% Current Life
+Eldritch Rain
+Projectile (x5)
+Acid, Poison, Fire, Stun
+Eldritch Breath
+Wave
+Acid, Fire, Burn, 75% Damage Reduction over 3 seconds
+Summon Beacon
+Enemy buff
++15% Total Speed, Increases Life Regen, Acid Damage
+Earth Ring
+Projectile
+Physical, Internal Trauma, 25% Total Resistance Reduction for 3 Seconds
+Death Eldritch Blast
+AoE
+Poison & Acid
+Resistances
+Level 5
+Hero/Boss Resistances
+Cold Resistance 33%
+Fire Resistance 33%
+Lightning Resistance 33%
+Physical Resistance 25%
+Pierce Resistance 25%
+Notable Drops
+Ancient Heart
+The Triumvirate
+Empowered Triumvirate
+Covenant of the Three
+Eldritch-Keeper's Casque
+Empowered Eldritch-Keeper's Casque
+Eldritch Gaze
+Blueprint: Eldritch Gaze
+Blueprint: Covenant of the Three
+Masteries
+Items
+Creatures
+Factions
+Locations
+Constellations
+Soldier
+Demolitionist
+Occultist
+Nightblade
+Arcanist
+Shaman
+Inquisitor
+Necromancer
+Oathkeeper
+Soldier Skills
+Active Skills
+Blade Arc
+(
+Clean Sweep
+-
+Laceration
+) •
+Blitz
+(
+Blindside
+) •
+Cadence
+(
+Discord
+-
+Fighting Form
+-
+Deadly Momentum
+) •
+Forcewave
+(
+Tremor
+-
+Rending Force
+-
+Internal Trauma
+) •
+Overguard
+•
+War Cry
+(
+Terrify
+-
+Break Morale
+)
+Passive Skills
+Decorated Soldier
+•
+Fighting Spirit
+•
+Markovian's Advantage
+•
+Menhir's Will
+•
+Military Conditioning
+•
+Scars of Battle
+•
+Shield Training
+•
+Veterancy
+•
+Zolhan's Technique
+Toggle Skills
+Counter Strike
+•
+Field Command
+(
+Squad Tactics
+) •
+Menhir's Bulwark
+•
+Oleron's Rage
+Demolitionist Skills
+Active Skills
+Blackwater Cocktail
+(
+High Potency
+-
+Demon Fire
+-
+Agonizing Flames
+) •
+Canister Bomb
+(
+Concussive Bomb
+-
+Improved Casing
+) •
+Fire Strike
+(
+Explosive Strike
+-
+Searing Might
+-
+Searing Strike
+-
+Static Strike
+-
+Brimstone
+) •
+Flashbang
+(
+Searing Light
+) •
+Grenado
+(
+High Impact
+-
+Skyfire Grenado
+) -
+Shattering Blast
+•
+Mortar Trap
+(
+Heavy Ordnance
+-
+"The Big One"
+) •
+Stun Jacks
+(
+Quick Jacks
+-
+Full Spread
+) •
+Thermite Mine
+(
+Hellfire Mine
+)
+Passive Skills
+Blast Shield
+•
+Ulzuin's Chosen
+Toggle Skills
+Flamed Touched
+(
+Temper
+) •
+Vindicative Flame
+(
+Ulzuin's Wrath
+)
+Occultist Skills
+Active Skills
+Blood of Dreeg
+(
+Aspect of the Guardian
+) •
+Blood Pox
+(
+Fevered Rage
+-
+Wasting
+-
+Black Death
+) •
+Curse of Frailty
+(
+Vulnerability
+) •
+Doom Bolt
+•
+Dreeg's Evil Eye
+(
+Blood Burst
+-
+Focused Gaze
+-
+Terrifying Gaze
+-
+Vile Eruption
+) •
+Sigil of Consumption
+(
+Destruction
+)
+Toggle Skills
+Bonds of Bysmiel
+(
+Manipulation
+) •
+Possession
+•
+Solael's Witchfire
+(
+Consecrated Blade
+-
+Second Rite
+)
+Summons
+Summon Familiar
+(
+Mend Flesh
+-
+Storm Spirit
+-
+Lightning Strike
+) •
+Summon Hellhound
+(
+Ember Claw
+-
+Hellfire
+-
+Infernal Breath
+)
+Nightblade Skills
+Active Skills
+Amarasta's Blade Burst
+(
+Lethal Assault
+) •
+Blade Barrier
+•
+Blade Trap
+(
+Devouring Blades
+) •
+Phantasmal Blades
+(
+Frenetic Throw
+-
+Heart Seeker
+-
+Nether Edge
+) •
+Pneumatic Burst
+(
+Breath of Belgothian
+-
+Shadow Dance
+-
+Elemental Awakening
+) •
+Ring of Steel
+(
+Ring of Frost
+-
+Circle of Slaughter
+) •
+Shadow Strike
+(
+Nidalla's Justifiable Ends
+-
+Nightfall
+)
+Passive Skills
+Anatomy of Murder
+•
+Dual Blades
+(
+Belgothian's Shears
+-
+Hidden Hands
+-
+Amarasta's Quick Cut
+-
+Whirling Death
+-
+Execution
+) •
+Merciless Repertoire
+•
+Phantasmal Armor
+Toggle Skills
+Veil of Shadow
+(
+Night's Chill
+)
+Summons
+Blade Spirit
+Arcanist Skills
+Active Skills
+Albrecht's Aether Ray
+(
+Tainted Power
+-
+Disintegration
+) •
+Callidor's Tempest
+(
+Wrath of Agrivix
+-
+Inferno
+) •
+Devastation
+•
+Maiven's Sphere of Protection
+(
+Conversion
+) •
+Mirror of Ereoctes
+•
+Nullification
+•
+Olexra's Flash Freeze
+(
+Absolute Zero
+) •
+Panetti's Replicating Missile
+(
+Distortion
+-
+Supercharged
+-
+Proliferation
+) •
+Trozan's Sky Shard
+(
+Frozen Core
+-
+Shattered Star
+)
+Passive Skills
+Arcane Will
+•
+Fabric of Reality
+•
+Inner Focus
+•
+Mental Alacrity
+Toggle Skills
+Iskandra's Elemental Exchange
+(
+Manifestation
+-
+Overload
+-
+Elemental Balance
+) •
+Reckless Power
+•
+Star Pact
+Shaman Skills
+Active Skills
+Brute Force
+(
+Feral Hunger
+-
+Upheaval
+) •
+Devouring Swarm
+•
+Grasping Vines
+(
+Entangling Vines
+) •
+Primal Strike
+(
+Thunderous Strike
+-
+Torrent
+-
+Storm Surge
+) •
+Savagery
+(
+Might of the Bear
+-
+Tenacity of the Boar
+-
+Storm Touched
+)
+Toggle Skills
+Mogdrogen's Pact
+(
+Heart of the Wild
+-
+Oak Skin
+) •
+Primal Bond
+•
+Stormcaller's Pact
+Summons
+Conjure Primal Spirit
+•
+Storm Totem
+(
+Corrupted Storm
+) •
+Summon Briarthorn
+(
+Ground Slam
+-
+Emboldening Presence
+) •
+Wendigo Totem
+(
+Blood Pact
+) •
+Wind Devil
+(
+Raging Tempest
+-
+Maelstrom
+)
+Inquisitor Skills
+Active Skills
+Flames of Ignaffar
+- (
+Tainted Flame
+-
+Intensify
+-
+Infernal Purge
+-
+Endless Flame
+) •
+Horn of Gandarr
+•
+Inquisitor Seal
+- (
+Null Field
+-
+Arcane Empowerment
+) •
+Rune of Hagarrad
+- (
+Biting Cold
+-
+Chillsurge
+) •
+Rune of Kalastor
+- (
+Ignition
+) •
+Storm Box of Elgoloth
+(
+Allagast's Arcane Net
+-
+Lightning Tether
+) •
+Word of Pain
+(
+Word of Agony
+-
+Death Sentence
+)  •
+Word of Renewal
+- (
+Word of Arms
+-
+Vigor
+-
+Steel Resolve
+)
+Passive Skills
+Artifact Handling
+•
+Bursting Round
+•
+Chilling Rounds
+•
+Deadly Aim
+•
+Ranged Expertise
+•
+Storm Spread
+Toggle Skills
+Aura of Censure
+•
+Aura of Conviction
+Necromancer Skills
+Active Skills
+Bone Harvest
+(
+Harvester of Death
+-
+Dread
+-
+Soul Harvest
+) •
+Call of the Grave
+•
+Drain Essence
+(
+Gravechill
+-
+Hungering Reach
+-
+Decomposition
+) •
+Ill Omen
+•
+Mark of Torment
+•
+Ravenous Earth
+(
+Decay
+-
+Foul Eruption
+) •
+Reap Spirit
+•
+Siphon Souls
+- (
+Sear Souls
+-
+Blood Boil
+)
+Passive Skills
+Necrotic Edge
+•
+Reaping Strike
+Toggle Skills
+Harbinger of Souls
+•
+Master of Death
+•
+Spectral Binding
+(
+Spectral Wrath
+)
+Summons
+Raise Skeletons
+(
+Undead Legion
+-
+Will of the Crypt
+) •
+Reap Spirit
+•
+Summon Blight Fiend
+(
+Unstable Anomaly
+-
+Rotting Fumes
+-
+Blight Burst
+)
+Oathkeeper Skills
+Active Skills
+Aegis of Menhir
+(
+Avenging Shield
+-
+Aegis of Thorns
+-
+Reprisal
+) •
+Ascension
+(
+Clarity of Purpose
+) •
+Eye of Reckoning
+(
+Soulfire
+) •
+Judgment
+(
+Crushing Verdict
+-
+Heart of Wrath
+) •
+Righteous Fervor
+(
+Dreeg's Reproach
+-
+Consecration
+-
+Retribution
+) •
+Vire's Might
+(
+Volcanic Might
+-
+Volcanic Stride
+-
+Tectonic Shift
+)
+Passive Skills
+Resilience
+•
+Safeguard
+•
+Shattering Smash
+•
+Smite
+Toggle Skills
+Divine Mandate
+•
+Path of the Three
+•
+Presence of Virtue
+(
+Haven
+-
+Rebuke
+)
+Summons
+Summon Guardian of Empyrion
+(
+Scion of Dreeg
+-
+Celestial Presence
+)
+Items
+Weapons
+•
+Axes
+•
+Maces
+•
+Swords
+•
+Two-handed Melee
+•
+Pistols
+•
+Two-handed Ranged
+•
+Daggers
+•
+Scepters
+•
+Shields
+•
+Off-Hands
+Armor
+•
+Head Armor
+•
+Shoulder Armor
+•
+Chest Armor
+•
+Hand Armor
+•
+Leg Armor
+•
+Foot Armor
+Accessories
+•
+Amulets
+•
+Rings
+•
+Medals
+•
+Belts
+Unique Items
+•
+Sets
+•
+Monster Infrequents
+Relics
+•
+Components
+•
+Augments
+•
+Blueprints
+•
+Recipes
+•
+Materials
+•
+Consumables
+Creatures
+Aetherial
+•
+Aether Corruption
+•
+Arachnid
+•
+Beast
+•
+Beastkin
+•
+Chthonic
+•
+Eldritch
+Human
+•
+Insectoid
+•
+Riftspawn
+•
+Undead
+•
+Heroes
+•
+Bosses
+•
+Pets
+Factions
+•
+Bounties
+The Black Legion
+•
+Devil's Crossing
+•
+Homestead
+•
+Rovers
+•
+The Outcast
+Kymon's Chosen
+•
+Order of Death's Vigil
+•
+Aetherials
+•
+Beasts
+•
+Chthonians
+•
+Cronley's Gang
+•
+Arkovian Undead
+Barrowholm
+•
+Coven of Ugdenbog
+•
+Malmouth Resistance
+•
+Aetherial Vanguard
+Cult of Bysmiel
+•
+Cult of Dreeg
+•
+Cult of Solael
+•
+Eldritch Horrors
+Locations
+Devil's Crossing
+•
+Shrines
+•
+Challenge dungeons
+•
+Secret areas
+Act 1
+Devil's Crossing
+•
+Lower Crossing
+•
+Wightmire
+•
+Foggy Bank
+•
+The Flooded Passage
+•
+Burrwitch Outskirts
+•
+Burrwitch Village
+•
+The Warden's Cellar
+•
+Underground Transit
+•
+Hidden Laboratory
+Act 2
+Arkovian Foothills
+•
+Old Arkovia
+•
+Cronley's Hideout
+•
+Twin Falls
+•
+Broken Hills
+•
+Smuggler's Pass
+Act 3
+Deadman's Gulch
+•
+Prospector's Trail
+•
+Pine Barrens
+•
+Homestead
+•
+Rotting Croplands
+•
+Sorrow's Bastion
+•
+The Blood Grove
+•
+Darkvale Gate
+Act 4
+Asterkarn Road
+•
+Asterkarn Valley
+•
+Fort Ikon
+•
+Gates of Necropolis
+•
+Necropolis Interior
+Act 5
+Gloomwald
+•
+Ugdenbog
+•
+Coven's Refuge
+•
+Barrowholm
+Act 6
+Lone Watch
+•
+Malmouth Outskirts
+•
+Malmouth Sewers
+•
+Steelcap District
+•
+Crown Hill
+Forgotten Gods
+Conclave of the Three
+•
+Korvan Plateau
+•
+Temple City of Osyr
+•
+Korvan Sands
+•
+Cairan Docks
+•
+Sunbane Oasis
+•
+Vanguard of the Three
+•
+Ruins of Abyd
+•
+Infernal Wastes
+•
+Remnants of Korvan City
+•
+Tomb of the Eldritch Sun
+•
+The Eldritch Gate
+Constellations
+Tier 1
+Anvil
+•
+Empty Throne
+•
+Falcon
+•
+Hammer
+•
+Harpy
+•
+Owl
+•
+Shepherd's Crook
+•
+Toad
+•
+Wolverine
+Fiend
+•
+Ghoul
+•
+Jackal
+•
+Rat
+•
+Viper
+•
+Vulture
+•
+Wretch
+Akeron's Scorpion
+•
+Bat
+•
+Eye of the Guardian
+•
+Fox
+•
+Hawk
+•
+Quill
+•
+Raven
+•
+Scholar's Light
+•
+Spider
+Assassin's Blade
+•
+Crane
+•
+Dryad
+•
+Lion
+•
+Panther
+•
+Stag
+•
+Tortoise
+Bull
+•
+Eel
+•
+Gallows
+•
+Hound
+•
+Imp
+•
+Lizard
+•
+Sailor's Guide
+•
+Tsunami
+•
+Wraith
+Tier 2
+Affliction
+•
+Alladrah's Phoenix
+•
+Amatok the Spirit of Winter
+•
+Assassin
+•
+Autumn Boar
+•
+Bard's Harp
+•
+Behemoth
+•
+Berserker
+•
+Blades of Nadaan
+•
+Bysmiel's Bonds
+•
+Chariot of the Dead
+•
+Crab
+•
+Dire Bear
+•
+Harvestman's Scythe
+•
+Huntress
+•
+Hydra
+•
+Kraken
+•
+Magi
+•
+Manticore
+•
+Messenger of War
+•
+Murmur, Mistress of Rumors
+•
+Oklaine's Lantern
+•
+Revenant
+•
+Rhowan's Crown
+•
+Rhowan's Scepter
+•
+Scales of Ulcama
+•
+Shieldmaiden
+•
+Solael's Witchblade
+•
+Solemn Watcher
+•
+Staff of Rattosh
+•
+Targo the Builder
+•
+Tempest
+•
+Typhos, the Jailor of Souls
+•
+Ulo the Keeper of the Waters
+•
+Wendigo
+•
+Widow
+Tier 3
+Abomination
+•
+Aeon's Hourglass
+•
+Attak Seru, the Mirage
+•
+Blind Sage
+•
+Crossroads
+•
+Devotion
+•
+Dying God
+•
+Ishtak, the Spring Maiden
+•
+Leviathan
+•
+Light of Empyrion
+•
+Mogdrogen the Wolf
+•
+Obelisk of Menhir
+•
+Oleron
+•
+Rattosh, the Veilwarden
+•
+Spear of the Heavens
+•
+Tree of Life
+•
+Ulzuin's Torch
+•
+Ultos, Shepherd of Storms
+•
+Unknown Soldier
+•
+Vire, the Stone Matron
+Navigation
+Soldier Skills
+Demolitionist Skills
+Occultist Skills
+Nightblade Skills
+Arcanist Skills
+Shaman Skills
+Inquisitor Skills
+Necromancer Skills
+Oathkeeper Skills
+Items
+Creatures
+Factions
+Locations
+Constellations
+
+======================================================================
+PAGE: The Steward
+CATEGORIES: Boss Creatures, Eldritch
+URL: https://grimdawn.fandom.com/wiki/The_Steward
+======================================================================
+
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+This article is a
+stub
+. You can help Grim Dawn Wiki by
+expanding it
+.
+The Steward
+is an
+Eldritch
+Construct
+Boss located in the northwest portion of the
+Remnants of Korvan City
+in the area called
+The Path of Ascension
+guarding the entrance to the
+Tomb of the Eldritch Sun
+.
