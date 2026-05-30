@@ -5,12 +5,30 @@
 
 ---
 
-# 新作品攝入流水線（2026-05-29）
+# 新作品攝入流水線（2026-05-29 ～ 2026-05-30）
 
-> 對應底部待辦「多抓一些原始素材」。從 fandom 等 wiki 攝入新作品、走 6-phase 流程產出詞條庫。
+> 對應底部待辦「多抓一些原始素材」。從 fandom／官方 wiki 攝入新作品、走 6-phase 流程產出詞條庫。
 > 流程定義見 `CLAUDE.md`。
 
-## 一、已完工並驗收（5 部）
+## 〇、2026-05-30 session 完工（7 部，全部 commit+push）
+
+前半段以平行 subagent、後半段（PoE/DA/GW2/LOTR）依使用者要求**親手逐一分析**（不開 subagent）。全繁中、全劇透、斷鏈掃描歸零。
+
+| 作品 | 類型 | 抓取頁 | raw | 主檔 | 拆檔 | commit |
+| :-- | :-- | --: | --: | :-- | --: | :-- |
+| Malazan | 小說 | 1517 | 4.9MB | 9/9 | 144 | ed52963 |
+| Grim Dawn | 遊戲（ARPG） | — | — | 9/9 | 19 | 6891018 |
+| Pillars of Eternity | 遊戲（cRPG） | — | — | 9/9 | 26 | 37aeb78 |
+| Path of Exile | 遊戲（ARPG） | 1784 | 3.3MB | 9/9 | 6 | 58f47d4 |
+| Dragon Age | 遊戲（BioWare 四部曲） | 4564 | 18.5MB | 9/9 | 6 | c875a38 |
+| Guild Wars 2 | 遊戲（MMO，**官方站**） | 3622 | 20.5MB | 9/9 | 4 | 0ca4d4b |
+| Lord of the Rings | 小說（Tolkien legendarium） | 1648 | 6.9MB | 9/9 | 8 | 8123ac2 |
+
+- 爬蟲 `scripts/fandom_crawler.py` 新增 config：`path_of_exile`／`dragon_age`／`guild_wars_2`（域名 `wiki.guildwars2.com`）／`lord_of_the_rings`。
+- GW2：fandom 站僅 117 篇殘樁，改用官方 `wiki.guildwars2.com`（124k 文章，敘事子集 3622 頁）。
+- 攝入慣例不變：一次一支、序列爬取、遊戲取「敘事+陣營機制」、小說取敘事實體。
+
+## 一、已完工並驗收（更早的 5 部）
 
 標準 9 檔 = `synopsis / index / timeline / characters / factions / events / places / items / concepts`，全繁中、全劇透、斷鏈掃描歸零。
 
@@ -24,9 +42,12 @@
 
 各部產出在 `results/<作品>/`。
 
-## 二、暫停點（依使用者 2026-05-29 指示，停在此處未繼續）
+## 二、暫停點（2026-05-29 session limit 中止）
 
-- **Malazan**（malazan.fandom.com）：raw **已抓完 1517 頁 / 0 失敗 / 4.9MB**，存於 `working/Malazan/raw/`（按神祇/派系/種族/地點分檔）。**尚未建詞條庫**（Phase 2–6 未開始）。`fandom_crawler.py` 已含 `malazan` config，可直接派 Phase 2–6 subagent。小說、全劇透。
+- **Malazan**（malazan.fandom.com）：raw **已抓完 1517 頁 / 0 失敗 / 4.9MB**，存於 `working/Malazan/raw/`（按神祇/派系/種族/地點分檔）。
+  - **Phase 2 已完成**：`working/Malazan/entities.md`（2119 行、2005 條目）。六類筆數：characters 1161、factions 171、events 72、places 415、items 50、concepts 132。**檔案尚未 commit**（在 working/，untracked）。
+  - **Phase 3–6 未動工**：原訂 6 個平行 subagent 分別寫 characters/factions/events/places/items/concepts，於 2026-05-29 派出時全部因 session limit（reset 12:20am Asia/Taipei）瞬間失敗。`results/Malazan/` 仍為空。
+  - **重啟方式**：session 解除後重派 6 個 Phase 3 subagent（一類一個、background 並行），再走 Phase 4 timeline → Phase 5 synopsis → Phase 6 index。小說、全劇透。
 - **Pillars of Eternity**（pillarsofeternity.fandom.com，約 13,350 篇）：**尚未抓取，無 config**。接手前先探分類設計 bucket。遊戲、敘事+陣營機制。
 - **Grim Dawn**（grimdawn.fandom.com，約 4,184 篇）：同上，**尚未抓取、無 config**。遊戲。
 - **Cosmere**：已放棄（fandom 站僅 26 頁殘樁；使用者否決改用 Coppermind）。`working/Cosmere` 已刪、config 已移除。
