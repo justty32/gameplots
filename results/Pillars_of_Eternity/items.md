@@ -226,6 +226,7 @@
 - **Maxims of the Pargrunen（I–VI）**：Pargrunen 格言六卷，記其工匠／行旅哲學。
 - **Legacy of the Tacan**、**The White that Wends（book）**：已絕文化 Tacan 與北方雪域之記述。
 - **A History of the Living Lands（I–V）**（Av）：Living Lands 起源到「Synthesis」的五卷史，暗藏 Sapadal 與 Ekida 滅族線索（其中 IV 卷被 REDACTED 塗銷）。
+- **Tanvii ora Toha（美德之書，Book of Virtues）**：Rauatai（奧瑪瓦）的聖典，以「吟唱」形式傳承。描述了理想公民應具備的忠誠與勤勉等美德。學者 Kana Rua 發現其源頭與昂威斯人有關（源自 Aedyr 對昂威斯碑文的轉譯），暗示 aumaua 的文明亦受到昂威斯體系的「工程化」引導，是諸神計畫的一部分。
 
 ### 宗教典籍與祈禱
 

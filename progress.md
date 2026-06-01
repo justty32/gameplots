@@ -10,6 +10,15 @@
 > 對應底部待辦「多抓一些原始素材」。從 fandom／官方 wiki 攝入新作品、走 6-phase 流程產出詞條庫。
 > 流程定義見 `CLAUDE.md`。
 
+## 〇、2026-06-01 session 完工（1 部）
+
+| 作品 | 類型 | 抓取頁 | raw | 主檔 | 拆檔 | 備註 |
+| :-- | :-- | --: | --: | :-- | --: | :-- |
+| Star Trek | 多媒介系列 | 6088 | 12.8MB | 9/9 | 8 | 包含 7 位核心角色與自治領戰爭拆檔 |
+
+- 爬蟲 `scripts/fandom_crawler.py` 新增 config：`star_trek`（域名 `memory-alpha.fandom.com`）。
+- 補完 `results/Star_Trek/` 下的所有標準文件與深度詞條。
+
 ## 〇、2026-05-30 session 完工（7 部，全部 commit+push）
 
 前半段以平行 subagent、後半段（PoE/DA/GW2/LOTR）依使用者要求**親手逐一分析**（不開 subagent）。全繁中、全劇透、斷鏈掃描歸零。
@@ -42,15 +51,9 @@
 
 各部產出在 `results/<作品>/`。
 
-## 二、暫停點（2026-05-29 session limit 中止）
+## 二、待開發作品池
 
-- **Malazan**（malazan.fandom.com）：raw **已抓完 1517 頁 / 0 失敗 / 4.9MB**，存於 `working/Malazan/raw/`（按神祇/派系/種族/地點分檔）。
-  - **Phase 2 已完成**：`working/Malazan/entities.md`（2119 行、2005 條目）。六類筆數：characters 1161、factions 171、events 72、places 415、items 50、concepts 132。**檔案尚未 commit**（在 working/，untracked）。
-  - **Phase 3–6 未動工**：原訂 6 個平行 subagent 分別寫 characters/factions/events/places/items/concepts，於 2026-05-29 派出時全部因 session limit（reset 12:20am Asia/Taipei）瞬間失敗。`results/Malazan/` 仍為空。
-  - **重啟方式**：session 解除後重派 6 個 Phase 3 subagent（一類一個、background 並行），再走 Phase 4 timeline → Phase 5 synopsis → Phase 6 index。小說、全劇透。
-- **Pillars of Eternity**（pillarsofeternity.fandom.com，約 13,350 篇）：**尚未抓取，無 config**。接手前先探分類設計 bucket。遊戲、敘事+陣營機制。
-- **Grim Dawn**（grimdawn.fandom.com，約 4,184 篇）：同上，**尚未抓取、無 config**。遊戲。
-- **Cosmere**：已放棄（fandom 站僅 26 頁殘樁；使用者否決改用 Coppermind）。`working/Cosmere` 已刪、config 已移除。
+目前尚無處理中作品。
 
 ## 三、工具與設定
 
@@ -166,6 +169,18 @@
 - [ ] results/Tokyo_Ghoul/characters/Kirishima_Touka.md (49)
 - [ ] results/千年之旅/timeline.md (49)
 - [ ] results/瑪娜希斯回響/synopsis.md (49)
+
+> 重新掃描待深化清單的指令：
+> ```bash
+> find results -name "*.md" | grep -v "index\|relationship_map\|narrative_analysis" | while read f; do lines=$(wc -l < "$f"); if [ "$lines" -lt 50 ]; then echo "$lines $f"; fi; done | sort -n
+> ```
+
+---
+
+## 尚未著手的另一項使用者需求
+
+- [x] **多抓一些原始素材**（"可以的話，幫我多抓一些原始素材"）——**進行中**，見本檔頂部「新作品攝入流水線（2026-05-29）」：已完成 5 部、Malazan raw 待處理、Pillars/Grim Dawn 排隊中。
+is.md (49)
 
 > 重新掃描待深化清單的指令：
 > ```bash

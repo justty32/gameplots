@@ -18,13 +18,13 @@
 
 ## 一、神話／太古時代
 
-### 太古眾神戰爭（The War of the Gods）
+### 太古眾神戰爭 / 天界戰爭（The War of the Gods / War in Heaven）
 
 > 創世時期諸神嫉妒互殘的浩劫，是 Aetherial 與 Chthonian 兩大宇宙勢力分裂的源頭。
 
 - **時間**：「世界尚未存在」之前的元初時代。
 - **參與者**：原初眾神，包括 Empyrion、Ch'thon、Korvaak 等元神；泰坦 Mogdrogen 即誕生於此戰。
-- **經過**：眾神彼此猜忌、爭奪創造之權，互相征伐。Aetherial 與 Chthonian 都是這場戰爭遺留下來的太古僕從，因背負戰敗主神之罪而被打入虛空與 Aether 之間。
+- **經過**：眾神彼此猜忌、爭奪創造之權，互相征伐。這場橫跨群星與位面的戰爭被後世稱為「天界戰爭 (War in Heaven)」，Aetherial 與 Chthonian 都是這場戰爭遺留下來的太古僕從，因背負戰敗主神之罪而被打入虛空與 Aether 之間。
 - **長期影響**：奠定全作宇宙觀——所有當代浩劫（Grim Dawn 入侵、垂死神復甦、Korvaak 甦醒）都是這場古老戰爭的餘燼重燃。
 
 ### Ch'thon 被分屍（Ch'thon's Dismemberment）
@@ -303,6 +303,12 @@
 ---
 
 ## 六、Forgotten Gods（Act 7）
+
+### Korvaak 的崛起（Rise of Korvaak）
+
+> 元神 Korvaak 藉凱蒙教派之助重返物質界、引發靈異焦土災變的全過程。
+
+詳見 [events/rise_of_korvaak.md](events/rise_of_korvaak.md)。一句話：被遺忘之神 Korvaak 藉由與 Thaidrus Kymon 立下契約，利用凡人的信仰與靈魂作為養料，在靈異界（Eldritch Realm）中重新壯大並引發 Korvan 大陸的焦土災變，意圖在與垂死神 Ch'thon 的宇宙軍備競賽中奪得先機。
 
 ### 凱蒙的契約（Kymon's Pact with Korvaak）
 

@@ -277,6 +277,27 @@
 - **Cantec**：Pargrunen 進入古堡須吟的咒詞。
 - **The Three Body Agreement（三方協議）**：Aedyr＋Vailia＋Rauatai 早期勢力協議制度。
 
+---
+
+## 七、昂威斯文明與遺產（Engwithan Civilization & Legacy）
+
+### 昂威斯人（Engwithans / The Builders）
+
+> 兩千年前消失的「造神者」文明，當代 Eora 所有宗教與形上學秩序的奠基者。
+
+- **背景**：Engwithans 是一個極度理性且科技發達的古代文明。在尋找「真造物主」失敗後，為了維持世界秩序，他們選擇犧牲數千同胞的靈魂來製造人工神祇，並在全球範圍內建立靈魂管理設施。
+- **遺產**：雖然文明已滅亡，但他們的建築、語言（類似康沃爾語）與靈魂機器仍運作至今。當代 Glanfathan 人視其為「 Builders（建築者）」並誓死守護其遺跡，而 Leaden Key 則祕密維護其謊言。
+
+### 昂威斯機器（Engwithan Machines）
+
+> 遍布 Eora 的古代工業設施，專門用於處理、截流或操縱靈魂精華。
+
+- **Sun in Shadow 機器**：位於 Twin Elms 地底。最初用於造神，後來被 Thaos 用於截流靈魂製造「空魂兒」危機，是 PoE1 的最終決戰地。
+- **Ukaizo 機器（控輪者）**：位於失落之城 Ukaizo。攔截靈魂之流並將其導向「彼岸」，使自然輪迴轉向人工控制，是 D2 Eothas 摧毀的目標。
+- **Cilant Lîs 機器**：PoE1 開場主角「覺醒」的地方。這類機器通常以 adra 為能量，能對周遭靈魂產生強大的灌頂或撕裂效果。
+- **Pargrunen 相關技術**：雖然矮人 Pargrunen 亦精通動畫術與機械，但其技術多半是基於對昂威斯遺蹟的逆向工程或再開發。
+- **真相**：這些機器證明了 Eora 的神權不是基於神聖，而是基於**能源管理與基礎設施維護**。
+
 ### 物產與曆法
 
 - **Vorlas（沃拉斯）**：紫色染料植物，Aedyr／Readceras 經濟命脈與殖民動機——Eastern Reach 殖民、Saint's War 皆與紫染貿易糾纏；Waidwen 本是 vorlas 農夫。

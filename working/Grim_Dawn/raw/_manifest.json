@@ -1,5 +1,5 @@
 {
-  "fetched": 1009,
+  "fetched": 798,
   "failed": [],
   "pages": [
     {
@@ -154,260 +154,8 @@
       "chars": 13417
     },
     {
-      "title": "Act 5",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth",
-        "Locations"
-      ],
-      "chars": 9405
-    },
-    {
-      "title": "Act 6",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth",
-        "Locations"
-      ],
-      "chars": 9465
-    },
-    {
-      "title": "Ashes of Malmouth",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 12314
-    },
-    {
-      "title": "Bladed Plating",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9409
-    },
-    {
-      "title": "Blazing Ruby",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9395
-    },
-    {
-      "title": "Bloodied Crystal",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9480
-    },
-    {
-      "title": "Conclave of the Three",
-      "bucket": "expansions",
-      "categories": [
-        "Forgotten Gods",
-        "Locations"
-      ],
-      "chars": 10589
-    },
-    {
-      "title": "Crucible of the Dead",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth",
-        "Locations"
-      ],
-      "chars": 9298
-    },
-    {
-      "title": "Eldritch Mirror",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9643
-    },
-    {
-      "title": "Enchanted Earth",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9383
-    },
-    {
-      "title": "Forgotten Gods",
-      "bucket": "expansions",
-      "categories": [
-        "Forgotten Gods"
-      ],
-      "chars": 10732
-    },
-    {
-      "title": "Living Armor",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9547
-    },
-    {
-      "title": "Runebound Topaz",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9436
-    },
-    {
-      "title": "Sacred Plating",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9507
-    },
-    {
-      "title": "Seal of Ancestry",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9697
-    },
-    {
-      "title": "Seal of Annihilation",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9652
-    },
-    {
-      "title": "Seal of Blades",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9922
-    },
-    {
-      "title": "Seal of Blight",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9946
-    },
-    {
-      "title": "Seal of Corruption",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9882
-    },
-    {
-      "title": "Seal of Destruction",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9932
-    },
-    {
-      "title": "Seal of Might",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9982
-    },
-    {
-      "title": "Seal of Resonance",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 10112
-    },
-    {
-      "title": "Seal of Shadows",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9914
-    },
-    {
-      "title": "Seal of Skies",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9925
-    },
-    {
-      "title": "Seal of the Night",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9852
-    },
-    {
-      "title": "Seal of the Void",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 10089
-    },
-    {
-      "title": "Spellscorched Plating",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9436
-    },
-    {
-      "title": "Tainted Heart",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9402
-    },
-    {
-      "title": "The Shattered Realm",
-      "bucket": "expansions",
-      "categories": [
-        "Forgotten Gods"
-      ],
-      "chars": 16845
-    },
-    {
-      "title": "Titan Plating",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9523
-    },
-    {
-      "title": "Ugdenbog Leather",
-      "bucket": "expansions",
-      "categories": [
-        "Ashes of Malmouth"
-      ],
-      "chars": 9473
-    },
-    {
       "title": "Aether Crystal (creature)",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -415,7 +163,7 @@
     },
     {
       "title": "Aether Crystal Cluster",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -423,7 +171,7 @@
     },
     {
       "title": "Aether Crystal Formation",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -431,7 +179,7 @@
     },
     {
       "title": "Aetherial Abomination",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -439,7 +187,7 @@
     },
     {
       "title": "Aetherial Behemoth",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -447,7 +195,7 @@
     },
     {
       "title": "Aetherial Bileeater",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -455,7 +203,7 @@
     },
     {
       "title": "Aetherial Blazedrinker",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -463,7 +211,7 @@
     },
     {
       "title": "Aetherial Bloater",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -471,7 +219,7 @@
     },
     {
       "title": "Aetherial Bloatworm",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -479,7 +227,7 @@
     },
     {
       "title": "Aetherial Colossus",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -487,7 +235,7 @@
     },
     {
       "title": "Aetherial Crawler",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -495,7 +243,7 @@
     },
     {
       "title": "Aetherial Guardian",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -503,7 +251,7 @@
     },
     {
       "title": "Aetherial Gutburrower",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -511,7 +259,7 @@
     },
     {
       "title": "Aetherial Iceburrower",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -519,7 +267,7 @@
     },
     {
       "title": "Aetherial Imp",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -527,7 +275,7 @@
     },
     {
       "title": "Aetherial Obelisk",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -535,7 +283,7 @@
     },
     {
       "title": "Aetherial Regurgitator",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -543,7 +291,7 @@
     },
     {
       "title": "Aetherial Rotbellower",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -551,7 +299,7 @@
     },
     {
       "title": "Aetherial Scamp",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -559,7 +307,7 @@
     },
     {
       "title": "Aetherial Sentinel",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -567,7 +315,7 @@
     },
     {
       "title": "Aetherial Stormbearer",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -575,7 +323,7 @@
     },
     {
       "title": "Aetherial Stormdrinker",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -583,7 +331,7 @@
     },
     {
       "title": "Aetherial Terraformer",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
@@ -591,782 +339,11 @@
     },
     {
       "title": "Aetherial Titan",
-      "bucket": "aether_invasion",
+      "bucket": "factions",
       "categories": [
         "Aetherials"
       ],
       "chars": 10170
-    },
-    {
-      "title": "Architect of Flesh",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 10156
-    },
-    {
-      "title": "Ascended Attendant (1)",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9587
-    },
-    {
-      "title": "Ascended Attendant (2)",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9633
-    },
-    {
-      "title": "Ascended Myrmidon",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 10267
-    },
-    {
-      "title": "Ascended Spellbreaker",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 10250
-    },
-    {
-      "title": "Councilman Garl",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 10628
-    },
-    {
-      "title": "Councilman Hallos",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 10574
-    },
-    {
-      "title": "Fleshshaper",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9831
-    },
-    {
-      "title": "Fleshshaper Hinissius",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 221
-    },
-    {
-      "title": "Fleshwarped Aberration",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9873
-    },
-    {
-      "title": "Fleshwarped Chilled One",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9647
-    },
-    {
-      "title": "Fleshwarped Corruption",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9361
-    },
-    {
-      "title": "Fleshwarped Scorcher",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9734
-    },
-    {
-      "title": "Fleshwarped Stormwalker",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 9909
-    },
-    {
-      "title": "Fleshweaver",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials"
-      ],
-      "chars": 10195
-    },
-    {
-      "title": "Fleshweaver Haraxis",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 216
-    },
-    {
-      "title": "Fleshweaver Krieg",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 9671
-    },
-    {
-      "title": "Gazer Prime",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 313
-    },
-    {
-      "title": "Herald of Destruction",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 9933
-    },
-    {
-      "title": "Herald of the Flame",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 10073
-    },
-    {
-      "title": "Noveria Stormfire",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 9457
-    },
-    {
-      "title": "Overlord Van Aldritch",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherial",
-        "Boss Creatures"
-      ],
-      "chars": 11057
-    },
-    {
-      "title": "Terrnox",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 10293
-    },
-    {
-      "title": "Valaxteria",
-      "bucket": "aether_invasion",
-      "categories": [
-        "Aetherials",
-        "Boss Creatures"
-      ],
-      "chars": 9738
-    },
-    {
-      "title": "Ballog'Nath, the Hellfire",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9428
-    },
-    {
-      "title": "Balok'Anatu, Bloodfiend",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9349
-    },
-    {
-      "title": "Bane'Galgalor, Guardian of the Gate",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9388
-    },
-    {
-      "title": "Bane'Gargoth",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9345
-    },
-    {
-      "title": "Benn'Jhar, the Colossal",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics",
-        "Nemesis"
-      ],
-      "chars": 9752
-    },
-    {
-      "title": "Bloodlord Thalonis",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn",
-        "Boss Creatures"
-      ],
-      "chars": 9491
-    },
-    {
-      "title": "Bloodsworn",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 11823
-    },
-    {
-      "title": "Bloodsworn Adulant",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9259
-    },
-    {
-      "title": "Bloodsworn Doomsayer",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9456
-    },
-    {
-      "title": "Bloodsworn Priest",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9410
-    },
-    {
-      "title": "Bloodsworn Summoner",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9431
-    },
-    {
-      "title": "Bloodsworn Void-Caller",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9452
-    },
-    {
-      "title": "Bloodsworn Zealot",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn"
-      ],
-      "chars": 9361
-    },
-    {
-      "title": "Chthonian",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 498
-    },
-    {
-      "title": "Chthonian Bloodkeeper",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 10185
-    },
-    {
-      "title": "Chthonian Bloodletter",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 10153
-    },
-    {
-      "title": "Chthonian Devourer",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9451
-    },
-    {
-      "title": "Chthonian Dreadguard",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9714
-    },
-    {
-      "title": "Chthonian Drone",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9524
-    },
-    {
-      "title": "Chthonian Gorger",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9308
-    },
-    {
-      "title": "Chthonian Harbinger",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9974
-    },
-    {
-      "title": "Chthonian Harvester",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 10026
-    },
-    {
-      "title": "Chthonian Hungerer",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9161
-    },
-    {
-      "title": "Chthonian Servitor",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9858
-    },
-    {
-      "title": "Chthonian Tyrant",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9654
-    },
-    {
-      "title": "Chthonian Vanguard",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9376
-    },
-    {
-      "title": "Gabal'Thunn, the Visage of Madness",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 226
-    },
-    {
-      "title": "Karroz, Sigil of Ch'thon",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn",
-        "Boss Creatures"
-      ],
-      "chars": 10708
-    },
-    {
-      "title": "Lagoth'Ak, Harbinger of Blood",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9486
-    },
-    {
-      "title": "Loghorrean, the Voice of Ch'thon",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 11191
-    },
-    {
-      "title": "Lunal'Valgoth, Steward of Darkness",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 316
-    },
-    {
-      "title": "Obsidian Defiler",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9740
-    },
-    {
-      "title": "Obsidian Defiler (creature)",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9795
-    },
-    {
-      "title": "Obsidian Ravager",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9868
-    },
-    {
-      "title": "Obsidian Shaleborn",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9650
-    },
-    {
-      "title": "Ragarroth the Tormented",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 225
-    },
-    {
-      "title": "Salazar, Blade of Ch'thon",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Bloodsworn",
-        "Boss Creatures"
-      ],
-      "chars": 10295
-    },
-    {
-      "title": "Shar'Zul, Harbinger of Chaos",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 10421
-    },
-    {
-      "title": "Sharanatu, Harbinger of the Void",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Chthonics"
-      ],
-      "chars": 9503
-    },
-    {
-      "title": "Void Leech",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9357
-    },
-    {
-      "title": "Void Oppressor",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 10135
-    },
-    {
-      "title": "Void Parasite",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9240
-    },
-    {
-      "title": "Void Rylok",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9858
-    },
-    {
-      "title": "Void Souldrinker",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9513
-    },
-    {
-      "title": "Void Taskmaster",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 10093
-    },
-    {
-      "title": "Voidfiend",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9172
-    },
-    {
-      "title": "Voidfiend Hellion",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9528
-    },
-    {
-      "title": "Voidfiend Incinerator",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9433
-    },
-    {
-      "title": "Voidlurker",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9302
-    },
-    {
-      "title": "Voidlurker Blightbearer",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9569
-    },
-    {
-      "title": "Voidlurker Pestilence",
-      "bucket": "chthonic_invasion",
-      "categories": [
-        "Chthonics"
-      ],
-      "chars": 9786
-    },
-    {
-      "title": "Ancient Shambler",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 9725
-    },
-    {
-      "title": "Bell'oq, Guardian of Rahn",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 232
-    },
-    {
-      "title": "Brother Segarius, Vengeance of Kymon",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 245
-    },
-    {
-      "title": "Galfang, Night Terror",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 262
-    },
-    {
-      "title": "Gargabol, Heart of the Wild",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 597
-    },
-    {
-      "title": "Golem",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Eldritch"
-      ],
-      "chars": 9575
-    },
-    {
-      "title": "Guardian of Bysmiel",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 9591
-    },
-    {
-      "title": "Guardian of Dreeg",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 9552
-    },
-    {
-      "title": "Guardian of Solael",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 9542
-    },
-    {
-      "title": "Kaisan, the Eldritch Scion",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch",
-        "Nemesis"
-      ],
-      "chars": 679
-    },
-    {
-      "title": "Map Room Protector",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 229
-    },
-    {
-      "title": "Sister Crimson, Vengeance of Kymon",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 287
-    },
-    {
-      "title": "Sylvarria, Queen of the Undergrowth",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 263
-    },
-    {
-      "title": "The Duskreaper",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 285
-    },
-    {
-      "title": "The Sentinel",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 9894
-    },
-    {
-      "title": "The Steward",
-      "bucket": "eldritch_invasion",
-      "categories": [
-        "Boss Creatures",
-        "Eldritch"
-      ],
-      "chars": 344
     },
     {
       "title": "Aetherial Vanguard",
@@ -1385,12 +362,123 @@
       "chars": 14728
     },
     {
+      "title": "Ancient Shambler",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 9725
+    },
+    {
+      "title": "Architect of Flesh",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 10156
+    },
+    {
+      "title": "Ascended Attendant (1)",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9587
+    },
+    {
+      "title": "Ascended Attendant (2)",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9633
+    },
+    {
+      "title": "Ascended Myrmidon",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 10267
+    },
+    {
+      "title": "Ascended Spellbreaker",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 10250
+    },
+    {
+      "title": "Ballog'Nath, the Hellfire",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 9428
+    },
+    {
+      "title": "Balok'Anatu, Bloodfiend",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 9349
+    },
+    {
+      "title": "Bane'Galgalor, Guardian of the Gate",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 9388
+    },
+    {
+      "title": "Bane'Gargoth",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 9345
+    },
+    {
       "title": "Barrowholm (Faction)",
       "bucket": "factions",
       "categories": [
         "Factions"
       ],
       "chars": 9967
+    },
+    {
+      "title": "Bell'oq, Guardian of Rahn",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 232
+    },
+    {
+      "title": "Benn'Jhar, the Colossal",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics",
+        "Nemesis"
+      ],
+      "chars": 9752
+    },
+    {
+      "title": "Bloodsworn",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 11823
     },
     {
       "title": "Bounty",
@@ -1401,12 +489,117 @@
       "chars": 22920
     },
     {
-      "title": "Bounty: Corpse-eaters (Kymon's Chosen)",
+      "title": "Brother Segarius, Vengeance of Kymon",
       "bucket": "factions",
       "categories": [
-        "Kymon's Chosen"
+        "Boss Creatures",
+        "Eldritch"
       ],
-      "chars": 9568
+      "chars": 245
+    },
+    {
+      "title": "Chthonian",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 498
+    },
+    {
+      "title": "Chthonian Bloodkeeper",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 10185
+    },
+    {
+      "title": "Chthonian Bloodletter",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 10153
+    },
+    {
+      "title": "Chthonian Devourer",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9451
+    },
+    {
+      "title": "Chthonian Dreadguard",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9714
+    },
+    {
+      "title": "Chthonian Drone",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9524
+    },
+    {
+      "title": "Chthonian Gorger",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9308
+    },
+    {
+      "title": "Chthonian Harbinger",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9974
+    },
+    {
+      "title": "Chthonian Harvester",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 10026
+    },
+    {
+      "title": "Chthonian Hungerer",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9161
+    },
+    {
+      "title": "Chthonian Servitor",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9858
+    },
+    {
+      "title": "Chthonian Tyrant",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9654
+    },
+    {
+      "title": "Chthonian Vanguard",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9376
     },
     {
       "title": "Chthonians",
@@ -1415,6 +608,24 @@
         "Factions"
       ],
       "chars": 12006
+    },
+    {
+      "title": "Councilman Garl",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 10628
+    },
+    {
+      "title": "Councilman Hallos",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 10574
     },
     {
       "title": "Coven of Ugdenbog",
@@ -1457,38 +668,6 @@
       "chars": 11296
     },
     {
-      "title": "Death's Vigil - Acolyte",
-      "bucket": "factions",
-      "categories": [
-        "Order of Death's Vigil"
-      ],
-      "chars": 9688
-    },
-    {
-      "title": "Death's Vigil - Dreadlord",
-      "bucket": "factions",
-      "categories": [
-        "Order of Death's Vigil"
-      ],
-      "chars": 9946
-    },
-    {
-      "title": "Death's Vigil - Neophyte (caster)",
-      "bucket": "factions",
-      "categories": [
-        "Order of Death's Vigil"
-      ],
-      "chars": 9339
-    },
-    {
-      "title": "Death's Vigil - Neophyte(melee)",
-      "bucket": "factions",
-      "categories": [
-        "Order of Death's Vigil"
-      ],
-      "chars": 9263
-    },
-    {
       "title": "Devil's Crossing (faction)",
       "bucket": "factions",
       "categories": [
@@ -1521,13 +700,176 @@
       "chars": 17692
     },
     {
-      "title": "Frankie \"The Knife\"",
+      "title": "Fleshshaper",
       "bucket": "factions",
       "categories": [
-        "Cronley's Gang",
-        "NPCs"
+        "Aetherials"
       ],
-      "chars": 309
+      "chars": 9831
+    },
+    {
+      "title": "Fleshshaper Hinissius",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 221
+    },
+    {
+      "title": "Fleshwarped Aberration",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9873
+    },
+    {
+      "title": "Fleshwarped Chilled One",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9647
+    },
+    {
+      "title": "Fleshwarped Corruption",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9361
+    },
+    {
+      "title": "Fleshwarped Scorcher",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9734
+    },
+    {
+      "title": "Fleshwarped Stormwalker",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 9909
+    },
+    {
+      "title": "Fleshweaver",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials"
+      ],
+      "chars": 10195
+    },
+    {
+      "title": "Fleshweaver Haraxis",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 216
+    },
+    {
+      "title": "Fleshweaver Krieg",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 9671
+    },
+    {
+      "title": "Gabal'Thunn, the Visage of Madness",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 226
+    },
+    {
+      "title": "Galfang, Night Terror",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 262
+    },
+    {
+      "title": "Gargabol, Heart of the Wild",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 597
+    },
+    {
+      "title": "Gazer Prime",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 313
+    },
+    {
+      "title": "Golem",
+      "bucket": "factions",
+      "categories": [
+        "Eldritch"
+      ],
+      "chars": 9575
+    },
+    {
+      "title": "Guardian of Bysmiel",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 9591
+    },
+    {
+      "title": "Guardian of Dreeg",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 9552
+    },
+    {
+      "title": "Guardian of Solael",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 9542
+    },
+    {
+      "title": "Herald of Destruction",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 9933
+    },
+    {
+      "title": "Herald of the Flame",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 10073
     },
     {
       "title": "Homestead (Faction)",
@@ -1538,6 +880,16 @@
       "chars": 11114
     },
     {
+      "title": "Kaisan, the Eldritch Scion",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch",
+        "Nemesis"
+      ],
+      "chars": 679
+    },
+    {
       "title": "Kymon's Chosen",
       "bucket": "factions",
       "categories": [
@@ -1546,36 +898,31 @@
       "chars": 22190
     },
     {
-      "title": "Kymon's Chosen - Blade Maiden",
+      "title": "Lagoth'Ak, Harbinger of Blood",
       "bucket": "factions",
       "categories": [
-        "Kymon's Chosen"
+        "Boss Creatures",
+        "Chthonics"
       ],
-      "chars": 9824
+      "chars": 9486
     },
     {
-      "title": "Kymon's Chosen - Stormbearer",
+      "title": "Loghorrean, the Voice of Ch'thon",
       "bucket": "factions",
       "categories": [
-        "Kymon's Chosen"
+        "Boss Creatures",
+        "Chthonics"
       ],
-      "chars": 9607
+      "chars": 11191
     },
     {
-      "title": "Kymon's Chosen - Zealot (melee)",
+      "title": "Lunal'Valgoth, Steward of Darkness",
       "bucket": "factions",
       "categories": [
-        "Kymon's Chosen"
+        "Boss Creatures",
+        "Chthonics"
       ],
-      "chars": 9304
-    },
-    {
-      "title": "Kymon's Chosen - Zealot (ranged)",
-      "bucket": "factions",
-      "categories": [
-        "Kymon's Chosen"
-      ],
-      "chars": 9380
+      "chars": 316
     },
     {
       "title": "Malmouth Resistance",
@@ -1586,12 +933,71 @@
       "chars": 10238
     },
     {
+      "title": "Map Room Protector",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 229
+    },
+    {
+      "title": "Noveria Stormfire",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 9457
+    },
+    {
+      "title": "Obsidian Defiler",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9740
+    },
+    {
+      "title": "Obsidian Defiler (creature)",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9795
+    },
+    {
+      "title": "Obsidian Ravager",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9868
+    },
+    {
+      "title": "Obsidian Shaleborn",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9650
+    },
+    {
       "title": "Order of Death's Vigil",
       "bucket": "factions",
       "categories": [
         "Factions"
       ],
       "chars": 18504
+    },
+    {
+      "title": "Ragarroth the Tormented",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 225
     },
     {
       "title": "Rovers",
@@ -1602,13 +1008,49 @@
       "chars": 12206
     },
     {
-      "title": "Rutnick the Cruel",
+      "title": "Shar'Zul, Harbinger of Chaos",
       "bucket": "factions",
       "categories": [
-        "Cronley's Gang",
-        "Hero Creatures"
+        "Boss Creatures",
+        "Chthonics"
       ],
-      "chars": 348
+      "chars": 10421
+    },
+    {
+      "title": "Sharanatu, Harbinger of the Void",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Chthonics"
+      ],
+      "chars": 9503
+    },
+    {
+      "title": "Sister Crimson, Vengeance of Kymon",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 287
+    },
+    {
+      "title": "Sylvarria, Queen of the Undergrowth",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 263
+    },
+    {
+      "title": "Terrnox",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 10293
     },
     {
       "title": "The Black Legion",
@@ -1619,13 +1061,13 @@
       "chars": 16068
     },
     {
-      "title": "The Iron Maiden",
+      "title": "The Duskreaper",
       "bucket": "factions",
       "categories": [
-        "Nemesis",
-        "Zealot"
+        "Boss Creatures",
+        "Eldritch"
       ],
-      "chars": 9621
+      "chars": 285
     },
     {
       "title": "The Outcast",
@@ -1634,6 +1076,129 @@
         "Factions"
       ],
       "chars": 17220
+    },
+    {
+      "title": "The Sentinel",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 9894
+    },
+    {
+      "title": "The Steward",
+      "bucket": "factions",
+      "categories": [
+        "Boss Creatures",
+        "Eldritch"
+      ],
+      "chars": 344
+    },
+    {
+      "title": "Valaxteria",
+      "bucket": "factions",
+      "categories": [
+        "Aetherials",
+        "Boss Creatures"
+      ],
+      "chars": 9738
+    },
+    {
+      "title": "Void Leech",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9357
+    },
+    {
+      "title": "Void Oppressor",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 10135
+    },
+    {
+      "title": "Void Parasite",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9240
+    },
+    {
+      "title": "Void Rylok",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9858
+    },
+    {
+      "title": "Void Souldrinker",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9513
+    },
+    {
+      "title": "Void Taskmaster",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 10093
+    },
+    {
+      "title": "Voidfiend",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9172
+    },
+    {
+      "title": "Voidfiend Hellion",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9528
+    },
+    {
+      "title": "Voidfiend Incinerator",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9433
+    },
+    {
+      "title": "Voidlurker",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9302
+    },
+    {
+      "title": "Voidlurker Blightbearer",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9569
+    },
+    {
+      "title": "Voidlurker Pestilence",
+      "bucket": "factions",
+      "categories": [
+        "Chthonics"
+      ],
+      "chars": 9786
     },
     {
       "title": "Arcanist",
@@ -2005,6 +1570,14 @@
         "Quest Givers"
       ],
       "chars": 228
+    },
+    {
+      "title": "Frankie \"The Knife\"",
+      "bucket": "npcs",
+      "categories": [
+        "NPCs"
+      ],
+      "chars": 309
     },
     {
       "title": "Galarok",
@@ -2963,7 +2536,7 @@
       "categories": [
         "Quests"
       ],
-      "chars": 1003
+      "chars": 1002
     },
     {
       "title": "Crate's Secret Quest",
@@ -3155,7 +2728,7 @@
       "categories": [
         "Quests"
       ],
-      "chars": 924
+      "chars": 920
     },
     {
       "title": "Eye of Korvaak",
@@ -4543,14 +4116,6 @@
       "chars": 9639
     },
     {
-      "title": "Avatar of Mogdrogen",
-      "bucket": "bosses",
-      "categories": [
-        "Secret Boss"
-      ],
-      "chars": 10086
-    },
-    {
       "title": "Avris Marrowill",
       "bucket": "bosses",
       "categories": [
@@ -4631,6 +4196,14 @@
       "chars": 9312
     },
     {
+      "title": "Bloodlord Thalonis",
+      "bucket": "bosses",
+      "categories": [
+        "Boss Creatures"
+      ],
+      "chars": 9491
+    },
+    {
       "title": "Bollag, Keeper of the Gates",
       "bucket": "bosses",
       "categories": [
@@ -4658,8 +4231,7 @@
       "title": "Callagadra, Scion of the Sands",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 390
     },
@@ -4675,8 +4247,7 @@
       "title": "Clone of John Bourbon",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 795
     },
@@ -4700,8 +4271,7 @@
       "title": "Crate of Entertainment",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 282
     },
@@ -4994,6 +4564,14 @@
       "chars": 9250
     },
     {
+      "title": "Karroz, Sigil of Ch'thon",
+      "bucket": "bosses",
+      "categories": [
+        "Boss Creatures"
+      ],
+      "chars": 10708
+    },
+    {
       "title": "Kilrian, the Tainted Soul",
       "bucket": "bosses",
       "categories": [
@@ -5053,8 +4631,7 @@
       "title": "Lokarr",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 540
     },
@@ -5195,6 +4772,14 @@
       "chars": 9276
     },
     {
+      "title": "Overlord Van Aldritch",
+      "bucket": "bosses",
+      "categories": [
+        "Boss Creatures"
+      ],
+      "chars": 11057
+    },
+    {
       "title": "Packla, the Turning",
       "bucket": "bosses",
       "categories": [
@@ -5254,8 +4839,7 @@
       "title": "Rashalga, the Mad Queen",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 10315
     },
@@ -5298,6 +4882,22 @@
         "Hero Creatures"
       ],
       "chars": 9085
+    },
+    {
+      "title": "Rutnick the Cruel",
+      "bucket": "bosses",
+      "categories": [
+        "Hero Creatures"
+      ],
+      "chars": 348
+    },
+    {
+      "title": "Salazar, Blade of Ch'thon",
+      "bucket": "bosses",
+      "categories": [
+        "Boss Creatures"
+      ],
+      "chars": 10295
     },
     {
       "title": "Sister Bravna, the Skybreaker",
@@ -5348,6 +4948,14 @@
       "chars": 9305
     },
     {
+      "title": "The Iron Maiden",
+      "bucket": "bosses",
+      "categories": [
+        "Nemesis"
+      ],
+      "chars": 9621
+    },
+    {
       "title": "The Master of Flesh - Theodin Marcell",
       "bucket": "bosses",
       "categories": [
@@ -5359,8 +4967,7 @@
       "title": "The Ravager (BOSS)",
       "bucket": "bosses",
       "categories": [
-        "Boss Creatures",
-        "Secret Boss"
+        "Boss Creatures"
       ],
       "chars": 10620
     },
@@ -5526,7 +5133,7 @@
     },
     {
       "title": "Abandoned Storerooms",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5534,7 +5141,7 @@
     },
     {
       "title": "Abandoned Waterfront",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5542,7 +5149,7 @@
     },
     {
       "title": "Act 1",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -5550,16 +5157,15 @@
     },
     {
       "title": "Act 2",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Locations",
-        "Riftgate Locations"
+        "Locations"
       ],
       "chars": 9463
     },
     {
       "title": "Act 3",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -5567,225 +5173,47 @@
     },
     {
       "title": "Act 4",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 9492
     },
     {
+      "title": "Act 5",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 9405
+    },
+    {
+      "title": "Act 6",
+      "bucket": "locations",
+      "categories": [
+        "Locations"
+      ],
+      "chars": 9465
+    },
+    {
       "title": "Act 7",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 10323
     },
     {
-      "title": "Altar of Rattosh",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9439
-    },
-    {
-      "title": "Anarchy (Location)",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9848
-    },
-    {
-      "title": "Ancient Grove",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9614
-    },
-    {
-      "title": "Anguish",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9933
-    },
-    {
-      "title": "Arkovian Coliseum",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9656
-    },
-    {
-      "title": "Arkovian Docks",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 10075
-    },
-    {
-      "title": "Arkovian Foothills",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 1338
-    },
-    {
-      "title": "Arkovian Undercity",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9973
-    },
-    {
-      "title": "Ashen Waste",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9872
-    },
-    {
-      "title": "Asterkarn Road",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9558
-    },
-    {
-      "title": "Asterkarn Valley",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9683
-    },
-    {
-      "title": "Astral Fields",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9614
-    },
-    {
-      "title": "Barren Highlands",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9542
-    },
-    {
-      "title": "Barrowholm (Location)",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9583
-    },
-    {
-      "title": "Barrowholm Mine",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9555
-    },
-    {
-      "title": "Basalt Crags",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9266
-    },
-    {
-      "title": "Bastion of Chaos",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9784
-    },
-    {
-      "title": "Bastion of the Order",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9573
-    },
-    {
-      "title": "Bloodbriar's Lair",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9552
-    },
-    {
-      "title": "Bloodied Wastes",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9562
-    },
-    {
-      "title": "Bonebleach Basin",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9973
-    },
-    {
-      "title": "Broken Hills",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9785
-    },
-    {
       "title": "Burial Hill",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9395
     },
     {
-      "title": "Buried Crypt",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9362
-    },
-    {
-      "title": "Burning Cellar",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9715
-    },
-    {
       "title": "Burrwitch Cathedral",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5793,7 +5221,7 @@
     },
     {
       "title": "Burrwitch Estates",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5801,41 +5229,23 @@
     },
     {
       "title": "Burrwitch Outskirts",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10575
     },
     {
       "title": "Burrwitch Village",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 9943
     },
     {
-      "title": "Cairan Docks",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9563
-    },
-    {
-      "title": "Candle District",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 10210
-    },
-    {
       "title": "Cavern (Foggy Bank 1)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5843,7 +5253,7 @@
     },
     {
       "title": "Cavern (Wightmire 1)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5851,7 +5261,7 @@
     },
     {
       "title": "Cavern (Wightmire 2)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5859,104 +5269,47 @@
     },
     {
       "title": "Challenge dungeon",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 11671
     },
     {
-      "title": "Chamber of the High Council",
-      "bucket": "places",
+      "title": "Conclave of the Three",
+      "bucket": "locations",
       "categories": [
-        "Act 6 Locations"
+        "Locations"
       ],
-      "chars": 9922
-    },
-    {
-      "title": "Cinder Wastes",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10111
+      "chars": 10589
     },
     {
       "title": "Convict's Tunnel",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9416
     },
     {
-      "title": "Corrupted Tomb",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9581
-    },
-    {
-      "title": "Court of the Magi",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9907
-    },
-    {
-      "title": "Coven's Refuge",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9812
-    },
-    {
       "title": "Craig's Crags",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9699
     },
     {
-      "title": "Crawling Nest",
-      "bucket": "places",
+      "title": "Crucible of the Dead",
+      "bucket": "locations",
       "categories": [
-        "Forgotten Gods Locations"
+        "Locations"
       ],
-      "chars": 9338
-    },
-    {
-      "title": "Cronley's Hideout",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10230
-    },
-    {
-      "title": "Crown Hill",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10174
-    },
-    {
-      "title": "Crumbling Watch",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9435
+      "chars": 9298
     },
     {
       "title": "Cultist's Lair",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -5964,89 +5317,23 @@
     },
     {
       "title": "Dank Cellar",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9537
     },
     {
-      "title": "Darkvale Gate",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10375
-    },
-    {
-      "title": "Deadman's Gulch",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9888
-    },
-    {
-      "title": "Decrepit Cellar",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9639
-    },
-    {
-      "title": "Den of Carraxus",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9587
-    },
-    {
-      "title": "Den of the Ancient",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9519
-    },
-    {
-      "title": "Den of the Lost",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9609
-    },
-    {
-      "title": "Den of the Wendigo",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9495
-    },
-    {
       "title": "Depraved Sanctuary",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 10137
     },
     {
-      "title": "Desolate Wastes",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9961
-    },
-    {
       "title": "Detonation Site",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6054,7 +5341,7 @@
     },
     {
       "title": "Devil's Aquifer",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -6062,48 +5349,23 @@
     },
     {
       "title": "Devil's Crossing",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 11537
     },
     {
-      "title": "Discord",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9897
-    },
-    {
-      "title": "Durg's Den",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9367
-    },
-    {
       "title": "East Marsh",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9770
     },
     {
-      "title": "Edge of Madness",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9378
-    },
-    {
       "title": "Edge of Reality (Act 4)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6111,63 +5373,23 @@
     },
     {
       "title": "Edge of Reality (Act 6)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 9723
     },
     {
-      "title": "Elmsworth Farm",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9438
-    },
-    {
-      "title": "Entropy",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9874
-    },
-    {
-      "title": "Fallow Fields",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9560
-    },
-    {
-      "title": "Feral Thicket",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 10031
-    },
-    {
       "title": "Festering Lair",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9417
     },
     {
-      "title": "Fleshworks",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10187
-    },
-    {
       "title": "Flooded Cellar",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -6175,138 +5397,23 @@
     },
     {
       "title": "Foggy Bank",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10173
     },
     {
-      "title": "Forgotten Cellar",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9420
-    },
-    {
-      "title": "Forgotten Depths",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9527
-    },
-    {
-      "title": "Forlorn Bastion",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9812
-    },
-    {
-      "title": "Forlorn Cellar",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9607
-    },
-    {
-      "title": "Fort Haron",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9599
-    },
-    {
-      "title": "Fort Ikon",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10683
-    },
-    {
-      "title": "Fort Ikon Armory",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9495
-    },
-    {
-      "title": "Fort Ikon Prison",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9666
-    },
-    {
-      "title": "Four Hills",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9875
-    },
-    {
-      "title": "Fringes of Sanity",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10191
-    },
-    {
-      "title": "Gates of Necropolis",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9498
-    },
-    {
-      "title": "Gloomwald",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 10745
-    },
-    {
-      "title": "Gryver's Mill",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9484
-    },
-    {
       "title": "Hallowed Hill",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9829
     },
     {
-      "title": "Hanneffy Mine",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9617
-    },
-    {
       "title": "Hargate's Isle",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -6314,7 +5421,7 @@
     },
     {
       "title": "Hargate's Laboratory",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -6322,282 +5429,55 @@
     },
     {
       "title": "Hidden Laboratory",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10258
     },
     {
-      "title": "Hidden Refuge",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9519
-    },
-    {
-      "title": "Hive Queen's Lair",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9617
-    },
-    {
-      "title": "Homestead (Location)",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 11295
-    },
-    {
-      "title": "Howling Chasm",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9441
-    },
-    {
-      "title": "Howling Depths",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9721
-    },
-    {
-      "title": "Infernal Wastes",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9635
-    },
-    {
       "title": "Infested Cellar",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9490
     },
     {
-      "title": "Infested Farms",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9681
-    },
-    {
       "title": "Inner Laboratory",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9415
     },
     {
-      "title": "Ivonda’s Hideaway",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9339
-    },
-    {
-      "title": "Jagged Waste",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9782
-    },
-    {
-      "title": "Janaxia's Den",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9359
-    },
-    {
-      "title": "Korvan Plateau",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9837
-    },
-    {
-      "title": "Korvan Sands",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9915
-    },
-    {
-      "title": "Kymon's Retreat",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9319
-    },
-    {
-      "title": "Kymon's Sanctuary",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9616
-    },
-    {
-      "title": "Larria's Den",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9248
-    },
-    {
       "title": "Living Quarters",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9509
     },
     {
-      "title": "Lone Watch",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9480
-    },
-    {
-      "title": "Lost Oasis",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9638
-    },
-    {
-      "title": "Lost Tomb of the Damned",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9770
-    },
-    {
       "title": "Lower Crossing",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10046
     },
     {
-      "title": "Malmouth Harbor",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10738
-    },
-    {
-      "title": "Malmouth Outskirts",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9920
-    },
-    {
-      "title": "Malmouth Sewers",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10363
-    },
-    {
-      "title": "Map Room of Rahn",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9927
-    },
-    {
-      "title": "Maw of Enaht",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9811
-    },
-    {
-      "title": "Misery",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9712
-    },
-    {
       "title": "Moldering Fields",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9212
     },
     {
-      "title": "Morgoneth's Folly",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9773
-    },
-    {
-      "title": "Morton's Claim",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9380
-    },
-    {
-      "title": "Mountain Deeps",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9689
-    },
-    {
-      "title": "Mourndale",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10490
-    },
-    {
       "title": "Mud Row",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -6605,114 +5485,23 @@
     },
     {
       "title": "Musty Cellar",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9427
     },
     {
-      "title": "Necropolis Interior",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9909
-    },
-    {
-      "title": "New Harbor",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9486
-    },
-    {
-      "title": "Obsidian Throne",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9507
-    },
-    {
-      "title": "Old Arkovia",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 11869
-    },
-    {
-      "title": "Old Grove",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9379
-    },
-    {
       "title": "Ominous Lair",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9385
     },
     {
-      "title": "Overgrown Cellar",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9519
-    },
-    {
-      "title": "Pain",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9424
-    },
-    {
-      "title": "Path of the Damned",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9508
-    },
-    {
-      "title": "Pine Barrens",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10160
-    },
-    {
-      "title": "Plains of Strife",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 10302
-    },
-    {
-      "title": "Port Valbury",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 10758
-    },
-    {
       "title": "Port Valbury Outskirts",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6720,7 +5509,7 @@
     },
     {
       "title": "Port Valbury: Foundation",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6728,7 +5517,7 @@
     },
     {
       "title": "Port Valbury: High Town",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6736,7 +5525,7 @@
     },
     {
       "title": "Port Valbury: Old Town",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6744,105 +5533,31 @@
     },
     {
       "title": "Prison Dungeons",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9576
     },
     {
-      "title": "Prospector's Trail",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9450
-    },
-    {
       "title": "Putrid Den",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9446
     },
     {
-      "title": "Ransacked Lighthouse",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10034
-    },
-    {
-      "title": "Remnants of Korvan City",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 10233
-    },
-    {
       "title": "River Passage",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9515
     },
     {
-      "title": "Rocky Coast",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9672
-    },
-    {
-      "title": "Rotting Croplands",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10021
-    },
-    {
-      "title": "Royal Hive",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9701
-    },
-    {
-      "title": "Ruins of Abyd",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9671
-    },
-    {
-      "title": "Sanctuary of Horran",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9366
-    },
-    {
-      "title": "Sanctum of Flesh",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9777
-    },
-    {
       "title": "Sanctum of the Chosen",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
@@ -6850,282 +5565,63 @@
     },
     {
       "title": "Sanctum of the Immortal",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 9417
     },
     {
-      "title": "Sandblown Ruins",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9339
-    },
-    {
-      "title": "Seal of the Loghorrean",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9747
-    },
-    {
       "title": "Secret Areas",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Locations"
       ],
       "chars": 9871
     },
     {
-      "title": "Sewer Hideout",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9700
-    },
-    {
-      "title": "Shaded Basin",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9786
-    },
-    {
-      "title": "Shrine of Azaleon",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9351
-    },
-    {
-      "title": "Shrine of Horran",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9397
-    },
-    {
       "title": "Shrine of the Forgotten God",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 3 Locations",
         "Secret Areas"
       ],
       "chars": 9593
     },
     {
-      "title": "Skittering Den",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9678
-    },
-    {
       "title": "Smuggler's Basin",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9432
     },
     {
-      "title": "Smuggler's Pass",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9826
-    },
-    {
       "title": "Sodden Hollow",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9690
     },
     {
-      "title": "Sorrow's Bastion",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9545
-    },
-    {
-      "title": "Spined Cove",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9382
-    },
-    {
-      "title": "Staunton Mine",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9458
-    },
-    {
-      "title": "Steelcap District",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 10712
-    },
-    {
-      "title": "Stirring Hive",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9360
-    },
-    {
-      "title": "Stonerend Quarry",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9339
-    },
-    {
-      "title": "Suffering",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9909
-    },
-    {
-      "title": "Sunbane Oasis",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 10036
-    },
-    {
       "title": "Sunken Reliquary",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9697
     },
     {
-      "title": "Sunward Spire",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9706
-    },
-    {
-      "title": "Swarming Hatchery",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9430
-    },
-    {
-      "title": "Swarming Hive",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 9328
-    },
-    {
-      "title": "Swelling Depths",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 508
-    },
-    {
-      "title": "Tainted Wood",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9949
-    },
-    {
-      "title": "Temple City of Osyr",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9516
-    },
-    {
-      "title": "Temple of Ateph",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9649
-    },
-    {
-      "title": "Temple of Osyr",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9781
-    },
-    {
       "title": "Temple of the Three",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9910
     },
     {
-      "title": "The Black Sepulcher",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9508
-    },
-    {
-      "title": "The Blood Grove",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 10003
-    },
-    {
-      "title": "The Bone Pit",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9394
-    },
-    {
       "title": "The Burial Cave (Burrwitch Outskirts)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -7133,226 +5629,39 @@
     },
     {
       "title": "The Burial Cave (Lower Crossing)",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9355
     },
     {
-      "title": "The Conflagration",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9604
-    },
-    {
       "title": "The Flooded Passage",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 9849
     },
     {
-      "title": "The Forsaken Wastes",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9874
-    },
-    {
-      "title": "The Gruesome Harvest",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9631
-    },
-    {
-      "title": "The Immolation",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9609
-    },
-    {
-      "title": "The Infestation",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9981
-    },
-    {
       "title": "The Old Dump",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
       "chars": 9571
     },
     {
-      "title": "The Steps of Torment",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations"
-      ],
-      "chars": 10007
-    },
-    {
-      "title": "The Undergrowth",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9461
-    },
-    {
-      "title": "The Veiled Den",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9270
-    },
-    {
       "title": "The Warden's Cellar",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 9884
     },
     {
-      "title": "Thornsbury Farm",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9509
-    },
-    {
-      "title": "Throne of the Three",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9427
-    },
-    {
-      "title": "Tomb of Archon Barthollem",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 9911
-    },
-    {
-      "title": "Tomb of Ariath",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9346
-    },
-    {
-      "title": "Tomb of Herald Mathis",
-      "bucket": "places",
-      "categories": [
-        "Act 6 Locations"
-      ],
-      "chars": 9625
-    },
-    {
-      "title": "Tomb of Korvaak",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 10007
-    },
-    {
-      "title": "Tomb of Nephos",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9716
-    },
-    {
-      "title": "Tomb of Sethan",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9307
-    },
-    {
-      "title": "Tomb of Ugdall",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9453
-    },
-    {
-      "title": "Tomb of the Eldritch Sun",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9727
-    },
-    {
-      "title": "Tomb of the Heretic",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 10092
-    },
-    {
-      "title": "Tomb of the Watchers",
-      "bucket": "places",
-      "categories": [
-        "Act 4 Locations"
-      ],
-      "chars": 10062
-    },
-    {
-      "title": "Twin Falls",
-      "bucket": "places",
-      "categories": [
-        "Act 2 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9766
-    },
-    {
-      "title": "Tyrant's Hold",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 10255
-    },
-    {
-      "title": "Ugdenbog",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 10560
-    },
-    {
       "title": "Underground Jail",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
         "Act 1 Locations"
       ],
@@ -7360,62 +5669,19 @@
     },
     {
       "title": "Underground Transit",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10003
     },
     {
-      "title": "Valley of the Chosen",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9658
-    },
-    {
-      "title": "Vanguard of the Three",
-      "bucket": "places",
-      "categories": [
-        "Forgotten Gods Locations"
-      ],
-      "chars": 9801
-    },
-    {
-      "title": "Village of Darkvale",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations"
-      ],
-      "chars": 9629
-    },
-    {
-      "title": "Void's Edge",
-      "bucket": "places",
-      "categories": [
-        "Act 5 Locations"
-      ],
-      "chars": 9845
-    },
-    {
       "title": "Wightmire",
-      "bucket": "places",
+      "bucket": "locations",
       "categories": [
-        "Act 1 Locations",
-        "Riftgate Locations"
+        "Act 1 Locations"
       ],
       "chars": 10091
-    },
-    {
-      "title": "Withering Fields",
-      "bucket": "places",
-      "categories": [
-        "Act 3 Locations",
-        "Riftgate Locations"
-      ],
-      "chars": 9324
     },
     {
       "title": "Abomination",

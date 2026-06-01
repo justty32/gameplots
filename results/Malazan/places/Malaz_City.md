@@ -1,18 +1,25 @@
-# Malaz City（馬拉茲城）
+# 瑪拉贊城 (Malaz City)
 
-> 帝國發源地——小島上的破港，Bonehunters 與 Laseen 決裂之夜的舞台。
+> **一句話**：帝國的發祥地，位於瑪拉贊島的古老海盜據點。
 
-- **位置**：Quon Tali 東南方 Malaz Island；北 South／North Malaz River 自 Firstsight Mountains 注入 Malaz Bay。
-- **政治／勢力**：原為海盜窩，被 Kellanved 與 Dancer 吞下；帝國成形後遷都 Unta，本城淪為軍事中轉。**Mock's Cliff**（500 呎峭壁）頂為 **Mock's Hold**（前海盜堡，現帝國駐軍要塞，Rampart Way 寬石階通城下）；南界 Ridger Wall；港岸（Front Street）盡是古倉、廉酒館、廉公寓；港口水域以鯊與蛭聞名。
-- **重要地標**：
-  - **Deadhouse**（Azath，在 Mouse Quarter，Coop's Hanged Man Inn 對面）：Kellanved／Dancer 用以穿 Warren 升格之門；屋主 Guardian 接客送客；屋外塚為違者牢；目前囚 Cowl、Jhenna、Oleg Vikat；Kalam Mekhar 終局垂死被 Shadowthrone 送入此屋（《BH》）。
-  - Smiley's（傳酒裡參 Deadhouse 之水）、Coop's Hanged Man Inn、Obo's Tower、Agayla's Shop、Tak's 武具店、Old Point Keep、Old Lookout Island。
-  - 街道：Admiral Bridge、Rampart Way、Cormorant Road、Toc Way、Way of the Eel。
-- **歷史與事件**：
-  - 古傳 Jakata 人為 Stormriders 退潮後最早登島之民；今城混血龐雜。
-  - Kellanved／Dancer 自 Mock 處奪堡建朝（《Path to Ascendancy》三部）。
-  - **Gardens of the Moon 開場**（1154 BS）：Surly 立禁未經授權之魔法令，Mouse Quarter 起暴動焚城四分之一。
-  - **Night of Knives**：Shadow Moon 之夜——Kellanved 與 Dancer 在 Mock's Hold「被刺」、實升格為 Shadowthrone 與 Cotillion；Shadow 教徒、Hounds of Shadow、Bridgeburners 叛黨混戰街頭。
-  - **Deadhouse Gates 末**：Kalam 自 Ragstopper 上岸欲行刺 Laseen；Pearl 將他刺落海，他逃上岸與 Hand of Claw 交戰至 Mock's Hold；同夜 Fiddler、Apsalar、Crokus、Rellock 從 Tremorlor 經 Azath warren 從 Deadhouse 出。
-  - **The Bonehunters**：Bonehunters 從 Seven Cities 歸來，Tavore 與 Laseen 在 Mock's Hold 對峙；Mallick Rel 操弄 Mockra 與謠言激群眾仇 Wickan／Khundryl；港口血戰一夜，Pearl 毒殺 Kalam，Apsalar 反殺 Pearl；Shadowthrone 送垂死 Kalam 入 Deadhouse；Tavore 艦隊與 Laseen／Mallick 決裂出港；Cartharon Crust 的 Drowned Rat 送來 Withal、Sandalath、Nimander 等增援。
-- **敘事意義**：Malaz City 是 Malazan 帝國的母腹與墳——它生 Kellanved，也吞 Bonehunters 的忠誠。Deadhouse 是萬鎖之鎖、萬門之門。系列裡所有「升格」與「叛離」的軸心都繞此城。
+- **位置**：位於 Quon Tali 大陸東南方的瑪拉贊島 (Malaz Island)。
+- **掌控者**：Malazan 帝國（起源地）。
+
+### 概述
+瑪拉贊城是 Kellanved 與 Dancer 建立帝國的起點。這座城市最初是海盜與走私者的巢穴，直到 Kellanved 統一了島嶼並將其作為征服全球的跳板。
+
+城市特色：
+- **莫克崖 (Mock's Cliff)**：城市北緣高達五百英尺的峭壁。
+- **莫克堡 (Mock's Hold)**：坐落在峭壁上的堡壘，曾是海盜王 Mock 的據點，後成為帝國的行政中心。
+- **死屋 (Deadhouse)**：一座位於城內的神秘石屋，實則是 Azath 屋系統的一環。它是 Kellanved 與 Dancer 升格為神（Shadowthrone 與 Cotillion）的轉折地。
+
+### 關鍵事件
+- **帝國的創立**：Kellanved 與 Dancer 在此結識，並透過奪取莫克堡開始了統一戰爭。
+- **刀鋒之夜 (Night of Knives)**：在 Laseen 奪權的混亂之夜，城市經歷了慘烈的法術與刺客對決，Kellanved 與 Dancer 在此夜失蹤（實則進入死屋升格）。
+- **帝國中心的轉移**：隨著帝國擴張，政治中心轉移至大陸的 Unta，瑪拉贊城逐漸衰落，成為僅具備象徵意義與軍事轉運功能的邊緣城市。
+
+### 敘事意義
+瑪拉贊城代表了帝國的「根源」。它混雜了海鹽味、酒精、鮮血與神秘的古代魔法。這裡的一切都顯得陳舊而危險，是所有傳奇故事的母體。
+
+### 現狀
+在系列主要時段，這是一座相對破敗、充滿回憶與鬼魂的港口都市。

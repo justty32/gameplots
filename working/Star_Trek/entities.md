@@ -1,0 +1,6106 @@
+# Star Trek 實體清單 (Entities Scan)
+
+本清單由原始素材自動提取，作為詞條撰寫之覆蓋率檢查點。
+
+## 人物 (characters)
+- A. Armaganian
+- A. Baiers
+- A. Baiers (mirror)
+- A. Banda
+- A. Bellemore
+- A. Brock
+- A. Casement
+- A. Coleite
+- A. Coleite (mirror)
+- A. Colville
+- A. Cooper
+- A. Deguzman
+- A. Dekovic
+- A. Dziwik
+- A. Eastman
+- A. Estradajem
+- A. Ferczak
+- A. Fredrickson (UESPA)
+- A. Goldsman
+- A. Goldsman (mirror)
+- A. Grayson
+- A. Harberts
+- A. Harberts (mirror)
+- A. Haye
+- A. Henry
+- A. Kochoska
+- A. Kurtzman
+- A. Kurtzman (mirror)
+- A. Li
+- A. Lindell
+- A. Loo
+- A. Ma
+- A. MacKenzie
+- A. Malee Van Koeverden
+- A. Maranville
+- A. Maranville (mirror)
+- A. McElroy
+- A. Melvin
+- A. Monteforte
+- A. Nocifora
+- A. Paton
+- A. Patterson
+- A. Raffaghello
+- A. Rodgers
+- A. Rogers
+- A. Schnobb
+- A. Silvestri
+- A. Singh
+- A. Singh (32nd century)
+- A. Smith
+- A. Stohatta
+- A. Tadjik
+- A. Trifunovic
+- A. Trifunovic (mirror)
+- A. Tsang
+- A. Tsang (mirror)
+- A. Whitworth
+- A. Williams
+- A. Wood
+- A. Zahiri
+- A.F.
+- Aaron Baiers (Fleet Admiral)
+- Aaron Baiers (Starfleet)
+- Aaron Cavit
+- Aaron Waltke (Starfleet)
+- Abby Cohn (Starfleet)
+- Abigail Greiner
+- Abna
+- Abraham Rawski
+- Abrahamian
+- Adam Boucher (Starfleet)
+- Adam Buckner (24th century)
+- Adam Martoni
+- Adams (Lieutenant)
+- Adams (physicist)
+- Adele Simmons (Captain)
+- Adele Simmons (Doctor)
+- Adele Simmons (Ensign)
+- Adele Simmons (comedian)
+- Adrian Barrios
+- Ae Ri Yoon
+- Ahava Kohen
+- Ahern
+- Ahn-Ahn
+- Akiva Goldsman (Starfleet)
+- Al Lorenzo
+- Alan Bernard (Captain)
+- Alan Bernard (Lieutenant Commander)
+- Alan Ferranti
+- Alan Kobayashi (Captain)
+- Alan Kobayashi (UESPA)
+- Alan M. Kobayashi
+- Alan Sims (Lieutenant)
+- Alapa
+- Albert Park (Starfleet)
+- Aleksandra Dekovic Kochoska (Ambassador)
+- Aleksey Pollack (Starfleet)
+- Alessandro Taini (Starfleet)
+- Alex Fenin
+- Alex Hanson (Starfleet)
+- Alex Kurtzman (Starfleet)
+- Alex Russ (Starfleet)
+- Alex Smutko (Captain)
+- Alex Smutko (Lieutenant)
+- Alex Taub (Admiral)
+- Alexander (warrior)
+- Alexander Courage (Lieutenant Commander)
+- Alexander Fisk (Starfleet)
+- Alexander Honigsberg
+- Alexander Wood (Commodore)
+- Alfred Chris Winters
+- Alice (animal)
+- Alice Battisti
+- Alice Gavin
+- Alice K. Ginsburg
+- Alice K. Ginsburt
+- Alicia Eaves (24th century)
+- Alnschloss K'Bentayr
+- Aloka
+- Alsia
+- Altrina
+- Alyssia Will-Ma
+- Amal
+- Amanda Karnes (Starfleet)
+- Amanda Porter
+- Amanda Vackrinos (24th century)
+- Amarie
+- Amasov
+- Amber Joy
+- Amelie Claire
+- Ana Barredo (24th century)
+- Anastasia
+- Andrea Hennen (Starfleet)
+- Andrew Collins
+- Andrew G. Probert (Captain)
+- Andrew Neskoromny (Engineer)
+- Andrew Reeder (Starfleet)
+- Androbin Batman
+- Andrzesj Kozlowski (Ensign)
+- André Bormanis (Starfleet)
+- Andy
+- Andy Weder (Starfleet)
+- Angel (Captain)
+- Angelo Dante (24th century)
+- Angie Harkins
+- Ann T. Flood
+- Anna Dixon
+- Anna Keeper (Starfleet)
+- Anne Jameson
+- Annel
+- Anthony
+- Anthony Bro (Starfleet)
+- Anthony Fredrickson (Starfleet)
+- April Vang
+- April Wade
+- Arctus Baran
+- Ardra (impostor)
+- Argo (Terran)
+- Arissa
+- Arkinson
+- Arlene Fukai (Ensign)
+- Arlene Fukai (Lieutenant Commander)
+- Armus
+- Arnaud
+- Arnock
+- Arriaga
+- Art Cadron
+- Art Codron
+- Asenath Hammond
+- Asha Sisko
+- Astrid Atlee
+- Asul Otu
+- Atara
+- Aurelia
+- Austin Chang
+- Avi Ballo
+- Axum
+- Ayana Sisko
+- B. Braga (Doctor)
+- B. Croft
+- B. Daprato
+- B. Daprato (mirror)
+- B. DeMayo
+- B. Dopter
+- B. Fifield
+- B. Fifield (mirror)
+- B. Fuller
+- B. Fuller (mirror)
+- B. Gilbert
+- B. Kim (mirror)
+- B. Lariani
+- B. Marrello
+- B. Marrello (mirror)
+- B. McCabe
+- B. Mooneyham
+- B. Moore
+- B. Osborn
+- B. Rendulic
+- B. Schultz
+- B. Schultz (mirror)
+- B. Turnbull
+- B. Williams
+- B. Wolkoff
+- B. Wrighte
+- B.C. Cameron (Starfleet)
+- B.J. Hunnicutt
+- B.Y. Kim
+- Bahrat
+- Bakor
+- Balthus
+- Barash
+- Barbara P. Covington
+- Barbara Reen
+- Barlowe
+- Barredo
+- Barrett
+- Bartlett
+- Bastien Grivet (Starfleet)
+- Bathar
+- Bathkin
+- Bazminti
+- Beck
+- Bekka
+- Belle Sisko
+- Ben Hibon (Admiral)
+- Ben Robinson (Starfleet)
+- Benbassat
+- Benbasset
+- Benjamin Betts (Starfleet)
+- Benjamin Franklin Pierce
+- Bennet (Captain)
+- Bernardin
+- Berndt Heidemann (Starfleet)
+- Bernie Williams (Starfleet)
+- Berroa
+- Beth Hormuth
+- Beth Woods (Lieutenant Commander)
+- Bev Clark
+- Beverly C. Kurts
+- Bevvox
+- Bezos
+- Biddle
+- Big Wave Tommy
+- Bill Dolan (Starfleet)
+- Bill George (Starfleet)
+- Bill Gocke (Lieutenant)
+- Bill Gocke (Starfleet)
+- Bill Hawkins (Starfleet)
+- Bill Hoy
+- Bill Krause (Starfleet)
+- Bill Marafe
+- Bill Peets (Captain)
+- Bill Peets (Lieutenant)
+- Bill Thoms (Lieutenant)
+- Bishop
+- Bjayzl
+- Bjo Trimble (Commander)
+- Blackwood
+- Blain
+- Blake (Cadet)
+- Blake (Ensign)
+- Bob Blackman (23rd century)
+- Bob Blackman (Lieutenant Commander)
+- Bob Blackman (Starfleet)
+- Bob De La Garza
+- Bob Eyslee (Starfleet)
+- Bob Sordal (Captain)
+- Bob Sordal (Lieutenant)
+- Bob della Santina
+- Bobby Yamauchi
+- Boltaan
+- Bonnie Johnson
+- Bormanis
+- Boryslav Fird (Lieutenant Commander)
+- Bosaal
+- Bosus
+- Botax
+- Bowzer Bucadibob
+- Boyce
+- Boyer
+- Boylen
+- Brad Yacobian (Admiral)
+- Brad Yacobian (Captain)
+- Brad Yacobian (Lieutenant Commander)
+- Bradley Thompson (Starfleet)
+- Brandon Logan
+- Brannon Braga (23rd century)
+- Brannon Braga (Captain)
+- Brannon Braga (Commander)
+- Branz
+- Breil
+- Brekt
+- Brettner
+- Brian Faul (Doctor)
+- Brian Muirhead
+- Brian Tatosky (Starfleet)
+- Brian Vogt (24th century)
+- Brian Whitley (Starfleet)
+- Brianna
+- Brice
+- Brink
+- Brinkerhans
+- Brinner Finok
+- Broker (alien)
+- Brook Chalmers (Starfleet)
+- Brooks (Admiral)
+- Brown (24th century)
+- Bruce Lucier
+- Bryan D. Furen
+- Buck Bokai (alien)
+- Buckley
+- Budrow
+- Burnett
+- C. Alapag
+- C. Audrey
+- C. Bretecher
+- C. Byrne
+- C. Collyer
+- C. Companion
+- C. Danby
+- C. Danby (mirror)
+- C. Dowling
+- C. Fisher
+- C. Gebacz
+- C. Gebacz (mirror)
+- C. Gonsalves
+- C. Graffeo
+- C. Guitard
+- C. Hoult
+- C. Hoult (mirror)
+- C. Jefferson
+- C. Lee
+- C. Little
+- C. McGuire
+- C. Penman
+- C. Penman (mirror)
+- C. Penna
+- C. Quimel
+- C. Roulston
+- C. Silvestri
+- C. Silvestri (mirror)
+- C. Sweeny
+- C. Sweeny (mirror)
+- C. Wan
+- C. Watkins
+- CJ Sarachene (Starfleet)
+- Cabot
+- Callahan
+- Callimas
+- Cari L. Thomas (Captain)
+- Carl
+- Carl (cadet)
+- Carl Banks
+- Carlene Mathews
+- Carol Kunz (Lieutenant)
+- Carol Mathews
+- Carol Yamada
+- Carriker
+- Carson (Crewman)
+- Carstairs (engineer)
+- Carstairs (geologist)
+- Carter (Crewman)
+- Cary McCrystal (Starfleet)
+- Caster (author)
+- Chad Quandt (Starfleet)
+- Chanak
+- Chandra Sisko
+- Channing
+- Chapman (Admiral)
+- Chapman (Captain)
+- Chapman (Professor)
+- Charles Brettner
+- Charles Collyer (Captain)
+- Charles Russo (Lieutenant)
+- Charles Young
+- Charlie Quizzlink
+- Charlie Russo (Starfleet)
+- Charlie Sisko
+- Chelsea Wynne (Captain)
+- Chen (Lieutenant)
+- Chenza
+- Cheryl Gluckstern (Starfleet)
+- Cheska Anilao (Starfleet)
+- Chiefly Moulding
+- Chiefowitz
+- Chip Chalmers (Captain)
+- Cho
+- Chris McBee (Starfleet)
+- Chris Monfette (Starfleet)
+- Christian Calle
+- Christine Clark (Starfleet)
+- Christine D. Gonsalves (Captain)
+- Christopher Sarion
+- Christopher Tezber
+- Cindy Appel (Starfleet)
+- Cing'ta
+- Clara Coulter (Starfleet)
+- Clare Sim
+- Claudia Craig
+- Claudia Hengist
+- Clem
+- Cleveland Booker (namesake)
+- Coffin (engineer)
+- Cold Fusion (name)
+- Collins (Lieutenant)
+- Colt
+- Coltar
+- Colti
+- Companion
+- Conklin
+- Connor D. Lucas (Vice Admiral)
+- Cordera
+- Cos
+- Cosimo
+- Cosmo Genovese (Captain)
+- Cosmo Genovese (Lieutenant)
+- Cosmoe
+- Counter (cadet)
+- Courtney A. Lee (Chancellor)
+- Cox
+- Craig Galloway
+- Craig Weiss (civilian)
+- Craig Weiss (comedian)
+- Crenshaw
+- Crescenzo Notarile (Starfleet)
+- Criddle D'Eri-Ca
+- Crosis
+- Curt F. Danhauser
+- Cynthia Willoughby
+- D'Amato (Ensign)
+- D'Marr
+- D. Aarniokoski
+- D. Agawin
+- D. Arakelian
+- D. Barrett
+- D. Biagi
+- D. Brathwaite-Lynch
+- D. Burns
+- D. Callaghan
+- D. Cummings
+- D. Cummings (mirror)
+- D. Dworkin
+- D. Feldheim
+- D. Feldheim (mirror)
+- D. Gabrielle
+- D. Gluck
+- D. Hartley
+- D. Hindmarch
+- D. Lingard
+- D. Liu
+- D. Maltese
+- D. Martin
+- D. McCullagh
+- D. Metzlar
+- D. Norton
+- D. Norton (mirror)
+- D. Panet Francis
+- D. Perez
+- D. R. Lee
+- D. Santiago
+- D. Saxby
+- D. Semel
+- D. Stapf
+- D. Stapf (mirror)
+- D. Tiernan
+- D. Till
+- D. Till (mirror)
+- D. Vaughan
+- D. Voshart
+- D. Wise
+- D. Zorn
+- D.E. Wallis
+- Dala
+- Dan Curry (23rd century)
+- Dan Curry (Lieutenant Commander)
+- Dan Curry (comedian)
+- Dan Hageman (Starfleet)
+- Dan Silverburg (Starfleet)
+- Dana Vernon
+- Dana White (Captain)
+- Dana Wilson (Ambassador)
+- Daneeka
+- Daniel Aronoff (Starfleet)
+- Daniel Curry (Admiral)
+- Daniel Curry (Captain)
+- Daniel Curry (civilian)
+- Daniel Gonzales
+- Dante (physicist)
+- Danz
+- Darryl Oja
+- Darson
+- Daryl Baskin (Lieutenant Commander)
+- Daryl Baskin (comedian)
+- Dave Blass (Starfleet)
+- Dave DeGaetano (Starfleet)
+- David A. Rodriguez
+- David Amantes
+- David Anderson (24th century)
+- David Bernard (Lieutenant)
+- David Carson (Captain)
+- David Grant (civilian)
+- David Grant (comedian)
+- David Livingston (Captain)
+- David Livingston (Lieutenant Commander)
+- David Livingston (Vice Admiral)
+- David Livingston (comedian)
+- David Luckenbach (Starfleet)
+- David Orlando
+- David P. Nemzek
+- David Powell (24th century)
+- David Ramirez (civilian)
+- David Rossi (Lieutenant)
+- David Rossi (Starfleet)
+- David Sisko
+- David Stapf (Starfleet)
+- David Stipes (Starfleet)
+- David Stipes (Voyager)
+- David Takemura (Doctor)
+- David Takemura (Starfleet)
+- David Takemura (comedian)
+- David Teller (Starfleet)
+- David Till (Ambassador)
+- David Trotti (Starfleet)
+- David Weddle (Starfleet)
+- Daviomeisi
+- Davis (Crewman)
+- Davison
+- Dawn Velazquez (Voyager)
+- Dawn Velazquez (civilian)
+- DeLong
+- Dean Wilson (Starfleet)
+- Debbie Schwab (Starfleet)
+- Deborah Everton (Starfleet)
+- Debra (entity)
+- Decker (Cadet)
+- Decker (engineer)
+- Define Having
+- Deflate Release
+- Dekora Assan
+- Delaplane
+- Della Santina
+- Demitre Garza (24th century)
+- Denise Okuda (Starfleet)
+- Dennis Madalone (Starfleet)
+- Dennis McCarthy (Captain)
+- Dennis McCarthy (Crewman)
+- Dennis Tracy (24th century)
+- Denny Sisko
+- Dent Arthur Dent
+- Deo Thermometric
+- Derek Prieur (Starfleet)
+- Diana Giddings (Captain)
+- Diandra Thompson
+- Diane Overdiek (Lieutenant)
+- Diane Overdiek (Starfleet)
+- Diane of N'thonia
+- Dick Brownfield (Captain)
+- Dick Brownfield (Lieutenant Commander)
+- Dick D'Angelo (Lieutenant)
+- Diego
+- Dikembe Sisko
+- Dimitris
+- Dirgo
+- Dolores Arce (Starfleet)
+- Domenic Sisko
+- Dominique Rossier (Starfleet)
+- Don Dixon
+- Don Father of Hearts
+- Don Foster, Jr. (Lieutenant)
+- Don Lee (Lieutenant Commander)
+- Donald Kaplan
+- Donald Pealer
+- Donark
+- Donas
+- Donna W. Nemzek
+- Dorit J. Oberman
+- Dorothy Chang
+- Dorothy R. Duder
+- Doug Aarniokoski (Starfleet)
+- Doug Dean (Captain)
+- Doug Dean (Lieutenant Commander)
+- Doug Drexler (comedian)
+- Doug Durbrow
+- Douglas (Lieutenant)
+- Douglas Adams
+- Douglas Drexler (Starfleet)
+- Douglas E. Graves (comedian)
+- Draim
+- Drazman
+- Drew Dieghan
+- Duarte
+- Duke Willer
+- Dustin Perkins (Starfleet)
+- Dylan Bocanegra (Starfleet)
+- Dylan Massin (Starfleet)
+- Dyson
+- E. Kao
+- E. Lippoldt
+- E. Lippoldt (mirror)
+- E. Phillips
+- E. Poulin
+- E. Poulin (mirror)
+- E. Robinson
+- E. Sampson
+- E. Sampson (mirror)
+- E. Thaysen
+- E.M. Rauch
+- Ed Charnock, Jr. (Starfleet)
+- Ed Cooper (Starfleet)
+- Ed Hoffmeister (Lieutenant Commander)
+- Eddie Guierrez
+- Eddie Williams (24th century)
+- Edgar Willoughby
+- Edgar Willoughby, Jr.
+- Edith K. Alfaro
+- Edmond Wright (Lieutenant)
+- Edward Aaronson
+- Edward Regis
+- Edwell
+- Efro
+- Either Oneorother
+- Elaina Vescio
+- Elaina Vescio (Lieutenant)
+- Elaine Andrianos (Captain)
+- Elbow Grease
+- Eldon
+- Elene Mekete (Captain)
+- Eli Maffei
+- Elizabeth Duff (Starfleet)
+- Elizabeth S. Braswell
+- Elkins Judy
+- Ella Sisko
+- Ellen Hornstein (Starfleet)
+- Elway
+- Emma Vivian
+- Entebe
+- Enwright
+- Eric Alba (24th century)
+- Eric Anthony Glover (Admiral)
+- Eric Bruno (24th century)
+- Eric Hance (Captain)
+- Eric Nash (Commander)
+- Eric Pagtaconan (Starfleet)
+- Eric Stillwell (Starfleet)
+- Erik Nash (Starfleet)
+- Erin McNamara (Starfleet)
+- Erma Felna
+- Ernie Over (Starfleet)
+- Ertel
+- Escher
+- Esther Zhao
+- Eta Sele
+- Etheria
+- Eugene Roddenberry (Starfleet)
+- Eve Haddad
+- Evelyn Rameau
+- Everett
+- Ezzy Duenas Reynaga (Starfleet)
+- F. Elizarraaaz
+- F. Gray
+- F. Jefferson
+- F. Recio
+- F. Schorn
+- F. Siracusa
+- F. Siracusa (mirror)
+- F. Tata
+- F. Tata (mirror)
+- Fabian Lacey (Starfleet)
+- Faith LeVesconte
+- Fallit Kot
+- Fambi
+- Fang-lee
+- Farley
+- Farrakk
+- Fats B'Zirtak
+- Felchin
+- Felix (24th century)
+- Fennim
+- Fergus Pearce
+- Fernando Sepulveda (Lieutenant)
+- Ferris (dictator)
+- Fi'Ja
+- Firoi
+- Fiscal Vertebrate
+- Flaherty
+- Fraddock
+- Frame
+- Frank Leasure (Starfleet)
+- Frank Siracusa (Fleet Admiral)
+- Frank Tignini (Starfleet)
+- Franny Kurtzman
+- Fred Raimondi (Commander)
+- Fred S.
+- Freddy Bristow
+- Freyla
+- Fritz Zimmerman (Starfleet)
+- Fuchida
+- Fugeman
+- Fujisaki
+- G. Assimakopoulos
+- G. Berg
+- G. Berg (mirror)
+- G. Chown
+- G. Davies
+- G. Decker
+- G. Delic
+- G. Douglas
+- G. Faith
+- G. Gulliver
+- G. Harry Stein
+- G. Hemwall
+- G. Hemwall (mirror)
+- G. Hetrick
+- G. Hetrick (mirror)
+- G. Keenan
+- G. Keenan (mirror)
+- G. Kennan
+- G. Mignacca
+- G. Navarro
+- G. Nemeth
+- G. Phillips
+- G. Phillips (mirror)
+- G. Rescher
+- G. Salema
+- G. Thomas Emslie
+- G. Wang
+- G.B. Butler
+- G.L. Coon
+- Gabriela Camarillo
+- Gabrielle Beaumont (Commander)
+- Gaia Violo (Admiral)
+- Galen Pizzorno
+- Galt
+- Garnav
+- Gary Hutzel (Captain)
+- Gary Hutzel (Commander)
+- Gary Hutzel (comedian)
+- Gary Monak (Starfleet)
+- Gary Speckman (Starfleet)
+- Gatsby
+- Gavin (Crewman)
+- Gavin (Lieutenant)
+- Gem (humanoid)
+- Gene Han (Starfleet)
+- Gene Roddenberry (23rd century)
+- Gene Roddenberry (Admiral)
+- Gene Roddenberry (mirror)
+- Gennaro
+- Geoff Mandel
+- Geoffrey Mandel (Starfleet)
+- George (24th century)
+- George Cheeks
+- George Herbert
+- George Rosa
+- George Stuart, Jr. (Starfleet)
+- Gerace
+- Gerald Kawaoki
+- Gerald Quist (Starfleet)
+- Gerald Szillinsky (Starfleet)
+- Gere LaDue (Captain)
+- Geri Hilton
+- Gia Nguyen (Starfleet)
+- Gibson (Vice Admiral)
+- Gideon S. Turner
+- Gilhouly
+- Gilles
+- Giordana Noa
+- Gladyfaith Abcede (Starfleet)
+- Gleason (Captain)
+- Glidia
+- Glo Minaya (Starfleet)
+- Glork
+- Gocke
+- Golanga
+- Golin Shel-la
+- Gomtuu
+- Goopy
+- Gordan Garb
+- Gort (Lieutenant Commander)
+- Gotthelf
+- Goval
+- Grace Gregory (Starfleet)
+- Grace K. Kenney
+- Grak-tay
+- Gramble
+- Grant (engineer)
+- Grant (physicist)
+- Grathon Tolar
+- Greg Agalsoff (Starfleet)
+- Greg Berry (Doctor)
+- Greg Hooper (Doctor)
+- Greg Hulet
+- Greg Medina (Starfleet)
+- Greg Minihan (Captain)
+- Greg Nelson (Starfleet)
+- Greg Wadsworth (Lieutenant Commander)
+- Gregory Benson
+- Gregory Jein (Captain)
+- Greta Traldi
+- Grjördslat
+- Gupta
+- Gurdy
+- Gustavo Mendonca
+- Gwynne Jean Lee
+- H. Alonso Meyers
+- H. Aloum
+- H. Barbet
+- H. Culpepper
+- H. Definney
+- H. Ellison
+- H. Isaacs
+- H. Isaacs (mirror)
+- H. Kadin
+- H. Kadin (mirror)
+- H. Montgomerie
+- H. Stroud
+- Ha'Ryl
+- Hacopian
+- Hagath
+- Hahn
+- Hain
+- Haj (24th century)
+- Hamilton
+- Hank Murray
+- Hans Beimler (Starfleet)
+- Hansen (engineer)
+- Harald Belker (Starfleet)
+- Hargrove
+- Harold Michelson (Starfleet)
+- Harper (Voyager)
+- Harris (Captain)
+- Harris (Ensign)
+- Harrison Airhart
+- Harry C. Brand
+- Hartla
+- Hastur
+- Hayes (Lieutenant)
+- Hayley Isaacs (Captain)
+- Haz Mazaro
+- Heather Kadin (Starfleet)
+- Heidi Julian (Starfleet)
+- Heidi Smothers (Starfleet)
+- Helen Johansson
+- Helen Mossler (Starfleet)
+- Hendriks
+- Henri Roget
+- Henri Scheimer
+- Herb Wright (Starfleet)
+- Herbert (official)
+- Herbert Samson
+- Herman Zimmerman (Starfleet)
+- Hickman
+- Hider
+- Hilary Groner (24th century)
+- Hildebrandt
+- Hill (Doctor)
+- Hindaki Shibunawa
+- Hitesh Druv (Starfleet)
+- Hoffmeister Ed
+- Holden
+- Holt
+- Homn
+- Hope
+- How'el Et-Mon
+- Hugh
+- Hungry Weakness
+- Hyde (alien)
+- Hydro Carbon
+- I. Alacorn
+- I. Allemang
+- I. Allemang (mirror)
+- I. Anderson
+- I. Cabrera
+- I. Ceja
+- I. Edzhuayan
+- I. Egan
+- I. Espevik
+- I. Feinberg
+- I. McWatt
+- I. Moodus
+- I. Ochray
+- I. Orr
+- I. Plagg
+- I. Sheeran
+- Ian Calip (Starfleet)
+- Ian Christenberry (Starfleet)
+- Ibraheem Jara (Starfleet)
+- Ignacio Garceron (Lieutenant Commander)
+- Igor Knezevic (Starfleet)
+- Ijarna
+- Ikuyo Seuphon
+- Illusory people
+- Immamura
+- India Shigihara
+- Intramural Baby
+- Ira Steven Behr (Starfleet)
+- Isam Helewa
+- Isang
+- Isis
+- Itzak Arrat
+- Ivan Kondrup
+- J'onn
+- J. Alexander
+- J. Alexander (mirror)
+- J. Barrington
+- J. Bartlett
+- J. Beattie
+- J. Byard
+- J. Clement
+- J. Clement (mirror)
+- J. Comeau
+- J. Craig
+- J. Danton
+- J. Deleonvive
+- J. Dudkowski
+- J. Dudkowski (mirror)
+- J. Duff
+- J. Edgson
+- J. Frakes
+- J. Frakes (mirror)
+- J. Gayford
+- J. Gayford (mirror)
+- J. Glass
+- J. Gross
+- J. Gross (mirror)
+- J. Gump
+- J. Haufler
+- J. Henry
+- J. Henry (mirror)
+- J. Jarvis
+- J. Jefferson
+- J. Jozwiak
+- J. Kim
+- J. Kim (mirror)
+- J. Kirk
+- J. Kirk (mirror)
+- J. Kuitenbrouwer
+- J. Kuntz
+- J. LaMarre
+- J. Lee
+- J. Longo
+- J. Lowry Johnson
+- J. Lumet
+- J. McNamara
+- J. McNamara (mirror)
+- J. Menosky
+- J. Menosky (mirror)
+- J. Mitchell
+- J. Murray
+- J. Nzenwa
+- J. Ordowich
+- J. Orton
+- J. Paton
+- J. Priestly
+- J. Russo
+- J. Ryan
+- J. Sagias
+- J. Sterling
+- J. Swift
+- J. Swope
+- J. Taylor
+- J. Weber
+- J. Weber (mirror)
+- J. Wong
+- J. Zimmerman
+- J. Zimmerman (mirror)
+- J. de Cartier
+- J.C. Cuthbert
+- J.J. Adams
+- J.P. Farrell (Voyager)
+- J.R. Jennings
+- J.T. Oldey
+- Ja'Dar
+- Jack Litchfeld
+- Jack Rossi (Starfleet)
+- Jackson (Crewman)
+- Jaclyn McBride (Captain)
+- Jacqueline Barnes (Starfleet)
+- Jadzia Dax (alien)
+- Jae (alternate reality)
+- Jago
+- James Addink (Starfleet)
+- James Chung (Starfleet)
+- James Holt (24th century)
+- James MacKinnon (Starfleet)
+- James Mees (Captain)
+- James Mees (Lieutenant)
+- James Mooney MacAllister
+- James Van Over (Starfleet)
+- James Van Over (UESPA)
+- James W. Jarvis
+- Jameson
+- Jamie Thomas (Starfleet)
+- Jana Park
+- Jane Dennis
+- Jane Kernan (Starfleet)
+- Jane Maggs (Starfleet)
+- Janet Nemecek (Starfleet)
+- Janice Lee (24th century)
+- Jared Bittner
+- Jarkra
+- Jarlath
+- Jaron Summers (Doctor)
+- Jasmine Graham
+- Jason Bartolone (Starfleet)
+- Jason Meier (Starfleet)
+- Jason Stone
+- Jason Zimmerman (Starfleet)
+- Javier Garrido (Starfleet)
+- Jay Chattaway (Starfleet)
+- Jay T. Laprade
+- Jaylah
+- Jayme Wing (comedian)
+- Jeanine
+- Jed Laurence (Starfleet)
+- Jeff Adams
+- Jeff Bacon
+- Jeff Hadjikhani (24th century)
+- Jeff Steck (Starfleet)
+- Jeffery Joal Annon
+- Jeffrey Fratis
+- Jeffrey Hanley
+- Jeffrey Lombardi (Starfleet)
+- Jenna Locke
+- Jennifer Gay (Starfleet)
+- Jennifer Jumper
+- Jennifer Muro (Starfleet)
+- Jennings Rain
+- Jenny Lumet (Admiral)
+- Jenzo
+- Jepella
+- Jeri Taylor (Commander)
+- Jeri Taylor (Vice Admiral)
+- Jerry Bono (Lieutenant)
+- Jerry Fleck (Captain)
+- Jerry Fleck (Ensign)
+- Jerry Goldsmith (Starfleet)
+- Jerry Maguire
+- Jerry Platt
+- Jess Dadass
+- Jessica Leong (Ensign)
+- Jessica Rossier
+- Jessica Rossier (Starfleet)
+- Jessica Smith (Starfleet)
+- Jiarui Bai (Starfleet)
+- Jihyun Nam
+- Jim Hardy (comedian)
+- Jim Magdaleno (Starfleet)
+- Jim Martin (Starfleet)
+- Jim Thorpe (Lieutenant)
+- Jim Unsinn (Starfleet)
+- Jimmy Arakaki
+- Jimmy Berndt (24th century)
+- Jimmy Lindsey (Starfleet)
+- Jin
+- Jinza
+- Jiri
+- Jody Woodard
+- Joe Bauer (Starfleet)
+- Joe Chess (Captain)
+- Joe Chess (Lieutenant)
+- Joe Comeau (Starfleet)
+- Joe Elwood
+- Joe Longo (Lieutenant)
+- Joe Longo (Starfleet)
+- John
+- John A. Fredrickson
+- John Alonzo (Starfleet)
+- John Bowler
+- John Chichester (Starfleet)
+- John Crunsfeld
+- John Eaves (24th century)
+- John Foster
+- John Goodson (Starfleet)
+- John Josselyn (Starfleet)
+- John Knoll (Starfleet)
+- John Koslowsky
+- John LaSalandra (Commander)
+- John M. Dwyer (23rd century)
+- John M. Dwyer (Captain)
+- John Mason (comedian)
+- John Nesterowicz (Captain)
+- John Nesterowicz (Ensign)
+- John P. Farrell (Commander)
+- John Schoolcraft
+- John Tampoya (Starfleet)
+- John Testa
+- John Trimble
+- John Van Citters (24th century)
+- John Weber (Fleet Admiral)
+- Jolene Julian
+- Jon Daily
+- Jon Djanrelian (Voyager)
+- Jon Djanrelian (yard engineer)
+- Jon Joffin (Starfleet)
+- Jon Koslowsky (comedian)
+- Jon Povill (Doctor)
+- Jon S. Monson
+- Jon Stevens
+- Jonas Grumby
+- Jonathan Frakes (Starfleet)
+- Jonathan West (Lieutenant)
+- Jonathan Whicher
+- Joow
+- Jorge Gonzalez (Starfleet)
+- Jorkemo
+- Joseph M. Carey
+- Joseph Musso (Starfleet)
+- Josh Rand
+- Josh Zingerman
+- Joshua Jae
+- Joshua Kim
+- Journey Brown-Saintel
+- Joy Zapata (Starfleet)
+- Juan Farrer Melian
+- Judi Brown (Starfleet)
+- Judy Elkins (Starfleet)
+- Julie Benson (Starfleet)
+- June Haymore (Starfleet)
+- Junie Lowry-Johnson (Starfleet)
+- Justin Nickels (Starfleet)
+- Jörg Hillebrand (Starfleet)
+- K. Berg
+- K. Berg (mirror)
+- K. Beyer
+- K. Beyer (mirror)
+- K. Bradford
+- K. Brock
+- K. Brock (mirror)
+- K. Cooper
+- K. Curtin
+- K. Felton-Lui
+- K. Felton-Lui (mirror)
+- K. Gross
+- K. Gross (mirror)
+- K. Hall
+- K. Hall (mirror)
+- K. Herbst
+- K. Lafferty
+- K. Lafferty (mirror)
+- K. Lilley
+- K. Lima
+- K. McCord
+- K. McCullagh
+- K. Mulgrew
+- K. Nakonse
+- K. Orfanidis
+- K. Orfanidis (mirror)
+- K. Powers
+- K. Powers (mirror)
+- K. Rook-Slawski
+- K. Taylor
+- K. Tchaikovsky
+- K.L. Gifford
+- Kaira Sisko
+- Kal Dano
+- Kandra Vilk
+- Kaplan (Ensign)
+- Kar Kantar
+- Kar-pek
+- Karen Ragan (Ensign)
+- Karno
+- Kashkooli
+- Kathryn Janeway (superorganism)
+- Kathryn Trimble
+- Kathy McCammon
+- Kathy S. Leprich
+- Kay Kim
+- Kazanga
+- Keenser
+- Keeper
+- Kei (person)
+- Keith Rockefeller
+- Keith Sweet (Starfleet)
+- Keller
+- Ken Biller (Lieutenant)
+- Ken Biller (Starfleet)
+- Ken Ross (comedian)
+- Ken Suzuki (Starfleet)
+- Kendis Sisko
+- Kenicki
+- Kenner
+- Kenneth Ross
+- Ketteract
+- Keven Scotti (24th century)
+- Kevin Berg (Starfleet)
+- Kevin Casas (Starfleet)
+- Kevin Cross (Starfleet)
+- Kevin Hageman (Starfleet)
+- Kevin Ryan (24th century)
+- Kiazi
+- Kid Chaos
+- Kilby
+- Kiley Rossetter (Admiral)
+- Kim Fitzgerald (Starfleet)
+- Kim Madore
+- Kim Spencer (Doctor)
+- Kim Thompson
+- Kimarnt
+- Kipp
+- Kira (Tamarian)
+- Kirsten Beyer (Starfleet)
+- Kirti Pillai
+- Kit Stølen (Starfleet)
+- Kiteo
+- Klack Pattor
+- Klarc-Tarn-Droth
+- Kloog
+- Koje-E
+- Koltar
+- Korella
+- Kowalski
+- Krebs
+- Krenn
+- Krim (Crewman)
+- Kris Krosskove (Starfleet)
+- Kristi Fernandes
+- Kristine Fernandez (Lieutenant)
+- Krole
+- Krotus
+- Krzysztof Gryzka (Starfleet)
+- Kukulkan
+- Kula
+- Kullnark
+- Kurros
+- Kurt Nelson
+- Kurt S. Hansen
+- Kwok
+- Kyle Courter (Starfleet)
+- Kyle Rowen
+- Kyoto (Ensign)
+- L. Burton (Professor)
+- L. Cole (Rear Admiral)
+- L. Dragonescu
+- L. Hodgson
+- L. Hope
+- L. McDonald
+- L. McGarry
+- L. Metrose
+- L. Metrose (mirror)
+- L. Miev
+- L. Miller
+- L. Miller (mirror)
+- L. Orton
+- L. Ross
+- L. Thomas Perrier
+- L.M. McDonald
+- Lachrymose
+- Lactic Acid
+- Landon Ginn (Starfleet)
+- Langford
+- Larry A. Ohlson
+- Larry Markart (Starfleet)
+- Lars
+- Laura E. Derr
+- Laura Langmatz
+- Laura Richarz (Starfleet)
+- Lay
+- Layne Friedman
+- Lazard Ward (Starfleet)
+- Le'kayo Prey
+- Lee (engineer)
+- Lee Fitzgerald
+- Leeloo Maute
+- Leifer
+- Len Levine (Starfleet)
+- Leonard Dill (Starfleet)
+- Leonid Koliagin (Starfleet)
+- Les Gobruegge
+- Les Landau (Admiral)
+- Les Landau (Doctor)
+- Leslie Blitman
+- Leslie Wong
+- Lester P. LeVesconte
+- Lewis (Enterprise-D)
+- Lewis (Voyager)
+- Lex Nakashima
+- Lexi Winters
+- Li
+- Lilith
+- Linda King (Starfleet)
+- Lisa De Moraes (Starfleet)
+- Lisa De Moraes (civilian)
+- Lisa Schultz Boyd (Starfleet)
+- Litana
+- Liz Alvarez (Commander)
+- Liz Kloczkowski (Starfleet)
+- Lloyd Barcroft (Starfleet)
+- Logan (Ensign)
+- Lois Bridges
+- Lolita Fatjo (Starfleet)
+- Loomis (24th century)
+- Lora Trimble
+- Loren Bivens (passenger)
+- Lori B. Oberscheven
+- Lorine Mendell (24th century)
+- Lorkin
+- Lou Race (Starfleet)
+- Louis Rubenstein
+- Louise Dorton (Lieutenant)
+- Louise Dorton (Science Ops)
+- Louise Nielsen (Engineer)
+- Lourenco Marques
+- Louvier
+- Love Seat
+- Lucia Huang (Starfleet)
+- Lucy Airhart
+- Ludwig
+- Luis Irizarry
+- Lussilla
+- M'Pella
+- M'Tell
+- M. Andrews
+- M. Becker
+- M. Butt
+- M. Campbell
+- M. Carella
+- M. Carella (mirror)
+- M. Carriere
+- M. Colucci
+- M. Cunningham
+- M. Drdakova
+- M. Dziwik
+- M. Edmund
+- M. Edmund (mirror)
+- M. Goldstein
+- M. Goldstein (mirror)
+- M. Gorka
+- M. Harris
+- M. Holmes
+- M. Howard (Doctor)
+- M. Karpf
+- M. Knezev
+- M. Kuitenbrouwer
+- M. Lewandowski
+- M. Middleton
+- M. Middleton (mirror)
+- M. Moreira
+- M. Moreira (mirror)
+- M. Morgan
+- M. Morgan (mirror)
+- M. Navarrette
+- M. Nuttman
+- M. Nyquist
+- M. O'Brien
+- M. Paradise
+- M. Peiko
+- M. Piller
+- M. Prince
+- M. Profitt
+- M. Rigby
+- M. Robertson
+- M. Simkin
+- M. Simkin (mirror)
+- M. Simonelli
+- M. Simonelli (mirror)
+- M. St. Clair
+- M. Stanek
+- M. Steel
+- M. Steel (mirror)
+- M. Suskin
+- M. Suskin (mirror)
+- M. Taylor
+- M. Viger
+- M. Vladislav Stanek
+- M. Vrvilo
+- M. Warry-Smith
+- M.C. Minor
+- Macormak
+- Madeline (alternate reality)
+- Magen
+- Magnus
+- Maltuvis
+- Mandy Chamberlin (Captain)
+- Mandy Chamberlin (Lieutenant)
+- Mandy Templeton
+- Manlin Sun (Starfleet)
+- Manuel Epstein
+- Manwaring
+- Manway
+- Maraangopol
+- Marani
+- Marayna
+- Marc Brooks
+- Marcia Meldal-Johnsan
+- Marcutus M. Aether
+- Mardine Pouryousef
+- Margaret C. Clark
+- Maria Mann
+- Maria Mantia (Starfleet)
+- Maria Tatalia
+- Mariah Rose
+- Marian A. McAllum
+- Marian Fife (Captain)
+- Maricella Ramirez (Starfleet)
+- Maril
+- Marion Cordry
+- Marion Mathews
+- Marion Westmore
+- Mark Justison (Starfleet)
+- Mark Lentry (Lieutenant)
+- Mark Off-Zel
+- Mark Shimer
+- Mark Stimson (Lieutenant)
+- Mark Stimson (Starfleet)
+- Mark Zuelzke (Starfleet)
+- Markson
+- Marla Aster (Koinonian)
+- Martin Jedlicka (Captain)
+- Martin Majzel (Starfleet)
+- Martin Rackham
+- Marty Hornstein (Starfleet)
+- Marva
+- Marvin Rush (Captain)
+- Marvin Rush (Lieutenant)
+- Mary Ellen Bosché (Lieutenant)
+- Mary Joy Macalintal (24th century)
+- Mary van de Ven
+- Masada
+- Masora
+- Mass Commun
+- Matata L. Kimya
+- Matt Franklin
+- Matt Jefferies (Starfleet)
+- Matt Leonetti (Starfleet)
+- Matt Okumura (Starfleet)
+- Matt Resta (Starfleet)
+- Matt Sagona (Starfleet)
+- Matthew Davies (Commander)
+- Matthew Harris (Lieutenant Commander)
+- Matthew S. Morgan (Esc.)
+- Maturin
+- Maurice Hurley (Doctor)
+- Maury Rosenfeld
+- Max Collins (Starfleet)
+- Max Gabl (24th century)
+- Maxine Morris (Starfleet)
+- Maxwell Headroom
+- Maxwell Soroyan
+- Maxwell Thorpe (Starfleet)
+- May Ahearn (jahSepp)
+- McCauley
+- McClukidge
+- McCoullough
+- McFly
+- McGrath
+- McGreevey
+- McKenna
+- McKinney
+- McMinn
+- Melanie Foley (Commander)
+- Melissa Willoughby
+- Meril Davis (Starfleet)
+- Merri Howard (Admiral)
+- Merri Howard (Lieutenant Commander)
+- Merri Howard (comedian)
+- Meyer (physicist)
+- Michael (engineer)
+- Michael Backauskas (Starfleet)
+- Michael Baxter (Starfleet)
+- Michael Borkowski
+- Michael Chabon (Starfleet)
+- Michael Crow (Starfleet)
+- Michael DeGrandis (Starfleet)
+- Michael DeMeritt (Ensign)
+- Michael DeMeritt (Starfleet)
+- Michael Hengist
+- Michael J. Lim
+- Michael J. Lin
+- Michael Keller (Starfleet)
+- Michael Mayer (Starfleet)
+- Michael Meyers (Starfleet)
+- Michael Okuda (Doctor)
+- Michael Piller (Admiral)
+- Michael Piller (Lieutenant Commander)
+- Michael Sendine
+- Michael Stradling (Lieutenant)
+- Michael Westmore (24th century)
+- Michael Westmore, Jr. (24th century)
+- Michelle Wright (Starfleet)
+- Michelle Yi
+- Midia
+- Miguel Aranda
+- Mike Echols
+- Mike Gray (comedian)
+- Mike Jerome
+- Mike Vejar (Starfleet)
+- Mike Visencio (Starfleet)
+- Mike Westmore (23rd century)
+- Mikey Levitt (Starfleet)
+- Milan (scientist)
+- Milan Adala
+- Miller (physicist)
+- Mindy C. Long
+- Minh Nguyen
+- Minnerly
+- Mira
+- Mirab
+- Mitch Suskin (Starfleet)
+- Mitchell (Admiral)
+- Mitchell B. Green
+- Mitchell James
+- Mith bin Tong
+- Mitsuya
+- Mo Palmera
+- Mobar
+- Molina (23rd century)
+- Molly Amos
+- Molly Coddle
+- Molly Tranya
+- Monica Navarrete (Vice Admiral)
+- Monico C. Aguayo
+- Monika Livingston
+- Monty de Graff (Lieutenant Commander)
+- Monty de Graff (comedian)
+- Moon-Jumper of Leff
+- Moonsafi
+- Moore (Admiral)
+- Moore (Ensign)
+- Moran
+- Morgan Strong
+- Morgan Yon (Starfleet)
+- Morgo
+- Morianna Taal
+- Mosaro
+- Moto
+- Moudakis
+- Mowray
+- Mridul Sen (Starfleet)
+- Munoz
+- Murphy (Enterprise-D)
+- Murphy Wiltz (Lieutenant)
+- N'Duwo Skra
+- N. Augustyn
+- N. Augustyn (mirror)
+- N. Choi
+- N. Denver
+- N. Forbes
+- N. German
+- N. Jadeja
+- N. Land
+- N. Mealia
+- N. Meyer
+- N. Meyer (mirror)
+- N. Page
+- N. Page (mirror)
+- N. Peschlow
+- Na'el
+- Nagawa
+- Nagilum
+- Najwa Sisko
+- Nami Melumad (Starfleet)
+- Nancy B. Ohlson
+- Nancy Mickelberry (Starfleet)
+- Nara
+- Naren Shankar (civilian)
+- Narth
+- Natalia Freitas (Starfleet)
+- Natasha Chan
+- Nathan Airhart
+- Nathaniel Teros
+- Nazanin Kazem
+- Neffie Beumont
+- Nelson W. Cheng (Lieutenant Commander)
+- Nestor-Zullo
+- Neville
+- Neville Page (Starfleet)
+- Ngomo
+- Nichelle Sisko
+- Nichelle Sisko (Joseph's mother)
+- Nicki Kreitzman (24th century)
+- Nicole
+- Nicole Falsetti (Starfleet)
+- Niel Wray (24th century)
+- Nikhil S. Jayaram (Starfleet)
+- Nikicha Tomser
+- Nikie Monteleone (Starfleet)
+- Nilo Saharan
+- Nils Diaz
+- Nima
+- Nimembeh
+- Nimrod
+- Nino Das
+- Njoka
+- Noah Denver (Admiral)
+- Noah Keller (Starfleet)
+- Nocona
+- Noga Landau (Admiral)
+- Nogura
+- Nora Leonhardt (24th century)
+- Norman Denver (Fleet Admiral)
+- Noss
+- Novakovich
+- Nsomeka
+- O'Neill
+- O. Johnson
+- O. McStay
+- O. Munro
+- O. Neir
+- O. Neir (mirror)
+- O. O'Neill
+- O. Osunsanmi
+- O. Osunsanmi (mirror)
+- O. Perrier
+- O. Polanco
+- O. Sitowitz
+- O. Sitowitz (mirror)
+- Ohtani
+- Okaro
+- Okrand
+- Olafson
+- Olatunde Osunsanmi (Fleet Admiral)
+- Oliver Beck (Starfleet)
+- Olivia Eaves (24th century)
+- Onafuwa
+- Onaya
+- Onna Karapleedeez
+- Orak (Deep Space 9)
+- Oros
+- Ortiz
+- Osiris P. Grullon
+- P'jok
+- P. Bell
+- P. Bryce
+- P. Higgins
+- P. Holton
+- P. Jefferson
+- P. Lanyon
+- P. Lauritson (Doctor)
+- P. Maurais
+- P. Nicolakakos
+- P. Nicolakakos (mirror)
+- P. Pacheco
+- P. Tidy
+- Pablo Baytart
+- Pacific Bell (student)
+- Pajal
+- Palmers
+- Parker (Commander)
+- Pashtor
+- Pat Blymyer
+- Pat Clancey (Starfleet)
+- Pat Vholia (Starfleet)
+- Patient 8923/3
+- Patricia Miller (Lieutenant)
+- Patrick Krebs (Starfleet)
+- Patrick Stewart (Starfleet)
+- Paul Bogrow
+- Paul F. Lawrence
+- Paul Lawrence (Fleet Ops)
+- Paul Menegay
+- Paulina Ryan
+- Pauline Sisko
+- Payne
+- Pell Underhill
+- Pendleton
+- Penny Hall (Starfleet)
+- Penny M. Juday
+- Penny Muroc
+- Pernell Tyrus (Starfleet)
+- Pesca
+- Peter Bryce
+- Peter Davis (Captain)
+- Peter Lauritson (23rd century)
+- Peter Lauritson (Captain)
+- Peter Lauritson (Lieutenant Commander)
+- Peter Lauritson (Vice Admiral)
+- Peter Lefebvre
+- Peter Molnar (24th century)
+- Peterson (Captain)
+- Peterson (Crewman)
+- Petrovsky
+- Peyton Glover (Starfleet)
+- Phil Barberio (Starfleet)
+- Phil Bishop (24th century)
+- Phil Bishop (comedian)
+- Phil Jacobson (Lieutenant)
+- Philip Peter Bryce
+- Philippe Lim (Starfleet)
+- Phillip Jacobson
+- Phillips
+- Pierre Rahn
+- Pierre of Gigean
+- Pierson
+- Pinder
+- Plurs Blurb
+- Pomet
+- Pomoroy
+- Portal 63
+- Prah Mantoos
+- Price Jones
+- Primus Dominic
+- Probert
+- Puri
+- Pusan Korea
+- Qatai
+- Quentin Swofford
+- Quintana
+- R. Ballantyne
+- R. Beltran
+- R. Berman (Doctor)
+- R. Blais
+- R. Colucci
+- R. Cornelius
+- R. Daning
+- R. Davis
+- R. Delosreyes
+- R. Dening
+- R. Fletcher
+- R. Fraser
+- R. Fraser (mirror)
+- R. Johnson
+- R. Johnson (mirror)
+- R. Lai
+- R. Lai (mirror)
+- R. Leiterman
+- R. McCallum
+- R. McCallum (mirror)
+- R. McStay
+- R. Moran
+- R. Philbin
+- R. Pierce
+- R. Rechelia
+- R. Reed
+- R. Reed (mirror)
+- R. Roddenberry
+- R. Roddenberry (mirror)
+- R. Roto
+- R. Savage
+- R. Vivian
+- R. Vivian (mirror)
+- R. Wasserman
+- R. Watt
+- R. Yorke
+- R.D. McNeill
+- R.N. Green
+- Rachael Garcia (Starfleet)
+- Rader
+- Rai
+- Raimy Sisko
+- Rajiin
+- Ralidia
+- Ralph Johnson (Lieutenant)
+- Ramcharan
+- Ramirez (24th century)
+- Ramsey (Crewman)
+- Ramsey (Doctor)
+- Ramsey of Light
+- Rance Ward (Starfleet)
+- Randall Pflugg
+- Randy Burgess (Starfleet)
+- Randy McIlvain (Starfleet)
+- Raner
+- Rapunki
+- Rashon Sisko
+- Rause
+- Ravis
+- Rawlins
+- Raymer
+- Raymond
+- Raz
+- Redjac
+- Reggie Sisko
+- Reilly
+- René Echevarria (Lieutenant Commander)
+- Revalus
+- Rew P'Cott Claudia-Jean
+- Reynolds
+- Rho (Crewman)
+- Rhomsew
+- Rhone-Nowlan
+- Rhyme Orreason
+- Ricardo Delgado (Starfleet)
+- Rich Thorne (Doctor)
+- Richard Arnold (Captain)
+- Richard B. Barnett
+- Richard Balder (Starfleet)
+- Richard Barnett (civilian)
+- Richard Chronister (Lieutenant)
+- Richard Cronn (Captain)
+- Richard James (Admiral)
+- Richard James (Captain)
+- Richard James (Lieutenant Commander)
+- Richard K. Berman
+- Richard McKenzie (Captain)
+- Richard Sarstedt (civilian)
+- Richard Seely
+- Richardson (Captain)
+- Rick
+- Rick Berman (Admiral)
+- Rick Berman (Commander)
+- Rick Hester (Starfleet)
+- Rick K. Berman
+- Rick K. Bittle
+- Rick Rowe (Lieutenant)
+- Rick Sternbach (Doctor)
+- Rick Sternbach (Ensign)
+- Ricky Macks
+- Rippert
+- Riska
+- Rob Bowman (Doctor)
+- Rob Johnson (Starfleet)
+- Rob'n J'nson
+- Robert Blackman (Lieutenant)
+- Robert H. Justman (Admiral)
+- Robert L. Comsol
+- Robert Legato (Starfleet)
+- Robert Levinson
+- Robert McCullough (Doctor)
+- Robert Metoyer (Captain)
+- Robert Metoyer (Doctor)
+- Robert Meyer Burnett (24th century)
+- Robert St. Pierre (Starfleet)
+- Robert Weems
+- Robert Wolfe (Starfleet)
+- Roberto
+- Roberto Campos
+- Rocklin
+- Rod Roddenberry (Fleet Admiral)
+- Rodel Gravo
+- Roger Lay
+- Rogers
+- Rogg
+- Roll (Chancellor)
+- Roman Chalyi
+- Ron Surma (Starfleet)
+- Ron Wilkinson (23rd century)
+- Ron Wilkinson (24th century)
+- Ron Williams
+- Ronald B. Moore (Captain)
+- Ronald B. Moore (Crewman)
+- Ronald B. Moore (civilian)
+- Ronald D. Moore (Vice Admiral)
+- Ronald Moore (Lieutenant Commander)
+- Rondus
+- Ronin
+- Ronnie Knox (Starfleet)
+- Rork
+- Rose E. Limli
+- Rosemary Cremona (Starfleet)
+- Ross (Lieutenant)
+- Rossi April
+- Roy Cameron
+- Roy Zandboer (ACPO)
+- Ruby Permenter
+- Rudman
+- Rul the Obscure
+- Rumpelstiltskin (alien)
+- Ruolin Li (Starfleet)
+- Rupert Crandall
+- Russ A. English
+- Rutger van de Steeg
+- Ryan Adams (24th century)
+- Ryan Adams (comedian)
+- Ryan Donoghue (Starfleet)
+- Ryan Sipe
+- Ryson
+- S. Arseneault
+- S. Campbell
+- S. Chris
+- S. Cochran
+- S. Cochran (mirror)
+- S. Crane
+- S. Elliott
+- S. Eshraghi
+- S. Freeland
+- S. Gamzon
+- S. Gamzon (mirror)
+- S. Guilbault
+- S. Holmberg
+- S. Howes
+- S. Kirk
+- S. Leighbinger
+- S. Llewellyn
+- S. Pearce
+- S. Rashid
+- S. Robinson
+- S. Schneider
+- S. Schneider (mirror)
+- S. Sealey
+- S. Sealey (mirror)
+- S. Singh
+- S. Sokolowski
+- S. Sondheim
+- S. Stanley
+- S. Tarkoff
+- S. Thomas
+- S. Vasey
+- Sabba Pollak
+- Safta Landau
+- Salak
+- Salter
+- Sam Freedle (Doctor)
+- Sam Freedle (comedian)
+- Samantha Tong (Lieutenant Commander)
+- Samuel Estragon
+- Samuel Freedle
+- San
+- Sanarek
+- Sanchez (lieutenant)
+- Sanders (Ensign)
+- Sandoval
+- Sandra Peterson
+- Sandra Sena (Lieutenant)
+- Sandy A. Holst
+- Sandy Fries (Admiral)
+- Sandy Fries (Captain)
+- Sandy Sisko
+- Sandy Veneziano (Captain)
+- Sangrom
+- Saowin
+- Sara M. Pearce
+- Sara Simon-Behrnes
+- Sarah Paul (civilian)
+- Sarah Shaw (Starfleet)
+- Sarah Williams (Starfleet)
+- Satine
+- Satler
+- Saul Rubichik
+- Scooter T. Rocketboy
+- Scott Herbertson (Starfleet)
+- Scott Luhrsen (Doctor)
+- Scott McKnight (Lieutenant)
+- Scott Middleton (Starfleet)
+- Scott Rubenstein (comedian)
+- Scott Schneider (Starfleet)
+- Scotty Williams
+- Sean Bishop (Starfleet)
+- Sean Hargreaves (Starfleet)
+- Sean Tretta (Starfleet)
+- Seth Goldberg (Captain)
+- Seth Shostak
+- Shahna
+- Shaku
+- Shapiro
+- Sharyl Fickas (Commander)
+- Shauna Aronson (Starfleet)
+- Shawn Baden (Starfleet)
+- Shawn Ewashko (Chancellor)
+- Shawn McKay (Starfleet)
+- Shawna Benson (Starfleet)
+- Shazeer
+- Sheeza
+- Shelby
+- Sherbourne
+- Sherri Moore
+- Shevon Sisko
+- Shirley H. Brand
+- Siggi
+- Simms
+- Simon Stotler (Starfleet)
+- Sir Olden
+- Siral
+- Sister Hood
+- Slattery
+- Smalla
+- Sofak
+- Sokath
+- Somak
+- Sonequa Sisko
+- Sophia Baumer
+- Sophia Sisko
+- Sord
+- Spenser Naor (Starfleet)
+- Spyke
+- Sqill
+- Sstefaan Treereko
+- Stadius
+- Stanislav Klabik (Starfleet)
+- Stano Riga
+- Stanton
+- Star (pet)
+- Starfleet cadets (23rd century)
+- Starfleet captains
+- Starfleet commanders
+- Starfleet crewmen
+- Starfleet ensigns
+- Starfleet flag officers
+- Starfleet lieutenant commanders
+- Starfleet lieutenants
+- Starfleet lieutenants junior grade
+- Starfleet personnel
+- Stefan
+- Sten
+- Stepan
+- Steph Silvestri (Starfleet)
+- Stephen Wilson (Starfleet)
+- Steth (impostor)
+- Steve Bowen (Lieutenant Commander)
+- Steve Gallacci
+- Steve Gausche, Jr. (Starfleet)
+- Steve Oster (Starfleet)
+- Steve Tucker (Lieutenant Commander)
+- Steve Wiener (comedian)
+- Steven Gerber
+- Steven Kenny (Captain)
+- Steven Maranville
+- Steven Ong (Starfleet)
+- Stoyra
+- Straeth
+- Stran
+- Strath
+- Strek
+- Strom (Crewman)
+- Stuart M. Pearce (Vice Admiral)
+- Sully
+- Sung Shin (Starfleet)
+- Sural (dictator)
+- Suryan
+- Susan Nuress
+- Susan Sackett (Admiral)
+- Susie Crabtree
+- Suzanne Dumont
+- Suzi Shimizu (Lieutenant)
+- Sveta
+- Svetlana Reeves-Stevens
+- Sweem
+- Swenson (Enterprise-D)
+- Swift
+- Syl
+- Syltrack
+- Synchro Nized
+- T'nag
+- T. Cherniawsky
+- T. Deverell
+- T. Deverell (mirror)
+- T. Dinucci
+- T. Dinucci (mirror)
+- T. Flook
+- T. Genereux
+- T. Gough
+- T. Grodnick
+- T. Grove
+- T. Grove (mirror)
+- T. Howes
+- T. Maddox
+- T. Manco
+- T. Middike
+- T. Miller
+- T. Nassif
+- T. Okayama
+- T. Owen
+- T. Peel
+- T. Peel (mirror)
+- T. Petrovic
+- T. Poulakakis
+- T. Pretak
+- T. Pringle
+- T. Roth
+- T. Roth (mirror)
+- T. Russ
+- T. Singh
+- T. Smale
+- T. Snowdon
+- T. Sullivan
+- T. Sullivan (mirror)
+- T. Summers
+- T. Welsby
+- T. Young
+- T. Ziegler
+- T.I. Staley
+- T.I. Staley (mirror)
+- T.J. Scott
+- Taft
+- Taggert (Ensign)
+- Taglonen
+- Takashi
+- Talmadge
+- Talon W'Xaria
+- Tamarius Sisko
+- Tamaron
+- Tamoon
+- Tanaka
+- Tanowski
+- Tanya Melendez (Starfleet)
+- Taral
+- Taranullus
+- Tarbolde
+- Tarquin
+- Tashmom
+- Tataglia
+- Tau (pirate)
+- Tawny Newsome (Admiral)
+- Tayar
+- Taylor (Admiral)
+- Taymon
+- Tazzy
+- Te' Mpest
+- Teagarden
+- Teague
+- Tegtmeir
+- Tehrani
+- Tellman
+- Telnorri
+- Telsia Murphy
+- Temba
+- Tennyson
+- Ter Haar
+- Ter' Esi
+- Terence Epstein
+- Teresa Garcia
+- Teri T. Hansen
+- Terri Martinez (Starfleet)
+- Terry Ahern (Starfleet)
+- Terry Ann
+- Terry Frazee (Starfleet)
+- Terry Matalas (Starfleet)
+- Terry P. Erdmann
+- Teshime
+- Tetis Barr
+- Tezber (physicist)
+- The Albino
+- The Cleaner
+- The Diviner (superorganism)
+- The Traveler
+- Theodore Wallace
+- Thomas
+- Thomas Arp (Starfleet)
+- Thomas Causey (Starfleet)
+- Thomas McCormick Stormont III
+- Thomas Purser
+- Tiet
+- Tiffson Modany
+- Tim Mongi
+- Tim Roller (Starfleet)
+- Tim Stepeck (Starfleet)
+- Tim Yan
+- Timothy M.R. Peel
+- Tiron
+- Tod Miles
+- Todd Marks (Starfleet)
+- Toki
+- Tom Arp
+- Tom Benko (Commander)
+- Tom Conley (Starfleet)
+- Tom Corbin
+- Tom Moore (Starfleet)
+- Tom Norris
+- Tom P. Mahoney
+- Tom Sales (Starfleet)
+- Tomas Sallvin (Starfleet)
+- Tony Graf (24th century)
+- Tony Meininger (Starfleet)
+- Tony Reynolds
+- Torsus
+- Torvin (Gaia)
+- Tosin
+- Tosk
+- Townof Bedrock
+- Tracy Tormé (comedian)
+- Trag
+- Trag'tok
+- Trajok
+- Travers
+- Trax
+- Treble Clef
+- Trellit
+- Trelos Vren
+- Trenka Bron-Ken
+- Trevor Roth (Starfleet)
+- Trevor Roth (passenger)
+- Trillya
+- Trinity Bridges
+- Trodo
+- Troy Sisko
+- Trumari
+- Tuan Vo
+- Tyler (Deep Space 9)
+- Tyrell Sisko
+- Tyronica Sisko
+- Tyvanna
+- U. Eroreich
+- USS Intrepid (NCC-79520) personnel
+- Ulan Sisko
+- Umali
+- Umbato
+- Ummi De'de
+- Unai
+- Unzak
+- Uttan Narsu
+- Uzani
+- V. Wilmott
+- Vaarza
+- Vader
+- Valerie Canamar (Starfleet)
+- Van Doren
+- Varn
+- Varria
+- Vassbinder
+- Vassiea Hurt (Starfleet)
+- Vekor
+- Vell
+- Verma
+- Veta
+- Vhila
+- Vigo
+- Vilix'pran
+- Villus Thed
+- Vincent Van Dyke (Starfleet)
+- Ving Kuda
+- Virginia Berg (Starfleet)
+- Von Varga (Starfleet)
+- W. Bligh
+- W. Budge
+- W. Budge (mirror)
+- W. Clinton
+- W. Comeau
+- W. Dunsel
+- W. Mies
+- W. Sidarous
+- W. Sidarous (mirror)
+- W.F. Beyer
+- Wade Felker (24th century)
+- Wadjet
+- Wagner
+- Walker (Ensign)
+- Walter Horne
+- Walter M. Jefferies (Starfleet)
+- Waverly Smothers (Lieutenant)
+- Webb (Commander)
+- Weiss (Lieutenant)
+- Weiss (physicist)
+- Wells
+- Wendy Drapanas (Ensign)
+- Wendy Drapanas (Starfleet)
+- Wendy Knoller (24th century)
+- Wendy Neuss (Captain)
+- Wendy Neuss (Lieutenant Commander)
+- Wendy Neuss (Voyager)
+- Wendy Neuss (comedian)
+- Wendy Rosenfeld (Starfleet)
+- Wendy Ruiz (civilian)
+- Wendy Ruiz (comedian)
+- Wil Thoms (Captain)
+- Wilbur Finks (Lieutenant)
+- Will Eliscu (Starfleet)
+- Will Kayden
+- William Foster
+- William Geary
+- William George (Starfleet)
+- William Yates
+- Willis
+- Wilson (Commander)
+- Wong (Lieutenant)
+- Woo
+- Worene
+- Wright (Admiral)
+- Wrightwell
+- Wynsdey Adams
+- Xelo
+- Xon
+- Y'Raka
+- Y. Crosdale
+- Y. Efland
+- Yihong Ding (Starfleet)
+- Yint
+- Yolanda Toussieng (Starfleet)
+- Yost
+- Yudi Bennett (Starfleet)
+- Yuen
+- Yuri (person)
+- Z. Ferro
+- Z. Orton
+- Z. Vero
+- Zachary Clarkson (Starfleet)
+- Zakarian
+- Zan
+- Zanatos
+- Zaphod
+- Zar
+- Zareh
+- Zarro
+- Zavanko
+- Zayra Cabot (Starfleet)
+- Zechariah Hutton (Starfleet)
+- Zena (Discovery)
+- Zenrox
+- Zigwel Orgon
+- Zima
+- Zimbata
+- Zinda
+- Zips
+- Zjod
+- Zlangco
+- Zobral
+- Zoey Pentacoff
+- Zoey Phillips
+- Zorath
+- Zoumas
+
+## 種族/陣營 (factions)
+- Acamarian Ruling Council
+- Alsuran Empire
+- Andorian Empire
+- Andorian Imperial Guard
+- Angosian Senate
+- Angosian military
+- Annari Empire
+- Argrathi Authority
+- Atrean government
+- B'omar Sovereignty
+- Ba'ul High Council
+- Bajoran Militia
+- Bajoran Occupational Government
+- Bajoran Republic
+- Bajoran War Orphans Fund
+- Bara Plenum
+- Barzanian Planetary Republic
+- Benthan Guard
+- Betazed Youth Delegation
+- Betazed government
+- Biker gang
+- Book club
+- Borg Collective
+- Bothan government
+- Breen Confederacy
+- Breen Imperium
+- Brigade
+- Cardassian Central Command
+- Cardassian Science Ministry
+- Cardassian Union
+- Cardassian military
+- Club (organization)
+- Coalition of Madena
+- Commonwealth of Denebia
+- Community
+- Confederacy of Surak
+- Confederate States of America
+- Confederation Corps
+- Confederation of Earth
+- Council (United Earth)
+- Council of Nobles
+- Criminal organization
+- Denobulan Infantry
+- Devore Imperium
+- Dominion
+- Dominion Alliance
+- Dynasty
+- Elysian Ruling Council
+- Emerald Chain
+- Emerald Chain Congress
+- Eminian High Council
+- Eminian Union
+- Enolian Guard
+- Etanian Order
+- Fan club
+- Federation Naval Patrol
+- Fenris Rangers
+- Ferengi Alliance
+- Ferengi Benevolent Association
+- Ferengi government
+- Ferengi military
+- Fibonan High Council
+- Fibonan Republic
+- First Empire
+- First Federation
+- First Republic (Bajoran)
+- First Republic (Cardassian)
+- French Army
+- General Council
+- Gideon Council
+- Gorn Hegemony
+- Haakonian Order
+- Halkan Council
+- Hekaran government
+- Hierarchy
+- House Azure
+- House Tendi
+- Iconian Empire
+- Independent Archaeologists Guild
+- Inquisitional Tribunal
+- Junior Judicial Association
+- Kazon Order
+- Kelpien and Ba'ul Alliance
+- Kelvan Empire
+- Khionian Realm
+- Khionian Royal Guard
+- Kingdom
+- Klaestron government
+- Klingon Defense Force
+- Klingon Empire
+- Klingon Imperial Court
+- Klingon Imperial Fleet
+- Klingon Oversight Council
+- Klingon-Cardassian Alliance
+- Kreetassan Chancellery
+- Krenim Imperium
+- Kressarian government
+- Krowtonan Guard
+- Kyrian forces
+- Kzinti government
+- Legation of Unity
+- Linnarean Guard
+- Lysian Alliance
+- Lyssarian Prime Conclave
+- Mars Historical Preservation Society
+- Mathenite government
+- Mazarite High Council
+- Merchant fleet
+- Military
+- Military organization
+- Minosian High Council
+- Minosian Sway
+- Mokra Order
+- Monean Maritime Sovereignty
+- Motali Empire
+- Ni'Var Government
+- Nyberrite Alliance
+- Orion Union
+- Paradan government
+- Parliament of Angel I
+- Planet 10 Shipping
+- Planetary alliance
+- Q Continuum
+- Qomar Planetary Alliance
+- Quaternary star systems
+- Quorum
+- R'ongovian Protectorate
+- Redshirts
+- Resource
+- Rigel Beta
+- Risa Hedony
+- Roman Empire (892-IV)
+- Romulan Free State
+- Romulan Guard
+- Romulan Star Empire
+- Romulan military
+- Roquarri Imperium
+- Royal Family of Hysperia
+- Royal Family of Luria
+- Ruling Tribunal of the Aquans
+- Second Empire
+- Secret police
+- Secretary of Exploration
+- Sheliak Corporate
+- Slaver Empire
+- Son'a Command
+- Son'a Empire
+- Sovereign Dynasty of Krios Prime
+- Sovereign Guard
+- Space force
+- Speed of Light Club
+- Stacius Trade Guild
+- Starfleet Opera Society
+- Starfleet Scouts
+- Starfleet special forces
+- Suliban government
+- Tactical Air Command
+- Takret Militia
+- Talarian Republic
+- Talaxian Defense Forces
+- Tarahong government
+- Teenaxi Delegation
+- Ten Tribes
+- Terran Empire
+- The Collectors Guild
+- The Order
+- The Patriarchy
+- The Uprising
+- Tholian Assembly
+- Tholian Republic
+- Tigan pergium mining business
+- Tkon Empire
+- Trabe Governing Council
+- Trade guild
+- Trading consortium
+- Trelonian government
+- Tribal Council
+- Tribunal of Alpha III
+- Trillian government
+- Troyius Tribunal
+- United Earth
+- United Earth and Titan
+- United Federation of Planets
+- Vaskan forces
+- Vendikar High Council
+- Vidiian Sodality
+- Vlugta government
+- Vori Defense Contingent
+- Vulcan High Command
+- Vulcan High Council
+- Waste export industry
+- Xindi Council
+- Xindi Empire
+
+## 種族/陣營 (factions) - 續
+- Aaamazzarite
+- Aamaarazan
+- Abronian
+- Acamarian
+- Adropiae
+- Aenar
+- Akaali
+- Akoszonam
+- Akritirian
+- Aksani
+- Alcyone
+- Aldean
+- Alfarian
+- Algolian
+- Allasomorph
+- Alpha and Beta Quadrant species
+- Alpherati
+- Alshain
+- Altoran
+- Anabaj
+- Andoran
+- Andorian
+- Angosian
+- Ankari
+- Annari
+- Antaran
+- Antarian
+- Antedian
+- Antican
+- Antidean
+- Apergosian
+- Aqu'tican
+- Aquan
+- Arbazan
+- Arcadian
+- Arcturian
+- Ardanan
+- Areore
+- Argelian
+- Argosian
+- Argrathi
+- Arin'Sen
+- Ariolo
+- Arkarian
+- Arkenite
+- Arkonian
+- Arretan
+- Arrithean
+- Atrean
+- Aurelian
+- Australopithecine
+- Axanar
+- Ayt
+- B'Saari
+- B'omar
+- Ba'Neth
+- Ba'ku
+- Ba'ul
+- Baezian
+- Bajoran
+- Bandi
+- Banea
+- Bardeezan
+- Barkonian
+- Barolian
+- Barzan
+- Bendali
+- Benkaran
+- Benthan
+- Benzenite
+- Benzite
+- Berellian
+- Beta Annari
+- Betan (species)
+- Betarian
+- Betazoid
+- Betelgeusian
+- Bolian
+- Boltzmann brain
+- Boraalan
+- Boray
+- Borg
+- Borothan
+- Boslic
+- Botha
+- Bozelian
+- Breen
+- Brekkian
+- Brenari
+- Brikar
+- Briori
+- Brunali
+- Bynar
+- Byzallian
+- Bzzit Khaht
+- Caatati
+- Cairn
+- Caitian
+- Calamarain
+- Calation
+- Caldonian
+- Camorite
+- Cancri
+- Capellan
+- Cardassian
+- Catullan
+- Cetidactyl
+- Chalnoth
+- Chameloid
+- Chandran
+- Changeling
+- Chenari
+- Chessu
+- Chokuzan
+- Chrysalian
+- Ckaptir
+- Clicket
+- Corazonian
+- Coridanite
+- Corvallen
+- Coverian
+- Cravic
+- Crepusculan
+- Cube (species)
+- Cymari
+- Cytherian
+- D'Arsay
+- Dachlyd
+- Daliwakan
+- Dar-Sha
+- Deakohn
+- Debrune
+- Dekendi
+- Delbian
+- Deleb
+- Delta Quadrant species
+- Deltan
+- Demerian
+- Denebian
+- Denobulan
+- Devidian
+- Devore
+- Dilmerian
+- Dinaali
+- Dokkaran
+- Doopler
+- Doosodarian
+- Dopterian
+- Dosi
+- Douwd
+- Dralian
+- Dramen
+- Drayan
+- Draylaxian
+- Drella
+- Drellian
+- Dreman
+- Drookmani
+- Droom
+- Drumhok
+- Druoda
+- Dulainian
+- Edo
+- Edosian
+- Efrosian
+- Ekosian
+- El-Aurian
+- Elasian
+- Elaysian
+- Ellora
+- Eminian
+- Enaran
+- Enderprizian
+- Enolian
+- Entaban
+- Entharan
+- Eska
+- Etanian
+- Evora
+- Excalbian
+- Fabrini
+- Facian
+- Falsettian
+- Farian
+- Farn
+- Fen Domar
+- Ferengi
+- Fesoj
+- Fibonan
+- Finnean
+- Flaxian
+- Furie
+- Galadoran
+- Galardonian
+- Galipotan
+- Gallamite
+- Gamma Quadrant species
+- Garan
+- Garenor
+- Gelrakian
+- Gemarian
+- Genton
+- Ghorusdan
+- Gideon
+- Golanan
+- Gorlan
+- Gorn
+- Grazerite
+- Gree
+- Greek god
+- Grizzela
+- Haakonian
+- Halanan
+- Halem'nite
+- Haliian
+- Halkan
+- Hanonian
+- Haplee
+- Haradin
+- Harvongian
+- Hazari
+- Hekaran
+- Hirogen
+- Hornish
+- Horta
+- Human
+- Humanoid species
+- Hupyrian
+- Hur'q
+- Husnock
+- Iconian
+- Idanian
+- Ikaaran
+- Ilari
+- Ilidarian
+- Illyrian
+- Imhotep
+- Invernian
+- Iotian
+- Ithenite
+- Iyaaran
+- J'naii
+- JahSepp
+- Jarada
+- Jeh’han
+- Jelinian
+- Jem'Hadar
+- Jikaru
+- Jye
+- K'normian
+- Kadi
+- Kaelon
+- Kaferian
+- Kalandan
+- Kalar
+- Kalean
+- Kanarian
+- Kantare
+- Karemma
+- Kasheeta
+- Kasseelian
+- Kazarite
+- Kazleti
+- Kazon
+- Kellerun
+- Kellidian
+- Kelpien
+- Kelvan
+- Kemiyan
+- Kerelian
+- Kerkhovian
+- Kesat
+- Kesprytt
+- Khionian
+- Khwopian
+- Kiley
+- Kili
+- Kinbori
+- Kinjal
+- Klaestron
+- Klingon
+- Klowahkan
+- Kmada
+- Knickersonian
+- Kobali
+- Kobheerian
+- Kobliad
+- Koinonian (energy form)
+- Koinonian (physical being)
+- Kolaran
+- Kolhari
+- Komar
+- Kovaalan
+- Kradin
+- Kraylor
+- Kreetassan
+- Krenim
+- Kressari
+- Kriosian
+- Kromsapiod
+- Ktarian
+- Kurlan
+- Kwejian
+- Kyrian
+- Kzinti
+- Lactran
+- Lanthanite
+- Lapeerian
+- Ledosian
+- Legaran
+- Lenarian
+- Lethean
+- Leyron
+- Ligonian
+- Lihn Zhee
+- Lissepian
+- Lokirrim
+- Loom
+- Loque'eque
+- Lorillian
+- Lortian
+- Lothra
+- Lumerian
+- Lurian
+- Lutani
+- Lynd
+- Lyridian
+- Lysian
+- Lyssarian
+- Lytasian
+- M'Kroon
+- M'klexa
+- Majalan
+- Malcorian
+- Malgorian
+- Malkoth
+- Malon
+- Malosian
+- Malurian
+- Manchovite
+- Mari
+- Markalian
+- Markonian
+- Marlonian
+- Mathenite
+- Mawasi
+- Mazarite
+- Medusan
+- Megan
+- Megarite
+- Megazoid
+- Melkot
+- Mellanoid slime worm
+- Melthusian
+- Menk
+- Menthar
+- Mermaid
+- Metron
+- Mikhal Traveler
+- Mikulak
+- Minosian
+- Mintakan
+- Miradorn
+- Mislenite
+- Mizarian
+- Monean
+- Mordanite
+- Moropa
+- Morphinian
+- Mugato
+- Mutageocillus arniopolus
+- Mutageocillus kemagora
+- Mylean
+- N'Kree
+- Na'kuhl
+- Nacene
+- Nakan
+- Nameless
+- Nanokin
+- Napean
+- Nar Shaddan
+- Nasari
+- Nassordin
+- Nausicaan
+- Neanderthal
+- Nechani
+- Nezu
+- Nibiran
+- Nihydron
+- Non-humanoid species
+- Nonnikcam
+- Noophian
+- Norcadian
+- Norvalen
+- Numiri
+- Nuu'Bari
+- Nuvian
+- Nygean
+- Nyrian
+- Ocampa
+- Ockmenian
+- Ohawk
+- Olatunde
+- Oolan
+- Opelian
+- Oran'taku
+- Orb (species)
+- Orion
+- Ornaran
+- Osaarian
+- Osnullus
+- Overlooker
+- Ovion
+- Oxygene
+- Pahvan
+- Pakled
+- Palamarian
+- Palay'al
+- Pandronian
+- Paraagan
+- Paradan
+- Parein
+- Paxan
+- Pelian
+- Peljenite
+- Pelosian
+- Pendari
+- Pensarkan
+- Perrican
+- Petarian
+- Phylosian
+- Platonian
+- Plim
+- Plymeria native
+- Polonian
+- Ponea
+- Pralor
+- Preservers
+- Prime
+- Progenitor
+- Promellian
+- Provider
+- Proxcinian
+- Pygorian
+- Pythron
+- Q (species)
+- Qomar
+- Quarren (species)
+- R'Kaal
+- R'ongovian
+- Rakhari
+- Rakosan
+- Ram Izad
+- Ramatisian
+- Ramuran
+- Rasiinian
+- Reegrunion
+- Reman
+- Reptoid
+- Retellian
+- Rhaandarite
+- Rhino
+- Rigelian
+- Rigellian
+- Rilnar
+- Risian
+- Rodulan
+- Romulan
+- Rotciv
+- Ruji
+- Rukani
+- Rutian
+- Rytonian
+- Sakari
+- Saltah'na
+- Sarrotheyn
+- Sarthongian
+- Satarran
+- Satyr
+- Saurian (species)
+- Scalosian
+- Scathos
+- Schlerm
+- Scrubble
+- Sea tendril
+- Selay
+- Sentient volcano
+- Serilian
+- Serosian
+- Shamin
+- Shapeshifting species
+- Sheliak
+- Shepherd (species)
+- Shivolian
+- Sikarian
+- Skagaran
+- Skorr
+- Skrreea
+- Slaver
+- Solari
+- Soyousian
+- Spaceborne species
+- Species 10026
+- Species 116
+- Species 125
+- Species 149
+- Species 259
+- Species 262
+- Species 263
+- Species 312
+- Species 5174
+- Species 571
+- Species 5973
+- Species 6339
+- Species 8472
+- Sphere-Builder
+- Srivani
+- Stakoron
+- Stilph
+- Subytt
+- Suliban
+- T'Lani
+- T'lli Betan
+- T-Rogoran
+- Taal
+- Tagran
+- Taguan
+- Tak Tak
+- Takaran
+- Takarian
+- Takret
+- Talarian
+- Talavian
+- Talaxian
+- Talosian
+- Tandaran
+- Tanugan
+- Tarahongian
+- Tarchanne
+- Tarellian
+- Taresian
+- Targalan
+- Tarkalean
+- Tarkan
+- Tarkanian
+- Tarkannan
+- Tarlac
+- Tavnian
+- Taxor
+- Teenaxi
+- Tellarite
+- Telsian
+- Teplan
+- Terellian
+- Terkellian
+- Terran (mirror)
+- Terrelian
+- Terrellian (Alpha Quadrant)
+- Terrellian (Delta Quadrant)
+- Tesnian
+- Tezaarian
+- Thasian
+- The Children of Tama
+- Tholian
+- Tiburonian
+- Tilonian
+- Tosk (species)
+- Trabe
+- Trelonian
+- Triacus marauder
+- Triannon
+- Trill
+- Trill symbiont
+- Troyian
+- Turei
+- Tygarian
+- Tyran
+- Tyrellian
+- Tyrinean
+- Tzenkethi
+- U'tani
+- Ubean
+- Ullian
+- Unnamed species
+- Ursinoid
+- V'radian
+- Vaadwaur
+- Vaalian
+- Vagran
+- Valakian
+- Valerian
+- Valtese
+- Varalan
+- Varro
+- Vaskan
+- Vau N'Akat
+- Vedala
+- Vek
+- Vendorian
+- Vensiddian
+- Ventaxian
+- Verathan
+- Vezda
+- Vhnori
+- Vian
+- Vidiian
+- Violacean
+- Vissian
+- Vlugtan
+- Vojean
+- Vok'sha
+- Vorgon
+- Vori
+- Vornilian
+- Vorta
+- Vostigye
+- Voth
+- Vulcan
+- Wadi
+- Wogneer creature
+- Wraith
+- Wyngari
+- Wysanti
+- Xahean
+- Xantoras
+- Xarantine
+- Xelatian
+- Xepolite
+- Xindi-Aquatic
+- Xindi-Arboreal
+- Xindi-Avian
+- Xindi-Insectoid
+- Xindi-Primate
+- Xindi-Reptilian
+- Xyrillian
+- Yaderan
+- Yallitian
+- Yalosian
+- Yash-El
+- Yattho
+- Yeti
+- Yridian
+- Zahl
+- Zakdorn
+- Zaldan
+- Zalkonian
+- Zaranite
+- Zelonite
+- Zeon
+- Zetarian
+- Zevian
+- Zibalian
+- Zora Fel
+
+## 地點 (places)
+- 'aucdet IX
+- 2279 PL
+- 2466 PM
+- 40 Eridani A I
+- 892-IV
+- AR-558
+- Aaamazzara
+- Aamaarazan homeworld
+- Abaddon's space station
+- Acamar III
+- Achrady VII
+- Acibus X
+- Adarak Prime
+- Adashake Center
+- Address
+- Adelphous IV
+- Adigeon Prime
+- Agaron
+- Ahmedeen
+- Aia
+- Ajilon Prime
+- Aklion VII
+- Akritiri
+- Akritirian maximum security detention facility
+- Akstin
+- Alastria
+- Alcor IV
+- Aldea
+- Aldebaran (planet)
+- Aldebaran III
+- Aldebaron III
+- Alderaan
+- Aldus Prime
+- Alera
+- Alfa 117
+- Alfa 177
+- Algeron IV
+- Algol I
+- Algol II
+- Algol III
+- Algol IV
+- Algol V
+- Alondra
+- Alonzo's Vision
+- Alpha Balder IV
+- Alpha Braga IV
+- Alpha Braga VII
+- Alpha Carinae II
+- Alpha Carinae V
+- Alpha Centauri (planet)
+- Alpha Cygnus IX
+- Alpha Delphi IX
+- Alpha Eridani II
+- Alpha I
+- Alpha III
+- Alpha Laputa IV
+- Alpha Majoris I
+- Alpha Majoris II
+- Alpha Majoris III
+- Alpha Majoris IV
+- Alpha Majoris V
+- Alpha Majoris VI
+- Alpha Omicron VII
+- Alpha Onias III
+- Alpha VII
+- Alpherat
+- Alshain IV
+- Altair III
+- Altair IV
+- Altair VI
+- Altamid
+- Alture VII
+- Alva IV
+- Amargosa observatory
+- Amerind
+- Amleth Prime
+- Andevian II
+- Andoria Prime
+- Andreus V
+- Andros III
+- Angel I
+- Angosia III
+- Annandale
+- Antares Minor
+- Antares maelstrom
+- Antede III
+- Antica
+- Antica IV
+- Antide Prime
+- Antos IV
+- Anzo
+- Apergos
+- Arakis Prime
+- Arbazan (planet)
+- Archanis IV
+- Archer IV
+- Archer Spacedock
+- Archer's Planet
+- Arcturus (planet)
+- Ardana
+- Areolus
+- Argelius II
+- Argelius IV
+- Argeth
+- Argo (planet)
+- Argona II
+- Argratha
+- Argus Array
+- Argus X
+- Ariannus
+- Arkaria
+- Arlington IV
+- Arloff IX
+- Armus IX
+- Arnold's Planet
+- Arret
+- Arret (negative)
+- Arvada III
+- Aschelan V
+- Ashalon IV
+- Asp XXVII
+- Assenede
+- Astral V
+- Atalia VII
+- Atbar Prime
+- Athan Prime
+- Athos IV
+- Atifs IV
+- Atlec
+- Atrea IV
+- Automated repair station
+- Avenal VII
+- Avery III
+- Axanar (planet)
+- Axilus
+- Azati Prime
+- B'Saari II
+- Ba'Neth space station
+- Ba'ku (planet)
+- Babel
+- Bahar
+- Bahrat's space station
+- Bajor
+- Bajor I
+- Bajor II
+- Bajor III
+- Bajor IV
+- Bajor IX
+- Bajor V
+- Bajor VI
+- Bajor VII
+- Bajor VIII
+- Bajor X
+- Bajor XII
+- Bajor XIII
+- Bajor XIV
+- Balancar
+- Balkus 9
+- Balosnee VI
+- Banea (planet)
+- Baraam
+- Barisa Prime
+- Barkon IV
+- Barnett's World
+- Barradas III
+- Barson II
+- Barzan II
+- Bashi
+- Battlefield
+- Bavali Station
+- Baxter's Planet
+- Bayard's Planet
+- Beithir V
+- Bellus 4
+- Belman
+- Beltane IX
+- Benecia
+- Benev Selec
+- Bentha
+- Benthos
+- Benthos IV
+- Benzar
+- Berellium
+- Berengaria VII
+- Bergman's Planet
+- Bernay Prime
+- Bersallis III
+- Beta Agni II
+- Beta Antares IV
+- Beta Aquilae II
+- Beta Berman I
+- Beta Canopus
+- Beta Eminiar VII
+- Beta III
+- Beta III Orbital Station
+- Beta Penthe I
+- Beta Penthe II
+- Beta Penthe III
+- Beta Penthe IV
+- Beta Penthe V
+- Beta Penthe VII
+- Beta Tottoro IV
+- Beta Ursae Minor II
+- Beta V
+- Beta VI
+- Beta XII-A
+- Beta'Elan Minor
+- Betazed
+- Betelgeuse (planet)
+- Beth Delta I
+- Bewlay Island
+- Bezride
+- Bhungar V
+- Bilana III
+- Bilaren
+- Bill's Place
+- Binar III
+- Birthplace
+- Blue Horizon
+- Bokara VI
+- Bolarus IX
+- Bootes III
+- Bopak III
+- Boraal II
+- Boradis III
+- Boranis III
+- Boreal III
+- Boreth
+- Borg booger barrier
+- Botanical section
+- Bozel Prime
+- Bracas V
+- Braslota (planet)
+- Brax (planet)
+- Bre'el IV
+- Breen (planet)
+- Brekka
+- Brentalia
+- Breton's Planet
+- Bringloid V
+- Brookshire's Planet
+- Browder IV
+- Bryma
+- Buckley's Planet
+- Burala Prime
+- Bynaus
+- CR-721
+- Caere
+- Cairn (planet)
+- Cajitar IV
+- Cal Rae
+- Calder II
+- Caldik Prime
+- Caldonia
+- Caldos
+- Caleb IV
+- Callinon VII
+- Callor V
+- Calondia IV
+- Calyx
+- Camor V
+- Campor III
+- Campsite
+- Campus
+- Camus II
+- Cancri IV
+- Canopus III
+- Canopus Major
+- Canopus Planet
+- Capella IV
+- Cardassia I
+- Cardassia III
+- Cardassia IV
+- Cardassia Prime
+- Cardassia V
+- Carema III
+- Caretaker's array
+- Carinae Delta V
+- Carnelian minefield
+- Carpi
+- Carr's Planet
+- Carraya IV
+- Casperia Prime
+- Castal I
+- Catulla
+- Celes II
+- Celtris III
+- Centauri IV
+- Centauri VII
+- Centre Minor
+- Cerberus
+- Cerberus II
+- Cestus III
+- Ceti Alpha IV
+- Ceti Alpha V
+- Ceti Alpha VI
+- Chalna
+- Chaltok IV
+- Chandra V
+- Chaya VII
+- Checkpoint
+- Cheron
+- Chin'toka scrapyard
+- Cirrus IV
+- Coltar IV
+- Coopersworld
+- Coppelius
+- Cor Caroli V
+- Coral reef
+- Corazonia
+- Coridan
+- Corinth IV
+- Crime scene
+- Crivo
+- Cultural site
+- Cybulski's Planet
+- Cygnet XIV
+- Cygnia Minor
+- Cytrax
+- D'Arsay archive
+- Da'Karo
+- Da'Karo Prime
+- Dahm Prime
+- Daimanta
+- Dakala
+- Daled IV
+- Daled V
+- Daliwaka
+- Dalvos Prime
+- Dannus I
+- Dannus II
+- Dannus III
+- Dannus IV
+- Dannus V
+- Dannus VI
+- Dansk
+- Dantang
+- Danube 7
+- Danula II
+- Daran V
+- Davlos III
+- Dayos IV
+- Daystrom Station
+- Decos Prime
+- Dedestris
+- Deep Space 11
+- Deep Space 12
+- Deep Space 2
+- Deep Space 23
+- Deep Space 253
+- Deep Space 3
+- Deep Space 4
+- Deep Space 5
+- Deep Space 6
+- Deep Space 7
+- Deep Space 9
+- Deep Space Repair Beta Six
+- Deep Space Station K-7
+- Deinonychus VII
+- Dekendi III
+- Delb II
+- Delinia II
+- Delios VII
+- Della Santini
+- Delos IV
+- Delphi Ardu IV
+- Delta IV
+- Delta IX
+- Delta Scorpii VII
+- Delta Theta III
+- Delta Vega
+- Delta Vega (Vulcan system)
+- Denaxi
+- Deneb II
+- Deneb IV
+- Deneb V
+- Deneb XX
+- Deneva
+- Denius III
+- Denkir II
+- Denkir IV
+- Denkir Orbital City
+- Denobula
+- Denobula Prime
+- Deriben V
+- Dessica II
+- Detria II
+- Detria VI
+- Detrion 9
+- Devidia II
+- Devore sensor array
+- Devos II
+- Dilmer III
+- Dimorus
+- Dinaal
+- Distribution point
+- Doctari Alpha
+- Donatu V
+- Donatu VII
+- Doraf I
+- Dorvan V
+- Dozaria
+- Draken IV
+- Dramia
+- Dramia II
+- Drayan II
+- Draygo IV
+- Draylax
+- Drema IV
+- Drema V
+- Dreon VII
+- Duder's Haven
+- Dulaine
+- Dulisian IV
+- Durenia IV
+- Dylhuc
+- Dytallix
+- Dytallix B
+- Earth
+- Earth Colony II
+- Earth satellite network
+- Earth spacedocks
+- Eblar Prime
+- Eden
+- Edos
+- Edrin II
+- Ekos
+- El-Adrel IV
+- Elas
+- Elba II
+- Elba II Orbital Transit Station
+- Elpanah
+- Elpha
+- Elworth V
+- Emila II
+- Eminiar VII
+- Empok Nor
+- Enara Prime
+- Endicronimas V
+- Ennan VI
+- Environment
+- Epicenter
+- Epsilon Ashanti III
+- Epsilon Canaris III
+- Epsilon Hydra VII
+- Epsilon IV
+- Epsilon IX station
+- Epsilon Indi II
+- Epsilon Indi III
+- Epsilon Indi IV
+- Epsilon Juday
+- Epsilon Wiltz IV
+- Erabus Prime
+- Erb'oh
+- Eresa
+- Eridani D
+- Errikang VII
+- Eternal Archive
+- Eternal Gallery and Archive
+- Etheenia
+- Evadne IV
+- Excalbia
+- Exo III
+- Exo-Port
+- Fahleena III
+- Faralos III
+- Farius Prime
+- Farrar's World
+- Federation Headquarters station
+- Feeding ground
+- Fekdar
+- Felton Prime
+- Fendaus V
+- Fenris
+- Ferenginar
+- Ferris VI
+- Fina Prime
+- Finibus I
+- Finibus II
+- Finibus III
+- Finibus IV
+- Finibus V
+- Finibus VI
+- Finnea Prime
+- Fireforest
+- Folnar III
+- Forcas III
+- Forlat III
+- Foster-D'Angelo
+- Fosters Folly
+- Free Haven
+- Freecloud
+- Frylon IV
+- Gagarin IV
+- Gaia
+- Galador II
+- Galardon
+- Galdonterre
+- Galdonterre I
+- Galdonterre II
+- Galdonterre IV
+- Galdonterre V
+- Galen IV
+- Gallima
+- Gallos II
+- Galor IV
+- Galorda Prime
+- Galorndon Core
+- Galt (planet)
+- Galvin V
+- Gamelan V
+- Gamma Argus II
+- Gamma Hromi II
+- Gamma Hydra II
+- Gamma Hydra IV
+- Gamma Monak
+- Gamma Tauri IV
+- Gamma Trianguli IV
+- Gamma Trianguli VI
+- Gamma Vertis IV
+- Ganalda IV
+- Garadius IV
+- Garbage dump
+- Garon II
+- Gaspar VII
+- Gault
+- Gedi Prime
+- Gelrak V
+- Gema IV
+- Gemaris V
+- Gemulon V
+- Gene's World
+- Genesis (planet)
+- Ghorusda
+- Gideon (planet)
+- Gigean
+- Glavinworld
+- Glish
+- Goja V
+- Golana
+- Golos Prime
+- Gonal IV
+- Goralis III
+- Gorath
+- Gothos
+- Gravesworld
+- Graviton catapult
+- Grazer
+- Grottonus
+- Grove Yellow
+- H'atoria
+- H'erat
+- Ha'Dara
+- Habitat
+- Hakton VII
+- Halem'no
+- Hanolan (planet)
+- Hanon IV
+- Hanoran II
+- Hansen's Planet
+- Harlak
+- Harod IV
+- Harrakis V
+- Harstedt's Planet
+- Haven
+- Hawkins' Planet
+- Hectaron
+- Hekaras II
+- Helicon Gamma
+- Hemikek IV
+- Hetemit IX
+- Heva VII
+- Heva VII refueling port
+- Hilgroen
+- Hima
+- Hindmar
+- Hirogen Prime
+- Hirogen training facility
+- Hispaniola Minor
+- Hodos
+- Hoek IV
+- Hokath
+- Holberg 917G
+- Holna IV
+- Hornish (planet)
+- Hubble Deep Space Station
+- Hubble Space Telescope
+- Hunhau
+- Hupyria V
+- Hurada III
+- Hurkos III
+- Hysperia
+- Iconia
+- Icor IX
+- Iczerone Stimson
+- Ikasu
+- Ilari (planet)
+- Ilidaria
+- Illyria
+- Ilyra VI
+- Inavar Prime
+- Indri VIII
+- Inferna Prime
+- Ingraham B
+- International Space Station
+- Invernia II
+- Io Facility
+- Iota Geminorum IV
+- Iraatan V
+- Isis III
+- Iso VII
+- Itamish I
+- Itamish III
+- Ithian Forests
+- Ivor Prime
+- Iyar
+- Izar
+- J'naii (planet)
+- Jaffeworld
+- Janlee
+- Janus VI
+- Japori II
+- Jaros II
+- Jaxxa Prime
+- Jengus IV
+- Jongri
+- Jouret IV
+- Juhraya
+- Jupiter
+- Jupiter Station
+- Jura'assic IV
+- K'Normia
+- K'Tuevon Prime
+- K'ushui
+- Kabatris
+- Kabrel I
+- Kabrel II
+- Kaelon II
+- Kaijur XII
+- Kalara V
+- Kaldra IV
+- Kalla III
+- Kalona 54
+- Kamata (Tamarian)
+- Kaminar
+- Kanda IV
+- Kantare (planet)
+- Kanza
+- Kaphar
+- Kaphar Prime
+- Karemma (planet)
+- Karzil
+- Karzill IV
+- Kasar
+- Kataan
+- Kavaria
+- Kavis Alpha IV
+- Kazon Clan Forum
+- Kei
+- Kelfour VI
+- Kellerun (planet)
+- Kelva
+- Kelvas Prime
+- Kelvas V
+- Kelvas facility
+- Kemiyo
+- Kenda II
+- Kenfori
+- Kentanna
+- Kepler-174d
+- Kepler-22b
+- Kerkhov
+- Kesef
+- Kesprytt III
+- Kessik I
+- Kessik II
+- Kessik III
+- Kessik IV
+- Kessik V
+- Kessik VI
+- Kessik VII
+- Keto-Enol
+- Khefka IV
+- Khionia
+- Khitomer
+- Khosla II
+- Khwopa
+- Kiley 279
+- Kim-Tara
+- Kir (location)
+- Klaestron IV
+- Klavdia III
+- Klendth
+- Klowahka
+- Knoll's Planet
+- Kobliad (planet)
+- Kolarus III
+- Kora II
+- Koralis III
+- Korat
+- Korma
+- Korris I
+- Kostolain
+- Kotara Barath
+- Kotati
+- Kraus IV
+- Kreetassa
+- Krios Prime
+- Krulmuth-B
+- Ktaria VII
+- Ktaris
+- Kurill Prime
+- Kurl
+- Kwejian (planet)
+- Kyana Prime
+- Kylata II
+- Kyron 4
+- Kzin
+- L-374 I
+- L-374 II
+- L-374 III
+- L-374 IV
+- L-S VI
+- L5 Test Station
+- LT-358
+- Lactra VII
+- Lamenda Prime
+- Landing site
+- Landris II
+- Lapeeria
+- Lappa IV
+- Largo V
+- Lashmir
+- Latonaworld
+- Lauren III
+- Lav'oti V
+- Ledonia III
+- Ledos
+- Legara IV
+- Lembatta V
+- Lemma II
+- Lerishi IV
+- Lessek Prime
+- Levinius V
+- Libra
+- Ligillium
+- Ligobis X
+- Ligon II
+- Ligon orbital control station
+- Ligos VII
+- Lilliput IX
+- Lissepia
+- Little Qo'noS
+- Little Risa
+- Locarno
+- Location 5499, section 16
+- Longo World
+- Loracus Prime
+- Loren III
+- Loresworld
+- Los Angeles Heritage Site
+- Loval
+- Lowani
+- Ludovko IX
+- Lunar Receiving
+- Lungha
+- Luria
+- Lutani II
+- Lutani III
+- Lutani IV
+- Lutani IX
+- Lutani V
+- Lutani VI
+- Lutani VII
+- Lutani VIII
+- Lutani X
+- Lya III
+- Lya IV
+- Lya Station Alpha
+- Lyrek
+- Lyshan
+- Lysia
+- Lysian Central Command
+- M'Kroon (planet)
+- M'kemas III
+- M'talas IV
+- M'talas Prime
+- M-11
+- M-113
+- Maarek III
+- Mab-Bu VI
+- Magus III
+- Majalis
+- Makus III
+- Malaya IV
+- Malcor III
+- Maldorian station
+- Malindi VII
+- Malkus IX
+- Malman V
+- Malon Prime
+- Man-us II
+- Manark IV
+- Mantilles
+- Manu III
+- Maranga IV
+- Maravel
+- Marayna's space station
+- Marcos XII
+- Marcus II
+- Marejaretus VI
+- Mariah IV
+- Marijne VII
+- Marin-Jira
+- Mariposa (planet)
+- Marlonia
+- Mars
+- Mars Orbital Facility
+- Mars Station
+- Martin's Planet
+- Marva IV
+- Mataline II
+- Matiovsky IV
+- Mavok Prime
+- Maxia Zeta I
+- Maxia Zeta II
+- Maxia Zeta III
+- Maxia Zeta IV
+- Maxia Zeta V
+- Maxia Zeta VI
+- Maxia Zeta VII
+- Mazar
+- McKinley Station
+- McKnight's Planet
+- Meezan IV
+- Megas-Tu
+- Meldrar I
+- Meles II
+- Melina II
+- Melnos IV
+- Melona IV
+- Merak II
+- Mercury (planet)
+- Meridian
+- Merik III
+- Meslah V
+- Micromius
+- Midos V
+- Midos V Satellite City Spaceport
+- Mikah
+- Milika III
+- Minara II
+- Minas V
+- Minnobia
+- Minos
+- Minos Korva (planet)
+- Mintaka III
+- Mir
+- Miri (planet)
+- Miridian VI
+- Mislen
+- Mithren
+- Mixtus II
+- Mixtus III
+- Mizar II
+- Moab I
+- Moab II
+- Moab III
+- Moab IV
+- Moab V
+- Moab VI
+- Modean
+- Molmol's homeworld
+- Monac IV
+- Mora V
+- Mordan IV
+- Moreyworld
+- Morikin VII
+- Morska
+- Motherlode
+- Mudd
+- Mudor V
+- Mundahla
+- Murder Planet
+- Mutara Interdimensional Deep Space Array System
+- Myrmidon
+- N'Vak
+- N'yengoren
+- NAR-30974
+- Na'Seth
+- Na'rel
+- Nagor
+- Nahmi IV
+- Nanibia Prime
+- Napea
+- Napinne
+- Narendra III
+- Narita's Planet
+- Narj's Miraculous Menagerarium
+- Narva
+- Nasreldine
+- Nausicaa
+- Navigational Control Post 24
+- Nel III
+- Nelvana I
+- Nelvana II
+- Nelvana III
+- Nelvana IV
+- Nelvana V
+- Nepenthe
+- Neptune
+- Nervala IV
+- Neubilia Prime
+- Neural
+- New Axton
+- New Bajor
+- New Brooklyn IX
+- New Chicago
+- New Earth
+- New France
+- New Gaul
+- New Halana
+- New Kentanna
+- New Mecca
+- New Melona
+- New Paris
+- New Qo'noS
+- New Sydney
+- New Vulcan
+- Ni'Var
+- Nibia
+- Nibiru
+- Nimbus III
+- Ninipia Prime
+- Nivoch
+- Noble Isle
+- Nollman's Planet
+- Norcadia Prime
+- Norellus
+- Norpin
+- Norpin V
+- Nova Kron
+- Nyria III
+- Nyria V
+- O'Ryan's Planet
+- Oby VI
+- Ocampa (planet)
+- Oceanus IV
+- Ockmenic 9
+- Ogat
+- Ogus II
+- Ohniaka III
+- Okuda Prime
+- Old Axton
+- Omega Centus I
+- Omega Cygni
+- Omega IV
+- Omekla III
+- Omicron Ceti III
+- Omicron IV
+- Omicron Lyrae
+- Omicron Theta
+- Oomaru
+- Oonla
+- Operation Retrieve star chart locations
+- Ophiucus III
+- Ophiucus VI
+- Oran'taku (planet)
+- Orbital Drydock Facility
+- Orbital office complex
+- Orelious IX
+- Orellius
+- Orendal V
+- Organ bank
+- Organia
+- Orias III
+- Orion (planet)
+- Orion I
+- Orion III
+- Ornara
+- Oshionian Prime
+- Osinar VI
+- Osnullus homeworld
+- Otar II
+- Ovidia IV
+- P'Jem
+- Pacifica
+- Paffran
+- Pahvo
+- Pakled Planet
+- Paksor III
+- Palomar
+- Pandro
+- Panora
+- Paraagan II
+- Parada II
+- Parada IV
+- Parliament
+- Parnassus Beta
+- Parsion III
+- Peliar Zel II
+- Pelleus V
+- Pellex II
+- Pendari (planet)
+- Pendi II
+- Pentarus II
+- Pentarus III
+- Pentarus V
+- Pentath III
+- Penthara IV
+- Pernaia Prime
+- Perrican (planet)
+- Persephone I
+- Persephone II
+- Persephone III
+- Persephone IV
+- Persephone V
+- Persephone VI
+- Persephone VII
+- Persephone VIII
+- Persioff IX
+- Phanos
+- Phylos
+- Pijar
+- Piskes IX
+- Planet 0042692
+- Planet 10 (DIM-8)
+- Planet 1865-Alpha
+- Planet Q
+- Planet Q orbit station
+- Planet Ray
+- Planet Two
+- Planetary classification
+- Platonius
+- Pluto
+- Plymeria
+- Polaris XII
+- Pollux IV
+- Pollux IV Orbital Station
+- Pollux V
+- Porakas IV
+- Porathia
+- Portas V
+- Posell VI
+- Potak III
+- Praetorian
+- Pragine 63
+- Prakal II
+- Praxon IV
+- Preenos
+- Prema II
+- Priors World
+- Procyon V
+- Prometheus
+- Prospect VII
+- Prospero Alpha
+- Proving ground
+- Pshurru
+- Psi 2000
+- Psi Epsilon III
+- Psi Epsilon IV
+- Psi Upsilon IV
+- Public space
+- Pullock V
+- Purmantee III
+- Purmata VI
+- Putak VIII
+- Pyris VII
+- Pythro V
+- Q'Tahl
+- Q'mau
+- Qo'noS
+- Qu'Vat
+- Quadra Sigma III
+- Quadrant 904 Central Station
+- Qualor II
+- Qualor III
+- Quam
+- Quarra
+- Quatal Prime
+- Quazulu VIII
+- Quinor VII
+- Raatooras
+- Rahm-Izad
+- Rakal (planet)
+- Rakella Prime
+- Rakhar
+- Rakosa V
+- Ramatis III
+- Ramura
+- Rana IV
+- Ranuos VI
+- Rao-Beyers
+- Raritan IV
+- Rator III
+- Razna V
+- Realm
+- Regent Lipsett
+- Regula I
+- Regulak IV
+- Regulus (planet)
+- Regulus II
+- Regulus III
+- Regulus V
+- Reilling VII
+- Rekag-Seronia
+- Relay 87 A
+- Relay Station 001
+- Relay Station 102-A
+- Relay Station 194
+- Relay Station 452
+- Relay Station 47
+- Relay Station 6110
+- Relay Station 67
+- Relay Station 902N
+- Relva VII
+- Remmil VI
+- Remmler Array
+- Remus
+- Renavi
+- Rendezvous point
+- Renhia
+- Restricted area
+- Rhaandar (planet)
+- Rhymus Major
+- Ricktor Prime
+- Rigel II
+- Rigel III
+- Rigel IV
+- Rigel V
+- Rigel VI
+- Rigel VII
+- Rigel VII Lagrange colony
+- Rigel X
+- Rigel XII
+- Risa
+- Rivos V
+- Rixx (location)
+- Rochani III
+- Roddenberry's Dream
+- Romulan Reclamation Site
+- Romulus
+- Ronara Prime
+- Rondac III
+- Room assignment
+- Rooseworld
+- Roost
+- Rosseau V
+- Ruah IV
+- Rubicun III
+- Rutia IV
+- SR-47
+- Sahil's relay station
+- Sahndara (planet)
+- Sakura Prime
+- Salata Major
+- Salina Prime
+- Salius VI
+- Saltah'na (planet)
+- Salva II
+- Sanctuary Four
+- Sappora VII
+- Sarnia Prime
+- Sarona VIII
+- Sarpedion V
+- Sarpeid
+- Sarpeidon
+- Sarthong V
+- Saturn
+- Sauria (planet)
+- Scalos
+- Scenic route
+- Schoolyard
+- Science Station Tango Sierra
+- Secarus IV
+- Section 31 Headquarters
+- Sefalla Prime
+- Seiji Major
+- Selay (planet)
+- Selcundi Drema
+- Seldonis IV
+- Selek IV
+- Sendu IV
+- Sentinel Minor IV
+- Septimus III
+- Serlay
+- Seros
+- Setlik I
+- Setlik II
+- Setlik III
+- Sha Ka Ree (planet)
+- Shaandra
+- Shantil III
+- Shatanari
+- Sherbal V
+- Sherman's Planet
+- Sheva II
+- Shiralea VI
+- Sigma Draconis I
+- Sigma Draconis II
+- Sigma Draconis III
+- Sigma Draconis IV
+- Sigma Draconis IX
+- Sigma Draconis V
+- Sigma Draconis VI
+- Sigma Draconis VII
+- Sigma Draconis VIII
+- Sigma Iotia II
+- Sigma Tama IV
+- Sigma X
+- Sikaris
+- Simperia
+- Sirah (site)
+- Sirius Delta
+- Sirius IX
+- Sirrie IV
+- Skygowan
+- Skylab
+- Snickmik V
+- Sobras
+- Sol Station
+- Solais V
+- Solarion IV
+- Solosos III
+- Soltok IV
+- Solum
+- Son'a (location)
+- Sorna Prime
+- Sothis III
+- Soukara
+- Space Station Freedom
+- Space station
+- Spacedock One
+- Spica
+- Stakoron II
+- Stameris
+- Stardust City Medical District
+- Starfleet Recruitment
+- Station K43
+- Straleb
+- Styris IV
+- Styxx
+- Suliban (location)
+- Sullivan's Planet
+- Sumiko III
+- Sumiko IV
+- Sunstone Winery
+- Surata IV
+- Surplus Depot Z15
+- Suspiria's array
+- Suvin IV
+- T'Cha
+- T'Khut
+- T'Lani III
+- T'Lani Prime
+- T'Zhay
+- T'lli Beta
+- TRAPPIST 1e
+- Tagra IV
+- Tagus III
+- Takara
+- Talax
+- Talaxia
+- Talos I
+- Talos II
+- Talos III
+- Talos IV
+- Talos IV (mirror)
+- Talos V
+- Tamaal
+- Tandar Prime
+- Tantalus V
+- Tanuga IV
+- Tanuga IV research station
+- Tarakis
+- Tarchannen III
+- Tarella
+- Taresia
+- Targalus IX
+- Taris Seti IV
+- Tarkalea
+- Tarlac system
+- Tarod IX
+- Tarpahk
+- Tarsas III
+- Tarsas IV
+- Tarsus IV
+- Tartaras V
+- Tartus IV
+- Tau Alpha C
+- Tau Ceti Deep Space Station
+- Tau Ceti III
+- Tau Ceti IV
+- Tau Ceti Prime
+- Tau Cygna V
+- Taurus II
+- Taurus VII
+- Tautine
+- Tavela Minor
+- Taygeta I
+- Taygeta IV
+- Teenax
+- Teerza Prime
+- Telemarius IV
+- Telfas Prime
+- Tellar Prime
+- Tellarite station
+- Tellun
+- Telsius Prime
+- Teluridian IV
+- Terlina III
+- Terok Nor
+- Terok Nor (mirror)
+- Terosa Prime
+- Terra 10
+- Terra Nova
+- Terralysium
+- Terrasphere 8
+- Terrellia
+- Tesnia
+- Tessen III
+- Tessik Prime
+- Test flight center
+- Tethys III
+- Tezaar
+- Thalos V
+- Thalos VI
+- Thalos VII
+- Thanatos VII
+- Thasus
+- Thasus IV
+- The Colony
+- The Valley
+- Thelka IV
+- Thelonii
+- Therbia
+- Theta Berman
+- Theta Cygni XII
+- Theta Helios
+- Theta III
+- Theta Jein
+- Theta Mees
+- Theta Moore
+- Theta Omicron IV
+- Theta VII
+- Theta VIII
+- Theta Zeta
+- Theta Zibal III
+- Tholia
+- Tholian asteroid dock
+- Tiburon
+- Tilonus IV
+- Timor II
+- Titus IV
+- Tohvun III
+- Tomb
+- Tonnata VII
+- Torad V
+- Toranius Prime
+- Torga IV
+- Torman V
+- Torna IV
+- Torona IV
+- Torros III
+- Torus 4 Deep Space Research Outpost
+- Totoro
+- Tourist attraction
+- Tracken II
+- Trebus
+- Trelka V
+- Trelkis III
+- Triacus
+- Trialas IV
+- Triannon (planet)
+- Trillius Prime
+- Triskelion
+- Triskelion Orbital Station
+- Triskelion Prime
+- Troyius
+- Tulgana IV
+- Turkana IV
+- Twin Gates
+- Ty'Gokor orbital facility
+- Tycho IV
+- Tychus (planet)
+- Tyree (planet)
+- Tyrellia
+- Tyrus VII
+- Tyrus VIIA research station
+- Tzenketh
+- Ubaya
+- Ufandi III
+- Ukeck
+- Ultima Thule
+- Umoth VIII
+- Unefra III
+- Unicomplex
+- Unit number
+- Unnamed Spacedock type stations
+- Unnamed Starbase 1 type stations
+- Unnamed Starbase 375 type stations
+- Unnamed fixed installations
+- Uranus
+- Urna
+- Ursa Nowhere
+- Vacation spot
+- Vacca VI
+- Vadia IX
+- Vadris III
+- Vagra II
+- Valakis
+- Valeo Beta V
+- Valo I
+- Valo II
+- Valo III
+- Valt Minor
+- Van Over's Planet
+- Van Over's Refuge
+- Vanden Prime
+- Vandros IV
+- Vannakur
+- Varala
+- Vashti
+- Vaytan I
+- Vega IX
+- Velara III
+- Velos VII
+- Veloz Prime
+- Vendikar
+- Vendor Prime
+- Vendu
+- Vener VII
+- Ventax II
+- Ventilation and recirc complex
+- Venus
+- Verdanis
+- Verex III
+- Vergessen
+- Veridian I
+- Veridian II
+- Veridian III
+- Veridian IV
+- Veridian V
+- Veridian VI
+- Vico V
+- Vilmor II
+- Vintar IV
+- Vissia
+- Volan II
+- Volan III
+- Volchok Prime
+- Vor'nak
+- Vrax (location)
+- Vulcan (alternate reality)
+- Waste management plant
+- Waterfront
+- Wenselworld
+- West's World
+- Work environment
+- Workplace
+- Wormhole relay station
+- Wrigley's pleasure planet
+- Wurna Minor
+- Wynsdey III
+- Wysanti (planet)
+- Xahea
+- Xanthii
+- Xanthras III
+- Xantoras (planet)
+- Xendi Sabu IX
+- Xenius
+- Xerxes VII
+- Xindus
+- Ya'Seem
+- Yaan
+- Yadalla IV
+- Yadalla Prime
+- Yadera II
+- Yadera Prime
+- Yonada Prime
+- Yosemite 3
+- Yridia (planet)
+- Yridia I
+- Ysida
+- Yuri
+- ZIP code
+- Zadar IV
+- Zakdorn (planet)
+- Zalkon
+- Zayra IV
+- Zeon (planet)
+- Zeon Minor
+- Zero (location)
+- Zero point
+- Zeta Alpha II
+- Zeta Antaras IV
+- Zeta Borealis
+- Zetar
+- Zimja
+- Zimmerman's World
+- Zoraster II
+- Zyra
+- Zytchin III
+
+## 事件 (events)
+- 10th century
+- 11th century
+- 12th century
+- 13th century
+- 14th century
+- 15th century
+- 16th century
+- 17th century
+- 18th century
+- 1900
+- 19th century
+- 1st century
+- 1st millennium AD
+- 26th century
+- 27th century
+- 28th century
+- 29th century
+- 2nd century
+- 2nd millennium AD
+- 30th century
+- 31st century
+- 32nd century
+- 33rd century
+- 34th century
+- 3rd century
+- 3rd millennium AD
+- 4th century
+- 4th millennium AD
+- 5012
+- 5th century
+- 6th century
+- 7009
+- 7th century
+- 8877
+- 8th century
+- 999
+- 9th century
+- A Pictorial History of the American Indian
+- Alternate timeline
+- American history
+- Ancient contact
+- Andorian Rebellion
+- Andorian history
+- Anti-time future
+- Anti-time past
+- Archaeological dig
+- Archaeological medicine
+- Arms race
+- Attack on Avenal VII
+- Attack on Bryma
+- Attack on Corvan II
+- Attack on Mars
+- Attack on Starbase J19-Alpha
+- Attack on the USS Athena
+- Augment Crisis
+- Babel Crisis
+- Backstory
+- Bajoran history
+- Barter by combat
+- Battle at Federation Headquarters
+- Battle at Pahvo
+- Battle in the Bassen Rift
+- Battle near Gamma Serpentis
+- Battle near Xahea
+- Battle of Ajilon Prime
+- Battle of Andoria
+- Battle of Axanar
+- Battle of Azati Prime
+- Battle of Betazed
+- Battle of Caleb IV
+- Battle of Cardassia
+- Battle of Ceti Alpha V
+- Battle of ChaKana
+- Battle of Cheron
+- Battle of Donatu V
+- Battle of Faan Alpha
+- Battle of Frontier Day
+- Battle of Genesis
+- Battle of HarOs
+- Battle of J'Gal
+- Battle of Kalla
+- Battle of Klach D'kel Brakt
+- Battle of Maxia
+- Battle of Mempa
+- Battle of Narendra III
+- Battle of New Bajor
+- Battle of New York City
+- Battle of Orelious IX
+- Battle of Prexnak
+- Battle of Procyon V
+- Battle of Ricktor Prime
+- Battle of Rondac III
+- Battle of Sector 001
+- Battle of Solum
+- Battle of Tau Ceti
+- Battle of Tempasa
+- Battle of Terok Nor
+- Battle of Thirat
+- Battle of Tong Vey
+- Battle of Torros III
+- Battle of Veridian III
+- Battle of Vintaak
+- Battle of Vorkado
+- Battle of Wolf 359
+- Battle of Zambrano
+- Battle of the Akaali Homeworld
+- Battle of the Binary Stars
+- Battle of the Briar Patch
+- Battle of the Mutara Nebula
+- Battle of the Omarion Nebula
+- Battle of the Pyrithian Gorge
+- Battle of the doughnuts
+- Battle of the sexes
+- Betazed history
+- Betreka Nebula Incident
+- Biological war
+- Blood feud
+- Bohemia
+- Border Incursions of 2112
+- Border dispute
+- Borg history
+- Borg resistance
+- Borg-Species 8472 War
+- Breen Civil War
+- Buranian
+- Cardassian Liberation Front
+- Cardassian Resistance
+- Cardassian history
+- Chernobyl
+- Chronicle (title)
+- Civil war
+- Clash
+- Combat
+- Conflicts
+- Conqueror
+- Conquest
+- Coridanite Civil War
+- Coup d'état
+- Crucifixion
+- Crusade
+- Cultural history
+- Dead Sea Scrolls
+- Defense of Coppelius
+- Defiant history
+- Denobulan-Antaran wars
+- Distant past
+- Dominion Alliance War
+- Dominion War
+- Dominion cold war
+- Dominion history
+- Duel
+- Early Starfleet History
+- Earth-Romulan War
+- Eminiar-Vendikar War
+- Enterprise history
+- Ersalrope Wars
+- Ethnic conflict
+- Far future
+- Federation history
+- Federation-Borg conflict
+- Federation-Cardassian War
+- Federation-Klingon Cold War
+- Federation-Klingon War (2256-57)
+- Federation-Klingon War (2267)
+- Federation-Klingon War (2372-73)
+- Federation-Klingon War (alternate timeline)
+- Federation-Pakled conflict
+- Federation-Tzenkethi War
+- Federation-Vau N'Akat conflict
+- Feira incident
+- Ferengi history
+- First Battle of Chin'toka
+- First Battle of Deep Space 9
+- First contacts
+- Fossil record
+- Galactic Wars
+- Galactic history
+- Galactic motionary startime chart
+- Galen border conflict
+- Gentonian trade wars
+- Ghorusda Disaster
+- Gorlan uprising
+- Great War
+- Hirogen history
+- Historical database
+- Historical parallel
+- Historical record
+- Historical report
+- Historical research
+- History
+- History of Dabo
+- Holy war
+- Human history
+- Human-Klingon history
+- Human-Romulan history
+- Hurricane Katrina
+- Iden's Rebellion
+- Insurrection
+- Interplanetary war
+- Interspecies conflict
+- Interstellar history
+- Invasion of Septimus III
+- Iran-Contra Scandal
+- Iran-India battle
+- Irish history
+- Irony
+- Kendra Valley Massacre
+- Kenzie Rebellion
+- Khitomer Massacre
+- Khitomer conspiracy
+- Klaestron Civil War
+- Klingon Civil War
+- Klingon Fight with V'ger
+- Klingon history
+- Klingon-Cardassian War
+- Koinonian Wars
+- M-5 drill
+- Mausoleum
+- Medical history (subject)
+- Memorabilia
+- Meteorological record
+- Military history
+- Military occupation
+- Mirror universe history
+- Mizarian history
+- Mordan IV civil war
+- Museum ship
+- Mytho-history
+- Nakan massacre
+- Nazi salute
+- Neutral Zone Incursion
+- Neutral Zone Incursion (alternate timeline)
+- Norkan Campaign
+- Nuclear holocaust
+- Nuclear war
+- Ocampa history
+- Occupation of Bajor
+- Operation Fort Knox
+- Operation Lovely Angel
+- Operation Return
+- Oral historian
+- Oral history
+- Parada Civil War
+- Parley
+- Petroglyph
+- Pioneer
+- Praetor Campaign
+- Progenitor (Aldea)
+- Promellian-Menthar War
+- Proxcinian War
+- Pyrrhic victory
+- Q Civil War
+- Raid on Trelka V
+- Rebellion
+- Rebelution
+- Reckoning
+- Reenactor
+- Reference
+- Reman Campaign
+- Revisionist history
+- Revolution
+- Robmeybur Rebellion
+- Romulan history
+- Romulan-Klingon relations
+- Romulan-Vulcan War
+- Saga (literature)
+- Second Battle of Chin'toka
+- Second Battle of Deep Space 9
+- Second Civil War
+- Setlik III massacre
+- Shinzon Incident
+- Siege
+- Siege of AR-558
+- Skirmish on Terra Nova
+- Slaver war
+- Solari wars
+- Southern belle
+- Space warfare
+- Spanish Inquisition
+- Stargazer history
+- Surgo-record
+- Talaxian-Haakonian War
+- Tarellian Civil War
+- Tarsian War
+- Telepathic historian
+- Temporal Cold War
+- Temporal War
+- Temporal Wars
+- Temporal arms race
+- Temporal wars
+- Terran Empire rebellion
+- Terran Rebellion
+- Territorial dispute
+- Time barrier
+- Time of Awakening
+- Timeline
+- Titan history
+- Todfrey Campaign
+- Tomed Incident
+- Torch of G'boj
+- Tralesta Massacre
+- Triannon War
+- Trill history
+- Vau N'Akat Civil War
+- Voyager history
+- Voyager-Kazon conflict
+- Vulcan War
+- Vulcan history
+- Vulcan-Andorian history
+- Vulcan-Romulan history
+- Watergate
+- World War II (Temporal War)
+- World war
+- Xenohistory
+- Xindi Civil War
+- Xindi history
+- Xindi incident
+- Xindi reunification
+- Year of Hell
+
+## 概念/設定 (concepts)
+- Absolute zero
+- Acceleration
+- Achromatic objective lens
+- Airtight
+- Alpha k
+- Alternative
+- Alternative warp
+- Altine Conference
+- Ambiplasma
+- Analysis
+- Annual Voyager Science Fair
+- Anti-gravity
+- Anti-tachyon pulse
+- Antimatter universe
+- Aphelion
+- Apogee
+- Applied physics
+- Archaeology department
+- Area
+- Assessment
+- Astrophysics
+- Atmospheric entry
+- Balance
+- Barrel roll
+- Basic element
+- Biometrics lab
+- Bionics
+- Biotechnology
+- Blast radius
+- Blind spot
+- Boiling point
+- Brightness
+- Brownian movement
+- Bubble
+- Buoyancy
+- Burst radius
+- Butterfly effect
+- Byproduct
+- Calibration
+- Causality paradox
+- Chain reaction
+- Chaos
+- Chart
+- Chart of Mutations
+- Clinical study
+- Cochrane distortion
+- Coefficient
+- Cold fusion
+- Collision
+- Conductor (physics)
+- Consent
+- Constant
+- Contamination
+- Coriolis force
+- Counterbalance
+- Crack
+- Cryogenics
+- Cryonics
+- Crystallization
+- Cymatics
+- Dark matter
+- Darkness
+- Data analysis
+- Dead zone
+- Decaffeination
+- Decaying orbit
+- Decompression
+- Deep convection pattern
+- Degaussing
+- Delta-compressed wavelength spectrum
+- Delta-vee
+- Depth perception
+- Design flaw
+- Detonation
+- Dimension
+- Dimensional gradient
+- Dimensional radius
+- Dimensional shift
+- Discovery (observation)
+- Distortion
+- Drag coefficient
+- E=mc²
+- Ecliptic
+- Eco-regeneration
+- Efficiency
+- Einstein-Rosen
+- Elasticity
+- Electromagnetic field
+- Electromagnetic pulse
+- Electron configuration
+- Elliptical orbit
+- Elway Theorem
+- Energy flux
+- Energy surge
+- Engine efficiency
+- Engineering (applied science)
+- Engineering studies
+- Entropy
+- Equation
+- Equatorial orbit
+- Escape velocity
+- Etiology
+- Evaluation laboratory
+- Examination
+- Excavation
+- Exhumation
+- Existence
+- Exotic matter
+- Experiment
+- Explorer
+- Explosive decompression
+- Feedback
+- Felker Paradox
+- Field density
+- Field of fire
+- Fixed spectrum emission
+- Flight
+- Fluid dynamics
+- Fluidic space
+- Flux
+- Force
+- Forensics
+- Fragmentation dispersal pattern
+- Frame of reference
+- Free fall
+- Friction
+- Fusion era
+- Gas
+- General relativity
+- Gluonic disruption
+- Godel Universe
+- Grand Unification theory
+- Gravimetric discharge
+- Gravimetric disturbance
+- Gravimetric eddy
+- Gravimetric energy
+- Gravimetric fluctuation
+- Gravimetric flux
+- Gravimetric force
+- Gravimetric gradient
+- Gravimetric interference
+- Gravimetric wave
+- Gravimetrics
+- Gravitational coefficient
+- Gravitational eddy
+- Gravitational force
+- Gravitational lensing
+- Gravitational redshift
+- Gravitational slingshot
+- Gravitational slipstream
+- Gravitational wave
+- Graviton field
+- Graviton matrix
+- Graviton pulse
+- Gravity
+- Gravity well
+- Habitable zone
+- Hardness
+- Helium fusion enhancement
+- Helix (shape)
+- High orbit
+- Hodgkin's Law of Parallel Planetary Development
+- Hole
+- Hovering
+- Hull resiliency
+- Hypergravity
+- Hypersonic pulse
+- Hyperspace
+- Hyperspace physics
+- Hypothesis
+- Hysteresis curve
+- Implosion
+- Impulse power
+- Indigenous
+- Inertia
+- Infrasound
+- Interfactor
+- Interferometric dispersion
+- Interferometric frequency
+- Interspatial fissure
+- Interspatial flux
+- Invariable plane
+- Inversion wave
+- Investigation
+- Invisibility
+- Ion power
+- Ionic interference
+- Ionization
+- Isolytic reaction
+- Isotope
+- Kayalise
+- Keplerian ratio
+- Kerr Newman
+- Kerr object
+- Krokan petri beaker
+- Lagrange point
+- Layer
+- Leak
+- Life prolongation project
+- Light warp
+- Line of fire
+- Line of sight
+- Liquid
+- Logic
+- Lorentzian coefficient
+- Low orbit
+- Lux
+- Magic
+- Magnet
+- Magnetascopic interference
+- Magnetic envelope
+- Magnetic flux
+- Magnetism
+- Magneton pulse
+- Magnifying glass
+- Manheim Effect
+- Manual restart
+- Margin of error
+- Mass
+- Matter
+- Matter-energy conversion
+- Mean anomaly
+- Mechanics
+- Melting point
+- Miniaturization
+- Mirage
+- Mirror universe
+- Momentum
+- Mooring
+- Motion
+- Motive power
+- Multiphasic stasis field
+- Multivariate analysis
+- Multiverse
+- Mycelial barrier
+- Mycelial plane
+- Negative CTL
+- Negative mass
+- Negative space
+- Neutrino bubble
+- Neutron fatigue
+- Neutron flux
+- Neutron migration
+- Non-existence
+- Non-linear resonance
+- Nuclear physics
+- Nuclear vibration
+- Nucleonic interference
+- Nucleosynthesis
+- Null grav suite
+- Object
+- Observation
+- Orbit
+- Orbital eccentricity
+- Orbital inclination
+- Orbital mechanics
+- Orbital speed
+- Oscillation
+- Panspermia
+- Para-magnetic core
+- Parallel universe
+- Parallex matter echo
+- Parameter
+- Particle flow
+- Particle physics
+- Pattern
+- Perigee
+- Perihelion
+- Phase lock
+- Phase variance
+- Phased matter
+- Phaser power
+- Phenomenon
+- Physical law
+- Physical property
+- Physics
+- Physics lab
+- Piezoelectricity
+- Plasma
+- Plasma dynamics
+- Plasma filament
+- Plasma physics
+- Pockmark
+- Polar orbit
+- Polarity
+- Polymass
+- Positive CTL
+- Power (physics)
+- Precession
+- Pressure
+- Pressure wave
+- Primary school science fair
+- Progress
+- Project
+- Project Genesis
+- Project Khan
+- Proton reaction
+- Psionic field
+- Quantum barrier
+- Quantum consciousness
+- Quantum dating
+- Quantum field
+- Quantum fluctuation
+- Quantum flux
+- Quantum incursion
+- Quantum level
+- Quantum matrix
+- Quantum mechanics
+- Quantum optics
+- Quantum physics
+- Quantum reaction
+- Quantum reality
+- Quantum signature
+- Quantum surge
+- Quantum theory
+- Quantum tunneling
+- Quantum uncertainty field
+- Quantum-stochastic model
+- Quarantine pod
+- Quasi-molecular flux
+- Radial velocity
+- Radiation
+- Radioactive isotope
+- Radiogenic decay
+- Radioisotope
+- Radiolysis
+- Radiothermic interference
+- Range of motion
+- Reconstructive analysis lab
+- Recrystallization
+- Red matter
+- Reflection
+- Refraction
+- Relativistic speed
+- Replica
+- Research grant
+- Resonance
+- Resonance frequency
+- Resonance wave
+- Result
+- Reverse engineering
+- Reverse logic
+- Rhythm
+- Risk factor
+- Sample
+- Schlezholt's Theory of Multiple Big Bangs
+- Schrödinger's cat
+- Schwarzschild
+- Science
+- Science camp
+- Science fair
+- Science project
+- Sciences division
+- Scientific knowledge
+- Scientific measurement
+- Scientific method
+- Selective molecular polarization
+- Semi-major axis
+- Semi-solid
+- Sensor analysis
+- Shadow
+- Shear force
+- Shield frequency
+- Solid
+- Sonic disruption
+- Sound barrier
+- Space
+- Space-time continuum
+- Spacetime
+- Spatial gradient
+- Spatial harmonics
+- Spatial matrix
+- Spatial rupture
+- Specific gravity
+- Specimen
+- Speed
+- Staleness
+- Standard orbit
+- Standard procedure
+- Stasis field
+- Static
+- Stationary orbit
+- Statistical mechanics
+- Stellar physics
+- Stress (physics)
+- Structural integrity
+- Structural integrity power
+- Sub-dimensional physics
+- Sub-micron fracture
+- Sub-orbit
+- Subatomic lensing
+- Sublight
+- Sublight factor
+- Subquantum state
+- Subspace research
+- Sweet spot
+- Sympathetic vibration
+- Sync shift
+- Synchronic distortion
+- Synchronization
+- Synchronous orbit
+- T'Kal-in-ket
+- Target
+- Teleportation
+- Temperature
+- Temporal science
+- Tensile cohesion
+- Terminal velocity
+- Theoretical engineer
+- Theoretical physics
+- Theory
+- Theory of Infinite Velocity
+- Thermalization
+- Thermionic transconductance
+- Thermodynamics
+- Thermolytic reaction
+- Theta flux distortion
+- Tidal force
+- Tidal locking
+- Time dilation
+- Toroidal space-time distortion
+- Torque
+- Transformation
+- Transkinetic vector
+- Transmutation
+- Transporter Theory
+- Trinimbic interference
+- Turbulence
+- Twelfth power
+- Uncertainty principle
+- Universal constant
+- Vacuum
+- Vaporization
+- Velocity
+- Vibration
+- Visible spectrum
+- Voltage
+- Wang's Second Postulate
+- Warp power
+- Water pressure
+- Waterproof
+- Wave
+- Weight
+- White noise
+- Zero gravity
+
+## 物品/技術 (items)
+- 3D printer
+- ATM
+- Abronath
+- Aceton assimilator
+- Acoustic inverter
+- Actuator
+- Agonizer
+- Akoonah
+- Akritirian cargo vessel
+- Akritirian patrol ship
+- Aksani vessel
+- Al-Leyan transport
+- Americana III
+- Ammunition
+- Android duplicator
+- Ankari vessel
+- Annari warship (2372)
+- Annari warship (2377)
+- Anodyne capacitor
+- Antares class (Corvallen)
+- Antarian starship
+- Antidean transport
+- Antigraviton emitter
+- Antimatter converter
+- Anyon emitter
+- Arcade game
+- Arcanum
+- Ardra's ship
+- Areore ship (large)
+- Areore ship (small)
+- Arkonian military vessel
+- Arkonian patrol ship
+- Armband
+- Arretan vessel
+- Assault class
+- Assembly line
+- Astro-helmet
+- Atari 2600
+- Ataxian mood shifter
+- Automation
+- Automaton
+- Axanar cargo ship
+- Axanar warship
+- B'omar patrol ship
+- BC 011
+- Ba'Neth ship
+- Ba'ul fighter
+- Ba'ul sentry ship
+- Balter detonator
+- Banean warship
+- Banker's lamp
+- Bardeezan merchant ship
+- Barolian freighter
+- Batris
+- Baxial
+- Benkaran shuttle
+- Benthan fighter ship
+- Benzite ship
+- Beta-matrix compositor
+- Betazoid gift box
+- Billups tube
+- Biogenic weapon
+- Biological weapon
+- Biomagnetic trap
+- Bollard
+- Book (device)
+- Boslic freighter
+- Bothan starships
+- Brazier
+- Brenari freighter
+- Bridge control monitor
+- Bridge simulator
+- Briori ship
+- Brunali transport vessel
+- Buffer
+- Bug (defect)
+- Bunsen burner
+- Burr
+- Bynar ship
+- Bypass
+- Bypass displacer
+- Byzatium transport
+- C-57-D
+- CAR 54-Q
+- CGM Gh'aster
+- CGN Caroliqe
+- Caatati vessel (large)
+- Caatati vessel (small)
+- Caliber
+- Calondon
+- Cardboard box
+- Cargo pod
+- Centrifugal governor
+- Centrifuge
+- Chalnoth ship
+- Chemical sprayer
+- Chemical weapon
+- Cheron scout vessel
+- Chessu ship
+- Chokuzan vessel
+- Chroniton generator
+- Cigarette machine
+- Circulating pump
+- Class 1 transport
+- Cleponji
+- Clicket ship
+- Clockwork
+- Close range
+- Code sequencer
+- Cogwheel
+- Commissioning
+- Conduit
+- Construction module
+- Containment chamber
+- Containment module
+- Control bracelet
+- Control panel
+- Coolant
+- Coridan ship
+- Corvallen freighter
+- Cosmic Duchess
+- Coverian freighter
+- Cravic ship
+- Crystal button
+- Cybernetic implant
+- Cybernetics conference
+- Cymatic transmutation
+- Cytoplasmic lifeform vessel
+- D-756
+- D53
+- DMA controller
+- DNA sequencer
+- Dauntless class
+- Dauntless type
+- Decommissioning
+- Dekendi transport
+- Delta Rana warship
+- Deltan ship
+- Denebian patrol ship
+- Denebian spaceship
+- Denobulan medical ship
+- Device
+- Devore warship
+- Diagnosis
+- Dial
+- Diatonal amplifier
+- Diffraction relay
+- Dimmer switch
+- Directional sonic generator
+- Display compass
+- Disruptor snare
+- Door
+- Dorian
+- Dralian vessel
+- Dramen patrol ship
+- Drayan starship
+- Dream Alien ship
+- Drone
+- Drookmani ship
+- EM emitter
+- Ekina
+- Electromagnetic collector
+- Electronic pulse actuator
+- Electronics
+- Ellison
+- Emission aperture
+- Emitter matrix
+- Energy-isolating device
+- Engineering notebook
+- Enhancement module
+- Enolian patrol ship
+- Enolian prison transport
+- Entharan starship
+- Epidermal mold
+- Equipment bag
+- Ergonomics
+- Erstwhile
+- Etanian starship
+- External lighting
+- Extraction pump
+- Eymorg starship
+- FGMS Gyt'aerat
+- FMS Geldonero
+- Fabrication device
+- Faraday cage
+- Fenris Ranger vessel
+- Fesarius
+- Fiberoptic cable
+- Field diverter
+- Filter
+- Filter bracket
+- Flaxian ship
+- Flux generator
+- Fraddock's transport ship type
+- Free Spirit
+- Free Spirit type
+- Frunalian science vessel
+- Fuel bin
+- Fuel synthesizer
+- Fuse
+- Future tech
+- GCA Metlaok
+- GCS Recio
+- GHD Per'ot
+- GS 12
+- Gadget
+- Galador freighter
+- Galipotan freighter
+- Gallough
+- Gamma pulse ignition device
+- Gav'Nor
+- Gavarian ship
+- Gelrakian ship
+- Genesis Device
+- Genesis II Device
+- Genetic tag
+- Geoterraforming vessel
+- Glumpus
+- Godsend
+- Golorian trading vessel
+- Gorn attack ship
+- Gravity boot
+- Gravity mine
+- Gravity neutralizer
+- Groove
+- Hardware
+- Harvester
+- Hazari vessel
+- Hekaran starship
+- Hemshir
+- Hierarchy survey vessel
+- Hinge
+- Holographic-containment wall
+- Holy icon
+- Horgl
+- Hunter probe
+- Hunters' ship
+- Husnock warship
+- Hydraulics
+- Hypnotic screen
+- ITA Elmira
+- Iconic display console
+- Idiot proof
+- Ilari ship
+- Illyrian starship
+- Imhotep ship
+- Impulse response filter
+- Impulse system control panel
+- Incursor
+- Induction grid
+- Induction unit
+- Industrial replicator
+- Inertial damping system
+- Innovation
+- Insectoid starship
+- Inside Straight
+- Instrument of obedience
+- Insulation
+- Interlink
+- Interspatial manifold
+- Ion exchange matrix
+- Ion modulator
+- Isodyne relay
+- Isolinear interface
+- Isomagnetic collector
+- Jelinian freighter
+- Jovis
+- Juhryan freighter
+- Kaelon warship
+- Kago's starship
+- Kalandan supply ship
+- Kallisko
+- Kantare supply ship
+- Kaplan F17 Speed Freighter
+- Karla Five's vessel
+- Kartelan freighter
+- Kellenite ship
+- Kelvan ship
+- Kinetic transfer system
+- Kinjal frigate
+- Klaestron starship
+- Knob
+- Kobali starship
+- Kobheerian freighter
+- Kobliad transport
+- Kostolain starship
+- Kotakian ship
+- Kovaalan starship
+- Kraylor medical transport
+- Kreetassan ship
+- Kressari freighter
+- Krios Battlecruiser
+- Kriosian ship
+- Kriosian transport
+- Ktarian vessel
+- Kukulkan's ship
+- Kyrian fighter ship
+- Kzinti police vessel
+- LEAL helmet
+- Lambda field generator
+- Laser detonator
+- Laser fusion initiator
+- Leaf blower
+- Ledosian patrol ship
+- Lens
+- Life creation technology
+- Lighting panel
+- Lightning rod
+- Line amp
+- Liquid data chain
+- Lissepian cargo ship
+- Lissepian supply ship
+- Lissepian transport
+- Living construct
+- Locking clamp
+- Lokirrim patrol ship
+- Lokirrim warship
+- Lutani scout ship
+- Lutani warship
+- Luvetric pulse
+- Lysian destroyer
+- Machine
+- Maintenance replicator
+- Majalan combat cruiser
+- Malcorian warp ship
+- Malfunction
+- Malon export vessel
+- Malon export vessel, eleventh gradient
+- Malon transport ship
+- Malurian vessel
+- Manifold
+- Manual control
+- Mark III bridge simulator
+- Mark IV bridge simulator
+- Mark X bridge simulator
+- Master subsurface pump
+- Matter synthesizer
+- Mawasi cruiser
+- Mazarite ship
+- Medusan vessel
+- Melthusian starship
+- Menos' ship
+- Merchantman
+- Merchantman type
+- Metagenic weapon
+- Microfilament
+- Microfusion initiator
+- Microvision
+- Microwave pulse detonator
+- Microwave pulse ignition device
+- Mirror machine
+- Mislenite freighter
+- Mithran class
+- Mixtape
+- Modern medicine
+- Molecular phase inverter
+- Molecular scanner
+- Monaveen
+- Monaveen type
+- Mondor
+- Monean research vessel
+- Multiaxis exercise trainer
+- Multiphasic chamber
+- Mulzirak transport
+- Munition
+- Mutagenic retrovirus
+- Nadion emitter
+- Nano-biogenic weapon
+- Nanopulse laser
+- Nanotechnology
+- Nanut
+- Nausicaan ship
+- Navigation beacon
+- Negaton hydrocoil
+- Nerada
+- Nerada type
+- Nerve gas
+- Network
+- Neural neutralizer
+- Neural servo
+- Neuro-depolarizing device
+- Neurocine gas
+- Next generation
+- Nieser cage
+- Night Alien ship
+- Nightingale (medical transport)
+- Nihydron warship
+- Nintendo Switch
+- Nokaro
+- Nova One
+- Nova One type
+- Numiri patrol vessel
+- Nuu'Bari mining vessel
+- Nyberrite Alliance cruiser
+- Nygean prison ship
+- Nygean starship
+- Nyrian biosphere vessel
+- Oculus
+- Oil pan
+- Onquanii's ship
+- Optronic emitter
+- Optronic integrator
+- Optronic relay
+- Ord'mirit mining vessel
+- Organic technology
+- Orion multi-key
+- Ornaran freighter
+- Osaarian merchant ship
+- Oscillating fan
+- Override
+- PC World
+- Pakled (ship)
+- Pallet
+- Panel
+- Paralithium cell
+- Parking meter
+- Particle fountain (technology)
+- Particle injector
+- Pattern buffer
+- Pattern simulator
+- Pedestrian crossing sign
+- Pelian escort vessel
+- Penk's starship
+- Phase conditioner
+- Phase device
+- Phase inverter
+- Phase modulator
+- Phaser torch
+- Photolitic converter
+- Photon torpedo
+- Photonic amplifier
+- Phylosian ship
+- Planet killer
+- Plasma flare (device)
+- Plasma inverter
+- Polaric generator
+- Polaron emitter
+- Polaron modulator
+- Portable pattern buffer
+- Portal weapon
+- Positronic conductor
+- Power regulator
+- Pralor vessel
+- Preservers' obelisk
+- Pressure valve
+- Preventive maintenance
+- Primer
+- Probability device
+- Promellian battle cruiser
+- Protective drone field
+- Prototype
+- Psi-wave device
+- Psionic resonator
+- Pump
+- Q weapon
+- Q'Maire
+- Qomar starships
+- Qomar transport
+- Quantum phase inhibitor
+- Quantum stasis field
+- Quarren coyote ship
+- Quarren patrol ship
+- Quirk
+- R'ongovian solar sailship
+- Racing ship
+- Rak-Miunis
+- Rakosan fighter
+- Raktajino machine
+- Ramuran vessel
+- Rapid nadion pulse
+- Reaction stabilizer
+- Reactive ion impeller
+- Receptacle
+- Reflective coil
+- Rekag battle cruiser
+- Remat detonator
+- Replicator
+- Reptohumanoid vessel
+- Repulsor beam
+- Resistor
+- Resonance chamber
+- Restart
+- Restart sequencer
+- Retellian freighter
+- Retrofitted dorsal carrier
+- Retroovian flask
+- Rewinding
+- Reyab
+- Robot
+- Robot hovercraft
+- Rogue Changeling starship
+- Romulan technology
+- Rotary tiller
+- Rukani vessel
+- Rutian archaeological vessel
+- SS La Sirena
+- Safety valve
+- Salvoxia
+- Satarran starship
+- Scorcher
+- Seal (mechanical)
+- Seam
+- Secret weapon
+- Self-repair
+- Self-replication
+- Sensor pallet
+- Sensor-blinding burst
+- Serene Squall
+- Serene Squall type
+- Series
+- Serosian vessel
+- Servocircuit
+- Sheliak colony ship
+- Shepherd ship
+- Sherval Das
+- Shield-tunneling technology
+- Ship class
+- Short circuit
+- Shrike (ship)
+- Shrike type
+- Sikarian vessel
+- Silicon Valley
+- Skagaran starship
+- Skrreean ships
+- Slot machine
+- Snowplow
+- Soil reclamator
+- Solar collector
+- Soong Method
+- Sound effects
+- Space elevator
+- Space fun helmet
+- Space technology
+- Spacematic
+- Spaceworthy
+- Species 10026 vessel
+- Species 116 sentry vessel
+- Species 6339 starship
+- Species 8472 bio-ship
+- Species 8472 energy focusing ship
+- Sphere-Builder vessels
+- Spotlight
+- Srivani vessel
+- Stabilizer beam
+- Standby
+- Starship
+- Starships
+- Starships in the Dominion War
+- State of the art
+- Status
+- Storage
+- Storage cell
+- Stress test
+- Subdermal implant
+- Submolecular resequencer
+- Subnucleonic device
+- Subspace flux isolator
+- Subspace isolation field
+- Subspace modulator
+- Subytt freighter
+- Summoning beacon
+- Superconductor magnet
+- Swarm species vessel
+- Switch
+- T'Lani cruiser
+- T-90 tank
+- Tak Tak starship
+- Takret starship
+- Talavian freighter
+- Tamarian deep space cruiser
+- Tamarian vessel 08
+- Tandaran patrol ship
+- Tandaran transport
+- Tank
+- Tantalus field
+- Tarellian starship
+- Taresian starship
+- Targ scoop
+- Target practice
+- Tarkalean freighter
+- Tarkalean vessel
+- Tau Ceti (ship)
+- Technology
+- Technology Future
+- Teldarian cruiser
+- Telepathic suppressor
+- Telsian freighter
+- Temporal compensator
+- Temporal setting
+- Terellian cargo freighter
+- Termination implant
+- Terrellian ship
+- Tesnian starship
+- Tether
+- Tether coupling
+- Tezra
+- Thalaron generator
+- Thasian ship
+- The Arm of Hephaestus
+- The singularity
+- Thermal pulse ignition charge
+- Thermal sweep
+- Thermionic converter
+- Theta band filter
+- Theta class (starship)
+- Theta storage tank
+- Theta-band device
+- Think Tank vessel
+- Torture device
+- Tosk ship
+- Tox Uthat
+- Trabalian freighter
+- Traitor's Claw
+- Trans-sonic drill
+- Transgenic weapon
+- Transistor
+- Transportation device
+- Tret's containment vessel
+- Triannon vessel
+- Trill transport (2367)
+- Trill transport (2372)
+- Tripwire
+- Tucker tube
+- Turei vessel
+- Tweerk
+- Tweerk type
+- Tygarian freighter
+- Typing
+- Tzenkethi raider
+- Tzenkethi warship
+- USGS Powell
+- USS Dauntless (NX-01-A)
+- USS Enterprise (balloon)
+- USS Trainer
+- Ultrasonic generator
+- Unnamed Alpha and Beta Quadrant starships (22nd century)
+- Unnamed Alpha and Beta Quadrant starships (23rd century)
+- Unnamed Alpha and Beta Quadrant starships (24th century)
+- Unnamed Alpha and Beta Quadrant starships (32nd century)
+- Unnamed Bajoran starships
+- Unnamed Delta Quadrant starships
+- Unnamed Gamma Quadrant starships
+- Unnamed tools and technology
+- Vaadwaur assault fighter
+- Vaadwaur ship
+- Vacuum intake
+- Val Jean
+- Valerian freighter
+- Valerian transport
+- Valtese ship
+- Vanoben transport
+- Vantu blade
+- Varro generational ship
+- Venari Ral ship
+- Video tape tracking
+- Viral weapon
+- Virtual Control Device
+- Vissian starship
+- Voth city ship
+- Voth research vessel
+- Vulnerability
+- Vyk'tiote
+- W.E.B. DuBois (starship)
+- Wadi ship
+- Wanderer class (32nd century)
+- Watch dial
+- Water turbine control board
+- Waveguide
+- Weapon
+- Weapon idioms
+- Weapon system
+- Whorfin class
+- Wisp ship
+- Wysanti starship
+- Xantoras patrol ship
+- Xarantine ship
+- Xepolite Free Trader
+- Xindi bio-weapon
+- Xindi technology
+- Xyrillian ship
+- Yelikan transport
+- Yost's ship
+- Yuri vector field control
+- Zahl starship
+- Zalkonian warship
+- Zibalian freighter
+

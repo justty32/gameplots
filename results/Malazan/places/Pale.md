@@ -1,16 +1,27 @@
-# Pale（佩爾）
+# 佩爾 (Pale)
 
-> Genabackis 北部 Free City——三年圍城後焚陷、Moranth 報復屠城、Anomander Rake 首敗 Tayschrenn 之地。
+> **一句話**：Genabackis 自由城市之一，以慘烈的三年圍城戰與魔法大戰聞名。
 
-- **位置**：Genabackis 北部內陸，Tahlyn 山北、Lake Azur 北。Krael Quarter（一棚屋區，臨牆）。
-- **政治／勢力**：原 Free City；與 Moranth 有長年血債貿易戰。城牆建於整片冰川堆積上，地基深不見底。
-- **歷史與事件**：
-  - **Siege of Pale**（1160–1163 BS）：Dujek Onearm 圍城三年；城法師團與 Anomander Rake 結盟駐守。
-  - **破城**（1163 BS 晚冬，《Gardens of the Moon》序幕）：High Mage Tayschrenn 在空戰中對 Moon's Spawn 群法師圍殺；Rake 重傷退走、Moon's Spawn 落入 Tahlyn 山。Bridgeburners 在地下挖隧道從城下進襲。
-  - 攻陷後 Moranth 獲一小時報復——18,739 人被殺（每一 Moranth 死於前貿易戰皆一抵一）。事後 Malazan 治療員清城、控制鼠疫；貴族九成被公開處死。
-  - **Memories of Ice**：Dujek 叛軍駐城，與城民關係緊張（軍非治政之材）。
-  - **The Bonehunters**：Coral 戰後 Pale 駐軍半數加入 Onearm's Host 赴 Seven Cities 平亂。
-  - **Toll the Hounds**：Humble Measure 一家從 One Eye Cat 逃難至 Pale，再赴 Darujhistan。
-  - **Orb Sceptre Throne**：Fist K'ess 駐 Pale 守城；Darujhistan Legate 命 Pale 驅 Malazan，市民從之，駐軍燒戰退城。
-- **地標**：Old Palace、Krael Quarter、Eltrosan Square、Vimkaros Inn、Knobb's Inn、North Market Round、Vellum Makers' Guild。
-- **敘事意義**：Pale 是 Malazan 系列「現代戰爭擊敗古老世界」的第一場——Tayschrenn 用法術擊垮 Anomander Rake 的浮空山城。可作為整套書的入場儀式：你以為魔王最強，其實還有更強的官僚。Moranth 的報復則告訴讀者：這個世界的恩怨從不結束。
+- **位置**：位於 Genabackis 大陸北部山谷。
+- **掌控者**：
+    - 早期：自由城市聯盟（盟友：Anomander Rake）。
+    - 後期：Malazan 帝國（由 Fist K'ess 駐守）。
+
+### 概述
+佩爾是一座歷史悠久的古城，建立在巨大的冰川堆積石之上。其城牆根基深不可測，甚至連魔法也難以探底。城市建築多為瓦頂與石板路，展現出一種凋零的榮華感。
+
+主要特徵：
+- **地質奇觀**：城市下方的岩堆填滿了一個巨大的裂縫。
+- **克雷爾區 (Krael Quarter)**：城牆邊緣的貧民窟與臨時建築群。
+- **魔法防禦**：在圍城期間，城市得到了月之神子（Anomander Rake）及其浮空堡壘「月之孕」的直接保護。
+
+### 關鍵事件
+- **佩爾之圍 (Siege of Pale)**：Malazan 第五軍團在 Dujek Onearm 的帶領下對佩爾進行了長達三年的圍困。
+- **高階法師對決**：圍城戰的終點是一場史詩級的魔法對決。Malazan 的高階法師團（由 Tayschrenn 領軍）在地面發動攻擊，而 Rake 則在「月之孕」上空反擊。戰鬥中，Tayschrenn 趁亂清算了帝國的「舊衛隊」（Old Guard）法師，造成了慘烈的人員損失，並導致 Bridgeburners 幾乎全滅。
+- **莫蘭斯報復 (Moranth Retribution)**：佩爾陷落後，帝國允許其盟友 Moranth 族人入城進行一小時的報復。Moranth 人精確地殺死了 18,739 名居民，以抵銷此前貿易戰爭中的族人損失。
+
+### 敘事意義
+佩爾的陷落標誌著《瑪拉贊》系列正劇的正式開啟。它展示了帝國戰爭的冷酷本質、魔法交鋒的毀滅性，以及帝國內部隱藏的權力鬥爭（Laseen 對 Old Guard 的清洗）。
+
+### 現狀
+在被帝國佔領後，佩爾成為了軍事重鎮，但與當地居民的緊張關係始終存在。在後來的《Orb Sceptre Throne》中，由於達魯吉斯坦勢力的崛起，佩爾爆發了針對 Malazan 佔領軍的暴亂。

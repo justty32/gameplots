@@ -56,7 +56,9 @@
 
 > 前 Erulan「初刃」皇家刺客；從凡人疑似 ascendant，貫穿主線的隱面神祕角色。
 
-→ [詳見](characters/ulgrim.md)
+- **登場與結局**：本體 Act 1 以廚子身分登場；Act 4 與 Loghorrean 戰鬥時墜入虛空，後於 AoM 篇章被玩家救回，並參與馬爾茅斯收復戰。
+- **動機**：執行皇帝遺命護衛皇子；在末世中引導抵抗軍。
+- **附註**：→ [詳見](characters/ulgrim.md)
 
 ### Commander Lucius（盧修斯指揮官）
 
@@ -119,13 +121,11 @@
 
 ### Mogdrogen, the God of Beasts（野獸之神莫格多根）
 
-> 古戰中誕生的泰坦，化身白狼，守護蠻荒與 Rhowari。
+> 古戰中誕生的泰坦，現為荒野與野獸之神，流浪者（Rhowari/Rovers）的守護神。
 
-- **登場與結局**：完成 Rhowari Legacy 任務後在 Asterkarn Valley 現身為人形老者；Avatar of Mogdrogen 是其化身 Boss，需 71 等以上才會生成戰鬥。
-- **動機**：護住 Cairn 蠻荒不受文明侵蝕；遏制虛空與 Aether 之毀滅。
-- **行動**：太古戰中擊潰 Wendigo 神 Ravager，放逐其入 Aether。FG 前夕嗅出 Korvaak 與 Witch Gods 的異動，呼喚 Rhowari 集結。對 Rhowan 王曾以人形老者點化，使其退位、創立 Rhowari 流浪族。
-- **關係**：Rhowari／Rovers 守護神；Witch Gods 視為太古並肩戰友；與 Ravager 為宿敵。
-- **附註**：「我察覺久違的力量渴血復仇……Rhowari 的信念終將受考驗。」
+- **登場與結局**：完成 Rhowari Legacy 任務後在 Asterkarn Valley 現身為人形老者；Avatar of Mogdrogen 是其天界級化身 Boss。
+- **動機**：維持 Cairn 原始力量的平衡，遏制虛空與虛化能量的侵蝕。
+- **附註**：→ [詳見](characters/mogdrogen.md)
 
 ### Ulzuin, the Betrayed God（被背叛之神）
 
@@ -487,11 +487,11 @@
 
 ### Dravis, Son of Uroboruuk（烏羅伯魯克之子）
 
-> Remnants of Korvan City 的不死人 Boss；Daila Thornsbury 的舊愛、Tomb of the Eldritch Sun 之鑰。
+> Remnants of Korvan City 的不死人 Boss；Daila Thornsbury 的兄長、Tomb of the Eldritch Sun 之鑰。
 
 - **登場與結局**：Path of Ascension 入口處——Remnants of Korvan City。玩家為 Tomb of the Eldritch Sun 任務必殺之；他亦是 A Sister's Love、Family Matters 與 Daila's Secret Quest 連環任務的核心人物。
 - **動機**：完成父親未竟事業；繼承 Uroboruuk 之術試圖揭開 Korvaak 真面目。
-- **關係**：Uroboruuk 親生子；Daila Thornsbury 之昔日戀人，往返四封情書記其末路。
+- **關係**：Uroboruuk 親生子；Daila Thornsbury 之兄長，往返四封情書記其末路。
 
 ---
 
@@ -753,12 +753,11 @@
 
 ### Daila Thornsbury（戴拉‧瑟恩斯柏瑞）
 
-> Homestead 任務 NPC；Dravis 舊愛、Tomb of the Eldritch Sun 連環事件之關鍵。
+> Homestead 任務 NPC；德拉維斯（Dravis）之妹、連通烏羅伯魯克傳說的核心角色。
 
-- **登場與結局**：Homestead 上層初遇；找到她的日記啟動 Missing Diary 副線。AoM 中於 Mourndale 東緣，給 A Sister's Love、Family Matters 兩線。FG 中於 Korvan City rift 北方，完成全部任務後可遇——她是 A Mother's Gift 的目標。
-- **動機**：尋找消失多年的愛人 Dravis 與其真相。
-- **關係**：Dravis 之昔日戀人；Uroboruuk 媳婦候選；玩家為其與 Dravis 的最後溝通。
-- **附註**：Dravis 留下四封 Letter to Daila，記其墮為不死的軌跡。
+- **登場與結局**：惡魔十字初遇；在 Homestead、奧格登沼澤（Ugdenbog）等地引導玩家揭開家族秘密。
+- **動機**：尋找失蹤的哥哥與揭開家族背負的死靈法術真相。
+- **附註**：→ [詳見](characters/daila_thornsbury.md)
 
 ### Drew Larkin
 

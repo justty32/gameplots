@@ -1,15 +1,29 @@
-# Letheras（萊瑟拉斯）
+# 萊瑟拉斯 (Letheras)
 
-> 拜金帝國首都，建在會沉的沼澤上——Tehol Beddict 三次崩盤、Rhulad 被斬之地。
+> **一句話**：萊瑟帝國的首都，一個建立在債務、黃金與古老迷信上的宏偉都市。
 
-- **位置**：Lether 大陸西北至中段，Lether River 穿城；運河網密布。城牆白色，城外二千步為 Kravos Hill。
-- **政治／勢力**：首都，住口逾十萬。三朝接替：King Ezgara Diskanar → Emperor Rhulad Sengar → Emperor Tehol Beddict／Empress Chancellor Janath Anar。Patriotists（秘警，Karos Invictad 領）、Liberty Consign of Merchants（Rautos Hivanar 領）為 Rhulad 時期主要勢力；Rat Catchers' Guild、Guilds 把持各業。
-- **結構**：城分多區——Counters'／Creeper／Drownings／Far Reaches／North & South Tiers／Peaks／Prostitutes'／Pursers'／Up & Down Markets。地標：**Eternal Domicile**（為 Ezgara 即位籌建十七年的新宮）、**Old Palace**（圍古三 Jaghut 塔與 Azath Tower 而建，皆早於 First Empire）、**Imperial Arena**（Rhulad 戰技競技場，後 Karsa 殺 Rhulad 之地）、Merchant Tolls（股市）、Drownings／Quillas Canal（罪犯掛幣沉河處決）、Imperial Library、Academy of Imperial Learning、Patriotists HQ、Temple Brothel、Tolls Repository、Settle Lake、Rat Catchers' Guild（Icarium 機器之地）。
-- **歷史**：
-  - 地表下為十一河注入的沼澤盆地，崩陷後造成乾涸只剩 Settle Lake。First Empire 殖民者所建（萬年前），實非該帝國首登地。
-  - Old Palace 蓋在三 Jaghut 塔與一 Azath 之上——皆遠早於 First Empire；地下藏 Forkrul Assail 為 Jaghut 造的避難古墓、刻 Errant 之咒。Icarium 古時於城下造一巨型機械。
-- **事件**：
-  - **Midnight Tides**：Seventh Closure 前夕；Rhulad 帶 Edur 軍與不死劍攻陷城；自立 First Emperor；Tehol 用財務魔術疏散貧民、近乎拖垮 Tolls。
-  - **Reaper's Gale**：Patriotists 暴政、Liberty Consign 同謀；經濟崩盤、北區暴動焚城。Icarium 啟動 Rat Catchers' Guild 下的萬年裝置，整 Guild 街區白火湮滅。Tavore 14th Army 登陸 Lether，Imperial Brigade 與 Keneb 海陸戰於 Kravos Hill；Fiddler／Quick Ben／Hedge 在城外擊退 Silchas Ruin 龍襲；Fiddler 班攻 Eternal Domicile 殺 Triban Gnol；Karsa 在 Imperial Arena 終結 Rhulad 不死循環；Edur 撤北、Tehol 即位、Janath 為 Chancellor／Empress、Brys Beddict 復活。
-  - **Fall of Light**：Letheras 可能建於 Jaghut 首都 Omtose Phellack 舊址；Seregahl 被 Hood 入殮於此 Azath，換 Gethol（Gothos 兄）出。
-- **敘事意義**：Letheras 是 Erikson 對「威尼斯式金融帝國」的諷刺——建得越富，地基越塌。它是 Tehol Beddict 智慧長戲的舞台，也是 Bonehunters 從 Rhulad 戰場走入 Glass Desert 終局的中轉站。Rhulad 在競技場永死的一刻，象徵 Crippled God 第一個鎖鏈被斬。
+- **位置**：位於萊瑟大陸中央，萊瑟河（Lether River）兩岸。
+- **掌控者**：
+    - 萊瑟皇室（早期為 Diskanar 王朝）。
+    - 萊瑟愛國者結社 (The Patriotists)：秘密警察組織。
+    - 烏木大帝 (Rhulad Sengar)：Tiste Edur 征服後的統治者。
+    - **Tehol Beddict**：後期的財務大臣與實際秩序重塑者。
+
+### 概述
+萊瑟拉斯是一座充滿衝突感的城市。這裡既有極度繁榮的商業、雄偉的宮殿與高塔，也有被煙塵籠罩的貧民窟。城市的法律完全建立在「債務」之上，無法償還債務者會被降為「債奴」（Indebted），這形成了一種類似資本主義極致化的社會結構。
+
+城市特色：
+- **淹刑 (The Drownings)**：城市的傳統刑罰。罪犯會被綁上硬幣丟入運河，以此「支付」罪孽。
+- **股票市場 (Merchant Tolls)**：決定城市經濟脈搏的地方，受強大的行會（Guilds）控制。
+- **運河體系**：萊瑟河與無數運河貫穿全城，交通與物流極度依賴水路。
+
+### 關鍵事件
+- **Tiste Edur 的征服**：在《Midnight Tides》中，受到 Crippled God 力量加持的 Tiste Edur 氏族聯盟攻陷了這座看似不可戰勝的城市。
+- **Tehol 的經濟戰**：Tehol Beddict 透過一系列精密的金融手段，幾乎讓整個城市的經濟體系崩潰，從而打擊了既得利益階層。
+- **帝國的更迭**：萊瑟拉斯經歷了從人類王國到 Edur 帝國，再到最終在《Reaper's Gale》中被 Tavore Paran 率領的 Malazan 軍團與內部革命共同解放。
+
+### 敘事意義
+萊瑟拉斯是對現代社會、財富分配與法律體系的深刻諷刺。它展示了一個只看重金錢而忽視靈魂的社會如何自我毀滅。同時，它也是 Tehol 與 Bugg（海洋神 Mael）這對傳奇拍檔展現智慧與幽默感的舞台。
+
+### 現狀
+在系列末期，萊瑟拉斯在 Tehol Beddict 的治理下，廢除了奴隸制並開始了大規模的社會改革。

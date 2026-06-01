@@ -1,15 +1,25 @@
-# Y'Ghatan（耶喀坦城）
+# 伊加坦 (Y'Ghatan)
 
-> 「橄欖林之城」、人類史上第一座有名之城——七次興起、七次焚毀、Bonehunters 火地。
+> **一句話**：七城大陸的聖城，象徵著毀滅、不屈與重生的火焰之都。
 
-- **位置**：Seven Cities 北部，建於 tel（人造土丘）之上，斜坡引外牆。沿海路通海。
-- **政治／勢力**：曾為自封 First Holy City；Holy Falah'd 居 Y'Ghatan 王宮。Whirlwind 期由 Leoman of the Flails 自立為 Falah'd（殺前 Falah'd Vedor）。
-- **歷史與事件**：
-  - 古名 Yareth Ghanatan，「人類史上第一座有名之城」；前 First Empire 時 Dessimbelackis 在城南擊敗 Sar Trell 部族——First Empire 由此而起。
-  - 七代 Y'Ghatan 城互相疊建；第一城死於 T'lan Imass 的 Great Slaughter，所有建築不取一石全沙葬。
-  - **Siege of Y'Ghatan**（1154 BS）：Dassem Ultor 親領之圍，全城焚平，Malazan 死 8,000–10,000；Dassem 「死於」此役（實為設計脫離 Hood 教派）；十六大塚以石灰岩築於城南半 league。
-  - Malazan 治下 Gryllen（D'ivers 鼠群）為害；後被火趕出。
-  - **The Bonehunters**：Whirlwind 敗後 Leoman 帶 Army of the Apocalypse 殘部退入，殺 Falah'd Vedor 自立；強遷市民至 Lothal，將大量橄欖油藏全城各處。Tavore 14th Army 圍城；Moranth munitions 破牆；軍入城後 Leoman 點火，整城變焚化爐——數千 Malazan 死於熱流。Leoman、Dunsparrow 在 L'oric 與 Queen of Dreams 援助下脫逃。Fiddler 班 Bottle 感應地下逃生鼠群、以 Sharper 開地道；倖存者包括 Fiddler、Gesler、Stormy、Bottle、Cuttle、Hellian、Koryk、Smiles、Tarr、Throatslitter、Cord、Crump、Balm、Deadsmell、Widdershins、Masan Gilani、Mayfly、Flashwit、Saltlick、Shortnose、Uru Hela、Sands、Urb、Shard、Touchy、Tulip、Lobe、Limp、Maybe、Mayfly、Ramp、Reem、Scant、Tavos Pond、Thom Tissy、Ebron、Hanno、Galt、Bellig Harn、Brethless、Balgrid 等四十餘人；以及 Corabb Bhilan Thenu'alas、Y'Ghatan（鼠）。
-  - 烈焰之深燒穿 Warren 到 Abyss，城下千千萬年的記憶與鬼魂被燒成虛無；元素靈因被燒瘋而咒 Malazan。Nil 宣告此城再不會重起。
-- **地標**：Temple of Scalissara（橄欖女神，後改 Queen of Dreams）、Maethgara（橄欖油倉）、Grand Maeth（與 palace 連）。
-- **敘事意義**：Y'Ghatan 是「最古老的城死於最現代的戰術」之地。Leoman 把整城變成 Tavore 軍的火葬場，Bottle 把整連士兵從鼠道帶出——Bonehunters 真正從第十四軍變成「自走的傳奇」就此一刻。火把城熔得連地名都應抹去。
+- **位置**：位於七城大陸北方。
+- **掌控者**：七城叛軍（由 Leoman of the Flails 領導）。
+
+### 概述
+伊加坦被稱為「聖城之首」，建立在人類歷史上第一座城鎮的遺址之上。它是一座迷宮般的城市，層層疊疊的建築反映了數萬年的重建歷史。城市以生產優質橄欖油聞名，這也成為了其在戰爭中毀滅性的根源。
+
+城市特色：
+- **迷宮式街道**：城市內部街道極其狹窄且扭曲，許多建築在空中幾乎相連，遮蔽了陽光。
+- **橄欖油倉庫 (Maethgara)**：城內遍布巨大的圓柱形橄欖油儲存罐。
+- **Scalissara 神廟**：祭祀橄欖女神的宏偉神廟。
+
+### 關鍵事件
+- **Dassem Ultor 的火焚**：在 Kellanved 統治末期，Dassem Ultor 曾在此進行過一次慘烈的圍城，城市在大火中毀滅，數萬名士兵喪生。
+- **Bonehunters 的洗禮 (Last Siege of Y'Ghatan)**：在《The Bonehunters》中，Tavore Paran 率領第十四軍團攻打此城。叛軍領袖 Leoman 故意點燃了城內所有的橄欖油倉庫，將城市變成一座熔爐。
+- **地下隧道的奇蹟**：Fiddler 與 Bottle 帶領一小隊戰士在城市的地下隧道中穿行，在地面化為灰燼時，他們奇蹟般地從火海下方生還，這次事件也奠定了「第十四軍團」作為「Bonehunters」的靈魂。
+
+### 敘事意義
+伊加坦象徵著「浴火重生」。它是第十四軍團脫胎換骨的地方——他們在此失去了帝國的官方身分，卻獲得了彼此之間最純粹的連結。對於七城人民而言，這裡是不斷倒下又不斷站起的民族精神支柱。
+
+### 現狀
+在 Leoman 的火焚之後，伊加坦再次化為焦土，成為了無數靈魂的墓場。

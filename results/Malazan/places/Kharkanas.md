@@ -1,13 +1,25 @@
-# Kharkanas（卡卡納斯／智慧之 Kharkanas）
+# 卡卡納斯 (Kharkanas)
 
-> Tiste Andii 的「First City of Dark」、Mother Dark 古都、Kharkanas Trilogy 主舞台。
+> **一句話**：黑暗之母的「第一城」，Tiste Andii 種族的精神故鄉與哀慟之都。
 
-- **位置**：Kurald Galain 內，沿 **Dorssan Ryl** 河（黑色、深不見底，One River 環繞半城）分界。
-- **政治／勢力**：Tiste Andii 古都，Hold of Darkness 王座所在。只有皇族 Andii 血脈可承位。Mother Dark 為神主／法理源。內政由貴族家族與 Hostage 互換體系維繫（Sandalath 即曾為 Hostage）。
-- **歷史與事件**：
-  - 《Forge of Darkness／Fall of Light／Walk in Shadow》（Kharkanas 三部曲）為前傳：Andii 古文明的崩盤、Mother Dark 的退避、Hood 的喪妻為亡軍而起、Liosan／Edur／Andii 三系撕裂；最終 Kharkanas 在 Tiste 內戰中被滅城被棄。
-  - **Dust of Dreams**：Shake 女王 Yan Tovis 與兄 Yedan Derryg 帶 Letherii 難民走 Blind Gallan 之路（曾為 Kharkanas 通道），抵達廢棄的 Kharkanas；Mother Dark 回歸、城再現靈氣，但 Liosan 軍欲突 Lightfall 攻來。
-  - **The Crippled God**：Sandalath Drukorlat 為唯一在場 Andii，勉強接任 Queen of Kharkanas，因記起古日宮廷殺戮舊事而陷瘋；夫 Withal 無能止其崩潰。Yedan、Yan Tovis、Shake、Letherii 於 First Shore 死守至 Nimander Golit 帶 Andii 自 Black Coral 返家；擊退 Liosan 後 Andii 反入 Liosan 國終止永戰。
-- **地標**：The Citadel（中央堡）、王宮 throne room（黑石黑木地刻紅瑪瑙紋；王座為 blackwood 樹樁，根延入地）、Hust Sanctum（Hust 鑄劍聖殿）、Old Royal Vaults、River Market、貴族府第：Degalla、Durav、Hish、Purake、Rend、Silann、Skellor Village。
-- **遊戲**：Kef Tanar 棋中 Grand City 五十餘塊牌即 Kharkanas。
-- **敘事意義**：Kharkanas 是 Tiste Andii 的鄉愁與罪——所有 Andii 流亡萬年的源頭就在這座城被自家貴族殺紅了眼。Mother Dark 的回歸不是凱旋，而是被自己孩子終於懇求才願意低頭。它也是 Erikson 對「神為何沉默」的長篇回答的中心舞台。
+- **位置**：位於 Kurald Galain（黑暗異界）。
+- **掌控者**：黑暗之母 (Mother Dark)；由 Tiste Andii 貴族（如 Purake 家族）守護。
+
+### 概述
+卡卡納斯是所有 Tiste 種族的起源地。在那個還沒有光影之分的遠古時代，它是黑暗中唯一的文明之光。城市被 Dorssan Ryl 河平分，兩岸矗立著宏偉的石造宮殿與法術尖塔。
+
+城市特色：
+- **黑暗王座**：位於皇宮深處，建立在一棵巨大的「黑木」(Blackwood) 樹樁之上。
+- **建築風格**：以黑色石頭與黑色木材為主，展現出一種莊嚴、壓抑且精緻的哥德式美學。
+- **血脈連結**：只有具備皇室血統的 Tiste Andii 才能真正繼承這座城市的統治權。
+
+### 關鍵事件
+- **種族的分裂**：因對「光」的追求與權力的爭奪，Tiste 種族在此分裂為 Andii（暗）、Edur（影）與 Liosan（光），卡卡納斯經歷了慘烈的內戰。
+- **諸神的離去**：Mother Dark 感到被子民背叛後陷入倦怠並離去，卡卡納斯隨之陷入萬年的孤寂與荒廢。
+- **聖城的歸還 (The Return)**：在系列末期，Yan Tovis（Shake 女王）與 Yedan Derryg 帶領難民奪回了這座空城，並抵禦了 Tiste Liosan 的大舉入侵。隨著 Anomander Rake 的犧牲，Mother Dark 最終回歸卡卡納斯。
+
+### 敘事意義
+卡卡納斯在《瑪拉贊》宇宙中代表了「失落的樂土」與「種族的集體記憶」。它是 Andii 族人永恆憂鬱的根源——他們永遠在尋找回家的路，卻又恐懼面對那段充滿背叛的過去。
+
+### 現狀
+目前由 Shake 部族與歸來的 Tiste Andii 共同守護。它是種族重生的象徵，也是對抗外部威脅（如 Tiste Liosan）的最後前哨。

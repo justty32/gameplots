@@ -12592,13 +12592,13 @@ This is an
 Act 7
 side
 quest
-,  granted after entering the 16th Shard of
+,  granted after entering the 7th Shard of
 The Shattered Realm
 .
 Objectives
-Conquer the 25th Shard of the Shattered Realm
+Conquer the 10th Shard of the Shattered Realm
 Guide
-The quest completes after defeating the 25th shard of The Shattered Realm.
+The quest completes after defeating the 10th shard of The Shattered Realm.
 Rewards
 Normal
 Elite
@@ -12616,9 +12616,9 @@ Sins of the Forgotten - 2nd Entry
 Quest Log
 Quest log
 The Shattered Realm offers infinite promise, but many dangers await. You will not simply accept partial victory, this broken reality, and all of its power, is yours for the taking.
-Enter the Shattered Realm and proceed into the 25th Shard. Endure its threats and claim more of the Shattered Realm's secrets.
+Enter the Shattered Realm and proceed into the 10th Shard. Endure its threats and claim more of the Shattered Realm's secrets.
 Objectives:
-Conquer the 25th Shard of the Shattered Realm
+Conquer the 10th Shard of the Shattered Realm
 
 ======================================================================
 PAGE: Crate's Secret Quest
@@ -22308,9 +22308,9 @@ and opening the gate way to
 The Shattered Realm
 .
 Objectives
-Conquer the 5th Shard of the Shattered Realm
+Conquer the 2nd Shard of the Shattered Realm
 Guide
-The quest ends on completion of the 5th shard.
+The quest ends on completion of the 2nd shard.
 Rewards
 Normal
 Elite
@@ -22325,9 +22325,9 @@ Eldritch Essence
 Quest Log
 Quest log
 The Shattered Realm offers infinite promise, but many dangers await. The first step into the unknown is to tread carefully.
-Enter the Shattered Realm and proceed into the 5th Shard. Endure its threats and claim some of the Shattered Realm's secrets.
+Enter the Shattered Realm and proceed into the 2nd Shard. Endure its threats and claim some of the Shattered Realm's secrets.
 Objectives:
-Conquer the 5th Shard of the Shattered Realm
+Conquer the 2nd Shard of the Shattered Realm
 
 ======================================================================
 PAGE: Exploring the Shattered Realm
@@ -22355,13 +22355,13 @@ This is an
 Act 7
 side
 quest
-, granted after entering the 6th Shard of
+, granted after entering the 3rd Shard of
 The Shattered Realm
 .
 Objectives
-Conquer the 15th Shard of the Shattered Realm
+Conquer the 6th Shard of the Shattered Realm
 Guide
-The quest completes after defeating the 15th shard of The Shattered Realm.
+The quest completes after defeating the 6th shard of The Shattered Realm.
 Rewards
 Normal
 Elite
@@ -22378,9 +22378,9 @@ Sins of the Forgotten - 1st Entry
 Quest Log
 Quest log
 The Shattered Realm offers infinite promise, but many dangers await. You've witnessed its challenges, now all that remains is to crush them.
-Enter the Shattered Realm and proceed into the 15th Shard. Endure its threats and claim more of the Shattered Realm's secrets.
+Enter the Shattered Realm and proceed into the 6th Shard. Endure its threats and claim more of the Shattered Realm's secrets.
 Objectives:
-Conquer the 15th Shard of the Shattered Realm
+Conquer the 6th Shard of the Shattered Realm
 
 ======================================================================
 PAGE: Eye of Korvaak
@@ -43788,13 +43788,13 @@ This is an
 Act 7
 side
 quest
-,  granted after entering the 26th Shard of
+,  granted after entering the 11th Shard of
 The Shattered Realm
 .
 Objectives
-Conquer the 50th Shard of the Shattered Realm
+Conquer the 20th Shard of the Shattered Realm
 Guide
-The quest completes after defeating the 50th shard of
+The quest completes after defeating the 20th shard of
 The Shattered Realm
 .
 Rewards
@@ -43819,9 +43819,9 @@ Sins of the Forgotten - Final Entry
 Quest Log
 Quest log
 The Shattered Realm offers infinite promise, but many dangers await. You've seen much of this reality's secrets and they no longer shock you. All that remains is complete mastery over its potential.
-Enter the Shattered Realm and proceed into the 50th Shard. Endure its threats and claim what remains of the Shattered Realm's secrets.
+Enter the Shattered Realm and proceed into the 20th Shard. Endure its threats and claim what remains of the Shattered Realm's secrets.
 Objectives:
-Conquer the 50th Shard of the Shattered Realm
+Conquer the 20th Shard of the Shattered Realm
 
 ======================================================================
 PAGE: Meddling Witch

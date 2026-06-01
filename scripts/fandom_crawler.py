@@ -459,6 +459,49 @@ CONFIGS = {
                                   "Dragon Age: Last Flight characters"]),
         ],
     },
+    "pillars_of_eternity": {
+        "domain": "pillarsofeternity.fandom.com",
+        "work": "Pillars_of_Eternity",
+        "buckets": [
+            ("world_lore", ["Eora", "Deities", "Cultures", "Nations", "Races"]),
+            ("factions", ["Factions", "Knights of the Crucible", "Bleak Walkers", "Vailian Trading Company"]),
+            ("companions", ["Companions", "Pillars of Eternity companions"]),
+            ("locations", ["Locations", "Pillars of Eternity locations", "Cities"]),
+            ("quests", ["Main quests", "Side quests", "Faction quests"]),
+            ("lore_items", ["Lore items", "Books", "Notes"]),
+            ("creatures", ["Creatures", "Vessels", "Spirits"]),
+            ("characters", ["Characters", "Pillars of Eternity characters"]),
+        ],
+    },
+    "grim_dawn": {
+        "domain": "grimdawn.fandom.com",
+        "work": "Grim_Dawn",
+        "buckets": [
+            ("lore", ["Lore", "History"]),
+            ("factions", ["Factions", "Aetherials", "Chthonics", "Eldritch"]),
+            ("masteries", ["Masteries", "Class Lore"]),
+            ("npcs", ["NPCs", "Quest Givers"]),
+            ("quests", ["Quests", "Quest Items"]),
+            ("bosses", ["Boss Creatures", "Hero Creatures", "Nemesis"]),
+            ("locations", ["Locations", "Act 1 Locations", "Secret Areas"]),
+            ("constellations", ["Constellations", "Devotion Lore"]),
+        ],
+    },
+    "star_trek": {
+        "domain": "memory-alpha.fandom.com",
+        "work": "Star_Trek",
+        "buckets": [
+            ("productions",         ["Series", "Films", "Television series"]),
+            ("characters_main",     ["Individuals", "Starfleet personnel", "Main characters", "Commanding officers"]),
+            ("characters_recurring", ["Recurring characters"]),
+            ("species",             ["Species", "Sentient species", "Humanoids"]),
+            ("factions",            ["Organizations", "Governments", "Military organizations"]),
+            ("technology",          ["Technology", "Starship classes", "Starships", "Weapons"]),
+            ("geography",           ["Planets", "Quadrants", "Space stations", "Locations"]),
+            ("lore_history",        ["History", "Timeline", "Conflicts", "Wars"]),
+            ("science",             ["Science", "Medical science", "Physics"]),
+        ],
+    },
     "guild_wars_2": {
         # OFFICIAL wiki (wiki.guildwars2.com) — the fandom GW2 wiki is a
         # 117-article stub. 124k articles here, dominated by 14k+ generic

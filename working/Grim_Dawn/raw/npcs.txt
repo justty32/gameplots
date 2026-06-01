@@ -3699,6 +3699,25 @@ A Royal Remedy
 side quest if you talk to her.
 
 ======================================================================
+PAGE: Frankie "The Knife"
+CATEGORIES: NPCs
+URL: https://grimdawn.fandom.com/wiki/Frankie_"The_Knife"
+======================================================================
+
+Frankie
+is an NPC in the
+Four Hills
+area of
+Old Arkovia
+. He and two other members of
+Cronley's Gang
+have been imprisoned by the others, deciding that they wanted 'out' when
+Darius Cronley
+started using
+aether crystals
+. The player can decide either to kill him as a criminal, or hear him out for information.
+
+======================================================================
 PAGE: Galarok
 CATEGORIES: NPCs
 URL: https://grimdawn.fandom.com/wiki/Galarok

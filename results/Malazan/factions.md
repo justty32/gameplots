@@ -1,1033 +1,304 @@
-# Malazan Book of the Fallen — 種族／陣營詞條庫
+### 馬拉贊帝國（Malazan Empire）
 
-> 涵蓋 Erikson 主系列十部、Esslemont《Novels of the Malazan Empire》與《Path to Ascendancy》、Erikson《Kharkanas Trilogy》。所有條目按敘事重要性排序，非按人口或強度。全劇透，含結局與真實意圖。
+> 定位：由人類建立的多大陸擴張主義帝國
 
-## 目錄
-
-- [古老種族](#古老種族)
-  - 創世四族／Founding Races：Imass・T'lan Imass・Jaghut・K'Chain Che'Malle・Forkrul Assail
-  - 移民與半神種族：Tiste（Andii／Liosan／Edur）・Azathanai・Eleint・Soletaken／D'ivers
-  - 巨人後裔：Thelomen Tartheno Toblakai／Teblor／Tarthenal／Trell・Barghast
-- [人類分支與民族](#人類分支與民族)
-  - Quon Tali 系：Wickan・Seti・Napan・Falari・Kanese・Dal Honese
-  - Seven Cities 系：Khundryl・Semk・Tregyn・Tanno
-  - Genabackis 系：Daru・Genabarii・Rhivi・Saemankelyk
-  - Lether 系：Letherii・Adwami・Akrynnai・Awl・Kindaru・Stevjor・Phalyd・Bluerose
-  - 海上／群島：Meckros・Fent・Mezla 別稱
-  - 其他：Iceblood・Jhag・Watered
-- [國家與帝國](#國家與帝國)
-  - Malazan Empire ／ Letherii Empire ／ Tiste Edur Empire ／ Pannion Domin ／ Awl Confederacy
-- [Malazan 軍團與武裝](#malazan-軍團與武裝)
-  - 第二、四、五、六、七、九、十軍團・第八軍團・Bonehunters・Bridgeburners・New Bridgeburners・Old Guard・Imperial Navy・Wickan cavalry・Khundryl Burned Tears・Red Blades・Marines・Heavies・Sappers・Adjudicators
-- [Malazan 暗殺與秘社](#malazan-暗殺與秘社)
-  - Talons・Claw・Talian League
-- [傭兵團、跨界商隊與聖戰士](#傭兵團跨界商隊與聖戰士)
-  - Crimson Guard・Avowed・Disavowed・Second Blade・Grey Swords・Trygalle Trade Guild・Perish Grey Helms・Mott Irregulars・Bole brothers・Genabackan Mercenaries
-- [Pannion Domin 軍系](#pannion-domin-軍系)
-  - Tenescowri・Beklites・Betaklites・Urdomen・Septarchs
-- [Letherii 與 Tiste Edur 軍政](#letherii-與-tiste-edur-軍政)
-  - The Patriotists・Indebted・K'risnan・Sengar 家族・Tomad 家族・Edur 各氏族（Den-Ratha／Hiroth／Beneda／Merude／Sollanta）
-- [Tiste 古國軍政（Kharkanas）](#tiste-古國軍政kharkanas)
-  - House Dracons・Hust Legion・Houseblades・Wardens of the Glimmer Fate・Deniers・Sons of Light・Daughters of Light・Mad Poets
-- [Forkrul Assail 體系](#forkrul-assail-體系)
-  - Forulkan・Adjudicators・Lawful Inquisitors・Watered・Pure
-- [T'lan Imass 氏族](#tlan-imass-氏族)
-  - Logros・Kron・Ifayle・Bentract・Kerluhm・Orshayn・Nashar・The Unbound
-- [Darujhistan 與 Genabackis 政治](#darujhistan-與-genabackis-政治)
-  - T'orrud Cabal・Phoenix Inn regulars・Eel・Assassins' Guild・Council of Darujhistan・Free Cities Confederacy・Saltoan
-- [Quon Tali 地方勢力](#quon-tali-地方勢力)
-  - Untan Guard・The Protectress
-- [Jacuruku 勢力](#jacuruku-勢力)
-  - Thaumaturgs・Himatan tribes
-- [Hounds 群](#hounds-群)
-  - Hounds of Shadow・Hounds of Light・Hounds of Darkness（Deragoth）・T'rolbarahl Hounds
-- [Deck of Dragons 高之家](#deck-of-dragons-高之家)
-  - House Chains・High House Dark／Light／Shadow／Death／Life／War・House of the Azath
-- [神秘教派與其他](#神秘教派與其他)
-  - Nameless Ones・Tanno Spiritwalkers・Stormriders・The Snake・Y'Ghatan refugees
-- [K'Chain 體系與其他物種](#kchain-體系與其他物種)
-  - K'Chain Che'Malle・K'Chain Nah'ruk
-- [補遺：小部族與配角群](#補遺小部族與配角群)
-  - Lhowan・Marrese・Brist'pal・Drukorlas・Cabal（蟾蜍）・Tehol's Tarthenal・Mhybe・Kruppe's Circle
+- **起源**：由凱蘭夫德（Kellanved，後來的影座）與舞者（Dancer，後來的柯提利恩）於馬拉贊島的莫克守地（Mock's Hold）發跡。兩人本是海盜與刺客，透過對古老魔法與阿扎斯府（Azath House）的探索，建立了一個跨越昆塔利（Quon Tali）、七城大陸（Seven Cities）與吉納巴基斯（Genabackis）部分地區的龐大疆域。
+- **構成**：主體為人類，但吸納了各類種族作為盟友或附庸（如莫蘭斯族、泰蘭·伊瑪斯等）。軍事結構以「軍團」（Legion）為單位，強調工兵（Sappers）與法師團（Cadre Mages）的協作。
+- **目標 / 信念**：初期是凱蘭夫德對世界秩序的重新洗牌與對古老秘密的追求；在萊辛（Laseen）統治時期轉向官僚化、法制化與領土鞏固。其核心信念是「功績主義」，不論出身，唯才是用。
+- **與其他陣營的關係**：
+    - **盟友**：莫蘭斯族（Moranth，提供爆破彈）、泰蘭·伊瑪斯（Logros 氏族，曾效忠凱蘭夫德）。
+    - **敵人**：提斯·安迪（早期在吉納巴基斯）、赤紅衛隊（Crimson Guard，永恆的對手）、七城叛軍（Whirlwind）。
+- **關鍵人物**：
+    - **凱蘭夫德（Kellanved）**：創建皇帝，後升格為影座（Shadowthrone）。
+    - **萊辛（Laseen）**：第二任女皇，前克勞（Claw）之首，後被馬立克·瑞爾篡位。
+    - **馬立克·瑞爾（Mallick Rel）**：末期掌權者，極具政治手腕的陰謀家。
+- **故事中的角色**：帝國是全書的敘事基石。作品描繪了帝國從巔峰期的瘋狂擴張，到中期的內憂外患（列瑟入侵、七城起義），再到後期的政治變質。它不僅是一個國家，更是一個將無數英雄與悲劇編織在一起的熔爐。
+- **敘事象徵**：代表了「文明的雙面性」——既有征服的殘酷與官僚的腐敗，也有法治帶來的和平與跨種族的平等。
 
 ---
 
-## 古老種族
+### 焚橋者（Bridgeburners）
 
-### Imass（Imass）
+> 定位：馬拉贊第二軍團的傳奇精銳精英工兵部隊
 
-> 創世四族之一，T'lan Imass 之祖，現代人類遠祖。
-
-- **性質**：直立矮壯的尼安德塔型獵採部族，與 Jaghut 鬥爭數十萬年。
-- **起源**：與 Barghast、Moranth、人類同源；未及時加入 Ritual of Tellann 者後分化為現代人類。
-- **文化**：氏族制度，Bonecaster 為部族巫師，崇靈與獸圖騰。
-- **結局**：絕大多數於 Ritual of Tellann 化為 T'lan Imass；殘餘活著的 Imass 由 Onrack 與 Kilava 在 Refugium 保存血脈，至 Erikson 末作仍延續，是 Imass 種族最後的火種。
-
-### T'lan Imass（T'lan Imass）
-
-> 詳見 [factions/tlan_imass.md](factions/tlan_imass.md)。
-> 30 萬年前以 Tellann 火儀變身的不死戰士軍團，「沉默之軍／塵骨之軍」，為滅 Jaghut 而存。歷經七支 Diaspora 軍團，最終由 Onos T'oolan 在 Crippled God 終章重新召集解放靈魂，集體解約死去。
-
-### Jaghut（Jaghut）
-
-> 詳見 [factions/jaghut.md](factions/jaghut.md)。
-> 高大灰綠皮的長壽 Elder Race，掌冰寒 Warren Omtose Phellack。崇尚孤獨與反文明，因 Tyrant 暴君問題遭 T'lan Imass 連根殲滅。Hood 為其族王，Gothos 為哲學殿堂，Raest 與 Pannion Seer 為暴政樣本。
-
-### K'Chain Che'Malle（K'Chain Che'Malle）
-
-> 詳見 [factions/kchain_chemalle.md](factions/kchain_chemalle.md)。
-> 史前蜥蜴文明：Matron 母后＋K'ell Hunter 戰械＋J'an Sentinel＋Furies 移動天空堡壘。被自家子系 Nah'ruk 內戰、Tiste 入侵、與 Sky Keep 墜落而幾乎滅族。末代 Matron Gunth Mach 在 Dust of Dreams 與 Bonehunters 結盟。
-
-### K'Chain Nah'ruk（K'Chain Nah'ruk）
-
-> 詳見 [factions/kchain_nahruk.md](factions/kchain_nahruk.md)。
-> Che'Malle 短尾叛變子系，殺光母后後自我繁衍的爬蟲文明，掌握 Lightning Warren 武器。Dust of Dreams 末「Charging of the Spires」一戰被 Bonehunters 慘勝擋下，蹤跡消散。
-
-### Forkrul Assail（Forkrul Assail）
-
-> 詳見 [factions/forkrul_assail.md](factions/forkrul_assail.md)。
-> 創世四族中第一個退出競爭的種族；藍血、多關節肢體、無敵肉身。崇尚「絕對平衡」，以仲裁之名屠盡爭執雙方。Kolanse 殘黨在 Crippled God 終章發動 The Cull，被 Bonehunters 於 Battle of the Spire 摧毀。
-
-### Forulkan（Forulkan）
-
-> Forkrul Assail 在 Kharkanas Trilogy 時代於 Tiste 邊境建立的古帝國。
-> 信奉嚴格的法律辭令與「Just Wars」理念，向北擴張威脅 Kurald Galain。被 Vatha Urusander 率 Legion 擊潰，戰功成為他日後篡位 Father Light 的政治資本。Forulkan 戰俘成為 Liosan 體系的奴僕原型。
-
-### Tiste（Tiste）
-
-> 三支 Tiste 種族的合稱：Andii（暗）、Liosan（光）、Edur（影）。
-- **起源**：原為 Mother Dark 子民、淡金或青銅膚的單一民族，皆操 Kurald Galain；後因 Mother Dark 引入 Light 形成內戰，三族於 Sundering of Blood 分化。
-- **遷移**：在 Tiste Invasion 中由 Anomander Rake、Silchas Ruin、Scabandari 等領袖率眾入侵 Wu 之星，瓜分數塊大陸。
-- **共通**：三支皆有自家 Warren、自家神（Mother Dark／Father Light／碎裂的 Kurald Emurlahn），長壽近不死。
-- **參見**：Tiste Andii／Liosan／Edur 各條。
-
-### Tiste Andii（Tiste Andii）
-
-> 詳見 [factions/tiste_andii.md](factions/tiste_andii.md)。
-> 暗黑 Tiste，奉 Mother Dark 與 Kurald Galain。古都 Kharkanas，現代由 Anomander Rake 統治 Moon's Spawn 與後來的 Black Coral。末作 Rake 將 Dragnipur 釋放眾魂，自願死於 Dassem 劍下；Andii 餘眾隨 Nimander 與 Sandalath 重歸 Mother Dark 懷抱。
-
-### Tiste Liosan（Tiste Liosan）
-
-> 詳見 [factions/tiste_liosan.md](factions/tiste_liosan.md)。
-> 光明 Tiste，奉 Father Light／Osserc。古名 Tiste Lians。長期居於 Kurald Thyrllan，性格傲慢排外。Kharkanas Trilogy 中由 Hunn Raal 與 Vatha Urusander 推動「Father Light 加冕」內戰；現代由 Menandore、Sukul Ankhadu、Sharenas 三姐妹為代表。
-
-### Tiste Liosan 古名（Tiste Lians）
-
-> Tiste Liosan 的古稱，出自原始三分時期。見上條 Tiste Liosan。
-
-### Tiste Edur（Tiste Edur）
-
-> 詳見 [factions/tiste_edur.md](factions/tiste_edur.md)。
-> 影界 Tiste，奉碎裂的 Kurald Emurlahn。皮膚灰銀，崇祖鬼 Sengar 系。Hannan Mosag 被 Crippled God 誘以不死劍，立 Rhulad Sengar 為瘋帝，征服 Letherii。Reaper's Gale 末，Edur 帝國被 Karsa 殺 Rhulad、Letherii 反撲後集體流亡崩潰。
-
-### Shake（Shake）
-
-> 詳見 [factions/shake.md](factions/shake.md)。
-> Tiste Andii／人類混血的濱海部族，King-and-Witch 雙頭領導（Yan Tovis＋Yedan Derryg）。崇拜失落的 Shore 神話與 Lightfall 之牆。Dust of Dreams／Crippled God 中由 Twilight 帶領穿越 First Shore，肩負守 Lightfall 對抗 Liosan 大軍的命運。
-
-### Azathanai（Azathanai）
-
-> 造物者級半神種族，遠古於 Tiste 之前存在。
-- **性質**：個體即神，每位自帶獨特造物權能；Draconus 造 Dragnipur、K'rul 造 Warren 體系、Caladan Brood 為守山之槌、Grizzin Farl 為盾、Mael 為海。
-- **文化**：通常獨來獨往，互不結盟。Skillen Droe 與 Ardata 等個體強到足以與 Eleint 抗衡。
-- **角色**：Azath House 由 Azathanai 中的「Builders」分支建造，用以囚禁世間最危險之物。
-- **結局**：少數現代仍活躍（Mael 化身 Bugg、Caladan Brood 與 Crone 在 Black Coral）；多數退隱或自願封印。
-
-### Eleint（Eleint）
-
-> 龍族，源自 Starvald Demelain Warren，第一母龍為 T'iam。
-- **性質**：純血龍體龐大如山，可化人；Mother 龍 T'iam 即 Chaos 之化身。
-- **政治**：眾龍從不團結，因「血」會召喚 T'iam 復生而互相牽制；Anomander Rake 終身阻止龍族完整體 T'iam 復活。
-- **代表**：Silanah（紅龍盟友 Rake）、Korabas（被囚的反魔 Otataral Dragon）、Telorast & Curdle（死龍雙姐妹）。
-- **結局**：Crippled God 末，Korabas 被釋放重創 Forkrul Assail；T'iam 短暫成形又被分解，龍族重歸混沌。
-
-### Soletaken（Soletaken）
-
-> 單一動物形體的變身者；變身為固定一種野獸。
-- **代表**：Anomander Rake（黑龍）、Silchas Ruin（白龍）、Osserc（金龍）、Treach／Trake（虎）、Ryllandaras（白狼之 D'ivers 兼形態）。
-- **習俗**：與 D'ivers 共同走 Path of Hands，互相追殺以圖升格。
-- **文化象徵**：Soletaken 代表「單性靈魂的純粹獸性」；多數 Soletaken 在化獸後人格漸退。
-
-### D'ivers（D'ivers）
-
-> 多分身變身者；一靈魂可化為多隻動物。
-- **代表**：Gryllen（鼠群）、Mogora（蛛群）、Dejim Nebrahl（T'rolbarahl 七虎）、Trout Sen'al'Bhok'arala（猴群）。
-- **習俗**：與 Soletaken 共走 Path of Hands。死靈魂分裂愈多者愈強，但愈難維持自我意識。
-- **故事位置**：多為野化半神獸；Dejim Nebrahl 被 Crippled God 釋放追殺 Karsa 一行。
-
-### Thelomen Tartheno Toblakai（Thelomen Tartheno Toblakai）
-
-> 三支巨人族統稱：Thelomen、Tartheno、Toblakai。
-- **性質**：高 3 公尺以上、雙器官、與 Jaghut 同類長壽。
-- **分化**：Toblakai 為純血戰士系（產出 Karsa Orlong）；Tartheno 與人類混血弱化（Tarthenal）；Thelomen 是學者支系（Bellurdan Skullcrusher 出身）。
-- **故事位置**：Karsa 自詡「白臉 Toblakai」立志毀滅所有不如他的文明，最終被 Cotillion 收為 Crippled God 計畫關鍵刀。
-
-### Teblor（Teblor）
-
-> 詳見 [factions/teblor.md](factions/teblor.md)。
-> Thelomen Tartheno Toblakai 在 Laederon Plateau 的退化分支。崇拜「七面神」（Seven Faces in the Rock，其實是被囚禁的七 Toblakai 古王）。Karsa Orlong 出身此族；Karsa 末作率 Toblakai 重建祖先帝國，預告毀滅所有外族「文明」。
-
-### Tarthenal（Tarthenal）
-
-> Toblakai 與人類混血後裔，居於 Letherii 城邦。
-- **性質**：身高 2 公尺出頭、笨重但力大無窮。崇拜五位「Fallen Gods」（Deragoth 之一支）。
-- **代表**：Ublala Pung，Tehol 的傻力大同伴。
-- **故事位置**：Ublala 於 Dust of Dreams 帶領 Tarthenal 殘黨前往 Spires，成為 K'Chain 之友與 Crippled God 終局棋子。
-
-### Trell（Trell）
-
-> 巨人遊牧族，Mappo Runt 出身。
-- **性質**：與 Tartheno 同源的草原巨人，矮壯多毛、藍灰膚色。崇祖靈與草地。
-- **歷史**：Trell Wars 中被 Nathii 與 Malazan 人入侵滅絕，殘餘併入七城。
-- **代表**：Mappo Runt 為族中末代戰士；被 Nameless Ones 用「滅族騙局」綁定守衛 Icarium。
-
-### Barghast（Barghast）
-
-> 詳見 [factions/barghast.md](factions/barghast.md)。
-> 與 Moranth 同源的遊牧戰士族，與 Tartheno 通婚的 Imass 後裔。崇祖靈、文 woad、Talamandas 為其死靈代表。White Face Barghast 於 Pannion War 中為盟軍主力。Dust of Dreams 中 Maral Eb 篡位後被 T'lan Imass Onos 軍幾近屠盡，Hetan 一家慘死，是 Erikson 全系列最殘忍篇章。
+- **起源**：在凱蘭夫德征服七城大陸期間，這支部隊在跨越拉拉庫（Raraku）大沙漠的艱苦行軍中誕生。他們在那裡「焚燒了身後的橋樑」，斷絕退路，從此得名。
+- **構成**：由威士忌傑克（Whiskeyjack）領導，包含人類、巴爾加斯族等。規模雖小（僅存一個連隊），但成員皆為身經百戰的老兵。
+- **目標 / 信念**：極度效忠於凱蘭夫德皇帝與威士忌傑克。他們以「不可預測的戰術」與「瘋狂的勇氣」著稱，深信彼此之間的袍澤之情高於帝國的教條。
+- **與其他陣營的關係**：
+    - **盟友**：加諾斯·帕蘭、提斯·安迪（在科拉爾圍城戰中達成和解）。
+    - **敵人**：萊辛女皇（被視為對老皇帝效忠的威脅）、克勞（刺客組織）。
+- **關鍵人物**：
+    - **威士忌傑克（Whiskeyjack）**：靈魂領袖，傳奇指揮官。
+    - **快奔（Quick Ben）**：擁有十二個靈魂的超級法師。
+    - **卡蘭（Kalam Mekhar）**：帝國最強大的暗殺者之一。
+    - **費德勒（Fiddler）**：工兵，後成為骨獵者的精神支柱。
+- **故事中的角色**：他們是帝國「舊時代」的縮影。在佩爾（Pale）與科拉爾（Coral）之戰中幾乎全滅，但其靈魂在加諾斯·帕蘭的召喚下升格，成為死亡高之家（High House Death）的守護者，負責守衛通往死後世界的橋樑。
+- **敘事象徵**：代表了「軍人的榮譽」與「悲劇性的忠誠」。他們的消亡標誌著帝國擴張時代的終結。
 
 ---
 
-## 人類分支與民族
+### 骨獵者（Bonehunters）
 
-### Human（Human）
+> 定位：馬拉贊第十四軍團，由「殘兵敗將」組成的救世軍隊
 
-> 創世 Imass 落單者的後裔，遍佈所有大陸。
-- **起源**：未及參加 Ritual of Tellann 的 Imass 演化而成，與 Barghast、Moranth 同源。
-- **分支**：Quon Tali（Wickan／Seti／Napan／Falari／Kanese／Dal Honese／Gris／Hengese）、Genabackis（Daru／Genabarii／Rhivi／Capan／Gadrobi／Nathii／Saemdhi）、七城（Khundryl／Semk／Tregyn／Tanno／Gral／Pardu／Mekhar…）、Lether（Letherii／Adwami／Akrynnai／Awl／Bolkando／Faraed／Nerek）、Korel（Korelri／Mare／Theftian）、Jacuruku（Adwami／Himatan tribes）。
-- **位置**：全劇主軸種族，從生產文明到打仗、從升格到被屠都是人類。
-
-### Wickan（Wickan）
-
-> Quon Tali 草原馬族，「七犬」氏族戰士，Coltaine 與 Nil／Nether 同族。
-- **文化**：圖騰即犬與馬，騎戰術為帝國最強；獨特的「The Pack」靈犬保佑。
-- **歷史**：Wickan Wars 中被 Kellanved 帝國征服後成為帝國最忠誠騎兵；Chain of Dogs 後因 Coltaine 殉戰被七城神格化、被 Quon Tali 本土排斥屠殺。
-- **故事位置**：Coltaine 七犬騎兵幾乎全滅於 Chain of Dogs；Temul 一隊倖存兒童騎兵後續成為 Bonehunters 偵察主力。
-
-### Seti（Seti）
-
-> Quon Tali 草原部族，崇虎與狼。
-- **文化**：類 Wickan 但更野性；Koryk（Bonehunters 半血戰士）出身此族。
-- **故事位置**：被 Malazan 文明同化而衰退，Koryk 苦於認同失根；Seti 部族主體在 Bonehunters 時代已半消亡。
-
-### Napan（Napan）
-
-> Nap 島藍膚海洋人，Laseen、Cartheron Crust、Urko Crust、Nok 等老近衛皆此族。
-- **文化**：藍灰膚色、優秀海員與槳手。Napan 王族在 Mock's Hold 時代被 Malaz 海盜征服。
-- **故事位置**：Laseen 在 Path to Ascendancy 中與其他 Napan 倖存 royal 共謀重建 Napan 王統，後篡位 Kellanved 成為 Empress；Napan 主導帝國海軍與 Old Guard 上層。
-
-### Falari（Falari）
-
-> Falar 群島民，紅髮高大，海戰與煉金學發達。
-- **文化**：Old Falar 沉沒後遷至 Falari Isles；Stormy 為代表。
-- **故事位置**：Banaschar、Stormy 等出自此族；提供帝國重要的法師與海員。
-
-### Kanese（Kanese）
-
-> Quon Tali 沿海大城 Kan 的人類，溫和商業民。
-- **文化**：以絲綢、糖、調香聞名；Tavore 母系出身。
-- **故事位置**：經 Malazan 同化為主流。
-
-### Dal Honese（Dal Honese）
-
-> 黑色丘原部族，深膚色，靈魂預兆解讀傳統。
-- **代表**：Sinter、Kisswhere、Badan Gruk、Masan Gilani、Reliko 等 Bonehunters 兵。
-- **文化**：相信骨骼擲算與祖靈警示；Sinter 全劇多次靠預兆救隊。
-
-### Khundryl（Khundryl）
-
-> 七城馬族 Burned Tears 母體部族。
-- **性質**：高頂尖帽、馬鞍上掛 Bonecaster Khundryl 黃金小袋為靈物。
-- **故事位置**：Gall 領全族追隨 Bonehunters 至 Lether，Khundryl Burned Tears 全軍幾乎陣亡於 Battle of the Spire 之前的 Charge of the Tears。
-
-### Semk（Semk）
-
-> 七城 Karas 丘陵遊牧部族，崇 Semk Godling 小神。
-- **故事位置**：Chain of Dogs 中作為叛軍重要敵人，被 Coltaine 隊伍多次擊潰；Semk Godling 被 Heboric 與 Quick Ben 一道擊碎。
-
-### Tregyn（Tregyn）
-
-> 七城 Sanimon 以西的小部族。Battle of Sanimon 戰場出身。
-- **故事位置**：作為背景小族，敘事中份量輕。
-
-### Tanno Spiritwalker（Tanno Spiritwalker）
-
-> 七城 Ehrlitan 近郊的靈走者教派族。
-- **性質**：以靈歌（Spirit Song）封存歷史的吟遊智者；Kimloc 是傳奇代表。
-- **故事位置**：Kimloc 偷觸 Fiddler 一秒鐘，作出傳唱萬里的 Bridgeburners Spirit Song，導致 Bridgeburners 集體升格為 Knights of Death。
-
-### Daru（Daru）
-
-> Darujhistan 主流人類，南北 Genabackis 的商業核心民族。
-- **文化**：愛酒、愛說大話、愛政治。Kruppe 是 Daru 圓滑文化的化身。
-- **故事位置**：Phoenix Inn regulars 全為 Daru；T'orrud Cabal 為 Daru 的法師統治階層。
-
-### Genabarii（Genabarii）
-
-> Genabaris 城／北 Genabackis 人類，Nathii 系。
-- **故事位置**：Sorry／Apsalar 來自此區漁村；Genabarii 為 Sappers／Marines 大宗補充兵源。
-
-### Rhivi（Rhivi）
-
-> Genabackis 草原 bhederin 牧人部族。
-- **文化**：女系社會、長老制；Mhybe 為老婦尊稱。
-- **故事位置**：Caladan Brood／Anomander Rake 同盟的主力部族；Mhybe 老婦為 Silverfox 借體母親，在 Memories of Ice 中犧牲。
-
-### Saemankelyk（Saemankelyk）
-
-> Tiste Edur 中染上 Dying God 黑血癮的退化亞族。
-- **故事位置**：Toll the Hounds 中 Nimander 與兄弟必須殺死 Dying God 解放此族。
-
-### Letherii（Letherii）
-
-> 詳見 [factions/letherii.md](factions/letherii.md)。
-> Lether 帝國主流人類，迷信「金錢即文明、債務即文明」的高度金融化文化。Indebted 階級為現代奴。經歷 Tiste Edur 征服與 Bonehunters 解放，重整後由 Janath 與 Tehol 治國。
-
-### Kanese／Kanese 系：見上
-
-### Adwami（Adwami）
-
-> Letherii 邊境部族，Bonehunters 由此通往 Bolkando。
-- **故事位置**：Bonehunters 於 Dust of Dreams 中與 Adwami 結盟，Tavore 軍由 Adwami 為嚮導前往 Wastelands。
-
-### Akrynnai（Akrynnai）
-
-> 七城／Lether 邊境部族，騎馬牧 bhederin。
-- **故事位置**：被 Letherii 暗中挑撥與 Awl 衝突；Crippled God 篇 Akrynnai 加入 Bonehunters 同盟。
-
-### Awl（Awl）
-
-> 詳見 [factions/awl.md](factions/awl.md)。
-> Letherii 內陸獵牛部族。Letherii 帝國故意挑起 Awl 對外戰，再以「平亂」之名一舉滅族。Redmask 率殘軍與 K'Chain Furies 結盟、Awl Campaign 中 Brohl Handar 軍幾乎滅絕之，最終 Awl 從歷史抹除。
-
-### Kindaru（Kindaru）
-
-> Lether／Awl 邊緣的小部族。
-- **故事位置**：跟 Awl 同一輪屠殺中被併滅；殘餘成為 Awl 倖存者一部分。
-
-### Stevjor（Stevjor）
-
-> Lether 邊境部族。
-- **故事位置**：背景部族，敘事份量輕。
-
-### Phalyd（Phalyd）
-
-> 部族，事件分散於 events.txt 內文中。
-- **故事位置**：背景部族，份量輕。
-
-### Mezla（Mezla）
-
-> 七城語對 Malazan 帝國人類的稱呼，本意為「外來邪犬」。
-- **故事位置**：純為敘事語彙，象徵七城反帝國情緒。
-
-### Meckros（Meckros）
-
-> 詳見 [factions/meckros.md](factions/meckros.md)。
-> 海上漂浮城市民族，由龐大漂城在外洋移動。Withal 為其鐵匠出身。第三 Meckros City 落入 Tiste Edur 手中，是 Crippled God 不死劍鑄造地。
-
-### Fent（Fent）
-
-> 海女族／海洋少數民族（race），出沒於 Korel 與 Falari 海域。
-- **故事位置**：背景民族，含敘事不多。
-
-### Iceblood（Iceblood）
-
-> Assail 大陸的半 Jaghut 血脈人類；冬季血液不結凍、長壽。
-- **代表**：Baran、Bain、Cull Heel 等 Sayer/Heel 家族。
-- **故事位置**：Esslemont《Assail》一書中與 K'azz、Silverfox 一同抵禦 Forkrul Assail 與 T'lan Imass 入侵。
-
-### Jhag（Jhag）
-
-> 半 Jaghut 血脈人類，或失去文化記憶的 Jaghut（Icarium 即代表）。
-- **故事位置**：Icarium 是失憶 Jaghut／Toblakai 半血，怒火可毀大陸，被 Mappo 守護。
-
-### Watered（Watered）
-
-> Forkrul Assail 半血人類官吏，Pure 之下的執行階層。
-- **故事位置**：Brayderal 為 Snake 兒童軍中的奸細。詳見 [factions/forkrul_assail.md](factions/forkrul_assail.md)。
-
-### Bluerose（Bluerose）
-
-> Letherii 帝國境內隱藏的 Tiste Andii 飛地。
-- **性質**：Andii 後裔人類混血，崇 Mother Dark；以漁與航海為生。
-- **故事位置**：Reaper's Gale 中 Silchas Ruin 與 Udinaas 路過此地，重新喚醒當地 Andii 血脈意識。
-
-### Drukorlas（Drukorlas）
-
-> Tiste Andii 高貴家族系（Sandalath 與 Orfantal 出身）。
-- **故事位置**：見 characters；Drukorlat 系為 Kharkanas Trilogy 重要 Houseblade 血脈。
-
-### Tehol's Tarthenal（Tehol's Tarthenal）
-
-> Ublala Pung 的 Tarthenal 一支，後跟隨 Tehol／Ublala。
-- **故事位置**：見 Tarthenal 主條。
+- **起源**：在七城大陸起義（Whirlwind）後，為了鎮壓叛亂並接回受困的部隊，由塔沃兒·帕蘭（Tavore Paran）組建的新軍團。其核心成員多為「犬鏈」（Chain of Dogs）的倖存者與未經訓練的新兵。
+- **構成**：全人類組成，但包含各大陸的混血與流民。在亞加坦（Y'Ghatan）大火後，士兵們用人骨裝飾盔甲，自稱「骨獵者」。
+- **目標 / 信念**：最初是為了帝國平亂，但在塔沃兒的引領下，他們最終背棄帝國（Go Rogue），跨越海洋前往列瑟大陸，目標是釋放「殘廢之神」以終結諸神的棋局。
+- **與其他陣營的關係**：
+    - **盟友**：提斯·愛杜爾（部分）、泰蘭·伊瑪斯、殘廢之神（最終目標）。
+    - **敵人**：馬拉贊帝國（被宣判為叛軍）、公正者（最終戰的對手）。
+- **關鍵人物**：
+    - **塔沃兒·帕蘭（Tavore Paran）**：沈默、冷酷卻極具遠見的統帥。
+    - **費德勒（Fiddler）**：老兵中士，軍團的靈魂。
+    - **格魯布（Grub）**：神秘的戰場之子。
+- **故事中的角色**：他們是後半部故事的主角。這支被帝國拋棄、被世人誤解的軍隊，在塔沃兒的意志下，完成了歷史上最偉大的遠征——從救贖一個殘破的神靈中，救贖了整個世界的未來。
+- **敘事象徵**：代表了「無名的犧牲」與「被遺忘的勇氣」。他們的存在是為了完成一項無人會感激、無人會紀錄的任務。
 
 ---
 
-## 國家與帝國
+### 提斯·安迪（Tiste Andii）
 
-### Malazan Empire（Malazan Empire）
+> 定位：黑暗的長者種族，暗之母的長子
 
-> 詳見 [factions/malazan_empire.md](factions/malazan_empire.md)。
-> Kellanved 與 Dancer 從 Malaz Island 海盜窩起家、橫掃 Quon Tali、Seven Cities、Genabackis 的多大陸帝國。Laseen 篡位後分裂為 Old Guard vs 新體系；Bonehunters 為帝國孤注一擲遠征 Kolanse 拯救 Crippled God 的最後王牌。
-
-### Letherii Empire（Letherii Empire）
-
-> 詳見 [factions/letherii.md](factions/letherii.md)。
-> 信奉「金錢即文明」的 Letheras 帝國。Ezgara Diskanar 王朝被 Tiste Edur 征服改名 Tiste Edur Empire；Karsa 殺 Rhulad 後 Tavore 解放城市，由 Bugg 經濟改革、Janath 王后與 Tehol 國王重整為新 Letherii Kingdom。
-
-### Tiste Edur Empire（Tiste Edur Empire）
-
-> Rhulad Sengar 被 Crippled God 賜不死劍後篡奪 Letherii 王座，由 Hannan Mosag 暗中操控的 Edur+Letherii 雙軌帝國。
-- **特色**：對外掠奪萬國劍士來與 Rhulad 對決（任何殺死 Rhulad 之人即新冠軍候選）。
-- **結局**：Karsa Orlong 終於斬殺 Rhulad，Rhulad 求死獲允；Tiste Edur 失去精神支柱、Hannan Mosag 被 Quick Ben 與 Bottle 擊潰，Letherii 復國。
-
-### Pannion Domin（Pannion Domin）
-
-> 詳見 [factions/pannion_domin.md](factions/pannion_domin.md)。
-> 被 Crippled God 暗中扶植的 Genabackis 中部邪教帝國，由 Pannion Seer（瘋 Jaghut 雙子）統治。以飢餓農民軍（Tenescowri）吞噬城市、Septarchs 管轄軍區、Urdomen 死士為核心。Pannion War 與 Siege of Capustan、Siege of Coral 連戰被 Anomander Rake／Onearm's Host／Bridgeburners／Trygalle 等聯軍剿滅。
-
-### Awl Confederacy（Awl Confederacy）
-
-> 詳見 [factions/awl.md](factions/awl.md)。
-> Awl 部族在 Letherii 邊境的鬆散聯盟。被 Letherii 帝國刻意挑撥內鬨後一舉殲滅。
+- **起源**：誕生於庫拉德·加蘭（Kurald Galain）的原始黑暗中。因暗之母（Mother Dark）對其子民的背棄，他們長期處於一種生存性的憂鬱與虛無中。
+- **構成**：長生種，皮膚黝黑如夜，眼瞳為琥珀色。擁有強大的變身能力（Soletaken），可化身為黑龍。
+- **目標 / 信念**：在阿諾曼德·雷克的領導下，他們在各個世界流浪，尋找存在的意義。他們大多已放棄希望，僅靠對雷克的絕對效忠支撐意志。
+- **與其他陣營的關係**：
+    - **盟友**：卡拉丹·布魯德（Caladan Brood）、馬拉贊帝國（短暫）。
+    - **敵人**：提斯·愛杜爾（影之種族）、提斯·里歐森（光之種族）。
+- **關鍵人物**：
+    - **阿諾曼德·雷克（Anomander Rake）**：黑翼之主，月之神子。
+    - **西爾查斯·魯因（Silchas Ruin）**：雷克之弟，白髮的掠奪者。
+    - **恩德斯特·西蘭（Endest Silann）**：見證了種族衰落的老法師。
+- **故事中的角色**：他們是「憂鬱」的化身。透過雷克在達魯基斯坦的最終犧牲，暗之母重新接納了她的子民，使提斯·安迪得以回歸故鄉，終結了數十萬年的流浪與絕望。
+- **敘事象徵**：代表了「高貴的悲觀主義」與「漫長時間帶來的靈魂疲憊」。
 
 ---
 
-## Malazan 軍團與武裝
+### 泰蘭·伊瑪斯（T'lan Imass）
 
-### Bonehunters（Bonehunters）
+> 定位：為了永恆戰爭而放棄生命的「不死」原始種族
 
-> 詳見 [factions/bonehunters.md](factions/bonehunters.md)。
-> Tavore 麾下原 14th Army、Y'Ghatan 火浴後自稱 Bonehunters。橫渡 Wastelands、與 K'Chain Che'Malle、Khundryl、Perish 聯軍前往 Kolanse，於 Crippled God 終卷的 Battle of the Spire 中作為「無見證者之軍」自我犧牲擊倒 Forkrul Assail 並釋放 Crippled God。
-
-### Bridgeburners（Bridgeburners）
-
-> 詳見 [factions/bridgeburners.md](factions/bridgeburners.md)。
-> Kellanved 時代由 Whiskeyjack 帶領、在 Raraku 焚去過往的傳奇精銳工兵連。Pale 圍城 1400 人剩 39 人；Memories of Ice 終戰於 Black Coral 集體犧牲；Anomander Rake 將 Moon's Spawn 贈為其墓。Tanno Spirit Song 使其升格為 Knights of Death，守 Hood's Gate。
-
-### New Bridgeburners（New Bridgeburners）
-
-> Hedge 在 Bonehunters 軍中重建的新 Bridgeburners 連。
-- **性質**：Hedge 從亡者之路復活後加入 Bonehunters，由 Bavedict（Letherii 鍊金師）提供新型 Munitions。
-- **成員**：Hedge、Berrach、Nose Stream、Rumjugs、Sweetlard、Sunrise、Bavedict、Gent、Pahvral、Rayez、Sleg。
-- **結局**：Crippled God 末卷與 Bonehunters 同往 Spire，多數陣亡；Hedge 倖存重返 Hood 處。
-
-### Old Guard（Old Guard）
-
-> 詳見 [factions/old_guard.md](factions/old_guard.md)。
-> Kellanved 帝國第一代將領群（Whiskeyjack、Dujek、Dassem、Surly、Toc the Elder、Cartheron／Urko Crust、Nok、Tayschrenn、Greymane 等）。Laseen 篡位後遭系統性肅清；Esslemont 系列中倖存者於 Return of the Crimson Guard 重新出山，最終在 Orb Sceptre Throne／Stonewielder 中各自重歸位置。
-
-### 4th Army（Adjunct Lorn）
-
-> 帝國正規軍，第一代 Adjunct Lorn 帶領的 Genabackis 軍。
-- **故事位置**：Gardens of the Moon 中於 Pale／Darujhistan 線駐紮，Lorn 死於 Darujhistan 後改編。
-
-### 2nd Army（Onearm's Host）
-
-> Dujek 一臂軍，含 Bridgeburners。
-- **歷史**：Pale 圍城三年、Darujhistan 任務、Pannion War 主力。
-- **結局**：Pannion 戰後 Dujek 重病亡，Onearm's Host 解散併入正規帝國序列。
-
-### 5th Army
-
-> 帝國軍。Mott Campaign 中陷入 Bole 兄弟泥沼，Bridgeburners 一度借調支援。
-
-### 6th Army
-
-> 帝國軍。Genabackis 北線駐紮。
-
-### 7th Army
-
-> 帝國軍。Coltaine 率 7th Army 殘部完成 Chain of Dogs，七城大遷徙救出十萬難民、自己軍隊全滅。
-
-### 8th Legion（8th Legion）
-
-> Tavore 第八軍團，Bonehunters 主體前身。
-- **故事位置**：Y'Ghatan 火浴後 8th Legion 改名 Bonehunters。
-
-### 9th Legion
-
-> 帝國軍，背景。
-
-### 10th Legion
-
-> 帝國軍，背景。
-
-### Red Blades（Red Blades）
-
-> 七城本地效忠帝國的佩劍兵團。
-- **性質**：穿紅披風的本地七城人警察兼鎮壓部隊；對叛軍與 Sha'ik 信徒手段殘酷。
-- **代表**：Tene Baralta、Lostara Yil。
-- **結局**：Whirlwind 中多被屠；Lostara 跳隊投 Tavore 成為 Bonehunters 上層；Tene Baralta 於 Y'Ghatan 殘廢後流放。
-
-### Wickan cavalry（Wickan cavalry）
-
-> Wickan 騎兵隊，Chain of Dogs 主力。
-- **故事位置**：Coltaine 七犬騎兵；Aren 城前被 Korbolo Dom 出賣，騎兵全滅、Coltaine 釘刑。
-
-### Khundryl Burned Tears（Khundryl Burned Tears）
-
-> Khundryl 戰士部族化身的騎兵團，Gall 帶領。
-- **性質**：每位戰士臉上塗灼燒淚紋以紀念 Coltaine。崇拜 Coltaine 為英雄／神。
-- **結局**：在 Spire 之戰前的 Charge of the Tears 一役，全軍向前突擊 Forkrul Assail 大軍，幾乎全數陣亡，為 Bonehunters 爭取進場時間。
-
-### Imperial Navy（Imperial Navy）
-
-> Malazan 帝國海軍。
-- **領袖**：Admiral Nok、Cartheron Crust、Urko Crust 等 Napan 將領。
-- **故事位置**：Bonehunters 從 Malaz City 出航 Lether、Korel 戰役、Crippled God 末卷皆有 Nok 艦隊承接運輸。
-
-### Marines（Marines）
-
-> 帝國海戰陸戰兵種，Bonehunters 主力即是 Marines 序列。
-- **特色**：搭配 Moranth Munitions（Cussers／Sharpers／Burners）；班制（Squad）為核心。
-
-### Heavies（Heavies）
-
-> Bonehunters 重裝兵組。
-- **代表**：Mayfly、Shortnose、Saltlick、Flashwit、Drawfirst、Ruffle、Vastly Blank、Sweetlard、Rumjugs、Tulip。
-- **故事位置**：以「沉默笨重的擋盾人」形象貫穿全劇，Spire 戰中肉身擋 Forkrul Assail 拳頭。
-
-### Sappers（Sappers）
-
-> Bonehunters 工兵班。
-- **代表**：Fiddler、Cuttle、Bottle、Tarr 班等。
-- **特色**：操作 Moranth Munitions；Fiddler 為帝國史上最強的 sapper sergeant。
-
-### Adjudicators（Bonehunters）
-
-> Gesler／Stormy／Truth 三人 Adjudicators 特勤；後加入 Throatslitter、Deadsmell、Balm 班。
-- **性質**：Adjudicators 班專責穿越 warren 探勘；Gesler／Stormy 為 Fener 加持的銅膚老兵。
-- **故事位置**：Gesler／Stormy 在 Crippled God 末卷被 K'Chain Che'Malle 母后選為 Shield Anvil 與 Mortal Sword，與 Gunth Mach 軍並肩作戰。
+- **起源**：三十萬年前，原始人類伊瑪斯族為了徹底滅絕其宿敵捷高特（Jaghut），在奧拉·艾索（Olar Ethil）的主持下舉行了「泰蘭儀式」，集體放棄肉身，轉化為永不疲倦、永不死亡的乾屍戰士。
+- **構成**：由多個氏族組成（如 Logros, Kron），每個氏族由骨咒者（Bonecaster）用法術引導。他們可以化為塵土隨風移動。
+- **目標 / 信念**：最初的目標是徹底鏟除世界上所有的捷高特。在凱蘭夫德皇帝找到「第一王座」後，他們曾短暫效忠於帝國。
+- **與其他陣營的關係**：
+    - **盟友**：馬拉贊帝國（早期）。
+    - **敵人**：捷高特（宿敵）、所有捷高特的半血後裔（Jhag）。
+- **關鍵人物**：
+    - **歐諾斯·圖蘭（Onos T'oolan/Tool）**：第一劍，與人類建立了深厚的友誼。
+    - **奧拉·艾索（Olar Ethil）**：第一位骨咒者，殘酷的母權象徵。
+- **故事中的角色**：他們代表了「偏執與仇恨的代價」。在故事後期，隨著捷高特威脅的消失，他們開始尋求自我的解脫與死亡。
+- **敘事象徵**：代表了「被禁錮的時間」與「永無止境的仇恨所帶來的空虛」。
 
 ---
 
-## Malazan 暗殺與秘社
+### 捷高特（Jaghut）
 
-### Talons（Talons）
+> 定位：擁有極致冰魔法的孤僻巨人種族
 
-> Dancer（Cotillion）創立的暗殺者結社，Claw 前身。
-- **性質**：兼軍事突擊與外部斬首；其組織暗號為「7 步間距」hand。
-- **歷史**：Surly 篡位時用 Claw 系統性清除 Talons，倖存者隱於各地。
-- **結局**：Esslemont 系列中 Talons 重新出現支援老派 Old Guard 復辟運動。
-
-### Claw（Claw）
-
-> 詳見 [factions/claw.md](factions/claw.md)。
-> Surly（Laseen）建立、Topper 與 Possum 接任的帝國秘密警察兼暗殺者，五人一 Hand。內部派系腐敗、Pearl 與 Lostara 雙線見證從內崩潰。Crippled God 末卷 Laseen 死後 Claw 隨帝國新體系重組。
-
-### Talian League（Talian League）
-
-> Malazan 帝國內戰時的反 Laseen 同盟。
-- **性質**：以 Quon Tali 老貴族＋Old Guard 倖存者組成的「復辟黨」。
-- **故事位置**：Esslemont《Return of the Crimson Guard》主軸；最終被 Laseen 一系與 Crimson Guard 雙重夾擊，於 Battle of the Plains 解體。
+- **起源**：古老的長者種族，精通冰之 Warren「歐姆托斯·費拉克」（Omtose Phellack）。
+- **構成**：身材高大、有獠牙、皮膚灰綠。他們天性極端孤僻，不建立社會或城市，因為他們認為「集體」必然導致「暴政」。
+- **目標 / 信念**：追求絕對的個人自由與孤獨。儘管大多數捷高特愛好和平與哲學，但歷史上出現過的幾位「捷高特暴君」對世界造成了毀滅性打擊，這也是伊瑪斯族仇恨他們的根源。
+- **與其他陣營的關係**：
+    - **敵對**：泰蘭·伊瑪斯（被其追殺了三十萬年）。
+- **關鍵人物**：
+    - **胡德（Hood）**：死亡之神，曾是捷高特的一員。
+    - **哥索斯（Gothos）**：瘋狂的學者與詩人，阿扎斯府的守衛者。
+    - **雷斯特（Raest）**：被封印在達魯基斯坦的傳奇暴君。
+- **故事中的角色**：捷高特提供了一種超脫世俗的視角。他們冷酷的幽默感與強大到足以凍結大陸的力量，多次左右了世界的命運。
+- **敘事象徵**：代表了「絕對的孤獨」與「權力的詛咒」。
 
 ---
 
-## 傭兵團、跨界商隊與聖戰士
+### 卡奇恩·切馬雷（K'Chain Che'Malle）
 
-### Crimson Guard（Crimson Guard）
+> 定位：史前爬蟲生物文明，生物科技的巔峰
 
-> 詳見 [factions/crimson_guard.md](factions/crimson_guard.md)。
-> 由 Prince K'azz D'Avore 立 Vow 創立的傭兵團，誓言對抗 Malazan 帝國至帝國覆亡為止。Avowed 不老不死、死後成 Brethren 鬼魂繼續支援。Diaspora 後分四 Company；Skinner 率 Disavowed 出走。Esslemont《Assail》末卷 K'azz 解 Vow，Vow 結束。
-
-### Avowed（Avowed）
-
-> Crimson Guard 內立 Vow 之核心成員，共約 600 人。
-- **特色**：不老、傷癒、死後成 Brethren 鬼魂相隨。
-- **詳見**：[factions/crimson_guard.md](factions/crimson_guard.md)。
-
-### Disavowed（Disavowed）
-
-> Skinner 率領出走的 Avowed 派系，違背 Vow 但保有不老體質。
-- **性質**：嗜血、無 Vow 約束，但仍受 Vow 之鬼魂跟蹤。
-- **故事位置**：Skinner 為其首；Esslemont《Stonewielder》中與 Korelri 諸國反帝國勢力勾結。
-
-### Second Blade（Second Blade）
-
-> Crimson Guard 第二劍系，含 Cal-Brinn 等資深 Avowed。
-- **故事位置**：Second Blade 在 Jacuruku 被 Thaumaturgs 困住多年，Blood and Bone 中歸隊。
-
-### Grey Swords（Grey Swords）
-
-> 詳見 [factions/grey_swords.md](factions/grey_swords.md)。
-> Capustan 雇傭聖戰士團，奉 Fener。Itkovian 為 Shield Anvil。Siege of Capustan 中為守城戰至全滅；Itkovian 吸收全城死難之痛升格成神後死。新一代 Grey Swords 由 Rhivi 女戰士 Karnadas 重建，後併入 Perish Grey Helms。
-
-### Trygalle Trade Guild（Trygalle Trade Guild）
-
-> 詳見 [factions/trygalle.md](factions/trygalle.md)。
-> Genabackis 跨界商隊，由 Master 與 Mistress 兼 Sorceress 駕駛馬車穿越 Warren 運貨。商人＝持股股東，每趟死傷半數。Gruntle 與 Stonny Menackis 為晚期主力護衛。Pannion War 與 Crippled God 末卷皆扮關鍵運輸角色。
-
-### Mott Irregulars（Mott Irregulars）
-
-> 沼澤地非正規兵團，Bole 三兄弟為核心。
-- **性質**：Mott Wood 的伐木工＋獵人＋老兵，戰術絕對不正規，極擅長伏擊。
-- **歷史**：5th Army 在 Mott Campaign 入侵 Mott Wood，被 Bole 兄弟拖入泥沼戰，Malazan 大敗。
-- **故事位置**：Memories of Ice 中加入 Caladan Brood 同盟；Toll the Hounds 末重歸森林。
-
-### Bole brothers（Bole brothers）
-
-> Mott 三兄弟（Trout、Hurdle、Jamber）。
-- **性質**：粗壯沉默的兄弟團，能與大自然靈體溝通，戰術不可預測。
-- **故事位置**：Mott Irregulars 核心；多次出現於 Bridgeburners 隊長 Whiskeyjack 的回憶。
-
-### Genabackan Mercenaries（Genabackan Mercenaries）
-
-> Genabackis 諸雇傭兵群通稱。
-- **故事位置**：背景組成，包括 Grey Swords、Crimson Guard 北分支、Mott Irregulars 等多支。
-
-### Perish Grey Helms（Perish Grey Helms）
-
-> 詳見 [factions/perish_grey_helms.md](factions/perish_grey_helms.md)。
-> Perish 半島聖戰士團，奉 Togg＋Fanderay（冬狼神）。Krughava 為 Mortal Sword、Tanakalian 為 Shield Anvil、Run'Thurvian 為 Destriant。與 Bonehunters 結盟前往 Kolanse。Tanakalian 背叛在 Spire 之前殺 Krughava，Grey Helms 隨後在 Spire 之戰大半陣亡。
+- **起源**：遠在人類出現前就統治世界的物種。他們是高度群體化的文明，居住在巨大的浮空城（Skykeeps）中。
+- **構成**：分為長尾（Long-tails，正統文明）與短尾（Short-tails/Nah'ruk，叛變的生化改良種）。社會結構類似蜂群，由「母后」（Matron）統治，下設獵手（Hunters）、刺客等專門化個體。
+- **目標 / 信念**：生存與族群的延續。在瀕臨滅絕的末期，他們選擇了人類（如卡薩·奧隆、斯托米）作為其「命定之劍」或軍事領袖，試圖在最終戰中留下族群的印記。
+- **與其他陣營的關係**：
+    - **敵人**：捷高特、公正者。
+- **關鍵人物**：
+    - **母后（Gunth'an Berack）**：最後的母后之一。
+- **故事中的角色**：他們代表了技術與魔法的結合。其浮空城與生化改造戰士在對抗公正者的最終戰鬥中發揮了決定性作用。
+- **敘事象徵**：代表了「非人的集體主義」與「被時間遺忘的遺蹟」。
 
 ---
 
-## Pannion Domin 軍系
+### 公正者（Forkrul Assail）
 
-### Tenescowri（Tenescowri）
+> 定位：追求極端平衡與肅清的「和平」執行者
 
-> Pannion Domin 飢餓農民軍。
-- **性質**：被剝奪食物、被 Septarchs 灌輸「食用敵屍即聖餐」的飢餓暴民軍。
-- **戰術**：以飢餓數量碾壓敵軍；攻城時直接吞食死者與俘虜。
-- **故事位置**：Siege of Capustan 中為主要圍城軍力，敘事以「飢餓的海」描寫城市被吞噬；最終 Anomander Rake 與聯軍解放 Capustan 後 Tenescowri 解散。
-- **敘事象徵**：Tenescowri 是 Erikson 對「以宗教合理化飢餓掠奪」的最殘酷批判。
-
-### Beklites（Beklites）
-
-> Pannion Domin 正規步兵。
-- **故事位置**：Capustan 與 Coral 圍城中為主要正規兵力，戰術死板。Coral 戰中被聯軍打散。
-
-### Betaklites（Betaklites）
-
-> Pannion 重步兵。
-- **故事位置**：與 Beklites 同序列，更重裝；Coral 戰中亦覆滅。
-
-### Urdomen（Urdomen）
-
-> Pannion 死士軍／聖戰菁英。
-- **性質**：戴金屬面盔、誓死不退、宗教狂熱化身。
-- **故事位置**：Capustan／Coral 戰中為 Pannion 最頑強敵人，最終由 Itkovian 與 Anomander Rake 個別解決。
-
-### Septarchs（Septarchs）
-
-> Pannion 軍區主教，七位高階司令。
-- **性質**：兼宗教與軍政首腦；負責徵召並洗腦 Tenescowri。
-- **故事位置**：Coral 戰末全部覆滅；Pannion Seer 本身被釋放回正常意識後與 Anomander Rake 達成諒解。
+- **起源**：最古老的長者種族之一，自認是世界的終極裁決者。
+- **構成**：外型瘦長，擁有多關節的肢體與藍色的血液。防禦力與自癒能力極強，能用意志扭曲现实。
+- **目標 / 信念**：追求「公正」與「平衡」。在他們的邏輯中，人類與其他種族是混亂的根源，因此實現和平的唯一方法就是將所有衝突方（甚至全人類）徹底消滅。
+- **與其他陣營的關係**：
+    - **敵人**：几乎所有其他種族。
+- **關鍵人物**：
+    - **平靜（Calm）**：曾被卡薩釋放，最終戰的強敵。
+    - **崇敬（Reverence）**：科蘭斯（Kolanse）地區的首領。
+- **故事中的角色**：全系列最終的大反派。他們盤踞在科蘭斯，試圖利用殘廢之神的力量發動「大清洗」，肅清整個世界。
+- **敘事象徵**：代表了「教條主義的極端」與「缺乏慈悲的絕對正義」。
 
 ---
 
-## Letherii 與 Tiste Edur 軍政
+### 提斯·愛杜爾（Tiste Edur）
 
-### The Patriotists（The Patriotists）
+> 定位：灰色的影之種族，在庫拉德·埃穆拉恩（Kurald Emurlahn）的碎片中掙扎。
 
-> Letherii 帝國秘密警察。
-- **性質**：Karos Invictad 率領的「愛國者」式特工隊，以反 Edur／反異族為名行內部清洗。
-- **代表**：Karos Invictad、Tanal Yathvanar。
-- **故事位置**：Reaper's Gale 中構陷 Tehol 與 Janath；Karos 被 Tehol 經濟陷阱與 Bugg 神力雙重瓦解。
-
-### Indebted（Indebted）
-
-> Letherii 帝國的負債奴階級。
-- **性質**：以無法償還的世襲債務綁定的勞役底層；債務在 Letherii 文化中比生命神聖。
-- **故事位置**：Bugg／Tehol 雙線經濟改革的終極目標即廢除 Indebted 制度；Crippled God 末卷 Tehol 重整國庫後正式廢制。
-
-### K'risnan（K'risnan）
-
-> Tiste Edur 法師團，Hannan Mosag 親信。
-- **性質**：使用 Kurald Emurlahn 中被 Crippled God 污染的支流；身體因魔力反噬而扭曲變形。
-- **故事位置**：Reaper's Gale 中 K'risnan 被 Hannan Mosag 操控對抗 Quick Ben；Quick Ben 與 Bottle 在最終戰中拆解 K'risnan 群。
-
-### Sengar 家族（Sengar）
-
-> Tiste Edur 王族（Tomad＋Uruth 之子：Fear／Trull／Rhulad／Binadas）。
-- **故事位置**：Rhulad 成瘋帝，Trull 被 Shorning 放逐後與 Onrack 同行返回，最終死於 The Crippled God；Fear 在尋找 Father Shadow 途中死。
-
-### Tomad 家族（Tomad）
-
-> Sengar 父系氏族，同上。
-
-### Den-Ratha（Den-Ratha）
-
-> Tiste Edur 一族，南方海岸支系。
-
-### Hiroth（Hiroth）
-
-> Tiste Edur 一族，Sengar 家族所屬，地位最高。
-
-### Beneda（Beneda）
-
-> Tiste Edur 一族，中部支系。
-
-### Merude（Merude）
-
-> Tiste Edur 一族，東方支系。
-
-### Sollanta（Sollanta）
-
-> Tiste Edur 一族，西方支系。
-
-### Saemankelyk（Saemankelyk）
-
-> 見上人類分支區，染 Dying God 黑血退化的 Edur 亞族。
+- **起源**：在庫拉德·埃穆拉恩分裂後，愛杜爾族失去了統一的國度，分裂為多個氏族（如 Hiroth）。
+- **構成**：皮膚為灰色，長期過著部落生活，直到茹拉德·森加（Rhulad Sengar）崛起。
+- **目標 / 信念**：初期是恢復影之 Warren 的榮光；在茹拉德統治時期變為對列瑟大陸的瘋狂擴張與對殘廢之神的病態崇拜。
+- **關鍵人物**：茹拉德·森加、特魯爾·森加、漢南·莫薩格（Warlock King）。
+- **故事中的角色**：他們是中期的主要威脅，其悲劇性的擴張導致了無數生靈塗炭，也引發了骨獵者的遠征。
 
 ---
 
-## Tiste 古國軍政（Kharkanas）
+### 提斯·里歐森（Tiste Liosan）
 
-### House Dracons（House Dracons）
+> 定位：極端偏執的光明種族，奉光之父為唯一真理。
 
-> Draconus 在 Tiste Andii 時期的家族／封地，含 Ivis 隊長與其 Houseblades。
-- **故事位置**：Kharkanas Trilogy 中 Draconus 自我流放後 House Dracons 仍守護其女兒 Envy／Spite／Sheltatha Lore，封地受 Liosan 內戰殃及。
-
-### Hust Legion（Hust Legion）
-
-> 詳見 [factions/hust_legion.md](factions/hust_legion.md)。
-> Tiste Andii 罪人軍團，配 Hust 鳴劍（飲血則嘯叫）。指揮 Toras Redone。Hunn Raal 用毒酒在 Fall of Light 篇章前夕一次毒殺整個 Legion；Galar Baras 重組罪人新兵繼任。Hust 劍承載 Andii 戰魂歷史。
-
-### Houseblades（Houseblades）
-
-> Tiste Andii 各家族親兵。
-- **性質**：每一個 Highborn 家族擁有自家武裝（Hish Tulla、House Dracons、House Drukorlat 等）。
-- **故事位置**：Kharkanas Trilogy 中 Houseblades 為 Tiste 古國地方武力的常設體系，內戰時各家族被迫選邊站。
-
-### Wardens of the Glimmer Fate（Wardens）
-
-> Tiste Andii 邊境守衛，由 Calat Hustain 領導。
-- **性質**：守 Kurald Galain 邊境 Glimmer Fate 沼澤，防禦 Jheleck（狗形種族）與其他外來威脅。
-- **故事位置**：Forge of Darkness 中為 Tiste Andii 邊境主防線；Finarra Stone 為代表。
-
-### Deniers（Deniers）
-
-> Tiste Andii 拒光教派，居於河岸森林邊緣。
-- **性質**：拒絕 Mother Dark 接受 Father Light 妥協的鄉土派 Tiste。
-- **故事位置**：Forge of Darkness／Fall of Light 中被 Hunn Raal 軍當作清洗目標，多被屠殺；殘存 Deniers 加入 Houseblade 反抗 Liosan。
-
-### Sons of Light（Sons of Light）
-
-> Liosan 戰士團，男系。
-- **性質**：奉 Father Light，純化主義；對 Andii 抱持原始敵意。
-- **故事位置**：Kharkanas 內戰主力之一，由 Vatha Urusander Legion 體系演化。
-
-### Daughters of Light（Daughters of Light）
-
-> Liosan 女戰士團。
-- **故事位置**：Menandore、Sukul Ankhadu、Sharenas 等女戰士為核心；現代 Liosan 由三姐妹分裂統治。
-
-### Mad Poets（Mad Poets）
-
-> Tiste Edur 瘋狂詩人團。
-- **性質**：以即興詩句傳達 Kurald Emurlahn 碎裂後的精神錯亂；某些詩句據說可催動 Shadow Warren 邊緣力量。
-- **故事位置**：背景文化團體，敘事中為 Edur 文化崩潰的徵兆。
+- **起源**：在庫拉德·里歐森（Kurald Liosan）的強光中誕生。
+- **構成**：金髮、銀眼，自視為最純淨的種族。
+- **目標 / 信念**：徹底肅清所有「不純」的事物，特別是與黑暗或陰影有關的種族。
+- **故事中的角色**：他們多作為狂熱的干擾者出現，其僵化的正義觀使其經常與其他種族發生衝突。
 
 ---
 
-## Forkrul Assail 體系
+### 赤紅衛隊（Crimson Guard）
 
-### Adjudicators（Adjudicators）
+> 定位：立下不死誓言的馬拉贊帝國死敵
 
-> Forkrul Assail 高層裁決者。
-- **性質**：每位「公正」（Calm／Serenity／Reverence／Diligence／Equity）獨自即可滅城；以人類聽不到的次音波命令屠殺。
-- **故事位置**：Calm 在 Crippled God 末卷統一 Forkrul Assail Kolanse 殘黨發動 The Cull。
-
-### Lawful Inquisitors（Lawful Inquisitors）
-
-> Forkrul Assail 審問官，Pure 之下 Watered 之上的中層。
-- **故事位置**：操作宗教審判與 Akhrast Korvalain Hold 的祭司階層；多在 Spire 戰中陣亡。
-
-### Pure（Pure）
-
-> Forkrul Assail 純血。
-- **性質**：壽命極長、無敵肉身、Akhrast Korvalain 之主。
-- **故事位置**：見 [factions/forkrul_assail.md](factions/forkrul_assail.md) 主條。
-
-### Watered（Watered）
-
-> Forkrul Assail 半血走狗。
-- **性質**：人類與 Forkrul Assail 混血的中層官吏與軍官；外表近人類但力量超凡。
-- **故事位置**：管理 Kolanse 的人類奴工經濟；Brayderal 偽裝為 Snake 兒童軍中的內奸暗害 Kalyth。
+- **起源**：由被流放的王子卡茲·達沃（K'azz D'Avore）率領。在與帝國的戰爭中，他們立下了「在帝國毀滅前絕不死亡」的強大誓言。
+- **構成**：由「受誓者」（Avowed）與普通傭兵組成。受誓者擁有類似泰蘭·伊瑪斯的不死性。
+- **目標 / 信念**：摧毀馬拉贊帝國，奪回故鄉。
+- **關鍵人物**：卡茲·達沃、斯金納（Skinner）、閃光（Shimmer）。
+- **故事中的角色**：馬拉贊帝國擴張史上的最大絆腳石，也是支撐外傳故事的核心勢力。
 
 ---
 
-## T'lan Imass 氏族
+### 潘尼恩領地（Pannion Domin）
 
-### Logros T'lan Imass（Logros T'lan Imass）
+> 定位：由捷高特預言者統治的食人飢餓帝國
 
-> Logros 統帥之 T'lan Imass 軍。
-- **性質**：守 First Empire 與 First Throne，Onos T'oolan 為其 First Sword。
-- **故事位置**：Kellanved 奪 First Throne 後綁定服務 Malazan 帝國；Laseen 後拒絕新主，撤入 Jhag Odhan；Memories of Ice 後 Onos 解綁離隊。
-
-### Kron T'lan Imass（Kron T'lan Imass）
-
-> Kron 統帥之軍，最大的 T'lan Imass 軍。
-- **故事位置**：Second Gathering 時 Kron 帶最大兵力到場，於 Pannion War 中與 Onearm's Host 並肩擊潰 K'Chain Che'Malle 倖存體與 Pannion 殘軍。
-
-### Ifayle T'lan Imass（Ifayle）
-
-> Ifayle 之軍。Joined Kerluhm 在 Assail 對人類部族開戰，殘存極少。
-
-### Bentract T'lan Imass（Bentract）
-
-> Bentract 之軍。Olar Ethil 派去尋找後失蹤；數小分隊困於 Warren of Chaos 與 Jacuruku；一支在 Refugium 與活 Imass 共存。
-
-### Kerluhm T'lan Imass（Kerluhm）
-
-> Kerluhm 之軍。Assail 對人類戰爭中全軍覆滅，Lanas Tog 為唯一倖存信使。
-
-### Orshayn T'lan Imass（Orshayn）
-
-> Orshayn 之軍。被 Forkrul Assail 於 The Spires 一役擊潰，剩 612 戰士＋3 受損 Bonecaster。
-
-### Nashar Clan（Nashar Clan）
-
-> Imass 氏族，背景部族。
-- **故事位置**：作為背景部族提及，敘事份量輕。
-
-### The Unbound（The Unbound）
-
-> 解綁的 T'lan Imass 自由派。
-- **性質**：脫離 Ritual of Tellann 集體心智的個體 T'lan Imass；Onrack T'emlava 為代表。
-- **歷史**：House of Chains 中 Onrack 與 Trull 同行，重新找回個人意志；Crippled God 末卷 Onos T'oolan 召集大部分 T'lan Imass 接受集體解約。
-- **結局**：Crippled God 終卷 Onos 一聲呼喚下，幾十萬 T'lan Imass 解儀化為塵，自由死去。
+- **起源**：由遭受身心創傷的捷高特預言者（Pannion Seer）在殘廢之神的操弄下建立。
+- **構成**：主體為極度飢餓的農民軍「泰尼斯考里」（Tenescowri），透過食人與瘋狂來維持。
+- **故事中的角色**：第三卷《冰之回憶》的主要反派陣營。其極端的殘酷促使了馬拉贊帝國與提斯·安迪的奇蹟聯手。
 
 ---
 
-## Darujhistan 與 Genabackis 政治
+### 灰劍（Grey Swords）
 
-### T'orrud Cabal（T'orrud Cabal）
+> 定位：守衛卡普斯坦（Capustan）的野豬戰神傭兵團
 
-> Darujhistan 法師結社，由 Baruk 領導。
-- **性質**：城市背後真正統治者；多為鍊金法師與貴族法師。
-- **故事位置**：Gardens of the Moon 中與 Anomander Rake 結盟對抗 Malazan 帝國；Toll the Hounds 中與 Vorcan 對峙、保護 Darujhistan 免於 Tiste Andii Black Coral 之災殃。
-
-### Phoenix Inn regulars（Phoenix Inn regulars）
-
-> Darujhistan 酒館核心圈。
-- **代表**：Kruppe、Rallick Nom、Murillio、Coll、Crokus／Cutter、Torvald Nom。
-- **故事位置**：Gardens of the Moon／Memories of Ice／Toll the Hounds 三部曲中為 Darujhistan 線主角群，串接政治、暗殺與升格各線。
-
-### Eel（Eel）
-
-> Darujhistan 情報網，神秘領袖即 Kruppe。
-- **性質**：城內最大的隱形情報網；Kruppe 在 Gardens 中扮演 Eel 操盤、與 T'orrud Cabal 雙線協作。
-
-### Assassins' Guild of Darujhistan（Assassins' Guild）
-
-> 暗殺者公會，主席 Vorcan、群首 Ocelot。
-- **故事位置**：Gardens 中 Vorcan 同 Malazan 簽約屠殺 T'orrud 法師；任務中途被 Anomander Rake 與 Whiskeyjack 雙線打斷，Vorcan 被 Baruk 封 stasis。Toll the Hounds 中 Vorcan 復出重新整治 Guild。
-
-### Council of Darujhistan（Council of Darujhistan）
-
-> Darujhistan 議會，由各 great Houses 與 Cabal 代表組成。
-- **故事位置**：城市表面治理機構；實權落在 T'orrud Cabal、Eel、Assassins' Guild 三方手中。
-
-### Confederacy of Free Cities（Confederacy of Free Cities）
-
-> 又稱 Genabarii Free Cities。Genabackis 自由城邦聯盟。
-- **成員**：Darujhistan、Saltoan、Pale（陷落前）、One Eye Cat、Nathilog 等。
-- **故事位置**：Memories of Ice 中與 Caladan Brood、Anomander Rake、Onearm's Host 一同對抗 Pannion Domin。
-
-### Saltoan（Saltoan）
-
-> Genabackis 自由城。
-- **故事位置**：Memories of Ice 中為 Eel 之眼所在地；Pannion Domin 北擴的首要目標之一，最終由聯軍解圍。
+- **起源**：奉獻給戰神費納（Fener）的軍事修士會。
+- **構成**：由伊特科維安（Itkovian）領導，是一群具備高度犧牲精神的聖戰士。
+- **關鍵人物**：伊特科維安（盾之鐵砧）。
+- **故事中的角色**：在卡普斯坦圍城戰中展現了極致的勇氣。伊特科維安在戰後吸收了數萬亡靈的痛苦，成為全書最感人的時刻之一。
 
 ---
 
-## Quon Tali 地方勢力
+### 崔加爾貿易公會（Trygalle Trade Guild）
 
-### Untan Guard（Untan Guard）
+> 定位：跨越時空與維度的傳奇商隊
 
-> Untan 帝都守軍。
-- **故事位置**：Crippled God 末卷 Laseen 死於 Untan 宮中，帝都被 Mallick Rel 短暫篡奪後又由 Tavore 遺命下的繼任者重整。
-
-### Untan Imperial Court（Untan Imperial Court）
-
-> Untan 朝廷。
-- **性質**：充斥 Mallick Rel、Korbolo Dom 等失節將相；Laseen 內政失調的根源。
-- **故事位置**：Bonehunters 內政線；Crippled God 末卷由倖存 Old Guard 與新生代重整。
-
-### The Protectress（The Protectress）
-
-> Li Heng 守護女法師勢力。
-- **性質**：Li Heng 內的隱秘 Azathanai 等級女法師，以 City Guard 屬下與獸祭壇守城。
-- **故事位置**：Path to Ascendancy 三部曲中與年輕 Kellanved／Dancer 對峙；Ryllandaras 為其長期囚禁的白狼天敵。
+- **起源**：為了在危險的 Warren 中進行貿易而成立。
+- **構成**：擁有特殊加持的馬車與法師。
+- **故事中的角色**：他們是世界的「快遞員」，多次在關鍵時刻將重要物資（如爆破彈、魔法藥水）送到主角手中，雖然收費極其昂貴且風險巨大。
 
 ---
 
-## Jacuruku 勢力
+### 列瑟帝國（Letherii Empire）
 
-### Thaumaturgs（Thaumaturgs）
+> 定位：位於列瑟大陸、以金錢與債務為核心的擴張主義人類文明。
 
-> Jacuruku 法術帝國，由 Golan 等 Thaumaturg Lord 統治。
-- **性質**：以人體實驗、煉金與屍體法術立國；Anditi Pura 為首都。
-- **故事位置**：Blood and Bone 中向 Himatan 叢林發動聖戰，欲奪 Ardata（Spider Queen Azathanai）所守的古秘密；最終 Thaumaturg 軍隊大半喪於叢林。
-
-### Himatan tribes（Himatan tribes）
-
-> Jacuruku 叢林部族，奉 Ardata 為 Queen。
-- **性質**：與蜘蛛神 Ardata 同盟的多部族集合；被 Thaumaturgs 視為野蠻。
-- **故事位置**：Blood and Bone 中保衛叢林秘密；Saeng 為其女預言者。
+- **起源**：起源於第一帝國的殖民者，因捷高特魔法的影響，其社會與魔法系統（Tiles）長期處於停滯狀態。
+- **構成**：高度等級制的社會，分為自由民與「負債者」（Indebted，實質奴隸）。
+- **目標 / 信念**：極度崇拜金錢與法律。他們相信一切皆可買賣，並透過經濟與軍事雙重手段吞併周邊部族。
+- **故事中的角色**：作為第五卷《午夜之潮》的舞台，列瑟帝國展現了一個與馬拉贊截然不同的權力邏輯，最終被提斯·愛杜爾族所征服，後由骨獵者解放。
 
 ---
 
-## Hounds 群
+### 搖盪者（The Shake）
 
-### Hounds of Shadow（Hounds of Shadow）
+> 定位：提斯族的混血濱海部族，古老邊境的守衛者。
 
-> Shadowthrone／Cotillion 麾下七獵犬。
-- **名字**：Baran、Blind、Doan、Gear、Rood、Shan、Cotillion（後加入）。
-- **性質**：影界半神獸，巨大如馬，速度與兇暴近乎不可阻擋。
-- **故事位置**：House of Chains 末與 Memories of Ice 中多次被 Shadowthrone 派出執行戰術；Crippled God 終卷與 Cotillion 同袍犬牙俱裂為救 Crippled God。
-
-### Hounds of Light（Hounds of Light）
-
-> Father Light 之獵犬。
-- **故事位置**：晚出，多為背景；Crippled God 終卷數隻出沒於 Spire 戰場。
-
-### Hounds of Darkness（Hounds of Darkness／Deragoth）
-
-> Dessimbelackis 自爆為 Soletaken 後留下的七隻巨犬（Deragoth）。
-- **性質**：比 Shadow Hounds 更古老更強，殺意純粹。
-- **歷史**：First Empire 皇帝 Dessimbelackis 為延續永生，自我變形為七犬；後被 Anomander Rake 與 Caladan Brood 散逐。
-- **故事位置**：Toll the Hounds 中 Karsa 與 Traveller 與 Deragoth 對峙；多隻被 Anomander Rake 與 Dragnipur 收押。
-
-### T'rolbarahl Hounds（T'rolbarahl）
-
-> Dejim Nebrahl 之七虎合一 D'ivers，被 Cotillion 釋放追殺。
-- **故事位置**：House of Chains／The Bonehunters 中追殺 Karsa／Felisin 一線，後被 Heboric 之手與 Karsa 聯手擊殺。
+- **起源**：提斯·安迪與其他種族的混血後裔，長期被主流社會排斥。
+- **構成**：居住在列瑟大陸北部的海岸，擁有獨特的儀式與傳承。
+- **故事中的角色**：在最終戰鬥中，他們承擔了守衛「光之墜落」（Lightfall）的重任，對抗無盡的提斯·里歐森大軍，展現了令人動容的韌性。
 
 ---
 
-## Deck of Dragons 高之家
+### 巴爾加斯（Barghast）
 
-### House Chains（House Chains）
+> 定位：兇猛的遊牧戰士種族，擁有原始的靈魂法術。
 
-> Crippled God 的 Deck of Dragons 高之家。
-- **新加入家**：在 Memories of Ice 中由 Ganoes Paran 正式承認登錄；King in Chains 為其王牌。
-- **成員**：King（Crippled God）、Consort、Seven of the Dead Fires、Reaver、Knight、Cripple、Leper 等。
-- **故事位置**：House of Chains 與 The Bonehunters 中為 Crippled God 招攬升格者的暗中組織；末卷與 Bonehunters 達成微妙合作。
-
-### High House Dark（High House Dark）
-
-> Tiste Andii 之家，Mother Dark 為主。
-- **成員**：Queen of Dark（Mother Dark）、Knight（Anomander Rake）、Mage（Endest Silann）。
-- **故事位置**：Anomander Rake 自願死於 Dragnipur 內封印之爭，Mother Dark 終於再次面對子嗣。
-
-### High House Light（High House Light）
-
-> Liosan 之家，Father Light（Osserc／後 Vatha Urusander）為主。
-- **故事位置**：Kharkanas Trilogy 中為 Urusander 被推上 Father Light 王座的法理依據。
-
-### High House Shadow（High House Shadow）
-
-> Shadowthrone（Kellanved／Ammanas）之家。
-- **成員**：King（Shadowthrone）、Magi（Cotillion 為刺客之神）、Hounds 之頭。
-- **故事位置**：全劇貫穿，影界為 Bonehunters 任務的暗線。
-
-### High House Death（High House Death）
-
-> Hood 之家。
-- **故事位置**：Toll the Hounds 末 Hood 由 Dassem 一劍解放，House Death 由 Bridgeburners 接任「Knights of Death」。
-
-### High House Life（High House Life）
-
-> Burn（沈睡大地女神）之家。
-- **故事位置**：Burn 沉睡中發病；Itkovian 之 Shield Anvil 之愛、Bonehunters 之長征皆為治癒 Burn。
-
-### High House War（High House War）
-
-> 戰之家。Trake／Treach 為新主（Fener 廢黜後）。
-- **故事位置**：Memories of Ice 中 Treach 升格為 Trake；Toll the Hounds 中 Gruntle 為其 Mortal Sword。
-
-### House of the Azath（House of the Azath）
-
-> Azath 體系，Unaligned。
-- **性質**：囚禁世間最危險之物（Jaghut Tyrant、Ascendant、Eleint 等）的活房屋；由 Azathanai Builders 種植。
-- **故事位置**：見 concepts／items 中 Azath 條目；Nameless Ones 操弄此體系。
+- **起源**：據信擁有泰蘭·伊瑪斯的血脈，但選擇了保持肉身。
+- **構成**：分為多個氏族（如白臉、吉爾克），極度崇尚武力與祖先崇拜。
+- **目標 / 信念**：恢復族群古代的榮光與土地。
+- **故事中的角色**：他們是馬拉贊軍隊在吉納巴基斯的重要盟友，但在跨海遠征列瑟後陷入了慘烈的內鬥與悲劇性的衰落。
 
 ---
 
-## 神秘教派與其他
+### 泰布洛 / 托布拉凱（Teblor / Toblakai）
 
-### Nameless Ones（Nameless Ones）
+> 定位：古老的巨人種族，強大力量與原始憤怒的象徵。
 
-> 詳見 [factions/nameless_ones.md](factions/nameless_ones.md)。
-> 操弄 Azath 體系的秘密教派，Mappo 由其派出守衛 Icarium。最終目的成謎、但他們以「謊言滅族」綁定 Mappo 的事實在 Reaper's Gale／The Bonehunters 中被揭露；末卷他們釋放 Korabas（Otataral Dragon）作為對 Forkrul Assail 終局武器。
-
-### Tanno Spiritwalkers（Tanno Spiritwalkers）
-
-> 七城靈走者教派族。
-- **性質**：以靈歌封存歷史與升格者的吟遊智者。
-- **代表**：Kimloc。
-- **故事位置**：Kimloc 觸 Fiddler 一秒鐘所造的 Bridgeburners Spirit Song 引動其集體升格為 Knights of Death，是全劇最美的「敘事即升格」段落。
-
-### Stormriders（Stormriders）
-
-> 海中藍光戰士。
-- **性質**：海洋深處的異族戰士，與 Letherii 海岸文明數千年敵對；騎海浪而戰。
-- **故事位置**：Midnight Tides 中作為 Letherii 童年神話般的恐怖；Brys Beddict 一度被選為 Stormriders 之子戰士。
-
-### The Snake（The Snake）
-
-> Wastelands 兒童遷徙之軍，Badalle 為其女預言詩人。
-- **性質**：被 Forkrul Assail 從 Kolanse 趕出的人類兒童，徒步穿越玻璃沙漠求生。
-- **故事位置**：Dust of Dreams／Crippled God 中為全系列最殘酷主線之一；Badalle 之詩歌為他們的見證與升格之路；最終由 Onos T'oolan 與 Tavore 同步救出殘餘兒童。
-- **敘事象徵**：兒童軍象徵 Erikson 全劇「無辜者承受文明之罪」的核心母題。
-
-### Y'Ghatan refugees（Y'Ghatan refugees）
-
-> Y'Ghatan 城火浴倖存民。
-- **故事位置**：Leoman 縱火後 Bonehunters 從地下水道帶出的少數倖存者；Sinn 與 Grub 為其中代表。
-- **敘事象徵**：「火浴重生」——Bonehunters 正式從 8th Legion 變身 Bonehunters 即此火後。
+- **起源**：第一英雄德辛貝拉奇斯時代的後裔，長期隱居在山脈中。
+- **構成**：身高三米以上的巨人，擁有雙心與極強的魔法抗性。
+- **關鍵人物**：卡薩·奧隆（Karsa Orlong）。
+- **敘事象徵**：代表了「文明之外的自然偉力」以及對腐朽社會秩序的徹底踐踏。
 
 ---
 
-## K'Chain 體系與其他物種
+### 無名者（Nameless Ones）
 
-### K'Chain Che'Malle（K'Chain Che'Malle）
+> 定位：操弄阿扎斯府力量的古老秘密教派。
 
-> 見 [factions/kchain_chemalle.md](factions/kchain_chemalle.md)。
-
-### K'Chain Nah'ruk（K'Chain Nah'ruk）
-
-> 見 [factions/kchain_nahruk.md](factions/kchain_nahruk.md)。
+- **起源**：為了守護世界的平衡與阿扎斯府的完整而成立。
+- **目標 / 信念**：他們不擇手段地維持秩序，經常透過操縱英雄（如艾凱里安）來達成目的。
+- **故事中的角色**：作為敘事背景中的陰謀者，他們多次試圖干預主角的行動，代表了另一種冷酷的、非人的大局觀。
 
 ---
 
-## 補遺：小部族與配角群
+### 影之家族（High House Shadow）
 
-### Lhowan（Lhowan）
+> 定位：由影座與柯提利恩主宰的新興神聖陣營。
 
-> 背景部族，events.txt 內文中提及。
+- **起源**：在凱蘭夫德與舞者升格後，他們奪取了長久空缺的影之王座。
+- **敘事象徵**：代表了「變革」、「反諷」與「對命運的狡詰抵抗」。他們不按常理出牌，是引發全書所有大變動的幕後推手。
 
-### Marrese（Marrese）
+---
 
-> 部族，背景描寫。
+### 阿扎薩奈（Azathanai）
 
-### Brist'pal（Brist'pal）
+> 定位：超越凡俗的原始造物主種族，神靈的模板。
 
-> 部族，背景描寫。
+- **起源**：存在於時間之外，既非凡人也非純粹的神。
+- **構成**：每一個體都擁有近乎無限的力量，能隨意改變外型。
+- **故事中的角色**：他們是世界的「建築師」，Warren 系統與許多種族的誕生都與其有關。關鍵人物如卡拉丹·布魯德（Caladan Brood）與德拉科納斯（Draconus）。
+- **敘事象徵**：代表了「原始的創造力」與「對造物不負責任的冷漠」。
 
-### Cabal（蟾蜍法師種族）
+---
 
-> Letherii 鄰國／鄰族，蟾蜍形 Demon Lord 法師種族。
-- **性質**：四兄弟蟾蜍 Demon Lord 為其代表，Greyfrog 為最年輕；操 Aral Gamelon Warren。
-- **故事位置**：Bidithal 學徒 Scillara 一行人收養 Greyfrog；Reaper's Gale 中 Greyfrog 帶 Cabal 兄弟協助 Letherii 對抗 Edur。
+### 龍族（Eleint）
 
-### Tehol's Tarthenal（Tehol's Tarthenal）
+> 定位：原始混沌的化身，Warren 魔法的物理根源。
 
-> Ublala Pung 的 Tarthenal 一支。見 Tarthenal 主條。
+- **起源**：來自於最古老的 Warren「星華德·德梅萊恩」（Starvald Demelain）。
+- **構成**：純種龍族（Pure-bloods）具有強大的混亂屬性。
+- **目標 / 信念**：其血液即是魔法的本質。龍族的群聚往往預示著混亂與毀滅的到來。
+- **故事中的角色**：他們是魔法世界的終極力量。透過與龍血的結合（Soletaken），阿諾曼德·雷克等人獲得了改變世界格局的能力。
 
-### Mhybe（Mhybe）
+---
 
-> Rhivi 老婦尊稱／個人。
-- **故事位置**：Rhivi 老婦為 Silverfox 借體出生的母親，被 Silverfox 抽乾生命力後在 Memories of Ice 中被 Crone 救出，於 Refugium 復生為新生兒重生。
-- **敘事象徵**：「母親被子嗣吞噬／又被異族救贖」的母題。
+### 特雷爾（Trell）
 
-### Kruppe's Circle（Kruppe's Circle）
+> 定位：半巨人種族，古老而沈默的知識守護者。
 
-> Darujhistan 知識圈，Kruppe 召集的學者與政客小圈。
-- **故事位置**：Toll the Hounds 中以非正式飯局型態運作；Kruppe 為 Master of the Eel 的訊息中樞。
-
+- **起源**：與托布拉凱族有遠親關係，但性格更為溫和、理性。
+- **構成**：體型巨大、力大無窮，皮膚厚實。
+- **關鍵人物**：馬波·倫特（Mappo Runt）。
+- **故事中的角色**：透過馬波與艾凱里安（Icarium）之間跨越數十萬年的友誼，展現了特雷爾人深沈的同情心與對承諾的死守。
