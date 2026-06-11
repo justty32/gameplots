@@ -1,7 +1,29 @@
 # 深化進度追蹤 (Progress)
 
 > 目標：把先前由其他 agent 產出的「只有大綱」的詞條，逐一深化為帶人物動機、世界觀細節、主題分析、心理深度的全劇透詞條。
-> 更新日期：2026-05-25
+> 更新日期：2026-06-11
+
+---
+
+# 本輪 session（2026-06-11）
+
+## 已完成（commit + push）
+
+| 項目 | 內容 | commit |
+| :-- | :-- | :-- |
+| 星之彼端 收尾 | 深化 events／timeline／synopsis（該作 concepts/factions/places/items 早已深化，只剩這三檔落後，屬作內不一致缺口）。synopsis 依 Phase 5 從已完成詞條往上提煉。 | c40dd30 |
+| 全庫斷鏈修正 | 掃出 27 條失效本地連結並全數修復：Granblue（`../factions/`→`factions/`）、Endless Legend roving_clans（`factions.md`→`../factions.md`）、Pillars events 子目錄（補 `../`）、RuneScape（`characters/characters.md`→`characters.md`）、Tokyo Ghoul（利世/絢都重指主檔）、Pillars 諸神等無條目引用去連結。**斷鏈掃描歸零。** | 76d97c7 |
+
+## ⚠️ 重要發現：行數待辦清單已大多過時，勿再機械式按行數深化
+
+本輪逐一驗證了下方「待深化（< 50 行）」清單，結論是 **絕大多數已不需要動**：
+
+- 上一輪深化已把頂層檔（synopsis / characters / factions / concepts / items / places / events / timeline）普遍做到位。
+- 殘留的 < 50 行檔幾乎都是兩類，**兩類都不該再擴寫**：
+  1. **刻意短的拆檔**：新攝入大部頭（Malazan 144 拆檔、Diablo、Star Trek 等）的次要人物/地點拆檔，3–25 行，符合 CLAUDE.md「短條目齊全度優先於深度，默認 3–8 行」。
+  2. **compact 但內容已完整**：採「密集散文／單行長 bullet」書寫風格，行數低但內容已是全劇透深度。實證：GW2 synopsis（35 行）、LOTR synopsis（37 行）、Epic Seven / 瑪娜希斯 / RO synopsis（47–49 行）、Star Trek 船長拆檔（12 行）、千年之旅 角色拆檔（47–49 行）——逐一檢視皆已達深化標準，再擴寫即違反「反填表、反灌水」鐵則。
+
+**下一輪判斷準則改為「內容缺口」而非「行數」**：只深化「同作品內其他詞條已厚、唯獨某檔仍是 bullet stub」的作內不一致缺口（如本輪星之彼端），或 entities 名單上「該寫而漏寫」的條目（廣度優先）。
 
 ---
 
