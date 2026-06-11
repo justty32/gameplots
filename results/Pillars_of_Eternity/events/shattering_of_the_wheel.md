@@ -3,8 +3,8 @@
 > Eothas 親手砸碎掌控輪迴的 Engwithan 機器，Eora 的靈魂循環自此交回凡人（kith）自己手中。
 
 - **時間**：2828 AI。
-- **地點**：[Ukaizo](places.md)（失落於時間的古城）、Mói Gweath（靈魂之輪所在地）。
-- **參與者**：[守望者](characters/Watcher_of_Caed_Nua.md)、[Eothas](characters.md)（七百呎 adra 巨像）、[Guardian of Ukaizo](characters.md)、四大勢力（Huana／VTC／RDC／Príncipi）。
+- **地點**：[Ukaizo](../places.md)（失落於時間的古城）、Mói Gweath（靈魂之輪所在地）。
+- **參與者**：[守望者](../characters/Watcher_of_Caed_Nua.md)、[Eothas](../characters.md)（七百呎 adra 巨像）、[Guardian of Ukaizo](../characters.md)、四大勢力（Huana／VTC／RDC／Príncipi）。
 
 ### 事件經過
 守望者在經歷橫跨 Deadfire 群島的追擊後，終於穿過 Ondra 的風暴屏障抵達傳說中的失落古城 Ukaizo。守望者必須先擊敗古城的守護者——多頭龍形的 Engwithan 構造體，並在 Ondra's Spire 關閉風暴機器。隨後，守望者必須擊退尾隨而至、試圖奪取 Ukaizo 遺產的其他政治勢力。

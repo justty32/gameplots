@@ -3,8 +3,8 @@
 > 守望者揭穿諸神是人造的真相，擊敗活了兩千年的 Thaos，並決定數萬空魂靈魂的去向。
 
 - **時間**：2823 AI。
-- **地點**：[Sun in Shadow](places.md)（位於 Breith Eaman／Court of the Penitents 之下，原為 Engwithan 創神原址）。
-- **參與者**：[守望者](characters/Watcher_of_Caed_Nua.md)、[Thaos ix Arkannon](characters/Thaos_ix_Arkannon.md)、解放的 [Iovara ix Ensios](characters.md)、四位現身的神（Berath／Galawain／Hylea／Rymrgand）。
+- **地點**：[Sun in Shadow](../places.md)（位於 Breith Eaman／Court of the Penitents 之下，原為 Engwithan 創神原址）。
+- **參與者**：[守望者](../characters/Watcher_of_Caed_Nua.md)、[Thaos ix Arkannon](../characters/Thaos_ix_Arkannon.md)、解放的 [Iovara ix Ensios](../characters.md)、四位現身的神（Berath／Galawain／Hylea／Rymrgand）。
 
 ### 事件經過
 守望者在穿越 Burial Isle 的深坑後，抵達了埋藏兩千年的 Engwithan 廢墟——Breith Eaman。在前往最深處的途中，守望者與被囚禁於 adra 牢獄兩千年的 **Iovara** 靈魂對談，得知了最核心的真相：諸神並非造物主，而是 Engwithan 人親手熔鑄靈魂造出的人造物。守望者也在此確認了自己的前世正是當年背叛 Iovara、效忠 Thaos 的宗教審判官。

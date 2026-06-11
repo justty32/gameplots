@@ -7,7 +7,7 @@
   - **[Nomadic Cities](../concepts.md)**：城市建在巨型 [Setseke 甲蟲](../concepts.md) 背上，可「Setseke Ho!」化為單位、隨意遷移重建。
   - 從他國每筆交易抽 8% Dust；可「市場封禁（Market Ban）」他國；可對敵國「通膨（Inflation）」打擊貿易。
   - **絕不宣戰**——視戰爭為「絕望蠢人之舉」。和平後可免費享有商業／研究協議。
-- **氏族**：含 Icatha Clan（[Azeema](../characters.md) 所屬，涉 Ardent Mages 任務）。被放逐的 [Dorgeshi](factions.md) 即源出 Clans。
+- **氏族**：含 Icatha Clan（[Azeema](../characters.md) 所屬，涉 Ardent Mages 任務）。被放逐的 [Dorgeshi](../factions.md) 即源出 Clans。
 
 ## 任務故事（全劇透）
 

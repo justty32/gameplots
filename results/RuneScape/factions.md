@@ -14,7 +14,7 @@
 - **起源**：由古神 Mah 創造，是 Freneskae 星球上的主導種族。
 - **構成**：人數稀少但每位都具備毀滅性的魔法力量。
 - **目標 / 信念**：生存與能量獲取。他們需要定期舉行儀式吸收同類的生命力。
-- **關鍵人物**：[斯利斯克 (Sliske)](characters/sliske.md)、[阿扎納德拉 (Azzanadra)](characters/characters.md#阿扎納德拉-azzanadra)、扎莫拉克。
+- **關鍵人物**：[斯利斯克 (Sliske)](characters/sliske.md)、[阿扎納德拉 (Azzanadra)](characters.md#阿扎納德拉-azzanadra)、扎莫拉克。
 - **故事中的角色**：在各個紀元中擔任神祇的高級顧問或操盤手，是劇情的關鍵推動者。
 
 ### 龍族 (Dragonkin)
@@ -22,7 +22,7 @@
 
 - **起源**：在吉利諾之前就已存在，曾是古神的僕從。
 - **目標 / 信念**：脫離古神的詛咒，終結種族的苦難。
-- **關鍵人物**：[凱拉帕克 (Kerapac)](characters/characters.md#凱拉帕克-kerapac)。
+- **關鍵人物**：[凱拉帕克 (Kerapac)](characters.md#凱拉帕克-kerapac)。
 - **故事中的角色**：既是毀滅性的敵人也是悲劇的受害者。他們對古神的痛恨導致了對吉利諾的多次破壞。
 
 ### 扎羅斯陣營 (Zarosians)
@@ -31,7 +31,7 @@
 - **起源**：第二紀元圍繞扎羅斯建立。
 - **構成**：包含馬哈拉特族、人類法師與戰士。
 - **信念**：追求卓越、理性與絕對的忠誠。
-- **關鍵人物**：[扎羅斯 (Zaros)](characters/zaros.md)、[阿扎納德拉 (Azzanadra)](characters/characters.md#阿扎納德拉-azzanadra)。
+- **關鍵人物**：[扎羅斯 (Zaros)](characters/zaros.md)、[阿扎納德拉 (Azzanadra)](characters.md#阿扎納德拉-azzanadra)。
 - **故事中的角色**：帝國崩潰後隱入地下，第六紀元重新浮上水面，成為最強大的政治實體之一。
 
 ### 薩拉多明陣營 (Saradominists)
