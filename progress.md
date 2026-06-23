@@ -151,10 +151,10 @@
 - [x] results/鈴蘭之劍/factions.md (45) → 1a76080
 
 ### 次優先（46–47 行）
-- [ ] results/Black_Desert/timeline.md (46)
-- [ ] results/CrossCore/places.md (46)
-- [ ] results/Final_Fantasy_XI/places/AlTaieu.md (46)
-- [ ] results/Final_Gear/events.md (46)
+- [x] results/Black_Desert/timeline.md (46) → 本輪
+- [x] results/CrossCore/places.md (46) → 本輪
+- [x] results/Final_Fantasy_XI/places/AlTaieu.md (46) → 本輪
+- [x] results/Final_Gear/events.md (46) → 本輪
 - [ ] results/Punishing_Gray_Raven/timeline.md (46)
 - [ ] results/Tokyo_Ghoul/characters/Amon_Kotaro.md (46)
 - [ ] results/斯露德/timeline.md (46)
