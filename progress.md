@@ -155,16 +155,16 @@
 - [x] results/CrossCore/places.md (46) → 本輪
 - [x] results/Final_Fantasy_XI/places/AlTaieu.md (46) → 本輪
 - [x] results/Final_Gear/events.md (46) → 本輪
-- [ ] results/Punishing_Gray_Raven/timeline.md (46)
+- [x] results/Punishing_Gray_Raven/timeline.md (46) → 本輪
 - [ ] results/Tokyo_Ghoul/characters/Amon_Kotaro.md (46)
 - [ ] results/斯露德/timeline.md (46)
 - [ ] results/星之彼端/factions.md (46)
 - [ ] results/星之彼端/timeline.md (46)
-- [ ] results/終焉誓約/timeline.md (46)
+- [x] results/終焉誓約/timeline.md (46) → 本輪
 - [ ] results/鈴蘭之劍/characters/Caris.md (46)
 - [ ] results/鈴蘭之劍/characters/Gloria.md (46)
 - [ ] results/Epic_Seven/synopsis.md (47)
-- [ ] results/Lineage_II/timeline.md (47)
+- [x] results/Lineage_II/timeline.md (47) → 本輪
 - [ ] results/Mabinogi/places.md (47)
 - [ ] results/Tokyo_Ghoul/characters/Arima_Kisho.md (47)
 - [ ] results/千年之旅/characters/Mia.md (47)
