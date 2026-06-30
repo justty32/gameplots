@@ -75,14 +75,22 @@
 
 ## 二、待開發作品池
 
-目前尚無處理中作品。
+| 作品 | 狀態 | raw | 備註 |
+| :-- | :-- | --: | :-- |
+| Iron Saga / 機動戰隊 | Phase 2 已完成，待 Phase 3 詞條撰寫 | 700 頁 / 1.26MB | 來源 `ironsaga.fandom.com`；`entities.md` 797 行，含人物 273、勢力 48、事件 18、地點 10、機體/技術 408、概念 24；`Bloody Bat` 去掉 infobox 後無正文，未納入 |
+| Gundam / 鋼彈 | Phase 2 已完成，待 Phase 3 詞條撰寫 | 3679 頁 / 14.17MB | 來源 `gundam.fandom.com`；`entities.md` 3742 行，含人物 2315、勢力 493、事件 216、地點 205、物品/技術 216、概念 281；全量 Mobile Weapons 過大，未整包抓 |
+| Arknights / 明日方舟 | Phase 3 第一版正式庫已產出；重點活動線與核心人物已初步深化，待密錄與更多活動補完 | repo 898MB；劇情 txt 5580 檔 / 79MB | 來源 `Kengxxiao/ArknightsGameData` CN `fa63359`；已產 `data_inventory.md`、`entities.md`、`processed/main_story/`（18 章 / 428 節點）、`processed/priority_events/`（8 活動 / 164 節點）與 `results/Arknights/` 13 檔；結果含人物 396、陣營 45、事件 465、地點/區域 491、概念 15、物品/技術 6；`character_deep_dive.md` 已覆蓋 25 位核心/活動線人物（羅德島、巴別塔、整合運動、萊茵生命、深海、卡西米爾、敘拉古、拉特蘭），另有 `main_story_outline.md`、`activity_story_outline.md`、`relationship_map.md`、`fanfic_notes.md` |
+| Pacific Rim / 環太平洋 | Phase 2 已完成，待 Phase 3 詞條撰寫 | 766 頁 / 2.34MB | 來源 `pacificrim.fandom.com`；`entities.md` 705 行，含人物 195、種族/陣營 158、事件 156、地點 42、物品/技術 125、概念 14；已排除明顯商品/玩具頁 |
 
 ## 三、工具與設定
 
 - **通用爬蟲** `scripts/fandom_crawler.py`：走 MediaWiki API（`action=parse` → 純文字），按分類歸 bucket，含 502/503/429 重試。
   - 用法：`python scripts/fandom_crawler.py <config>`
-  - 現有 `CONFIGS`：`endless_legend`、`age_of_wonders`、`stormlight`、`diablo`、`malazan`
+  - 現有 `CONFIGS`：`endless_legend`、`age_of_wonders`、`stormlight`、`diablo`、`malazan`、`iron_saga`、`gundam`、`pacific_rim`
+- **Gundam 批次爬蟲** `scripts/gundam_batch_crawler.py`：沿用 `fandom_crawler.py` 的 `gundam` config，但改抓 revision wikitext 批次清理；用於避免 `gundam.fandom.com` 逐頁 `action=parse` 過慢。
   - `DELAY = 0.15s`（每請求間隔）
+- **Arknights 主線清理器** `scripts/arknights_story_extractor.py`：從 `story_review_table.json` 與 AVG 劇本輸出 `working/Arknights/processed/main_story/`。
+- **Arknights 結果產生器** `scripts/arknights_results_builder.py`：從本地資料表與清理文本輸出 `results/Arknights/` 第一版正式庫。
 - `scripts/ffh_crawler.py`：Fall from Heaven 專用（較早版本）。
 
 ## 四、慣例（與使用者確認）
